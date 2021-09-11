@@ -4,32 +4,28 @@ use Data::Dumper;
 use File::Slurp qw(read_file write_file);
 use JSON qw(to_json);
 use Digest::MD5::File qw(md5_hex);
+use Getopt::Long;
+use FindBin qw($Bin);
+use File::Spec::Functions qw(catfile);
 
+my $pot = "";
 
-my $input_file  = $ARGV[0];
-my $output_file = $ARGV[1];
+GetOptions ("pot=s" => \$pot);
 
-if (! -e $input_file || !$output_file) {
-	die "Usage: pot2json.pl POT_FILENAME OUTPUT_JSON_FILENAME\n";
-}
+my $input_file  = catfile ($Bin, 'A25B', $pot . '.pot');
+my $output_file = catfile ($Bin, 'json', $pot . '.json');
+
+die "Usage: pot2json.pl --pot=<POT_NAME>\n\texample --pot=engine\n" if ! -e $input_file;
 
 my @po_strings = read_file ($input_file);
 
 my %json_strings;
-
 my $i = 0;
-
 my $output_string = "";
 
 while (exists $po_strings[ $i ]) {
 
 	my $input_string = $po_strings[ $i ];
-
-#msgctxt "Campaign Template"
-#msgid ""
-#"Discover the new maps in Alpha XXVI with a demo campaign, taking you through all of "
-#"them."
-#msgstr ""
 
 	if ($input_string =~ /^msgid\s\"(.+)\"$/) {
 
@@ -51,5 +47,5 @@ while (exists $po_strings[ $i ]) {
 	$i++;
 }
 
-write_file ( $output_file, to_json(\%json_strings, { pretty => 1} ));
+write_file ($output_file, to_json(\%json_strings, { pretty => 1}));
 
