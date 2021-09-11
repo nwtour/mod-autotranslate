@@ -1,0 +1,154 @@
+{
+   "0515227c1786b264e8e44f914b40cb9d" : {
+      "english" : "Back to Main Menu",
+      "translation" : ""
+   },
+   "07ca5050e697392c9ed47e6453f1453f" : {
+      "english" : "Completed",
+      "translation" : "Довршено"
+   },
+   "08802e971c579b7efb38580d6771e35f" : {
+      "english" : "This is a basic tutorial to get you started playing 0 A.D.",
+      "translation" : "Ово је основни туторијал да те уведе у свет 0 A.D."
+   },
+   "1bb7d23051912a84b4141940401f2201" : {
+      "english" : "Start a campaign",
+      "translation" : ""
+   },
+   "34bf7a07cebb1900c6deb71d61668dd0" : {
+      "english" : "Campaign Name",
+      "translation" : ""
+   },
+   "368fe771261fcb18f7988833c9294a20" : {
+      "english" : "Tutorial",
+      "translation" : ""
+   },
+   "3766584978d51191ae2a5cfed6588bc1" : {
+      "english" : "Demo campaign - new maps",
+      "translation" : ""
+   },
+   "392064136113c1f824d73397f4b9013b" : {
+      "english" : "Name of selected run:",
+      "translation" : ""
+   },
+   "49ee3087348e8d44e1feda1917443987" : {
+      "english" : "Name",
+      "translation" : "Име"
+   },
+   "4a3a778a3791c4de360813859bb4d6c2" : {
+      "english" : "Start Scenario",
+      "translation" : ""
+   },
+   "504894b22ecc743eb94d05d5c70e4f80" : {
+      "english" : "Campaigns",
+      "translation" : "Кампање"
+   },
+   "53817d6410b66bed4987f92e7e0ab80b" : {
+      "english" : "Learn how to play 0 A.D.",
+      "translation" : ""
+   },
+   "5f8979f56c8865b714f391efaee0818a" : {
+      "english" : "Are you sure you want to delete run %s? This cannot be undone.",
+      "translation" : ""
+   },
+   "62ee0dfeaf462490e37a90e29ecbc118" : {
+      "english" : "Resume Saved Game",
+      "translation" : ""
+   },
+   "6a932d898f2413df0db48f60e388044e" : {
+      "english" : "Load Campaign",
+      "translation" : ""
+   },
+   "78945de8de090e90045d299651a68a9b" : {
+      "english" : "Available",
+      "translation" : ""
+   },
+   "8727cc422927608afd8395caa9d80dcc" : {
+      "english" : "This map will give a rough guide for starting the game effectively.  Early in the game the most important thing is to gather resources as fast as possible so you are able to build enough troops later. Warning: This is very fast at the start, be prepared to run through the initial bit several times.",
+      "translation" : ""
+   },
+   "9179329c6998f3fe77d6c3c33f1023a1" : {
+      "english" : "Discover the new maps in Alpha XXVI with a demo campaign, taking you through all of them.",
+      "translation" : ""
+   },
+   "93cba07454f06a4a960172bbd6e2a435" : {
+      "english" : "Yes",
+      "translation" : "Да"
+   },
+   "9645c28ae078c87282e6eaa8020aceb7" : {
+      "english" : "Scenario Name",
+      "translation" : ""
+   },
+   "96b0e1d1a630ffcc072fc286b537bdba" : {
+      "english" : "Please enter the name of your new campaign run:",
+      "translation" : ""
+   },
+   "9a8e69e81f9afdb1ae7e2adfc1b7cebe" : {
+      "english" : "No campaign selected.",
+      "translation" : ""
+   },
+   "9b330f00019ffa257c5a0bca70b4d2e2" : {
+      "english" : "Introductory Tutorial",
+      "translation" : "Уводни туторијал"
+   },
+   "b43898a9a8c63c1e66cae04fb88f9771" : {
+      "english" : "%(userDesc)s - %(templateName)s",
+      "translation" : ""
+   },
+   "b66d8055865d07a70acac2ef085f8531" : {
+      "english" : "Economy Walkthrough",
+      "translation" : ""
+   },
+   "bafd7322c6e97d25b6299b5d6fe8920b" : {
+      "english" : "No",
+      "translation" : "Не"
+   },
+   "c373910bd5f3aa1e5b37961ef93f9c66" : {
+      "english" : "Start Campaign",
+      "translation" : ""
+   },
+   "c64dd209bf689445564140ddd70c6f22" : {
+      "english" : "No ongoing campaigns.",
+      "translation" : ""
+   },
+   "c6ecae52ceb10504d9debb3a1e1e2aca" : {
+      "english" : "No scenario selected",
+      "translation" : ""
+   },
+   "cccac70454bfb1c3818fae570b668852" : {
+      "english" : "Saved Games",
+      "translation" : ""
+   },
+   "cd6d7b85211b41d984172ae200819cee" : {
+      "english" : "Error loading campaign run %s: %s.",
+      "translation" : ""
+   },
+   "e404dd0bece5f7c53d80edaa70513eec" : {
+      "english" : "Main Menu",
+      "translation" : "Главни мени"
+   },
+   "ea0b41b037de87d3cd131a107bc1644f" : {
+      "english" : "No Campaign selected",
+      "translation" : ""
+   },
+   "ea4788705e6873b424c65e91c2846b19" : {
+      "english" : "Cancel",
+      "translation" : "Обустави"
+   },
+   "ec53a8c4f07baed5d8825072c89799be" : {
+      "english" : "Status",
+      "translation" : "Статус"
+   },
+   "f2a6c498fb90ee345d997f888fce3b18" : {
+      "english" : "Delete",
+      "translation" : "Обриши"
+   },
+   "f4d1ea475eaa85102e2b4e6d95da84bd" : {
+      "english" : "Confirmation",
+      "translation" : "Потврда"
+   },
+   "f601e29d4d3a57640070bb3cd941afa0" : {
+      "english" : "file cannot be loaded",
+      "translation" : ""
+   }
+}

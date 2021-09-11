@@ -1,0 +1,7 @@
+{
+	"name": "mod-autotranslate",
+	"version": "0.1",
+	"label": "mod-autotranslate",
+	"description": "mod-autotranslate",
+	"dependencies": ["0ad>=0.0.25"]
+}

@@ -1,0 +1,106 @@
+{
+   "0515227c1786b264e8e44f914b40cb9d" : {
+      "english" : "Back to Main Menu",
+      "translation" : "Назад на главни мени"
+   },
+   "1bb7d23051912a84b4141940401f2201" : {
+      "english" : "Start a campaign",
+      "translation" : "Покрените кампању"
+   },
+   "34bf7a07cebb1900c6deb71d61668dd0" : {
+      "english" : "Campaign Name",
+      "translation" : "Назив кампање"
+   },
+   "368fe771261fcb18f7988833c9294a20" : {
+      "english" : "Tutorial",
+      "translation" : "Приручник"
+   },
+   "3766584978d51191ae2a5cfed6588bc1" : {
+      "english" : "Demo campaign - new maps",
+      "translation" : "Демо кампања - нове мапе"
+   },
+   "392064136113c1f824d73397f4b9013b" : {
+      "english" : "Name of selected run:",
+      "translation" : "Назив изабраног трчања:"
+   },
+   "4a3a778a3791c4de360813859bb4d6c2" : {
+      "english" : "Start Scenario",
+      "translation" : "Покрени сценарио"
+   },
+   "53817d6410b66bed4987f92e7e0ab80b" : {
+      "english" : "Learn how to play 0 A.D.",
+      "translation" : "Научите како играти 0 А.Д."
+   },
+   "5f8979f56c8865b714f391efaee0818a" : {
+      "english" : "Are you sure you want to delete run %s? This cannot be undone.",
+      "translation" : "Јесте ли сигурни да желите да избришете рун %s? Ово се не може поништити."
+   },
+   "62ee0dfeaf462490e37a90e29ecbc118" : {
+      "english" : "Resume Saved Game",
+      "translation" : "Настави сачувану игру"
+   },
+   "6a932d898f2413df0db48f60e388044e" : {
+      "english" : "Load Campaign",
+      "translation" : "Учитај кампању"
+   },
+   "78945de8de090e90045d299651a68a9b" : {
+      "english" : "Available",
+      "translation" : "Доступан"
+   },
+   "8727cc422927608afd8395caa9d80dcc" : {
+      "english" : "This map will give a rough guide for starting the game effectively.  Early in the game the most important thing is to gather resources as fast as possible so you are able to build enough troops later. Warning: This is very fast at the start, be prepared to run through the initial bit several times.",
+      "translation" : "Ова мапа ће дати груб водич за ефикасно започињање игре. На почетку игре најважније је прикупити ресурсе што је брже могуће како бисте касније могли изградити довољно трупа. Упозорење: Ово је врло брзо на почетку, будите спремни да неколико пута прођете кроз почетни бит."
+   },
+   "9179329c6998f3fe77d6c3c33f1023a1" : {
+      "english" : "Discover the new maps in Alpha XXVI with a demo campaign, taking you through all of them.",
+      "translation" : "Откријте нове карте у Алпха КСКСВИ са демо кампањом, водећи вас кроз све њих."
+   },
+   "9645c28ae078c87282e6eaa8020aceb7" : {
+      "english" : "Scenario Name",
+      "translation" : "Назив сценарија"
+   },
+   "96b0e1d1a630ffcc072fc286b537bdba" : {
+      "english" : "Please enter the name of your new campaign run:",
+      "translation" : "Унесите назив ваше нове кампање:"
+   },
+   "9a8e69e81f9afdb1ae7e2adfc1b7cebe" : {
+      "english" : "No campaign selected.",
+      "translation" : "Није изабрана ниједна кампања."
+   },
+   "b43898a9a8c63c1e66cae04fb88f9771" : {
+      "english" : "%(userDesc)s - %(templateName)s",
+      "translation" : "%(усерДесц) с - %(име шаблона) с"
+   },
+   "b66d8055865d07a70acac2ef085f8531" : {
+      "english" : "Economy Walkthrough",
+      "translation" : "Економски водич"
+   },
+   "c373910bd5f3aa1e5b37961ef93f9c66" : {
+      "english" : "Start Campaign",
+      "translation" : "Започни кампању"
+   },
+   "c64dd209bf689445564140ddd70c6f22" : {
+      "english" : "No ongoing campaigns.",
+      "translation" : "Нема текућих кампања."
+   },
+   "c6ecae52ceb10504d9debb3a1e1e2aca" : {
+      "english" : "No scenario selected",
+      "translation" : "Није изабран ниједан сценарио"
+   },
+   "cccac70454bfb1c3818fae570b668852" : {
+      "english" : "Saved Games",
+      "translation" : "Сачуване игре"
+   },
+   "cd6d7b85211b41d984172ae200819cee" : {
+      "english" : "Error loading campaign run %s: %s.",
+      "translation" : "Грешка при учитавању покренуте кампање %s: %s."
+   },
+   "ea0b41b037de87d3cd131a107bc1644f" : {
+      "english" : "No Campaign selected",
+      "translation" : "Није изабрана ниједна кампања"
+   },
+   "f601e29d4d3a57640070bb3cd941afa0" : {
+      "english" : "file cannot be loaded",
+      "translation" : "није могуће учитати датотеку"
+   }
+}
