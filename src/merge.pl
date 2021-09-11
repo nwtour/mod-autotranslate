@@ -21,7 +21,7 @@ my $output = catfile ($Bin, '..', 'l10n', join('', $lang, '.', $po, '.po'));
 my @strings = read_file ($input);
 my @output_strings;
 
-my $translations = from_json (read_file (catfile ($Bin, 'json', $lang . '.translations.json')));
+my $translations = from_json (read_file (catfile ($Bin, 'json', $lang . '.' . $po . '.translations.json')));
 
 my $i = 0;
 while (exists $strings[$i]) {
