@@ -30,6 +30,7 @@ while (exists $strings[$i]) {
 
 		push @output_strings, $strings[$i];
 		$i++;
+		next;
 	}
 
 	my $found = 0;
@@ -40,7 +41,7 @@ while (exists $strings[$i]) {
 			my $md5 = md5_hex ($1);
 			if (exists $translations->{$md5} && $translations->{$md5}{translation} ) {
 
-				push @output_strings, "msgstr \"" . $translations->{$md5}{translation} . "\"\n";
+				push @output_strings, "msgstr \"(*) " . $translations->{$md5}{translation} . "\"\n";
 				$found = 1;
 			}
 			else {

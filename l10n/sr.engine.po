@@ -27,32 +27,32 @@ msgstr ""
 #: graphics/CameraController.cpp:656
 #, c-format
 msgid "Scroll speed increased to %.1f"
-msgstr ""
+msgstr "(*) Брзина померања је повећана на%.1f"
 
 #: graphics/CameraController.cpp:662
 #, c-format
 msgid "Scroll speed decreased to %.1f"
-msgstr ""
+msgstr "(*) Брзина померања је смањена на%.1f"
 
 #: graphics/CameraController.cpp:669
 #, c-format
 msgid "Rotate speed increased to X=%.3f, Y=%.3f"
-msgstr ""
+msgstr "(*) Брзина ротације повећана на Кс u003d%.3f, И u003d"
 
 #: graphics/CameraController.cpp:676
 #, c-format
 msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
-msgstr ""
+msgstr "(*) Брзина ротације смањена на Кс u003d%.3f, И u003d"
 
 #: graphics/CameraController.cpp:682
 #, c-format
 msgid "Zoom speed increased to %.1f"
-msgstr ""
+msgstr "(*) Брзина зумирања је повећана на%.1f"
 
 #: graphics/CameraController.cpp:688
 #, c-format
 msgid "Zoom speed decreased to %.1f"
-msgstr ""
+msgstr "(*) Брзина зумирања се смањила на%.1f"
 
 #: i18n/L10n.cpp:308
 msgid "Long strings"

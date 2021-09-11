@@ -1,0 +1,30 @@
+{
+   "1de7a64af656b17151eb313942262da5" : {
+      "english" : "Zoom speed increased to %.1f",
+      "translation" : "Брзина зумирања је повећана на%.1f"
+   },
+   "3ebdda85e28739ee539155844e65a41e" : {
+      "english" : "Rotate speed decreased to X=%.3f, Y=%.3f",
+      "translation" : "Брзина ротације смањена на Кс u003d%.3f, И u003d"
+   },
+   "44cab776391ddd69654097316679638f" : {
+      "english" : "Rotate speed increased to X=%.3f, Y=%.3f",
+      "translation" : "Брзина ротације повећана на Кс u003d%.3f, И u003d"
+   },
+   "680344bba3039804a55bbb56951db4da" : {
+      "english" : "Could not write external mod.json for zipped mod '%s'. The mod should be reinstalled.",
+      "translation" : "Није могуће написати спољни мод.јсон за зип мод '%s'. Мод треба поново инсталирати."
+   },
+   "734126c85b00e637fcdf6c7e2f53ed3f" : {
+      "english" : "Zoom speed decreased to %.1f",
+      "translation" : "Брзина зумирања се смањила на%.1f"
+   },
+   "9eb1326d714d47c0f0357ff0e6d15df0" : {
+      "english" : "Scroll speed decreased to %.1f",
+      "translation" : "Брзина померања је смањена на%.1f"
+   },
+   "f3295f6f23eb85054aedc1466421109d" : {
+      "english" : "Scroll speed increased to %.1f",
+      "translation" : "Брзина померања је повећана на%.1f"
+   }
+}
