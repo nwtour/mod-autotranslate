@@ -1,0 +1,958 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# Faraaz Madni <rocketfrost247@gmail.com>, 2018
+# Mangat Ram <mangatram346@gmail.com>, 2021
+# opn game <opngame@tutanota.com>, 2020
+# Rajarshi Bandopadhyay <theocrat93@gmail.com>, 2017-2018
+# Sonu Singh <sonumayank2384@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-06-07 07:53+0000\n"
+"PO-Revision-Date: 2021-06-07 08:30+0000\n"
+"Last-Translator: Transifex Bot <>\n"
+"Language-Team: Hindi (http://www.transifex.com/wildfire-games/0ad/language/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: simulation/data/auras/structures/arsenal_repair.jsonauraDescription
+msgid "Garrisoned Siege Engines +3 health regeneration rate."
+msgstr "अंदर रखे घेराबंदी उपकरणों का +3 के दर से स्वास्थ्य सुधार होता है"
+
+#: simulation/data/auras/structures/arsenal_repair.jsonauraName
+msgid "Arsenal Repairs"
+msgstr "शस्त्रागार की मरम्मत"
+
+#: simulation/data/auras/structures/cart_super_dock_repair.jsonauraDescription
+msgid "Garrisoned Ships +10 health regeneration rate."
+msgstr "अंदर रखी नौकाओं का +10 के दर से स्वास्थ्य सुधार होता है"
+
+#: simulation/data/auras/structures/cart_super_dock_repair.jsonauraName
+msgid "Dockyard Repairs"
+msgstr "बंदरगाह में मरम्मत"
+
+#: simulation/data/auras/structures/iber_monument.jsonauraDescription
+msgid "Soldiers +20% melee and ranged attack damage."
+msgstr "सैनिकों की शस्त्र और अस्त्र से नुकसान पहुंचाने की क्षमता में +20% का इजाफा"
+
+#: simulation/data/auras/structures/iber_monument.jsonauraName
+msgid "Religious Fervor"
+msgstr "धार्मिक जोश"
+
+#: simulation/data/auras/structures/kush_pyramids_economic.jsonauraDescription
+#: simulation/data/auras/units/heroes/gaul_hero_viridomarus.jsonauraDescription
+msgid "Workers +15% gather speed."
+msgstr "श्रमिकों की बटोरने की गति : +15%"
+
+#: simulation/data/auras/structures/kush_pyramids_economic.jsonauraName
+msgid "Patriotism"
+msgstr "देशप्रेम"
+
+#: simulation/data/auras/structures/kush_pyramids_military.jsonauraDescription
+msgid ""
+"Soldiers +1 crush, hack, pierce resistance and +10% melee and ranged attack "
+"damage."
+msgstr "सैनिकों की कुचलने, घाव करने, छेदने से बचने की +1 और अस्त्र व शस्त्र से नुकसान पहुंचाने की क्षमता में +10% वृद्धि"
+
+#: simulation/data/auras/structures/kush_pyramids_military.jsonauraName
+msgid "Exhortative Presence"
+msgstr "उपदेशात्मक उपस्थिती"
+
+#: simulation/data/auras/structures/kush_temple_amun.jsonauraDescription
+msgid "Heroes −5% health."
+msgstr "hero/ नायक का -5 % स्वास्थ्य"
+
+#: simulation/data/auras/structures/kush_temple_amun.jsonauraName
+msgid "Powerful Priesthood"
+msgstr "क्षमताशील पुरोहित समिती"
+
+#: simulation/data/auras/structures/library.jsonauraDescription
+msgid "Structures −15% technology resource costs and research time."
+msgstr "भवनों की तकनीकी कीमत और अनुसंधान के समय में -15% कटौती"
+
+#: simulation/data/auras/structures/library.jsonauraName
+msgid "Centre of Scholarship"
+msgstr "छात्रवृत्ति का केंद्र"
+
+#: simulation/data/auras/structures/loyalty_regen.jsonauraDescription
+msgid "Structures +50% capture points garrison regeneration rate."
+msgstr "भवनों पर क़ब्जे के अंकों में और मोर्चा दोबारा जमने की गति: +50%"
+
+#: simulation/data/auras/structures/loyalty_regen.jsonauraName
+msgid "Loyalty"
+msgstr "निष्ठा"
+
+#: simulation/data/auras/structures/maur_pillar.jsonauraDescription
+msgid "Traders +20% movement speed."
+msgstr "व्यापारियों की चलने की गति +20%"
+
+#: simulation/data/auras/structures/maur_pillar.jsonauraName
+msgid "Edict of Ashoka"
+msgstr "अशोक के अध्यादेश"
+
+#: simulation/data/auras/structures/rotary_mill.jsonauraDescription
+msgid "Workers +25% grain gather rate."
+msgstr "श्रमिकों की अनाज बटोरने की गति +25%"
+
+#: simulation/data/auras/structures/rotary_mill.jsonauraName
+msgid "Farming bonus"
+msgstr "खेती अधिलाभ"
+
+#: simulation/data/auras/structures/temple_heal.jsonauraDescription
+msgid "Humans +1 health regeneration rate."
+msgstr "मनुष्यों का +1 के दर से स्वास्थ्य सुधार होता है"
+
+#: simulation/data/auras/structures/temple_heal.jsonauraName
+msgid "Medical Treatment"
+msgstr "चिकित्सा तथा इलाज"
+
+#: simulation/data/auras/structures/theater.jsonauraDescription
+msgid "Structures +20% territory influence radius."
+msgstr "भवनों का सीमाक्षेत्र पर प्रभाव +20%"
+
+#: simulation/data/auras/structures/theater.jsonauraName
+msgid "Hellenization"
+msgstr "यवनीकरण"
+
+#: simulation/data/auras/structures/wall_garrisoned.jsonauraDescription
+msgid ""
+"Turreted Soldiers +3 crush, hack, pierce resistance and +20 vision range."
+msgstr "तोपधारी सैनिकों की कुचलने, घाव करने, छेदने से बचाव में +3 और देखने की दूरी में +20 की वृद्धि"
+
+#: simulation/data/auras/structures/wall_garrisoned.jsonauraName
+msgid "Wall Protection"
+msgstr "दीवार सुरक्षा"
+
+#: simulation/data/auras/structures/wonder_population_cap.jsonauraDescription
+msgid ""
+"+20% maximum population limit (requires the “Glorious Expansion” "
+"technology)."
+msgstr "अधिकतम जनसंख्या सीमा +20% ( “Glorious Expansion” अर्थात यशस्वी विस्तार तकनीक ज़रूरी)"
+
+#: simulation/data/auras/structures/wonder_population_cap.jsonauraName
+msgid "Glorious Expansion"
+msgstr "गौरवशाली विस्तार"
+
+#: simulation/data/auras/structures/xp_trickle.jsonauraDescription
+msgid "Units gain experience while garrisoned inside the building."
+msgstr ""
+
+#: simulation/data/auras/structures/xp_trickle.jsonauraName
+msgid "Rigorous Training"
+msgstr "कठिन प्रशिक्षण"
+
+#: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraDescription
+msgid "Warships −25% construction time."
+msgstr "युद्धपोतों का निर्माण समय : -25%"
+
+#: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraName
+msgid "Delian League"
+msgstr "देलिय संघ"
+
+#: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraDescription
+msgid "Healers −20% resource costs."
+msgstr "वैद्यों का संसाधन मुल्य -20%"
+
+#: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraName
+msgid "Druids"
+msgstr "पुरोहित"
+
+#: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraDescription
+msgid "+10% international trade bonus."
+msgstr "अंतरराष्ट्रीय व्यापारिक पारितोषिक +10%"
+
+#: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraName
+msgid "Trademasters"
+msgstr "उस्ताद सौदागर"
+
+#: simulation/data/auras/teambonuses/gaul_player_teambonus.jsonauraDescription
+msgid "Forges −15% technology resource costs and research time."
+msgstr "लोहार खानों की तकनीकों का संसाधन मुल्य और अनुसंधान समय -15%"
+
+#: simulation/data/auras/teambonuses/gaul_player_teambonus.jsonauraName
+msgid "Products from Gaul"
+msgstr "गाॅल से उत्पाद "
+
+#: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraDescription
+msgid "Citizen Javelineers −10% resource costs."
+msgstr "भाला फेंक नागरिकों का संसाधन मुल्य -10%"
+
+#: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraName
+msgid "Saripeko"
+msgstr "सारीपेको़"
+
+#: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraDescription
+msgid "Elephants −20% resource costs and training time."
+msgstr "हाथियों का संसाधन खर्च और प्रशिक्षण समय : -20%"
+
+#: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraName
+msgid "Elephant Suppliers"
+msgstr "हाथी आपूर्तिकर्ता"
+
+#: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraDescription
+msgid "+20% barter sell prices."
+msgstr "अदला-बदली विक्रय कीमत +20%"
+
+#: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraName
+msgid "Standardized Currency"
+msgstr "मानकीकृत मुद्रा"
+
+#: simulation/data/auras/teambonuses/maur_player_teambonus.jsonauraDescription
+msgid ""
+"Temples −50% resource costs and building time; Temple technologies −50% "
+"resource costs and research time."
+msgstr "देवस्थानों का संसाधन लागत और निर्माण समय -50%; देवस्थान तकनीकी संसाधन लागत और अनुसंधान समय -50%"
+
+#: simulation/data/auras/teambonuses/maur_player_teambonus.jsonauraName
+msgid "Ashoka's Religious Support"
+msgstr "अशोक का धार्मिक समर्थन"
+
+#: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraDescription
+msgid "Land Traders +15% trade gain."
+msgstr "ज़मीनी व्यापार से व्यापारिक लाभ : +15%"
+
+#: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraName
+msgid "The Royal Road"
+msgstr "राजसी सड़क"
+
+#: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraDescription
+msgid "+1.0 food trickle rate."
+msgstr "भोजन सड़ने की गति +1.0"
+
+#: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraName
+msgid "Breadbasket of the Mediterranean"
+msgstr "भूमध्य सागर की ब्रेडटोकरी"
+
+#: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraDescription
+msgid "Citizen Infantry −10% training time."
+msgstr "नागरिक पैदल सेना का प्रशिक्षण समय -10%"
+
+#: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraName
+msgid "Conscription"
+msgstr "भरती"
+
+#: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraDescription
+msgid "Civil Centers −20% resource costs."
+msgstr "नगर केंद्रों की संसाधन लागत -20%"
+
+#: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraName
+msgid "Syrian Tetrapolis"
+msgstr "सीरियाई टेट्रापोलिस"
+
+#: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraDescription
+msgid "Citizen Infantry Spearmen +10% health."
+msgstr "भालाधारी नागरिक पैदल सेना का स्वास्थ्य +10%"
+
+#: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraName
+msgid "Peloponnesian League"
+msgstr "पेलोपोनेसियऩ संघ"
+
+#: simulation/data/auras/units/carnyx.jsonauraDescription
+msgid "Enemy Soldiers −10% attack damage and capture attack strength."
+msgstr "शत्रु सैनिकों की हथियाने और नुकसान पहुंचाने की क्षमता -10%"
+
+#: simulation/data/auras/units/carnyx.jsonauraName
+msgid "Intimidating Sound"
+msgstr "डरावनी आवाज़"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_1.jsonauraDescription
+msgid ""
+"Solon instituted several economic reforms encouraging commerce and agriculture.\n"
+"Workers +15% gather speed."
+msgstr "सोलऩ ने वाणिज्य और खेतीबाड़ी को बढ़ावा देने वाले कई आर्थिक सुधारों को लागू किया।\nश्रमिकों की संग्रह गति +15%"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_1.jsonauraName
+msgid "Economic Reforms"
+msgstr "आर्थिक सुधार"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_2.jsonauraDescription
+msgid ""
+"Solon brought in a new system of weights and measures, fathers were encouraged to find trades for their sons.\n"
+"Economic technologies −10% resource costs."
+msgstr "सोलन माप-तोल की एक नई व्यवस्था लाए, जिसमें पिताओं को अपने पुत्रों के लिए व्यापार ढूंढने के लिए प्रोत्साहित किया जाता था।\nआर्थिक तकनिकों का संसाधन खर्च : -10%"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_2.jsonauraName
+msgid "Economic Fortune"
+msgstr "आर्थिक सौभाग्य"
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_1.jsonauraDescription
+msgid ""
+"Seeing entrenched defense to be useless against the Roman army, Cassivellaunus resorted to guerrilla tactics. This was later employed by other chieftains too.\n"
+"Soldiers +15% movement speed and +15% vision range."
+msgstr "ये देखने के बाद कि किलाबंद बचाव रोमऩ सेना के समक्ष बेकार है, केसिविलोनस़ ने छापामार रणनीति का सहारा लिया। इसे बाद में अन्य सरदारों ने भी अपनाया।\nसैनिििकों की चलने की गति और दृष्टि सीमा +15% "
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_1.jsonauraName
+#: simulation/data/auras/units/heroes/iber_hero_viriato_1.jsonauraName
+msgid "Guerrilla Tactics"
+msgstr "छापामार युद्धशैली"
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_2.jsonauraDescription
+msgid ""
+"Cassivellaunus deployed fast-moving skirmishers to harass Roman troops and foragers.\n"
+"Javelineers +20% attack range."
+msgstr "केसिविलोनस़ ने गतिशील लड़ाकों को रोमऩ दस्तों और लोहारों को परेशान करने के लिए उतारा।\nभालाफेंंक सैनिकों की मारक दूरी +20%"
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_2.jsonauraName
+msgid "Skirmisher Harassment"
+msgstr "लड़ाकू से परेशानी"
+
+#: simulation/data/auras/units/catafalques/cart_catafalque.jsonauraDescription
+msgid ""
+"Leader of the Carthaginian heavy cavalry at Trebia and Cannae, where his triple charge had devastating effects on the enemy.\n"
+"Melee Cavalry +1 crush, hack, pierce resistance and +10% health."
+msgstr "त्रेबिया और कैनेई में कार्थाजियन बख्तरबंद घुड़सवारों का नेता, जहां उनके तिगुने धावों ने दुश्मन पर विनाशकारी प्रभाव छोड़ा। \nशस्त्रधारी घुड़सवारों का कुचलने, काटने, छेदने से बचाव +1% और स्वास्थ्य +10%।"
+
+#: simulation/data/auras/units/catafalques/cart_catafalque.jsonauraName
+msgid "Commander of Heavy Cavalry"
+msgstr "भीमकाय अश्वसेना का सेनापति"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_1.jsonauraDescription
+msgid ""
+"Warring with the Romans, Ambiorix realized the futility of open warfare and instead resorted to ambush tactics. The Gauls quickly learned where and when to execute surprise attacks.\n"
+"Soldiers +5% melee and ranged attack damage and −25% promotion experience."
+msgstr "रोमवासीयों से युद्ध करते हुए, एंबिओरिस़ को खुल्लम खुल्ला जंग की निरर्थकता का एहसास हुआ और उसके स्थान पर घात की युक्तियां अपनाईं। घ्गोलवासियों ने जल्द ही सीख लिया कि कब और कहां आकस्मिक हमले करने है।\nसैनिकों       की     अस्त्र और शस्त्र से नुकसान करने    की।    क्षमता +5% और           पदोन्नति      अनुभव -25%"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_1.jsonauraName
+msgid "Ambush Slaughter"
+msgstr "घात संहारक"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_2.jsonauraDescription
+msgid ""
+"When the Roman army fell short of food supplies, the Gallic tribes were ordered to give up a part of their already meagre harvest. The Eburones under Ambiorix were reluctant to do so, therefore Caesar sent troops to take them by force.\n"
+"Workers −10% grain gather rate."
+msgstr "जब रोमऩ सेना के पास भोजन सामग्री की कमी हुई, तब गॉलिक कबीलों को आदेश दिया गया कि वे अपनी पहले से ही थोड़ी हुई उपज से हिस्सा दें। ऐबिंओरिक्स़ के नेतृत्व में ईबुरोन कबीले ने ऐसा करने से इंकार कर दिया, अतः सीज़र ने उनपर बल-प्रयोग करने के लिए टुकड़ियां भेजी।\n श्रमिकों की अनाज संग्रहण दर -10%"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_2.jsonauraName
+msgid "Tribute to Rome"
+msgstr "रोम़ को भेंट"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_1.jsonauraDescription
+msgid ""
+"Along with his brother Indibil, Mandonius commanded the Iberian recruits and mercenaries that took part in the Punic Wars.\n"
+"Allied Citizen Mercenaries −25% metal cost."
+msgstr "अपने भाई इंडिबिल के साथ मिलकर मैंडोनियस् ने उन इबेरियन रंगरूटों और भाड़े के सैनिकों का नेतृत्व किया जिन्होंने प्युनिक युद्ध में भाग लिया।\nमित्र राष्ट्र के भाड़़े के नागरिक सैनिकों की धातु लागत -25%"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_1.jsonauraName
+msgid "Mercenary Commander"
+msgstr "भाड़े के सैनिकों का सेनापति"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_2.jsonauraDescription
+msgid ""
+"Following the fall of Indibil in battle, Mandonius led the survivors to safety.\n"
+"Soldiers +10% health."
+msgstr "युद्ध में इंडिबिल के मारे जाने के बाद, मंडोनियस ने बचे लोगों का नेतृत्व किया और उन्हें सुरक्षित स्थान तक पहुंचाया।\nसैनिकों का +10% स्वास्थ्य।"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_2.jsonauraName
+msgid "Saver of Lives"
+msgstr "जीवनरक्षक"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_1.jsonauraDescription
+msgid ""
+"Ruling with full power in the Meroë Empire and also playing a significant role in the Meroitic religion, Shanakdakheto represented the might of Kush, something not to be taken lightly.\n"
+"Enemy Female Citizens −15% gather speed."
+msgstr "पूर्ण सामर्थ्य के साथ मेरोइ साम्राज्य पर शासन करते और मेरोइटिक धर्म में महत्वपूर्ण भूमिका निभाते हुए, शंकदखेत ने कुश साम्राज्य के प्रभाव को दर्शाया, जिसे हल्के में नहीं लिया जाता था। \nशत्रु महिला नागरिकों की संग्रहण गति -15%"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_1.jsonauraName
+msgid "Earliest Nubian Queen"
+msgstr "शुरुआती नूबियऩ रानी"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_2.jsonauraDescription
+msgid ""
+"As in all cultures, religion played a significant part in Kush. Shanakdakheto had the temple built around 160 BC as a symbol of the advancedness of Meroë.\n"
+"Temples +1 garrison heal rate."
+msgstr "सभी संस्कृतियों की तरह, धर्म ने कुश साम्राज्य में महत्वपूर्ण भूमिका निभाई। शकंदखेत ने मेरोइ की प्रगति के प्रतीक के रूप में 160 ईसा पूर्व देवालय का निर्माण करवाया। \nदेवालयों की मोर्चाबंदीयों की घाव भरने की दर +1"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_2.jsonauraName
+msgid "Temple at Naqa"
+msgstr "नाकाॅ का देवस्थान"
+
+#: simulation/data/auras/units/catafalques/mace_catafalque.jsonauraDescription
+msgid ""
+"During the First Macedonian War, Philip and his troops sacked Thermum, the religious and political center of Aetolia.\n"
+"Humans, Siege Engines, Ships, and Structures gain +5 food and wood loot."
+msgstr "प्रथम मेसिडोनियऩ युद्ध के दौरान, फ़िलिप और उसके दस्तों ने एटोलि़या के धार्मिक और राजनीतिक केंद्र थर्मम़ को लूटा। मनुष्यों, घेराबंदी यंत्रों, जलयानों व भवनों द्वारा भोजन और लकड़ी की लूट +5"
+
+#: simulation/data/auras/units/catafalques/mace_catafalque.jsonauraName
+msgid "Sacker of Cities"
+msgstr "शहरों को लूटने वाला"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_1.jsonauraDescription
+msgid ""
+"Son of Chandragupta Maurya, Bindusara consolidated the empire, creating a stable state for his son Ashoka to inherit.\n"
+"Structures +20% territory influence radius."
+msgstr "चंद्रगुप्त मौर्य के पुत्र, बिंदूसार ने न केवल साम्राज्य को संगठित किया, वरन् अपने पुत्र अशोक के शासन योग्य एक स्थिर राज्य का निर्माण किया। \nभवनों का क्षेत्रीय प्रभाव दायरा +20%"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_1.jsonauraName
+msgid "Consolidator of the Empire"
+msgstr "साम्राज्य को संगठित करने वाले"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_2.jsonauraDescription
+msgid ""
+"Bindusara is said to have conquered lands to the south of the empire.\n"
+"Soldiers +15% capture attack strength."
+msgstr "बिंदूसार के बारे में कहा जाता है कि उन्होंने साम्राज्य के दक्षिण में स्थित क्षेत्रों को जीता। \nसैनिकों की हमला कर कब्जाने की क्षमता +15%"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_2.jsonauraName
+msgid "Vamba Moriyar"
+msgstr "वेम्बा मोरियार, तमिल उपाधि"
+
+#: simulation/data/auras/units/catafalques/pers_catafalque.jsonauraDescription
+msgid ""
+"Throughout his reign, much of Artaxerxes' wealth was spent on building projects. He restored the Palace of Darius I at Susa and restored the ancient city of Ecbatana.\n"
+"Structures −10% resource costs and +5% health."
+msgstr "अपने शासनकाल के दौरान, आर्तज़ेरसीस ने अधिकांश धन ईमारतों और निर्माण परियोजनाओं पर खर्च किया था। उन्होंने सुसा में डेरियस प्रथम के महल का जीर्णोद्धार किया और प्राचीन शहर इक्बाटाना को भी पुनर्स्थापित किया। इमारतों का -10% संसाधन ख़र्च और +5% स्वास्थ्य।"
+
+#: simulation/data/auras/units/catafalques/pers_catafalque.jsonauraName
+msgid "Great Builder"
+msgstr "महान निर्माता"
+
+#: simulation/data/auras/units/catafalques/ptol_catafalque.jsonauraDescription
+msgid ""
+"Continuing his predecessors' work on the Great Library of Alexandria, he seized every book brought to the city, thus leaving to his people a vast amount of hoarded wisdom.\n"
+"Structure technologies −10% resource costs."
+msgstr "अपने पूर्वजों के सिकन्दरिया के महान् पुस्तकालय पर किए कार्यों को जारी रखते हुए, उसने शहर में लाई गई हर पुस्तक को कब्जा लिया, अतः अपने लोगों के लिए विशाल मात्रा में ज्ञान का खजाना छोड़ा। \nभवन तकनीकी संसाधन लागत -10%"
+
+#: simulation/data/auras/units/catafalques/ptol_catafalque.jsonauraName
+msgid "Great Librarian"
+msgstr "महान उदारवादी"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_1.jsonauraDescription
+msgid ""
+"After the rape of Lucretia by the son of King Tarquinius Superbus and her subsequent suicide, Brutus vowed to avenge her and overthrow the monarchy.\n"
+"Female Citizens −20% food cost and +10% gather speed."
+msgstr "राजा टैक्विनियस़ सुपरबस़ के पुत्र द्वारा लुक्रेटिआ़ के बलात्कार और उसके पश्चात उनकी आत्महत्या के बाद, ब्रूटस़ ने उनका प्रतिशोध लेने और राजशाही के तख्तापलट की शपथ ली। \nमहिला नागरिकों की भोजन लागत -20% व संग्रहण गति +10%"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_1.jsonauraName
+msgid "Avenger of Lucretia"
+msgstr "ल्यूक्रेशिया की मौत का प्रतिशोध लेने वाला"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_2.jsonauraDescription
+msgid ""
+"Brutus was one of the key figures in the overthrow of the monarchy and the founding of the Roman Republic. Later, as consul he led a Roman army to victory against the Etruscan King Tarquinius who sought to retake the throne.\n"
+"Humans and Siege Engines +1 crush, hack, pierce resistance."
+msgstr "ब्रूटस़, राजशाही का तख्तापलट और रोम़न गणतंत्र की स्थापना करने वाले मुख्य पात्रों में से एक थे। बाद में, सलाहकार के तौर पर उन्होंने रोम़न सेना का इत्रस्की राजा टैक्विनियस़ के विरुद्ध विजय दिलाने में नेतृत्व किया, जो अपनी राजगद्दी को पुनः प्राप्त करना चाह रहा था। \nमनुष्यों और घेराबंदी यंत्रों का कुचलने, काटने व भेदने से बचाव +1"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_2.jsonauraName
+msgid "Founder and Defender of the Republic"
+msgstr "गणतंत्र के संस्थापक और रक्षक"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_1.jsonauraDescription
+msgid ""
+"Antiochus I laid the foundation for the Ezida Temple in Borsippa.\n"
+"Temples −10% resource costs; Temple technologies −10% resource costs."
+msgstr "एंटिओकस़ प्रथम ने बोर्सिप्पा में एज़िदा देवालय की नींव रखी। \nदेवालयों की संसाधन लागत -10%; देवालय तकनीकी संसाधन लागत -10%"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_1.jsonauraName
+msgid "Founder of the Ezida Temple"
+msgstr "ऐजी़डा देवालय के संस्थापक"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_2.jsonauraDescription
+msgid ""
+"Antiochus encouraged Greek immigration to his realm and established many new cities in Asia Minor to serve as counterweights to the Gauls.\n"
+"+5% maximum population limit."
+msgstr "एंटिओकस़ ने अपने राज्य में आने के लिए यूनानी आप्रवासन को प्रोत्साहित किया व गॉलवासियों से संतुलन बनाने के लिए आनातोलिया में कई नए शहरों की बुनियाद रखी। \nअधिकतम जनसंख्या सीमा +5%"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_2.jsonauraName
+msgid "Immigration"
+msgstr "आप्रवासन"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_3.jsonauraDescription
+msgid ""
+"Son of Seleucus Nicator, Antiochus succeeded in the formidable task of keeping the empire together, meanwhile founding temples and defeating the invading Gauls with war elephants.\n"
+"Champion Elephants −10% resource costs."
+msgstr "सेल्युकस़ निकेटर के पुत्र एंटिओकस़, साम्राज्य को संगठित रखने के दुर्जेय कार्य में सफल रहे, इस दौरान देवालयों की स्थापना और आक्रमणकारी गॉलवासियों को जंगी हाथियों से भी हराया। \nशूरवीर हाथियों की संसाधन लागत -10%"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_3.jsonauraName
+msgid "Basileus Megas"
+msgstr "बासिलेए्स मैग्स, \"महान राजा\" के लिए ग्रीक उपाधि"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_1.jsonauraDescription
+msgid ""
+"Lycurgus instituted several military reforms, thus the complete and undivided allegiance to Sparta from its citizens was implemented under his form of government.\n"
+"Citizen Infantry Spearmen −10% resource costs."
+msgstr "लाइकर्गस़ ने कई सैन्य सुधार लागू किए, इस प्रकार उनकी शासनविधी में स्पार्टा के प्रति उसके नागरिकों की पूर्ण व अविभाजित निष्ठा को अमल में लाया गया। \nनागरिक भालाधारी पैदल सैनिकों की संसाधन लागत -10%"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_1.jsonauraName
+#: simulation/data/auras/units/catafalques/spart_catafalque_2.jsonauraName
+msgid "Lycurgan Military Reforms"
+msgstr "लाइकर्गऩ के सैन्य सुधार"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_2.jsonauraDescription
+msgid "Champion Infantry Spearmen −5% resource costs."
+msgstr "सर्वोत्तम भालाधारी पैदल सेना की संसाधन लागत -5%"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_3.jsonauraDescription
+msgid ""
+"To further support equality, Lycurgus forbade the use of gold and silver, introducing a new iron currency called pelanors.\n"
+"Workers +15% metal gather rate."
+msgstr "समानता को और अधिक बल देने के लिए, लाइकर्गस़ ने सोने व चांदी के उपयोग को वर्जित कर, पेलानार्स़ नामक एक नई लौह मुद्रा को प्रचलित किया। \nश्रमिकों की धातु संग्रहण दर +15%"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_3.jsonauraName
+msgid "Iron Pelanors"
+msgstr "लौह पेले़नाॅर, स्पार्टा की नगदी"
+
+#: simulation/data/auras/units/elephant_worker.jsonauraDescription
+msgid "Builders +25% build rate."
+msgstr "निर्माताओं की निर्माण दर +25%"
+
+#: simulation/data/auras/units/elephant_worker.jsonauraName
+msgid "Elephant Workers"
+msgstr "श्रमिक हाथी"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_1.jsonauraDescription
+msgid ""
+"Soldiers in his formation +3 crush, hack, pierce resistance, +15% movement "
+"speed."
+msgstr "सैनिकों का अपनी सैन्य रचना में कुचले, काटने, भेदने से बचाव +3, चलने की गति +15%"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_1.jsonauraName
+msgid "Formation Reforms"
+msgstr "सैन्य रचना सुधार"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_2.jsonauraDescription
+msgid "Infantry Javelineers +15% movement speed."
+msgstr "भालाफेंक पैदल सेना की चलने की गति +15%"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_2.jsonauraName
+msgid "Peltast Reforms"
+msgstr "पेल्टस्ट सुधार"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraDescription
+msgid "Builders +15% build rate."
+msgstr "निर्माताओं की निर्माण दर +15%"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraName
+msgid "Periclean Building Program"
+msgstr "पेरिक्लेस़ का निर्माण क्रार्यक्रम"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_2.jsonauraDescription
+msgid "Temples −25% stone cost, +2 garrisoned heal rate."
+msgstr "देवालयों की पत्थर लागत -25%, मोर्चाबंदियों की स्वास्थ्य सुधार दर +2"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_2.jsonauraName
+msgid "Temple of Athena Nike"
+msgstr "ऐथना नाइकी का देवालय"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_1.jsonauraDescription
+msgid ""
+"When garrisoned, the Ship has −30% batch training time and +50% movement "
+"speed."
+msgstr "मोर्चाबंदी के दौरान, एकमुश्त जलयान निर्माण समय -30% और चलने की गति +50%"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_1.jsonauraName
+msgid "Naval Commander"
+msgstr "जलसेनापति"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_2.jsonauraDescription
+msgid "Ships −50% metal cost, −20% construction time."
+msgstr "जलयान धातु लागत -50%, निर्माण समय -20%"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_2.jsonauraName
+msgid "Naval Architect"
+msgstr "समुद्री शिल्पकार"
+
+#: simulation/data/auras/units/heroes/brit_hero_boudicca.jsonauraDescription
+msgid ""
+"Champions +2 capture attack strength, +20% melee and ranged attack damage, "
+"+10% movement speed."
+msgstr "शूरवीरों की हमला कर कब्जाने की शक्ति +2, शस्त्र और अस्त्र की घातक क्षमता +20%, चलने की गति +10%"
+
+#: simulation/data/auras/units/heroes/brit_hero_boudicca.jsonauraName
+msgid "Champion Army"
+msgstr "शूरवीर सेना"
+
+#: simulation/data/auras/units/heroes/brit_hero_caratacos.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +1 crush, hack, pierce resistance, +15% movement "
+"speed."
+msgstr "सैनिकों और क़ब्जा यंत्रों का कुचलने, काटने, भेदने से बचाव +1, चलने की गति +15%"
+
+#: simulation/data/auras/units/heroes/brit_hero_caratacos.jsonauraName
+msgid "Guerrilla Chief"
+msgstr "छापामार सरदार"
+
+#: simulation/data/auras/units/heroes/brit_hero_cunobelin.jsonauraDescription
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_2.jsonauraDescription
+msgid "Humans +0.8 health regeneration rate."
+msgstr "मनुष्यों का +0.8 के दर से स्वास्थ्य सुधार होता है"
+
+#: simulation/data/auras/units/heroes/brit_hero_cunobelin.jsonauraName
+msgid "Britannorum Rex"
+msgstr "ब्रिटेनोरम़् रेक्स, रोमन कालिन ब्रिटेन की उपाधि"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_1.jsonauraDescription
+msgid "Soldiers and Siege Engines +15% movement speed."
+msgstr "सैनिकों और क़ब्जा यंत्रों की चलने की गति +15%"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_1.jsonauraName
+msgid "Lightning General"
+msgstr "तीव्र सेनाध्यक्ष"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_2.jsonauraDescription
+msgid "Enemy Mercenaries −20% melee and ranged attack damage."
+msgstr "भाड़े के दुश्मन सैनिकों की शस्त्र और अस्त्र से नुकसान करने की क्षमता -20%"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_2.jsonauraName
+msgid "Subduer of Mercenaries"
+msgstr "भाड़े के सैनिकों को वश में करने वाला"
+
+#: simulation/data/auras/units/heroes/cart_hero_hannibal.jsonauraDescription
+msgid ""
+"Own and Allied Soldiers and Siege Engines +1 capture attack strength, +20% "
+"melee and ranged attack damage."
+msgstr "अपने और मित्रों के सैनिकों और कब्ज़ा यंत्रों की हमला कर कब्जाने की शक्ति +1, शस्त्र और अस्त्र की नुकसान करने की क्षमता +20%"
+
+#: simulation/data/auras/units/heroes/cart_hero_hannibal.jsonauraName
+msgid "Tactician"
+msgstr "रणनीतिकार"
+
+#: simulation/data/auras/units/heroes/cart_hero_maharbal.jsonauraDescription
+msgid "Melee Cavalry +30% melee attack damage."
+msgstr "शस्त्रधारी घुड़सवारों की शस्त्र से नुकसान करने की क्षमता +30%"
+
+#: simulation/data/auras/units/heroes/cart_hero_maharbal.jsonauraName
+msgid "Cavalry Commander"
+msgstr "अश्वरोही सेनापति"
+
+#: simulation/data/auras/units/heroes/gaul_hero_brennus.jsonauraDescription
+msgid "Humans, Siege Engines, and Ships gain +15 metal loot."
+msgstr "मनुष्यों, कब्जा यंत्रों और जलयानों द्वारा धातु की +15 अधिक लूट"
+
+#: simulation/data/auras/units/heroes/gaul_hero_brennus.jsonauraName
+msgid "Sacker of Rome"
+msgstr "रोम़ का लूटेरा"
+
+#: simulation/data/auras/units/heroes/gaul_hero_vercingetorix.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +1 capture attack strength, +20% melee and ranged"
+" attack damage."
+msgstr "सैनिकों और घेराबंदी यंत्रों की हमला कर कब्जाने की शक्ति +1, अस्त्र-शस्त्र से नुकसान करने की क्षमता +20%"
+
+#: simulation/data/auras/units/heroes/gaul_hero_vercingetorix.jsonauraName
+msgid "Celtic Warlord"
+msgstr "सेलि्टक सिपहसालार"
+
+#: simulation/data/auras/units/heroes/gaul_hero_viridomarus.jsonauraName
+msgid "Preparation for War"
+msgstr "युद्ध के लिए तैयारी"
+
+#: simulation/data/auras/units/heroes/hero_garrison.jsonauraDescription
+msgid ""
+"When garrisoned, the Structure has +2 capture points garrison regeneration "
+"rate."
+msgstr "मोर्चाबंदी के दौरान, भवनों पर दोबारा मोर्चाबंदी जमने की, +2 कब्जा अंकों की दर"
+
+#: simulation/data/auras/units/heroes/hero_garrison.jsonauraName
+msgid "Inspired Defense"
+msgstr "प्रेरित सुरक्षा"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_1.jsonauraDescription
+msgid "When garrisoned, the Structure or Siege Tower has +75% arrow count."
+msgstr "मोर्चाबंदी के समय, भवनों और घेराबंद मीनारों की बाण संख्या +75%"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_1.jsonauraName
+msgid "Valiant Defender"
+msgstr "पराक्रमी रक्षक"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_2.jsonauraDescription
+msgid "Soldiers +1 crush, hack, pierce resistance."
+msgstr "सैनिकों का कुचलने, काटने, भेदने से बचाव +1"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_2.jsonauraName
+msgid "Battle Fervor"
+msgstr "संग्राम के लिए उत्साही"
+
+#: simulation/data/auras/units/heroes/iber_hero_indibil.jsonauraDescription
+msgid "Soldiers −15% resources costs, −20% training time."
+msgstr "सैनिकों की संसाधन लागत -15%, प्रशिक्षण समय -20%"
+
+#: simulation/data/auras/units/heroes/iber_hero_indibil.jsonauraName
+msgid "Mobilization"
+msgstr "लामबंदी"
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_1.jsonauraDescription
+msgid "Soldiers +20% movement speed."
+msgstr "सैनिकों की चलने की गति +20%"
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_2.jsonauraDescription
+msgid "Soldiers and Siege Engines gain +100% resource loot."
+msgstr "मनुष्यों व घेराबंदी यंत्रों द्वारा संसाधनों की +100% अधिक लूट"
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_2.jsonauraName
+msgid "Swag"
+msgstr "इठलाना"
+
+#: simulation/data/auras/units/heroes/kush_hero_amanirenas.jsonauraDescription
+#: simulation/data/auras/units/heroes/mace_hero_philip_ii.jsonauraDescription
+msgid ""
+"Champions +2 capture attack strength, +20% melee and ranged attack damage."
+msgstr "शूरवीरों की कब्जाने की घातक क्षमता +2, अस्त्र-शस्त्र का घात +20%"
+
+#: simulation/data/auras/units/heroes/kush_hero_amanirenas.jsonauraName
+msgid "Warrior Queen"
+msgstr "योद्धा रानी"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_1.jsonauraDescription
+msgid ""
+"Temple of Amun +20% resource costs and build time. Amun Temple Guard +20% "
+"resource costs and training time."
+msgstr "आमोऩ के देवालय की संसाधन लागत व निर्माण समय +20%। आमोऩ देवालय के रक्षकों की संसाधन लागत व प्रशिक्षण समय +20%"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_1.jsonauraName
+msgid "Defier of Tradition"
+msgstr "परंपरा का अवज्ञा करनेवाला"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_2.jsonauraDescription
+msgid ""
+"Temple of Apedemak −20% resource costs and build time. Apedemak Temple Guard"
+" −20% resource costs and training time."
+msgstr "एपीडेमक़ के देवालय की संसाधन लागत व निर्माण समय -20%। एपीडेमक़ देवालय के रक्षक की संसाधन लागत व प्रशिक्षण समय -20%"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_2.jsonauraName
+msgid "Follower of Apedemak"
+msgstr "अपदेमक का अनुयायी"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_3.jsonauraDescription
+msgid "Enemy Healers −50% healing strength."
+msgstr "शत्रु वैद्यों की उपचार क्षमता -50%"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_3.jsonauraName
+msgid "Slaughter of the Faithful"
+msgstr "निष्ठावान का वध"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_1.jsonauraDescription
+msgid "Soldiers +10% melee and ranged attack damage, gain +50% resource loot."
+msgstr "सैनिकों द्वारा अस्त्र-शस्त्र से घात +10%, संसाधन लूट में +50% लाभ"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_1.jsonauraName
+msgid "Savior of Kush"
+msgstr "कुश का उद्धारकर्ता"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_2.jsonauraDescription
+msgid "Kushite Triremes −50 wood and metal cost."
+msgstr "कुशाइट त्रिरेमे युद्धपोतों की लकड़ी और धातु लागत -50"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_2.jsonauraName
+msgid "Gift of Warships"
+msgstr "युद्धपोतों का उपहार"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_1.jsonauraDescription
+msgid "Structures +10% territory influence radius."
+msgstr "भवनों का सीमाक्षेत्र प्रभाव +10%"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_1.jsonauraName
+msgid "Imperialism"
+msgstr "साम्राज्यवाद"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_2.jsonauraDescription
+msgid "Enemy Civic Centres −50% capture points garrisoned regeneration rate."
+msgstr "शत्रु नगर केंद्रों पर दोबारा मोर्चाबंदी जमने की -50% कब्जा अंकों की दर"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_2.jsonauraName
+msgid "Conqueror"
+msgstr "विजेता"
+
+#: simulation/data/auras/units/heroes/mace_hero_craterus.jsonauraDescription
+msgid ""
+"Infantry Pikemen +20% capture attack strength, +20% melee attack damage."
+msgstr "भालाधारी पैदल सैनिकों की कब्जाने की घातक क्षमता +20%, शस्त्राघात +20%"
+
+#: simulation/data/auras/units/heroes/mace_hero_craterus.jsonauraName
+msgid "Taxiarchès"
+msgstr "टैक्सियार्क, यूनानी शब्द ब्रिगेडियर के लिए"
+
+#: simulation/data/auras/units/heroes/mace_hero_demetrius_i.jsonauraDescription
+msgid ""
+"Siege Engines +1 crush, hack, pierce resistance, +20% melee and ranged "
+"attack damage, +10% ranged attack range, +10% vision range."
+msgstr "घेराबंदी यंत्रों का कुचलने, काटने, भेदने से बचाव +1, अस्त्र-शस्त्र का घात +20%, अस्त्रों की मारक दूरी +10%, दृष्टि सीमा +10%"
+
+#: simulation/data/auras/units/heroes/mace_hero_demetrius_i.jsonauraName
+msgid "Besieger"
+msgstr "अवरोधक"
+
+#: simulation/data/auras/units/heroes/mace_hero_philip_ii.jsonauraName
+msgid "Rise of Macedon"
+msgstr "मेसेडोन का उदय"
+
+#: simulation/data/auras/units/heroes/mace_hero_pyrrhus_i.jsonauraDescription
+msgid "Soldiers +20% melee and ranged attack damage, −15% health."
+msgstr "सैनिकों द्वारा अस्त्र-शस्त्र से घात +20%, स्वास्थ्य -15%"
+
+#: simulation/data/auras/units/heroes/mace_hero_pyrrhus_i.jsonauraName
+msgid "Pyrrhic Victory"
+msgstr "आत्मघाती विजय"
+
+#: simulation/data/auras/units/heroes/maur_hero_ashoka.jsonauraDescription
+msgid ""
+"Temples −50% resource costs and build time. Temple technologies −50% "
+"resource costs and research time."
+msgstr "देवालयों की संसाधन लागत व निर्माण समय -50%। देवालय तकनीकी संसाधन लागत व अनुसंधान समय -50%"
+
+#: simulation/data/auras/units/heroes/maur_hero_ashoka.jsonauraName
+msgid "Buddhism"
+msgstr "बौद्ध धर्म"
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_1.jsonauraDescription
+msgid ""
+"When garrisoned, the Structure's technologies have −20% resource cost and "
+"−50% research time."
+msgstr "मोर्चाबंदी के समय, भवन तकनीकों की संसाधन लागत -20% व अनुसंधान समय -50%"
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_1.jsonauraName
+msgid "Teacher"
+msgstr "अध्यापक"
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_2.jsonauraName
+msgid "Regeneration"
+msgstr "उत्थान"
+
+#: simulation/data/auras/units/heroes/pers_hero_cyrus_ii.jsonauraDescription
+msgid ""
+"Cavalry +1 capture attack strength, +20% melee and ranged attack damage."
+msgstr "अश्वसेना की कब्जाने की घातक क्षमता +1, अस्त्र-शस्त्र का घात +20%"
+
+#: simulation/data/auras/units/heroes/pers_hero_cyrus_ii.jsonauraName
+msgid "Forefront Leader"
+msgstr "अग्रगण्य नेता"
+
+#: simulation/data/auras/units/heroes/pers_hero_darius_i.jsonauraDescription
+msgid ""
+"Soldiers, Siege Engines, Traders, and Merchant Ships +15% movement speed."
+msgstr "सैनिकों, क़ब्जा यंत्रों, व्यापारियों व व्यापारिक जलयानों की चलने की गति +15%"
+
+#: simulation/data/auras/units/heroes/pers_hero_darius_i.jsonauraName
+msgid "Leadership"
+msgstr "नेतृत्व"
+
+#: simulation/data/auras/units/heroes/pers_hero_xerxes_i.jsonauraDescription
+msgid "Workers +15% build rate and gather speed."
+msgstr "श्रमिकों की निर्माण दर व संग्रहण गति +15%"
+
+#: simulation/data/auras/units/heroes/pers_hero_xerxes_i.jsonauraName
+msgid "Administrator"
+msgstr "प्रशासक"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_1.jsonauraDescription
+msgid "Soldiers and Siege Engines −20% melee and ranged attack repeat time."
+msgstr "सैनिकों व कब्जा यंत्रों के अस्त्र-शस्त्रों द्वारा दोबारा घात का समय -20%"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_1.jsonauraName
+msgid "Patriot"
+msgstr "देश-भक्त"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_2.jsonauraDescription
+msgid "Allied Heroes +10% health."
+msgstr "मित्र नायकों का स्वास्थ्य +10%"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_2.jsonauraName
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_3.jsonauraName
+msgid "Consort"
+msgstr "सहचारी"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_3.jsonauraDescription
+msgid "Enemy Heroes −10% health."
+msgstr "शत्रु नायकों का स्वास्थ्य -10%"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraDescription
+msgid "Builders +10% build rate."
+msgstr "निर्माताओं की निर्माण दर +10%"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraName
+msgid "Patron of Construction"
+msgstr "निर्माण का संरक्षक"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_2.jsonauraDescription
+msgid "Mercenaries −35% resource costs."
+msgstr "वेतन-भोगी -35% संसाधन लागत।"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_2.jsonauraName
+msgid "Mercenary Patron"
+msgstr "किराये का संरक्षक"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_iv.jsonauraDescription
+msgid "Pikemen +40% health."
+msgstr "भालाधारी सैनिक का स्वास्थ्य +40%"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_iv.jsonauraName
+msgid "Raphia"
+msgstr "राफिया, अफ्रिकी वृक्ष प्रजाति"
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_1.jsonauraDescription
+msgid "Cavalry +15% melee and ranged attack damage."
+msgstr "घुड़सवार सेना +15% हाथापाई और हमले का नुकसान।"
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_1.jsonauraName
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_2.jsonauraName
+msgid "Sword of Rome"
+msgstr "रोम की तलवार"
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_2.jsonauraDescription
+msgid "Enemy Infantry −10% melee and ranged attack damage."
+msgstr "शत्रु पैदल सेना -10% हाथापाई और हमले का नुकसान।"
+
+#: simulation/data/auras/units/heroes/rome_hero_maximus.jsonauraDescription
+msgid "Humans and Structures +1 crush, hack, pierce resistance."
+msgstr "सैनिकों और भवनों का कुचलने, काटने, भेदने से बचाव +1"
+
+#: simulation/data/auras/units/heroes/rome_hero_maximus.jsonauraName
+msgid "Shield of Rome"
+msgstr "रोम की ढाल"
+
+#: simulation/data/auras/units/heroes/rome_hero_scipio.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +2 capture attack strength, +20% melee and ranged"
+" attack damage."
+msgstr "सैनिक और घेराबंदी इंजन +2 कब्जा आक्रमण शक्ति, +20% हाथापाई और हमले का नुकसान।"
+
+#: simulation/data/auras/units/heroes/rome_hero_scipio.jsonauraName
+msgid "Triumph"
+msgstr "विजय"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iii.jsonauraDescription
+msgid "Cavalry +2 crush, hack, pierce resistance."
+msgstr "अश्वसेना का कुचलने, काटने, भेदने से बचाव +2"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iii.jsonauraName
+msgid "Ilarchès"
+msgstr " लारक्स़"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iv.jsonauraDescription
+msgid "Enemy Structures, Ships, and Siege Engines -20% health."
+msgstr "शत्रु संरचनाएं, जहाजों, और घेराबंदी इंजन -20% स्वास्थ्य।"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iv.jsonauraName
+msgid "Renowned Conqueror"
+msgstr "विख्यात विजेता"
+
+#: simulation/data/auras/units/heroes/sele_hero_seleucus_i.jsonauraDescription
+msgid "Champion Elephants +20% melee attack damage, +20% movement speed."
+msgstr "चैंपियन हाथी +20% हाथापाई से नुकसान, +20% संचलन गति।"
+
+#: simulation/data/auras/units/heroes/sele_hero_seleucus_i.jsonauraName
+msgid "Zooiarchos"
+msgstr "जूऔरकोस अर्थात यूनानी गजसेनापति"
+
+#: simulation/data/auras/units/heroes/spart_hero_brasidas.jsonauraDescription
+msgid ""
+"Citizen Infantry Javelineers +1 crush, hack, pierce resistance, +25% ranged "
+"attack pierce damage."
+msgstr "नागरिक भालाफेंक पैदल सैनिकों का कुचलने, काटने, भेदने से बचाव +1, अस्त्राघात भेदन +25%"
+
+#: simulation/data/auras/units/heroes/spart_hero_brasidas.jsonauraName
+msgid "Helot Reforms"
+msgstr "हेलोट सुधार"
+
+#: simulation/data/auras/units/heroes/spart_hero_leonidas.jsonauraDescription
+msgid "Spearmen +1 capture attack strength, +25% melee attack damage."
+msgstr "शूलधारक +1 हमले और कब्जा की शक्ति, +25% हाथापाई से नुकसान"
+
+#: simulation/data/auras/units/heroes/spart_hero_leonidas.jsonauraName
+msgid "Last Stand"
+msgstr "अंतिम मोरचा"

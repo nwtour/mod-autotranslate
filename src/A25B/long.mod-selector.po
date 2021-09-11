@@ -1,0 +1,392 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2021-04-23 17:14+0230\n"
+"PO-Revision-Date: 2021-04-23 17:14+0230\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#, python-format
+msgid ""
+"Opening %(url)s\n"
+" in default web browser. Please wait…"
+msgstr ""
+"Открывается %(url)s\n"
+" в браузере по умолчанию. Пожалуйста, подождите..."
+
+msgid "Opening page"
+msgstr "Открывающаяся страница"
+
+msgctxt "filesize unit"
+msgid "B"
+msgstr "B"
+
+msgctxt "filesize unit"
+msgid "KiB"
+msgstr "KiB"
+
+msgctxt "filesize unit"
+msgid "MiB"
+msgstr "MiB"
+
+msgctxt "filesize unit"
+msgid "GiB"
+msgstr "GiB"
+
+#, python-format
+msgid "%(filesize)s %(unit)s"
+msgstr "%(filesize)s %(unit)s"
+
+msgid "mm:ss"
+msgstr "mm:ss"
+
+msgid "HH:mm:ss"
+msgstr "HH:mm:ss"
+
+msgctxt "enumeration"
+msgid ", "
+msgstr ", "
+
+#, python-format
+msgctxt "Mod comparison"
+msgid "%(mod)s (%(version)s)"
+msgstr "%(mod)s (%(version)s)"
+
+msgid ", "
+msgstr ", "
+
+#, python-format
+msgctxt "Mod comparison"
+msgid "Required: %(mods)s"
+msgstr "Требуются: %(mods)s"
+
+#, python-format
+msgctxt "Mod comparison"
+msgid "Active: %(mods)s"
+msgstr "Активны: %(mods)s"
+
+msgid "0 A.D. Empires Ascendant mod.io Disclaimer"
+msgstr "Условия использования 0 A.D. Empires Ascendant mod.io"
+
+msgid "Document Date: 2018-10-12"
+msgstr "Дата документа: 2018-10-12"
+
+msgid "You are about to connect to the mod.io online service."
+msgstr "You are about to connect to the mod.io online service."
+
+msgid ""
+"This service provides an easy way to download and install community-made mods and is "
+"provided by DBolical Pty Ltd, the company behind IndieDB and ModDB."
+msgstr ""
+"Этот сервис позволяет загружать и устанавливать моды, созданные сообществом, простым "
+"способом, предоставляется компанией DBolical Pty Ltd, которая владеет IndieDB и ModDB."
+
+msgid "The service is for users age 13 and over."
+msgstr "The service is for users age 13 and over."
+
+msgid ""
+"Wildfire Games has taken care to make this connection secure and reviewed the mods for "
+"security flaws, but cannot guarantee that this does not pose any risks."
+msgstr ""
+"Wildfire Games позаботилась о безопасности этого соединения и проверила моды на наличие"
+" уязвимостей, но не может гарантировать отсутствие каких-либо рисков при их "
+"использовании."
+
+msgid ""
+"By using the service, you understand that mod.io's Terms of Use and Privacy Policy "
+"apply and that Wildfire Games is not liable for any damages resulting from this "
+"service."
+msgstr ""
+"Используя сервис, вы принимаете Условия пользования и Политику конфиденциальности "
+"mod.io, а также принимаете, что Wildfire Games не несет ответственности за любой ущерб,"
+" причиненный вам при использовании данного сервиса."
+
+#, python-format
+msgctxt "mod.io error message"
+msgid ""
+"Game ID could not be retrieved.\n"
+"\n"
+"%(technicalDetails)s"
+msgstr ""
+"Game ID could not be retrieved.\n"
+"\n"
+"%(technicalDetails)s"
+
+msgctxt "mod.io error message"
+msgid "Initialization Error"
+msgstr "Initialization Error"
+
+msgid "Retry"
+msgstr "Попробовать снова"
+
+msgid "Abort"
+msgstr "Abort"
+
+#, python-format
+msgctxt "mod.io error message"
+msgid ""
+"Mod List could not be retrieved.\n"
+"\n"
+"%(technicalDetails)s"
+msgstr ""
+"Mod List could not be retrieved.\n"
+"\n"
+"%(technicalDetails)s"
+
+msgctxt "mod.io error message"
+msgid "Fetch Error"
+msgstr "Ошибка получения"
+
+#, python-format
+msgctxt "mod.io error message"
+msgid ""
+"File download failed.\n"
+"\n"
+"%(technicalDetails)s"
+msgstr ""
+"Ошибка скачивания файла.\n"
+"\n"
+"%(technicalDetails)s"
+
+msgctxt "mod.io error message"
+msgid "Download Error"
+msgstr "Ошибка скачивания"
+
+#, python-format
+msgctxt "mod.io error message"
+msgid ""
+"File verification error.\n"
+"\n"
+"%(technicalDetails)s"
+msgstr ""
+"File verification error.\n"
+"\n"
+"%(technicalDetails)s"
+
+msgctxt "mod.io error message"
+msgid "Verification Error"
+msgstr "Verification Error"
+
+msgid "Initializing mod.io interface."
+msgstr "Инициализация интерфейса mod.io."
+
+msgid "Initializing"
+msgstr "Инициализация"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+#, python-format
+msgid "Invalid mod: %(error)s"
+msgstr "Неактуальный мод: %(error)s"
+
+msgid "Fetching and updating list of available mods."
+msgstr "Получение и обновление списка доступных модов."
+
+msgid "Updating"
+msgstr "Обновление"
+
+msgid "Cancel Update"
+msgstr "Отмена обновления"
+
+#, python-format
+msgid "Downloading “%(modname)s”"
+msgstr "Загрузка мода «%(modname)s»"
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Cancel Download"
+msgstr "Отменить скачивание"
+
+#, python-format
+msgid "%(current)s / %(total)s (%(percent)s%%)"
+msgstr "%(current)s / %(total)s (%(percent)s%%)"
+
+#, python-format
+msgid ""
+"Time Elapsed: %(elapsed)s\n"
+"Estimated Time Remaining: %(remaining)s\n"
+"Average Speed: %(avgSpeed)s"
+msgstr ""
+"Времени прошло: %(elapsed)s\n"
+"Осталось до завершения: %(remaining)s\n"
+"Средняя скорость: %(avgSpeed)s"
+
+msgid "∞"
+msgstr "∞"
+
+#, python-format
+msgid "%(number)s %(unit)s/s"
+msgstr "%(number)s %(unit)s/сек"
+
+msgid "mod.io Mods"
+msgstr "mod.io Mods"
+
+msgid "Available Mods"
+msgstr "Available Mods"
+
+msgid "Filter valid mods"
+msgstr "Фильтровать актуальные моды"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Refresh List"
+msgstr "Обновить список"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Mod Label"
+msgstr "Метка мода"
+
+msgid "File Size"
+msgstr "Размер файла"
+
+msgid "Dependencies"
+msgstr "Dependencies"
+
+msgid ""
+"0 A.D. is designed to be easily modded. Mods are distributed in the form of .pyromod "
+"files, which can be opened like .zip files."
+msgstr ""
+"0 A.D. разработана с расчётом на лёгкое создание модов. Моды распространяются в виде "
+"файлов .pyromod, которые могут быть открыты как .zip архивы."
+
+msgid ""
+"In order to install a mod, just open the file with 0 A.D. (either double-click on the "
+"file and choose to open it with the game, or run \"pyrogenesis file.pyromod\" in a "
+"terminal). The mod will then be available in the mod selector. You can enable it and "
+"disable it at will. You can delete the mod manually using your file browser if needed "
+"(see https://trac.wildfiregames.com/wiki/GameDataPaths)."
+msgstr ""
+"In order to install a mod, just open the file with 0 A.D. (either double-click on the "
+"file and choose to open it with the game, or run \"pyrogenesis file.pyromod\" in a "
+"terminal). The mod will then be available in the mod selector. You can enable it and "
+"disable it at will. You can delete the mod manually using your file browser if needed "
+"(see https://trac.wildfiregames.com/wiki/GameDataPaths)."
+
+msgid ""
+"For more information about modding the game, see the Modding Guide online (click the "
+"Modding Guide button below)."
+msgstr ""
+"For more information about modding the game, see the Modding Guide online (click the "
+"Modding Guide button below)."
+
+msgid ""
+"The mod.io service is developed by DBolical, the company behind IndieDB and ModDB. "
+"Those websites have spread the word about 0 A.D. and other indie projects for a long "
+"time! Today, mod.io allows us to list and download all the mods that were verified by "
+"the team. Click \"Download Mods\" to try it out and install some!"
+msgstr ""
+"The mod.io service is developed by DBolical, the company behind IndieDB and ModDB. "
+"Those websites have spread the word about 0 A.D. and other indie projects for a long "
+"time! Today, mod.io allows us to list and download all the mods that were verified by "
+"the team. Click \"Download Mods\" to try it out and install some!"
+
+msgid "Pyrogenesis Mod Selector"
+msgstr "Pyrogenesis Mod Selector"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Modding Guide"
+msgstr "Руководство по моддингу"
+
+msgid "Visit mod.io"
+msgstr "Посетить mod.io"
+
+msgctxt "mod activation"
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgctxt "mod activation"
+msgid "Disable"
+msgstr "Отключено"
+
+msgid "No mod has been selected."
+msgstr "No mod has been selected."
+
+msgid "Modifications"
+msgstr "Modifications"
+
+msgid "Negate"
+msgstr "Инвертировать"
+
+msgid "Filter compatible"
+msgstr "Только совместимые"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Enabled Mods"
+msgstr "Включенные моды"
+
+msgid "Visit Website"
+msgstr "Перейти на веб-сайт"
+
+msgid "Quit"
+msgstr "Выйти"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Download Mods"
+msgstr "Download Mods"
+
+msgid "Save Configuration"
+msgstr "Сохранить конфигурацию"
+
+msgid "Start Mods"
+msgstr "Запустить моды"
+
+msgid "(Folder)"
+msgstr "(Folder)"
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Change the order in which mods are launched. This should match the mods dependencies."
+msgstr "Change the order in which mods are launched. This should match the mods dependencies."
+
+msgid "Disclaimer"
+msgstr "Отказ от ответственности"
+
+msgid "mod.io Terms"
+msgstr "Условия использования mod.io"
+
+msgid "mod.io Privacy Policy"
+msgstr "Политика конфиденциальности mod.io"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "View online"
+msgstr "Посмотреть онлайн"
+
+#, python-format
+msgid "Open %(url)s in the browser."
+msgstr "Open %(url)s in the browser."
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Decline"
+msgstr "Отклонить"
+
+msgid "Accept"
+msgstr "Подтвердить"
+

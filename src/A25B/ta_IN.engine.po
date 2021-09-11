@@ -1,0 +1,268 @@
+# Translation template for Pyrogenesis.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the Pyrogenesis project.
+# Translators:
+# git12a <git12@openmailbox.org>, 2015
+# Merbin J Anselm <merbinjanselm@gmail.com>, 2017
+# msidhard <msidhard@gmail.com>, 2015
+# Navaneethasankar K, 2014
+# Ridhubharan V <ridhudon@gmail.com>, 2021
+# V V <vinod.vv@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-05-17 07:08+0000\n"
+"PO-Revision-Date: 2021-05-22 10:59+0000\n"
+"Last-Translator: Ridhubharan V <ridhudon@gmail.com>\n"
+"Language-Team: Tamil (India) (http://www.transifex.com/wildfire-games/0ad/language/ta_IN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: graphics/CameraController.cpp:656
+#, c-format
+msgid "Scroll speed increased to %.1f"
+msgstr "உருள் வேகம் %.1f ஆக அதிகரித்தது"
+
+#: graphics/CameraController.cpp:662
+#, c-format
+msgid "Scroll speed decreased to %.1f"
+msgstr "உருள் வேகம் %.1f ஆக குறைந்தது"
+
+#: graphics/CameraController.cpp:669
+#, c-format
+msgid "Rotate speed increased to X=%.3f, Y=%.3f"
+msgstr "சுழலும் வேகம் X=%.3f, Y=%.3f ஆக அதிகரித்தது"
+
+#: graphics/CameraController.cpp:676
+#, c-format
+msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
+msgstr "சுழலும் வேகம் X=%.3f, Y=%.3f ஆக குறைந்தது"
+
+#: graphics/CameraController.cpp:682
+#, c-format
+msgid "Zoom speed increased to %.1f"
+msgstr "பெரிதாக்க வேகம் %.1f ஆக அதிகரித்தது"
+
+#: graphics/CameraController.cpp:688
+#, c-format
+msgid "Zoom speed decreased to %.1f"
+msgstr "பெரிதாக்க வேகம் %.1f ஆக குறைந்தது"
+
+#: i18n/L10n.cpp:308
+msgid "Long strings"
+msgstr "நீண்ட சொற்றொடர்கள்"
+
+#: lobby/XmppClient.cpp:1026
+msgid "unknown subtype (see logs)"
+msgstr "அறியப்படாத உட்பிரிவு (பதிவுகள் பார்க்க)"
+
+#: lobby/XmppClient.cpp:1357
+msgid "The certificate is not trusted."
+msgstr "சான்றிதழ் நம்பப்படவில்லை."
+
+#: lobby/XmppClient.cpp:1358
+msgid "The certificate hasn't got a known issuer."
+msgstr "சான்றிதழ் அறியப்பட்ட வழங்குநரை பெறவில்லை."
+
+#: lobby/XmppClient.cpp:1359
+msgid "The certificate has been revoked."
+msgstr "சான்றிதழ் ரத்து செய்யப்பட்டது."
+
+#: lobby/XmppClient.cpp:1360
+msgid "The certificate has expired."
+msgstr "சான்றிதழ் காலாவதியானது."
+
+#: lobby/XmppClient.cpp:1361
+msgid "The certificate is not yet active."
+msgstr "சான்றிதழ் இன்னும் செயலில் இல்லை."
+
+#: lobby/XmppClient.cpp:1362
+msgid "The certificate has not been issued for the peer connected to."
+msgstr "இணைக்கப்பட்டவருக்கு சான்றிதழ் வழங்கப்படவில்லை."
+
+#: lobby/XmppClient.cpp:1363
+msgid "The certificate signer is not a certificate authority."
+msgstr "சான்றிதழ் கையொப்பமிட்டவருக்கு சான்றிதழ் அதிகாரம் இல்லை."
+
+#: lobby/XmppClient.cpp:1385 lobby/XmppClient.cpp:1429
+#: lobby/XmppClient.cpp:1468
+msgid "Error"
+msgstr "பிழை"
+
+#: lobby/XmppClient.cpp:1388 lobby/XmppClient.cpp:1432
+msgid "No error"
+msgstr "பிழையில்லை"
+
+#: lobby/XmppClient.cpp:1390
+msgid "Player already logged in"
+msgstr "போட்டியாளர் ஏற்கனவே உள்நுழைந்துள்ளார்"
+
+#: lobby/XmppClient.cpp:1392
+msgid "Forbidden"
+msgstr " தடைசெய்யப்பட்டது "
+
+#: lobby/XmppClient.cpp:1394
+msgid "Internal server error"
+msgstr "உட்புற சேவையக பிழை"
+
+#: lobby/XmppClient.cpp:1398
+msgid "Not allowed"
+msgstr " அனுமதிக்க படாதது "
+
+#: lobby/XmppClient.cpp:1399
+msgid "Not authorized"
+msgstr "அங்கீகரிக்க படாதது "
+
+#: lobby/XmppClient.cpp:1402
+msgid "Recipient temporarily unavailable"
+msgstr "பெறுநர் தற்காலிகமாக கிடைக்கவில்லை"
+
+#: lobby/XmppClient.cpp:1404
+msgid "Registration required"
+msgstr "பதிவு அவசியம்"
+
+#: lobby/XmppClient.cpp:1408
+msgid "Service unavailable"
+msgstr "சேவை இல்லை"
+
+#: lobby/XmppClient.cpp:1413 lobby/XmppClient.cpp:1452
+msgid "Unknown error"
+msgstr "அறியப்படாத பிழை"
+
+#: lobby/XmppClient.cpp:1433
+msgid "Stream error"
+msgstr "தாரை பிழை"
+
+#: lobby/XmppClient.cpp:1434
+msgid "The incoming stream version is unsupported"
+msgstr "உள்வரும் ஸ்ட்ரீம் பதிப்பு ஆதரிக்கப்படவில்லை"
+
+#: lobby/XmppClient.cpp:1435
+msgid "The stream has been closed by the server"
+msgstr "சேவையகம் மூலம் ஸ்ட்ரீம் மூடப்பட்டுள்ளது"
+
+#: lobby/XmppClient.cpp:1439
+msgid "An I/O error occurred"
+msgstr "ஒரு I/O பிழை ஏற்பட்டது"
+
+#: lobby/XmppClient.cpp:1441
+msgid "The connection was refused by the server"
+msgstr "இணைப்பு சேவையகத்தால் மறுக்கப்பட்டது"
+
+#: lobby/XmppClient.cpp:1442
+msgid "Resolving the server's hostname failed"
+msgstr "சேவையகத்தின் பெயர் காணப்படவில்லை"
+
+#: lobby/XmppClient.cpp:1443
+msgid "This system is out of memory"
+msgstr "கணினியில் போதிய நினைவகம் இல்லை"
+
+#: lobby/XmppClient.cpp:1445
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not "
+"complete successfully"
+msgstr "சேவையகத்தின் சான்றிதழை சரிபார்க்க முடியவில்லை அல்லது TLS கைகுலுக்குதல் வெற்றிகரமாக முடிக்கப்படவில்லை"
+
+#: lobby/XmppClient.cpp:1446
+msgid "The server did not offer required TLS encryption"
+msgstr "சேவையகம் தேவையான TLS குறியாக்கத்தை வழங்கவில்லை"
+
+#: lobby/XmppClient.cpp:1448
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "அங்கீகரிப்பு தோல்வியுற்றது. தவறான கடவுச்சொல் அல்லது கணக்கு இல்லை"
+
+#: lobby/XmppClient.cpp:1449
+msgid "The user or system requested a disconnect"
+msgstr "பயனர் அல்லது கணினி துண்டிக்கப்பட்டது"
+
+#: lobby/XmppClient.cpp:1450
+msgid "There is no active connection"
+msgstr "இணைப்பு இல்லை"
+
+#: lobby/XmppClient.cpp:1471
+msgid "Your account has been successfully registered"
+msgstr "உங்கள் கணக்கு வெற்றிகரமாக பதிவு செய்யப்பட்டுள்ளது"
+
+#: lobby/XmppClient.cpp:1472
+msgid "Not all necessary information provided"
+msgstr "தேவையான எல்லா தகவல்களும் வழங்கப்படவில்லை"
+
+#: lobby/XmppClient.cpp:1473
+msgid "Username already exists"
+msgstr "பயனர் பெயர் ஏற்கனவே உள்ளது"
+
+#: ps/Mod.cpp:84
+#, c-format
+msgid ""
+"Could not write external mod.json for zipped mod '%s'. The mod should be "
+"reinstalled."
+msgstr "சுருக்கப்பட்ட 'மாற்றியமைத்தல்' '%s' கோப்பிற்கு வெளிப்புற mod.json ஐ எழுத முடியவில்லை. 'மாற்றியமைத்தல்' மீண்டும் நிறுவப்பட வேண்டும்."
+
+#: ps/ModIo.cpp:263
+#, c-format
+msgid "Failure while starting querying for game id. Error: %s; %s."
+msgstr "விளையாட்டு அடையாளத்திற்கான வினவலைத் துவங்கும்போது தோல்வி. பிழை: %s; %s."
+
+#: ps/ModIo.cpp:293
+#, c-format
+msgid "Failure while starting querying for mods. Error: %s; %s."
+msgstr "'மாற்றியமைத்தல்' வினவலைத் துவங்கும்போது தோல்வி. பிழை: %s; %s."
+
+#: ps/ModIo.cpp:319
+#, c-format
+msgid "Could not create mod directory: %s."
+msgstr "'மாற்றியமைத்தல்' கோப்பகத்தை உருவாக்க முடியவில்லை: %s."
+
+#: ps/ModIo.cpp:344
+#, c-format
+msgid "Could not open temporary file for mod download: %s."
+msgstr "'மாற்றியமைத்தல்' பதிவிறக்கத்திற்கான தற்காலிக கோப்பைத் திறக்க முடியவில்லை: %s."
+
+#: ps/ModIo.cpp:354
+#, c-format
+msgid "Failed to start the download. Error: %s; %s."
+msgstr "பதிவிறக்கத்தைத் தொடங்க முடியவில்லை. பிழை: %s; %s."
+
+#: ps/ModIo.cpp:399
+#, c-format
+msgid "Asynchronous download failure: %s, %s."
+msgstr "ஒத்திசைவற்ற பதிவிறக்க தோல்வி: %s, %s."
+
+#: ps/ModIo.cpp:427
+#, c-format
+msgid "Download failure. Server response: %s; %s."
+msgstr "பதிவிறக்கம் தோல்வி. சேவையக பதில்: %s; %s."
+
+#: ps/ModIo.cpp:530
+msgid "Mismatched filesize."
+msgstr "கோப்பு அளவு பொருந்தவில்லை."
+
+#: ps/ModIo.cpp:548
+#, c-format
+msgid "Invalid file. Expected md5 %s, got %s."
+msgstr "தவறான கோப்பு. எதிர்பார்க்கப்பட்டது md5 %s, பெற்றது %s."
+
+#: ps/ModIo.cpp:563
+msgid "Failed to compute final hash."
+msgstr "இறுதி ஹாஷைக் கணக்கிடுவதில் தோல்வி."
+
+#: ps/ModIo.cpp:569
+msgid "Failed to verify signature."
+msgstr "கையொப்பத்தை சரிபார்க்க முடியவில்லை."
+
+#: ps/SavedGame.cpp:141
+#, c-format
+msgid "Saved game to '%s'"
+msgstr "'%s' யில் விளையாட்டு சேமிக்கப்பட்டது"
+
+#: ps/Util.cpp:289 ps/Util.cpp:292 ps/Util.cpp:437 ps/Util.cpp:440
+#, c-format
+msgid "Screenshot written to '%s'"
+msgstr "திரைப்பிடிப்பு '%s' யில் எழுதப்பட்டது"
+
+#: ps/scripting/JSInterface_Debug.cpp:87
+msgid "custom build"
+msgstr "தனிக்கட்டமைப்பு"

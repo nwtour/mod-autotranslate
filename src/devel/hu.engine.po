@@ -1,0 +1,277 @@
+# Translation template for Pyrogenesis.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the Pyrogenesis project.
+# Translators:
+# Balázs Meskó <meskobalazs@mailbox.org>, 2015,2018-2019
+# Balázs Meskó <meskobalazs@mailbox.org>, 2020
+# Balázs Úr, 2015-2016
+# 12dde84ca529f511e7ad8b70de73f71c_b688a04 <2328b4f5662bb45a5de7adc879cc0db2_206283>, 2015
+# 12dde84ca529f511e7ad8b70de73f71c_b688a04 <2328b4f5662bb45a5de7adc879cc0db2_206283>, 2014-2015
+# 12dde84ca529f511e7ad8b70de73f71c_b688a04 <2328b4f5662bb45a5de7adc879cc0db2_206283>, 2014
+# Gyuris Gellért <jobel@ujevangelizacio.hu>, 2016
+# Márk Kerekes <bableves64@gmail.com>, 2015
+# Peter Darvasi <darvasipeter@windowslive.com>, 2014
+# Péter Dóbé <dobepeter@gmail.com>, 2017
+# Pista Joska <jojoskapi@freemail.hu>, 2016
+# Scael Blu <groteszk@totalcar.hu>, 2021
+# Stew Den <stewden55@hotmail.com>, 2014
+# Tibor Buzási, 2015
+# Tibor Buzási, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-05-17 07:08+0000\n"
+"PO-Revision-Date: 2021-08-18 22:10+0000\n"
+"Last-Translator: Scael Blu <groteszk@totalcar.hu>\n"
+"Language-Team: Hungarian (http://www.transifex.com/wildfire-games/0ad/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: graphics/CameraController.cpp:656
+#, c-format
+msgid "Scroll speed increased to %.1f"
+msgstr "Növelt görgetési sebesség: %.1f"
+
+#: graphics/CameraController.cpp:662
+#, c-format
+msgid "Scroll speed decreased to %.1f"
+msgstr "Csökkentett görgetési sebesség: %.1f"
+
+#: graphics/CameraController.cpp:669
+#, c-format
+msgid "Rotate speed increased to X=%.3f, Y=%.3f"
+msgstr ""
+
+#: graphics/CameraController.cpp:676
+#, c-format
+msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
+msgstr ""
+
+#: graphics/CameraController.cpp:682
+#, c-format
+msgid "Zoom speed increased to %.1f"
+msgstr ""
+
+#: graphics/CameraController.cpp:688
+#, c-format
+msgid "Zoom speed decreased to %.1f"
+msgstr ""
+
+#: i18n/L10n.cpp:308
+msgid "Long strings"
+msgstr "Hosszú szövegek"
+
+#: lobby/XmppClient.cpp:1026
+msgid "unknown subtype (see logs)"
+msgstr "ismeretlen altípus (lásd a naplókat)"
+
+#: lobby/XmppClient.cpp:1357
+msgid "The certificate is not trusted."
+msgstr "A tanúsítvány nem megbízható."
+
+#: lobby/XmppClient.cpp:1358
+msgid "The certificate hasn't got a known issuer."
+msgstr "A tanúsítvány kiállítója ismeretlen."
+
+#: lobby/XmppClient.cpp:1359
+msgid "The certificate has been revoked."
+msgstr "A tanúsítvány visszavonásra került."
+
+#: lobby/XmppClient.cpp:1360
+msgid "The certificate has expired."
+msgstr "A tanúsítvány lejárt."
+
+#: lobby/XmppClient.cpp:1361
+msgid "The certificate is not yet active."
+msgstr "A tanúsítvány még nem érvényes."
+
+#: lobby/XmppClient.cpp:1362
+msgid "The certificate has not been issued for the peer connected to."
+msgstr "A tanúsítvány nem a partner részére lett kiállítva."
+
+#: lobby/XmppClient.cpp:1363
+msgid "The certificate signer is not a certificate authority."
+msgstr "A tanúsítvány kiállítója nem hitelesítésszolgáltató."
+
+#: lobby/XmppClient.cpp:1385 lobby/XmppClient.cpp:1429
+#: lobby/XmppClient.cpp:1468
+msgid "Error"
+msgstr "Hiba"
+
+#: lobby/XmppClient.cpp:1388 lobby/XmppClient.cpp:1432
+msgid "No error"
+msgstr "Nincs hiba"
+
+#: lobby/XmppClient.cpp:1390
+msgid "Player already logged in"
+msgstr "A játékos már be van jelentkezve"
+
+#: lobby/XmppClient.cpp:1392
+msgid "Forbidden"
+msgstr "Megtagadva"
+
+#: lobby/XmppClient.cpp:1394
+msgid "Internal server error"
+msgstr "Belső kiszolgálóhiba"
+
+#: lobby/XmppClient.cpp:1398
+msgid "Not allowed"
+msgstr "Nem engedélyezett"
+
+#: lobby/XmppClient.cpp:1399
+msgid "Not authorized"
+msgstr "Nem jogosult"
+
+#: lobby/XmppClient.cpp:1402
+msgid "Recipient temporarily unavailable"
+msgstr "A címzett átmenetileg nem érhető el"
+
+#: lobby/XmppClient.cpp:1404
+msgid "Registration required"
+msgstr "Regisztráció szükséges"
+
+#: lobby/XmppClient.cpp:1408
+msgid "Service unavailable"
+msgstr "A szolgáltatás nem érhető el"
+
+#: lobby/XmppClient.cpp:1413 lobby/XmppClient.cpp:1452
+msgid "Unknown error"
+msgstr "Ismeretlen hiba"
+
+#: lobby/XmppClient.cpp:1433
+msgid "Stream error"
+msgstr "Adatfolyam hiba"
+
+#: lobby/XmppClient.cpp:1434
+msgid "The incoming stream version is unsupported"
+msgstr "A bejövő adatfolyam verziója nem támogatott"
+
+#: lobby/XmppClient.cpp:1435
+msgid "The stream has been closed by the server"
+msgstr "A kiszolgáló lezárta az adatfolyamot"
+
+#: lobby/XmppClient.cpp:1439
+msgid "An I/O error occurred"
+msgstr "I/O hiba történt"
+
+#: lobby/XmppClient.cpp:1441
+msgid "The connection was refused by the server"
+msgstr "A kiszolgáló visszautasította a kapcsolatot"
+
+#: lobby/XmppClient.cpp:1442
+msgid "Resolving the server's hostname failed"
+msgstr "A kiszolgáló gépnevének feloldása sikertelen"
+
+#: lobby/XmppClient.cpp:1443
+msgid "This system is out of memory"
+msgstr "A rendszer memóriája elfogyott"
+
+#: lobby/XmppClient.cpp:1445
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not "
+"complete successfully"
+msgstr "A kiszolgáló tanúsítványa nem ellenőrizhető, vagy a TLS kézfogás sikertelen volt"
+
+#: lobby/XmppClient.cpp:1446
+msgid "The server did not offer required TLS encryption"
+msgstr "A kiszolgáló nem biztosította a szükséges TLS titkosítást"
+
+#: lobby/XmppClient.cpp:1448
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "A hitelesítés sikertelen. Érvénytelen jelszó vagy a fiók nem létezik."
+
+#: lobby/XmppClient.cpp:1449
+msgid "The user or system requested a disconnect"
+msgstr "A felhasználó vagy a rendszer szétkapcsolást kért"
+
+#: lobby/XmppClient.cpp:1450
+msgid "There is no active connection"
+msgstr "Nincs aktív kapcsolat"
+
+#: lobby/XmppClient.cpp:1471
+msgid "Your account has been successfully registered"
+msgstr "A fiók sikeresen regisztrálva lett"
+
+#: lobby/XmppClient.cpp:1472
+msgid "Not all necessary information provided"
+msgstr "Nincs minden szükséges információ megadva"
+
+#: lobby/XmppClient.cpp:1473
+msgid "Username already exists"
+msgstr "A felhasználónév már létezik"
+
+#: ps/Mod.cpp:84
+#, c-format
+msgid ""
+"Could not write external mod.json for zipped mod '%s'. The mod should be "
+"reinstalled."
+msgstr ""
+
+#: ps/ModIo.cpp:263
+#, c-format
+msgid "Failure while starting querying for game id. Error: %s; %s."
+msgstr "A játékazonosító lekérdezésének megkezdése meghiúsult. Hiba: %s; %s."
+
+#: ps/ModIo.cpp:293
+#, c-format
+msgid "Failure while starting querying for mods. Error: %s; %s."
+msgstr "A módosítások lekérdezése meghiúsult. Hiba: %s; %s."
+
+#: ps/ModIo.cpp:319
+#, c-format
+msgid "Could not create mod directory: %s."
+msgstr "Nem hozható létre módosítás könyvtár: %s."
+
+#: ps/ModIo.cpp:344
+#, c-format
+msgid "Could not open temporary file for mod download: %s."
+msgstr "Nem nyitható meg ideiglenes fájl a módosítás letöltéséhez: %s."
+
+#: ps/ModIo.cpp:354
+#, c-format
+msgid "Failed to start the download. Error: %s; %s."
+msgstr "A letöltés megkezdése meghiúsult. Hiba: %s; %s."
+
+#: ps/ModIo.cpp:399
+#, c-format
+msgid "Asynchronous download failure: %s, %s."
+msgstr "Az aszinkron letöltés meghiúsult: %s, %s."
+
+#: ps/ModIo.cpp:427
+#, c-format
+msgid "Download failure. Server response: %s; %s."
+msgstr "Letöltési hiba. A kiszolgáló válasza: %s; %s."
+
+#: ps/ModIo.cpp:530
+msgid "Mismatched filesize."
+msgstr "Nem egyező fájlméret."
+
+#: ps/ModIo.cpp:548
+#, c-format
+msgid "Invalid file. Expected md5 %s, got %s."
+msgstr "Érvénytelen fájl. Várt md5: %s, kapott: %s."
+
+#: ps/ModIo.cpp:563
+msgid "Failed to compute final hash."
+msgstr "A végső ellenőrzőösszeg kiszámítása meghiúsult."
+
+#: ps/ModIo.cpp:569
+msgid "Failed to verify signature."
+msgstr "Az aláírás ellenőrzése meghiúsult."
+
+#: ps/SavedGame.cpp:141
+#, c-format
+msgid "Saved game to '%s'"
+msgstr "Játék elmentve ide: „%s”"
+
+#: ps/Util.cpp:289 ps/Util.cpp:292 ps/Util.cpp:437 ps/Util.cpp:440
+#, c-format
+msgid "Screenshot written to '%s'"
+msgstr "Képernyőkép elmentve ide: „%s”"
+
+#: ps/scripting/JSInterface_Debug.cpp:87
+msgid "custom build"
+msgstr "egyéni verzió"

@@ -1,0 +1,1197 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# linux_eki <ekiuusi@gmail.com>, 2015-2016,2018
+# Jiri Grönroos <jiri.gronroos@iki.fi>, 2019,2021
+# Matti Tuhola, 2021
+# Max Ihalempia, 2016
+# Max Ihalempia, 2015
+# Olavi Tuomaala <olatuo1955@gmail.com>, 2015
+# Pauli Kaikkonen <p.kaikkon@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-05-28 07:15+0000\n"
+"PO-Revision-Date: 2021-09-08 12:31+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"Language-Team: Finnish (http://www.transifex.com/wildfire-games/0ad/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: simulation/data/attack_effects/applystatus.jsondescription
+msgctxt "effect caused by an attack"
+msgid "Various (timed) effects."
+msgstr "Useita (määräaikaisia) vaikutuksia."
+
+#: simulation/data/attack_effects/applystatus.jsonname
+msgctxt "effect caused by an attack"
+msgid "Apply Status"
+msgstr "Aseta tila"
+
+#: simulation/data/attack_effects/capture.jsondescription
+msgctxt "effect caused by an attack"
+msgid "Reduces capture points of a target."
+msgstr "Vähentää kohteen valtauspisteitä."
+
+#: simulation/data/attack_effects/capture.jsonname
+msgctxt "effect caused by an attack"
+msgid "Capture"
+msgstr "Valtaus"
+
+#: simulation/data/attack_effects/damage.jsondescription
+msgctxt "effect caused by an attack"
+msgid "Reduces the health of a target."
+msgstr "Vähentää kohteen terveyttä."
+
+#: simulation/data/attack_effects/damage.jsonname
+msgctxt "effect caused by an attack"
+msgid "Damage"
+msgstr "Vahinko"
+
+#: simulation/data/damage_types/crush.jsondescription
+msgctxt "damage type"
+msgid "Damage caused by sheer force, like with a club or by trampling."
+msgstr "Raa'alla voimalla, kuten nuijalla tai tallomalla, aiheutettu vahinko."
+
+#: simulation/data/damage_types/crush.jsonname
+msgctxt "damage type"
+msgid "Crush"
+msgstr "Murskaus"
+
+#: simulation/data/damage_types/fire.jsondescription
+msgctxt "damage type"
+msgid "Damage caused by burning objects, like a torch or a flaming arrow."
+msgstr "Palavilla esineillä, kuten soihduilla tai palavilla nuolilla, aiheutettu vahinko."
+
+#: simulation/data/damage_types/fire.jsonname
+msgctxt "damage type"
+msgid "Fire"
+msgstr "Tuli"
+
+#: simulation/data/damage_types/hack.jsondescription
+msgctxt "damage type"
+msgid ""
+"Damage caused by sharp objects cutting or chopping, like with a sword or an "
+"axe."
+msgstr "Terävillä esineillä, kuten miekalla tai kirveellä, tehtyjen leikkausten ja viiltojen aiheuttama vahinko."
+
+#: simulation/data/damage_types/hack.jsonname
+msgctxt "damage type"
+msgid "Hack"
+msgstr "Hakkaus"
+
+#: simulation/data/damage_types/pierce.jsondescription
+msgctxt "damage type"
+msgid "Damage caused by sharp pointy objects, like arrows or spears."
+msgstr "Teräväkärkisillä esineillä, kuten nuolilla ja keihäillä, aiheutettu vahinko."
+
+#: simulation/data/damage_types/pierce.jsonname
+msgctxt "damage type"
+msgid "Pierce"
+msgstr "Lävistys"
+
+#: simulation/data/damage_types/poison.jsondescription
+msgctxt "damage type"
+msgid ""
+"Damage caused by venomous or poisoned objects, like a snake or a poisoned "
+"weapon."
+msgstr "Myrkyllisillä eläimillä ja esineillä, kuten käärmeillä ja myrkytetyillä aseilla, aiheutettu vahinko."
+
+#: simulation/data/damage_types/poison.jsonname
+msgctxt "damage type"
+msgid "Poison"
+msgstr "Myrkky"
+
+#: simulation/data/status_effects/burning.jsonapplierTooltip
+msgctxt "status effect"
+msgid "This unit causes fire damage."
+msgstr "Tämä yksikkö aiheuttaa tulivahinkoa."
+
+#: simulation/data/status_effects/burning.jsonreceiverTooltip
+msgctxt "status effect"
+msgid "This unit is burning."
+msgstr "Tämä yksikkö on tulessa."
+
+#: simulation/data/status_effects/burning.jsonstatusName
+msgctxt "status effect"
+msgid "Burning"
+msgstr "Tulessa"
+
+#: simulation/data/status_effects/poisoned.jsonapplierTooltip
+msgctxt "status effect"
+msgid "This unit causes poison damage."
+msgstr "Tämä yksikkö aiheuttaa myrkkyvahinkoa."
+
+#: simulation/data/status_effects/poisoned.jsonreceiverTooltip
+msgctxt "status effect"
+msgid "This unit is poisoned."
+msgstr "Tämä yksikkö on myrkytetty."
+
+#: simulation/data/status_effects/poisoned.jsonstatusName
+msgctxt "status effect"
+msgid "Poisoned"
+msgstr "Myrkytetty"
+
+#: simulation/templates/campaigns/army_mace_hero_alexander.xml:24
+msgid "Army of Alexander the Great."
+msgstr "Aleksanteri Suuren armeija."
+
+#: simulation/templates/campaigns/army_mace_hero_alexander.xml:25
+msgid "Army of Alexander the Great"
+msgstr "Aleksanteri Suuren armeija "
+
+#: simulation/templates/campaigns/army_mace_hero_alexander.xml:26
+#: simulation/templates/campaigns/army_mace_standard.xml:21
+#: simulation/templates/campaigns/army_spart_hero_leonidas.xml:26
+msgid "This is what an army would look like on the Strat Map."
+msgstr "Tämä on miltä armeijan tulisi näyttää Strat-kartassa."
+
+#: simulation/templates/campaigns/army_mace_standard.xml:19
+msgid "Army of Macedonia"
+msgstr "Makedonian armeija "
+
+#: simulation/templates/campaigns/army_mace_standard.xml:20
+msgid "Army of Macedon"
+msgstr "Makedonian armeija"
+
+#: simulation/templates/campaigns/army_spart_hero_leonidas.xml:24
+msgid "Army of Leonidas I."
+msgstr "Leonidas I:n armeija."
+
+#: simulation/templates/campaigns/army_spart_hero_leonidas.xml:25
+msgid "Army of Leonidas I"
+msgstr "Leonidas I:n armeija "
+
+#: simulation/templates/campaigns/campaign_city_minor_test.xml:21
+#: simulation/templates/campaigns/campaign_city_test.xml:21
+msgid "Market"
+msgstr "Tori"
+
+#: simulation/templates/campaigns/campaign_city_minor_test.xml:22
+#: simulation/templates/campaigns/campaign_city_test.xml:22
+msgid "Settlement"
+msgstr "Asutus"
+
+#: simulation/templates/campaigns/campaign_city_minor_test.xml:23
+msgid "Minor Greek Polis"
+msgstr "Vähäpätöinen kreikkalainen kaupunki"
+
+#: simulation/templates/campaigns/campaign_city_minor_test.xml:24
+msgid "This is a minor Greek city."
+msgstr "Tämä on vähäpätöinen kreikkalainen kaupunki."
+
+#: simulation/templates/campaigns/campaign_city_test.xml:23
+msgid "Greek Polis"
+msgstr "Kreikkalainen kaupunki"
+
+#: simulation/templates/campaigns/campaign_city_test.xml:24
+msgid "This is a major Greek city."
+msgstr "Tämä on suuri kreikkalainen kaupunki."
+
+#: simulation/templates/campaigns/campaign_religious_test.xml:12
+msgid "Religious Sanctuary"
+msgstr "Uskonnollinen pyhäkkö"
+
+#: simulation/templates/campaigns/campaign_religious_test.xml:13
+msgid "Greek Religious Sanctuary"
+msgstr "Kreikkalainen uskonnollinen pyhäkkö"
+
+#: simulation/templates/gaia/fauna_bear_black.xml:5
+#: simulation/templates/gaia/fauna_bear_brown.xml:5
+#: simulation/templates/gaia/fauna_bear_polar.xml:5
+#: simulation/templates/gaia/fauna_lion.xml:5
+#: simulation/templates/gaia/fauna_tiger.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Paws"
+msgstr "Käpälät"
+
+#: simulation/templates/gaia/fauna_bear_black.xml:24
+msgid "Black Bear"
+msgstr "Mustakarhu"
+
+#: simulation/templates/gaia/fauna_bear_black.xml:25
+msgid "Ursus americanus"
+msgstr "Ursus americanus"
+
+#: simulation/templates/gaia/fauna_bear_brown.xml:24
+msgid "Brown Bear"
+msgstr "Ruskakarhu"
+
+#: simulation/templates/gaia/fauna_bear_brown.xml:25
+msgid "Ursus arctos"
+msgstr "Ursus arctos"
+
+#: simulation/templates/gaia/fauna_bear_polar.xml:24
+msgid "Polar Bear"
+msgstr "Jääkarhu"
+
+#: simulation/templates/gaia/fauna_bear_polar.xml:25
+msgid "Ursus maritimus"
+msgstr "Ursus maritimus"
+
+#: simulation/templates/gaia/fauna_boar.xml:5
+#: simulation/templates/gaia/fauna_hippopotamus.xml:5
+#: simulation/templates/gaia/fauna_walrus.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Tusks"
+msgstr "Syöksyhampaat"
+
+#: simulation/templates/gaia/fauna_boar.xml:23
+msgid "Wild Boar"
+msgstr "Villisika"
+
+#: simulation/templates/gaia/fauna_boar.xml:24
+msgid "Sus scrofa"
+msgstr "Villisika"
+
+#: simulation/templates/gaia/fauna_camel.xml:11
+msgid "Dromedary"
+msgstr "Yksikyttyräinen kameli"
+
+#: simulation/templates/gaia/fauna_camel.xml:12
+msgid "Camelus dromedarius"
+msgstr "Camelus dromedarius"
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Horns"
+msgstr "Sarvet"
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:25
+msgid "Bull"
+msgstr "Sonni"
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:26
+#: simulation/templates/gaia/fauna_cattle_cow.xml:18
+msgid "Bos taurus taurus"
+msgstr "Bos taurus taurus"
+
+#: simulation/templates/gaia/fauna_cattle_cow.xml:17
+msgid "Cow"
+msgstr "Lehmä"
+
+#: simulation/templates/gaia/fauna_cattle_sanga.xml:17
+msgid "Sanga Cattle"
+msgstr "Sanga-nauta"
+
+#: simulation/templates/gaia/fauna_cattle_sanga.xml:18
+msgid "Bos taurus africanus"
+msgstr "Bos taurus africanus"
+
+#: simulation/templates/gaia/fauna_cattle_zebu.xml:17
+msgid "Zebu"
+msgstr "Seebu"
+
+#: simulation/templates/gaia/fauna_cattle_zebu.xml:18
+msgid "Bos taurus indicus"
+msgstr "Bos taurus indicus"
+
+#: simulation/templates/gaia/fauna_chicken.xml:11
+msgid "Chicken"
+msgstr "Kana"
+
+#: simulation/templates/gaia/fauna_chicken.xml:12
+msgid "Gallus gallus domesticus"
+msgstr "Gallus gallus domesticus"
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Teeth"
+msgstr "Hampaat"
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:23
+msgid "Nile Crocodile"
+msgstr "Niilinkrokotiili"
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:24
+msgid "Crocodylus niloticus"
+msgstr "Crocodylus niloticus"
+
+#: simulation/templates/gaia/fauna_deer.xml:11
+msgid "Red Deer"
+msgstr "Saksanhirvi"
+
+#: simulation/templates/gaia/fauna_deer.xml:12
+msgid "Cervus elaphus"
+msgstr "Cervus elaphus"
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:5
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:5
+#: simulation/templates/gaia/fauna_fox_arctic.xml:5
+#: simulation/templates/gaia/fauna_fox_red.xml:5
+#: simulation/templates/gaia/fauna_wolf.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Fangs"
+msgstr "Torahampaat"
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:24
+msgid "Mastiff"
+msgstr "Mastiffi"
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:25
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:25
+msgid "Canis lupus familiaris"
+msgstr "Canis lupus familiaris"
+
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:24
+msgid "Wolfhound"
+msgstr "Susikoira"
+
+#: simulation/templates/gaia/fauna_donkey.xml:11
+msgid "Donkey"
+msgstr "Aasi"
+
+#: simulation/templates/gaia/fauna_donkey.xml:12
+msgid "Equus africanus asinus"
+msgstr "Equus africanus asinus"
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:5
+#: simulation/templates/gaia/fauna_elephant_asian.xml:5
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Trunk"
+msgstr "Kärsä"
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:25
+msgid "African Bush Elephant"
+msgstr "Afrikan pensasnorsu"
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:26
+#: simulation/templates/gaia/fauna_elephant_african_infant.xml:12
+msgid "Loxodonta africana"
+msgstr "Loxodonta africana"
+
+#: simulation/templates/gaia/fauna_elephant_african_infant.xml:11
+msgid "African Bush Elephant Calf"
+msgstr "Afrikan pensasnorsun poikanen"
+
+#: simulation/templates/gaia/fauna_elephant_asian.xml:25
+msgid "Asian Elephant"
+msgstr "Aasian norsu"
+
+#: simulation/templates/gaia/fauna_elephant_asian.xml:26
+#: simulation/templates/gaia/fauna_elephant_asian_infant.xml:12
+msgid "Elephas maximus"
+msgstr "Elephas maximus"
+
+#: simulation/templates/gaia/fauna_elephant_asian_infant.xml:11
+msgid "Asian Elephant Calf"
+msgstr "Aasiannorsun poikanen"
+
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:25
+msgid "African Forest Elephant"
+msgstr "Afrikkalainen metsänorsu"
+
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:26
+msgid "Loxodonta cyclotis"
+msgstr "Loxodonta cyclotis"
+
+#: simulation/templates/gaia/fauna_fox_arctic.xml:24
+msgid "Arctic Fox"
+msgstr "Napakettu"
+
+#: simulation/templates/gaia/fauna_fox_arctic.xml:25
+msgid "Vulpes lagopus"
+msgstr "Naali"
+
+#: simulation/templates/gaia/fauna_fox_red.xml:24
+msgid "Red Fox"
+msgstr "Punakettu"
+
+#: simulation/templates/gaia/fauna_fox_red.xml:25
+msgid "Vulpes vulpes"
+msgstr "Punakettu"
+
+#: simulation/templates/gaia/fauna_gazelle.xml:11
+msgid "Thomson's Gazelle"
+msgstr "Thomsoningaselli"
+
+#: simulation/templates/gaia/fauna_gazelle.xml:12
+msgid "Eudorcas thomsonii"
+msgstr "Eudorcas thomsonii"
+
+#: simulation/templates/gaia/fauna_giraffe.xml:11
+msgid "Giraffe"
+msgstr "Kirahvi"
+
+#: simulation/templates/gaia/fauna_giraffe.xml:12
+#: simulation/templates/gaia/fauna_giraffe_infant.xml:12
+msgid "Giraffa camelopardalis"
+msgstr "Giraffa camelopardalis"
+
+#: simulation/templates/gaia/fauna_giraffe_infant.xml:11
+msgid "Juvenile Giraffe"
+msgstr "Nuori kirahvi"
+
+#: simulation/templates/gaia/fauna_goat.xml:17
+msgid "Goat"
+msgstr "Vuohi"
+
+#: simulation/templates/gaia/fauna_goat.xml:18
+msgid "Capra aegagrus hircus"
+msgstr "Capra aegagrus hircus"
+
+#: simulation/templates/gaia/fauna_hippopotamus.xml:24
+msgid "Hippopotamus"
+msgstr "Virtahepo"
+
+#: simulation/templates/gaia/fauna_hippopotamus.xml:25
+msgid "Hippopotamus amphibius"
+msgstr "Hippopotamus amphibius"
+
+#: simulation/templates/gaia/fauna_horse.xml:11
+msgid "Horse"
+msgstr "Hevonen"
+
+#: simulation/templates/gaia/fauna_horse.xml:12
+msgid "Equus ferus caballus"
+msgstr "Equus ferus caballus"
+
+#: simulation/templates/gaia/fauna_horse_pony.xml:8
+msgid "Pony"
+msgstr "Poni"
+
+#: simulation/templates/gaia/fauna_lion.xml:23
+msgid "Lion"
+msgstr "Leijona"
+
+#: simulation/templates/gaia/fauna_lion.xml:24
+msgid "Panthera leo"
+msgstr "Panthera leo"
+
+#: simulation/templates/gaia/fauna_lioness.xml:4
+msgid "Lioness"
+msgstr "Naarasleijona"
+
+#: simulation/templates/gaia/fauna_muskox.xml:11
+msgid "Muskox"
+msgstr "Myskihärkä"
+
+#: simulation/templates/gaia/fauna_muskox.xml:12
+msgid "Ovibos moschatus"
+msgstr "Ovibos moschatus"
+
+#: simulation/templates/gaia/fauna_peacock.xml:11
+msgid "Peacock"
+msgstr "Riikinkukko"
+
+#: simulation/templates/gaia/fauna_peacock.xml:12
+msgid "Pavo cristatus"
+msgstr "Riikinkukko"
+
+#: simulation/templates/gaia/fauna_pig.xml:17
+msgid "Pig"
+msgstr "Sika"
+
+#: simulation/templates/gaia/fauna_pig.xml:18
+msgid "Sus scrofa domesticus"
+msgstr "Sus scrofa domesticus"
+
+#: simulation/templates/gaia/fauna_pig_flaming.xml:18
+msgid "Flaming Pig"
+msgstr "Palava sika"
+
+#: simulation/templates/gaia/fauna_piglet.xml:11
+msgid "Piglet"
+msgstr "Porsas"
+
+#: simulation/templates/gaia/fauna_rabbit.xml:11
+msgid "Rabbit"
+msgstr "Jänis"
+
+#: simulation/templates/gaia/fauna_rabbit.xml:12
+msgid "Oryctolagus cuniculus"
+msgstr "Oryctolagus cuniculus"
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Horn"
+msgstr "Sarvi"
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:24
+msgid "White Rhinoceros"
+msgstr "Isosarvikuono"
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:25
+msgid "Ceratotherium simum"
+msgstr "Ceratotherium simum"
+
+#: simulation/templates/gaia/fauna_shark.xml:12
+msgid "Great White Shark"
+msgstr "Valkohai"
+
+#: simulation/templates/gaia/fauna_shark.xml:13
+msgid "Carcharodon carcharias"
+msgstr "Carcharodon carcharias"
+
+#: simulation/templates/gaia/fauna_sheep.xml:17
+msgid "Sheep"
+msgstr "Lammas"
+
+#: simulation/templates/gaia/fauna_sheep.xml:18
+msgid "Ovis aries"
+msgstr "Ovis aries"
+
+#: simulation/templates/gaia/fauna_tiger.xml:23
+msgid "Tiger"
+msgstr "Tiikeri"
+
+#: simulation/templates/gaia/fauna_tiger.xml:24
+msgid "Panthera tigris"
+msgstr "Panthera tigris"
+
+#: simulation/templates/gaia/fauna_walrus.xml:24
+msgid "Walrus"
+msgstr "Mursu"
+
+#: simulation/templates/gaia/fauna_walrus.xml:25
+msgid "Odobenus rosmarus"
+msgstr "Odobenus rosmarus"
+
+#: simulation/templates/gaia/fauna_whale_fin.xml:11
+msgid "Fin Whale"
+msgstr "Sillivalas"
+
+#: simulation/templates/gaia/fauna_whale_fin.xml:12
+msgid "Balaenoptera physalus"
+msgstr "Balaenoptera physalus"
+
+#: simulation/templates/gaia/fauna_whale_humpback.xml:11
+msgid "Humpback Whale"
+msgstr "Ryhävalas"
+
+#: simulation/templates/gaia/fauna_whale_humpback.xml:12
+msgid "Megaptera novaeangliae"
+msgstr "Megaptera novaeangliae"
+
+#: simulation/templates/gaia/fauna_wildebeest.xml:11
+msgid "Blue Wildebeest"
+msgstr "Juovagnuu"
+
+#: simulation/templates/gaia/fauna_wildebeest.xml:12
+msgid "Connochaetes taurinus"
+msgstr "Connochaetes taurinus"
+
+#: simulation/templates/gaia/fauna_wolf.xml:24
+msgid "Wolf"
+msgstr "Susi"
+
+#: simulation/templates/gaia/fauna_wolf.xml:25
+msgid "Canis lupus"
+msgstr "Susi"
+
+#: simulation/templates/gaia/fauna_wolf_arctic.xml:4
+msgid "Arctic Wolf"
+msgstr "Napasusi"
+
+#: simulation/templates/gaia/fauna_zebra.xml:11
+msgid "Common Zebra"
+msgstr "Aroseepra"
+
+#: simulation/templates/gaia/fauna_zebra.xml:12
+msgid "Equus quagga"
+msgstr "Equus quagga"
+
+#: simulation/templates/gaia/fish/tilapia.xml:4
+msgid "Tilapia"
+msgstr "Tilapia"
+
+#: simulation/templates/gaia/fish/tuna.xml:4
+msgid "Tuna"
+msgstr "Tonnikala"
+
+#: simulation/templates/gaia/fruit/apple.xml:7
+msgid "Apple"
+msgstr "Omena"
+
+#: simulation/templates/gaia/fruit/banana.xml:7
+msgid "Banana"
+msgstr "Banaani"
+
+#: simulation/templates/gaia/fruit/berry_01.xml:4
+#: simulation/templates/gaia/fruit/berry_02.xml:4
+#: simulation/templates/gaia/fruit/berry_03.xml:4
+#: simulation/templates/gaia/fruit/berry_04.xml:4
+#: simulation/templates/gaia/fruit/berry_05.xml:4
+msgid "Berries"
+msgstr "Marjoja"
+
+#: simulation/templates/gaia/fruit/date.xml:8
+#: simulation/templates/gaia/tree/date_palm.xml:4
+#: simulation/templates/gaia/tree/date_palm_dead.xml:4
+msgid "Date Palm"
+msgstr "Taatelipalmu"
+
+#: simulation/templates/gaia/fruit/fig.xml:8
+msgid "Fig"
+msgstr "Viikuna"
+
+#: simulation/templates/gaia/fruit/grapes.xml:4
+msgid "Grapes"
+msgstr "Rypäleet"
+
+#: simulation/templates/gaia/fruit/olive.xml:7
+msgid "Olive"
+msgstr "Oliivi"
+
+#: simulation/templates/gaia/ruins/column_doric.xml:8
+msgid "Ancient Ruins"
+msgstr "Muinaiset rauniot"
+
+#: simulation/templates/gaia/ruins/metal_statue_isis.xml:9
+msgid "Isis Cult Image"
+msgstr "Isis-kultin kuva"
+
+#: simulation/templates/gaia/ruins/pyramid_great.xml:8
+msgid "Great Pyramid"
+msgstr "Mahtava pyramidi"
+
+#: simulation/templates/gaia/ruins/pyramid_minor.xml:8
+msgid "Minor Pyramid"
+msgstr "Vähäpätöinen pyramidi"
+
+#: simulation/templates/gaia/ruins/standing_stone.xml:8
+#: simulation/templates/gaia/treasure/standing_stone.xml:8
+msgid "Celtic Standing Stone"
+msgstr "Kelttiläinen kivipaasi"
+
+#: simulation/templates/gaia/ruins/stone_statues_egyptian.xml:8
+msgid "Ptolemaic Egyptian Statues"
+msgstr "Ptolemaiolaisen Egyptin patsaat"
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite.xml:8
+msgid "Kushite Statue"
+msgstr "Kushiteläinen patsas"
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite_bird.xml:9
+#: simulation/templates/gaia/ruins/stone_statues_kushite_lion.xml:9
+#: simulation/templates/gaia/ruins/stone_statues_kushite_ram.xml:9
+msgid "Stone Resource"
+msgstr "Kiviresurssi"
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite_bird.xml:10
+msgid "Kushite Bird Statue"
+msgstr "Kushilainen lintupatsas"
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite_lion.xml:10
+msgid "Apademak Lion Statue"
+msgstr "Apademakin leijonapatsas"
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite_ram.xml:10
+msgid "Ammon-Ra Ram Statue"
+msgstr "Ammon-Ra:n pässipatsas"
+
+#: simulation/templates/gaia/ruins/stone_statues_roman.xml:8
+msgid "Roman Statues"
+msgstr "Rooman patsaat"
+
+#: simulation/templates/gaia/ruins/unfinished_greek_temple.xml:8
+msgid "Unfinished Greek Temple"
+msgstr "Valmistumaton kreikkalainen temppeli"
+
+#: simulation/templates/gaia/treasure/food_barrel.xml:8
+#: simulation/templates/gaia/treasure/food_bin.xml:8
+#: simulation/templates/gaia/treasure/food_crate.xml:8
+#: simulation/templates/gaia/treasure/food_jars.xml:8
+msgid "Food Treasure"
+msgstr "Ruoka-aarre"
+
+#: simulation/templates/gaia/treasure/food_barrels_buried.xml:8
+msgid "Half-buried Barrels"
+msgstr "Puoliksi haudatut tynnyrit"
+
+#: simulation/templates/gaia/treasure/food_persian_big.xml:8
+msgid "Persian Food Stores"
+msgstr "Persian ruokamarkkinat"
+
+#: simulation/templates/gaia/treasure/food_persian_small.xml:8
+msgid "Persian Food Treasure"
+msgstr "Persialainen ruoka-aarre"
+
+#: simulation/templates/gaia/treasure/golden_fleece.xml:8
+msgid "Golden Fleece"
+msgstr "Kultainen talja"
+
+#: simulation/templates/gaia/treasure/metal.xml:8
+msgid "Secret Box"
+msgstr "Salainen laatikko"
+
+#: simulation/templates/gaia/treasure/metal_persian_big.xml:8
+msgid "Persian Wares"
+msgstr "Persialainen hyödyke"
+
+#: simulation/templates/gaia/treasure/metal_persian_small.xml:8
+msgid "Persian Rugs"
+msgstr "Persialaiset matot"
+
+#: simulation/templates/gaia/treasure/metal_weapons_small.xml:8
+msgid "Iron Weapons"
+msgstr "Aseet raudasta"
+
+#: simulation/templates/gaia/treasure/pegasus.xml:8
+msgid "Pegasus"
+msgstr "Pegasus"
+
+#: simulation/templates/gaia/treasure/shipwreck.xml:8
+#: simulation/templates/gaia/treasure/shipwreck_ram_bow.xml:8
+#: simulation/templates/gaia/treasure/shipwreck_sail_boat.xml:8
+#: simulation/templates/gaia/treasure/shipwreck_sail_boat_cut.xml:8
+msgid "Shipwreck"
+msgstr "Laivanhylky"
+
+#: simulation/templates/gaia/treasure/shipwreck_debris.xml:8
+msgid "Shipwreck Cargo"
+msgstr "Laivanhylyn rahti"
+
+#: simulation/templates/gaia/treasure/stone.xml:8
+msgid "Stone Treasure"
+msgstr "Kiviaarre"
+
+#: simulation/templates/gaia/treasure/stone_pile_granite.xml:4
+msgid "Cut Granite"
+msgstr "Leikattu graniitti"
+
+#: simulation/templates/gaia/treasure/stone_pile_granite_large.xml:8
+msgid "Cut Stone"
+msgstr "Leikattu kivi"
+
+#: simulation/templates/gaia/treasure/stone_pile_red.xml:8
+#: simulation/templates/gaia/treasure/stone_pile_sandstone.xml:4
+msgid "Cut Sandstone"
+msgstr "Leikattu hiekkakivi"
+
+#: simulation/templates/gaia/treasure/wood.xml:8
+msgid "Wood Treasure"
+msgstr "Puuaarre"
+
+#: simulation/templates/gaia/treasure/wood_lumber.xml:4
+msgid "Milled Lumber"
+msgstr "Sahatavara"
+
+#: simulation/templates/gaia/tree/acacia.xml:4
+msgid "Acacia"
+msgstr "Akaasia"
+
+#: simulation/templates/gaia/tree/aleppo_pine.xml:4
+msgid "Aleppo Pine"
+msgstr "Alepponmänty"
+
+#: simulation/templates/gaia/tree/bamboo.xml:4
+#: simulation/templates/gaia/tree/bamboo_single.xml:4
+msgid "Bamboo"
+msgstr "Bambu"
+
+#: simulation/templates/gaia/tree/bamboo_dragon.xml:8
+msgid "Dragon Bamboo"
+msgstr "Lohikäärmebambu"
+
+#: simulation/templates/gaia/tree/banyan.xml:8
+msgid "Banyan"
+msgstr "Banianviikuna"
+
+#: simulation/templates/gaia/tree/baobab.xml:8
+#: simulation/templates/gaia/tree/baobab_3_mature.xml:8
+#: simulation/templates/gaia/tree/baobab_4_dead.xml:8
+msgid "Baobab"
+msgstr "Apinanleipäpuu"
+
+#: simulation/templates/gaia/tree/baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr "Apinanleipäpuun taimi"
+
+#: simulation/templates/gaia/tree/baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr "Nuori apinanleipäpuu"
+
+#: simulation/templates/gaia/tree/bush_badlands.xml:4
+msgid "Hardy Bush"
+msgstr "Sitkeä pensas"
+
+#: simulation/templates/gaia/tree/bush_steppe_01.xml:8
+#: simulation/templates/gaia/tree/bush_steppe_02.xml:8
+#: simulation/templates/gaia/tree/bush_steppe_03.xml:8
+#: simulation/templates/gaia/tree/bush_temperate.xml:4
+#: simulation/templates/gaia/tree/bush_temperate_winter.xml:4
+#: simulation/templates/gaia/tree/bush_tropic.xml:4
+msgid "Bush"
+msgstr "Pensas"
+
+#: simulation/templates/gaia/tree/carob.xml:4
+msgid "Carob"
+msgstr "Johanneksenleipäpuu"
+
+#: simulation/templates/gaia/tree/cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr "Atlassetrin taimi"
+
+#: simulation/templates/gaia/tree/cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/tree/cedar_atlas_3_mature.xml:4
+#: simulation/templates/gaia/tree/cedar_atlas_4_dead.xml:4
+msgid "Atlas Cedar"
+msgstr "Atlassetri"
+
+#: simulation/templates/gaia/tree/cretan_date_palm_patch.xml:8
+#: simulation/templates/gaia/tree/cretan_date_palm_short.xml:4
+#: simulation/templates/gaia/tree/cretan_date_palm_tall.xml:4
+msgid "Cretan Date Palm"
+msgstr "Kreetalainen taatelipalmu"
+
+#: simulation/templates/gaia/tree/cypress.xml:4
+#: simulation/templates/gaia/tree/cypress_wild.xml:4
+#: simulation/templates/gaia/tree/cypress_windswept.xml:4
+msgid "Cypress"
+msgstr "Sypressi"
+
+#: simulation/templates/gaia/tree/dead.xml:4
+#: simulation/templates/gaia/tree/temperate.xml:4
+#: simulation/templates/gaia/tree/temperate_autumn.xml:4
+#: simulation/templates/gaia/tree/temperate_winter.xml:4
+msgid "Deciduous Tree"
+msgstr "Kesävihanta puu"
+
+#: simulation/templates/gaia/tree/elm.xml:4
+#: simulation/templates/gaia/tree/elm_dead.xml:4
+msgid "Elm"
+msgstr "Jalava"
+
+#: simulation/templates/gaia/tree/euro_beech.xml:4
+#: simulation/templates/gaia/tree/euro_beech_aut.xml:4
+msgid "European Beech"
+msgstr "Euroopanpyökki"
+
+#: simulation/templates/gaia/tree/euro_birch.xml:4
+msgid "Silver Birch"
+msgstr "Rauduskoivu"
+
+#: simulation/templates/gaia/tree/fir.xml:4
+#: simulation/templates/gaia/tree/fir_winter.xml:4
+msgid "Fir"
+msgstr "Pihta"
+
+#: simulation/templates/gaia/tree/fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr "Pihdan taimi"
+
+#: simulation/templates/gaia/tree/juniper_prickly.xml:4
+msgid "Prickly Juniper"
+msgstr "Okakataja"
+
+#: simulation/templates/gaia/tree/mangrove.xml:4
+msgid "Mangrove"
+msgstr "Mangrove"
+
+#: simulation/templates/gaia/tree/maple.xml:4
+msgid "Maple"
+msgstr "Vaahtera"
+
+#: simulation/templates/gaia/tree/medit_fan_palm.xml:4
+msgid "Mediterranean Fan Palm"
+msgstr "Välimerenkääpiöpalmu"
+
+#: simulation/templates/gaia/tree/oak.xml:4
+#: simulation/templates/gaia/tree/oak_aut.xml:4
+#: simulation/templates/gaia/tree/oak_aut_new.xml:4
+#: simulation/templates/gaia/tree/oak_dead.xml:4
+#: simulation/templates/gaia/tree/oak_new.xml:4
+msgid "Oak"
+msgstr "Tammi"
+
+#: simulation/templates/gaia/tree/oak_holly.xml:4
+msgid "Holly Oak"
+msgstr "Rautatammi"
+
+#: simulation/templates/gaia/tree/oak_hungarian.xml:4
+#: simulation/templates/gaia/tree/oak_hungarian_autumn.xml:4
+msgid "Hungarian Oak"
+msgstr "Unkarin tammi"
+
+#: simulation/templates/gaia/tree/oak_large.xml:4
+msgid "Large Oak"
+msgstr "Iso tammi"
+
+#: simulation/templates/gaia/tree/palm_areca.xml:4
+msgid "Areca Palm"
+msgstr "Betelpalmu"
+
+#: simulation/templates/gaia/tree/palm_doum.xml:4
+msgid "Doum Palm"
+msgstr "Egyptinhaarapalmu"
+
+#: simulation/templates/gaia/tree/palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr "Palmyrapalmu"
+
+#: simulation/templates/gaia/tree/palm_tropic.xml:4
+msgid "Palm"
+msgstr "Palmu"
+
+#: simulation/templates/gaia/tree/palm_tropical.xml:4
+msgid "Tropical Palm"
+msgstr "Trooppinen palmu"
+
+#: simulation/templates/gaia/tree/pine.xml:4
+#: simulation/templates/gaia/tree/pine_w.xml:4
+msgid "Pine"
+msgstr "Mänty"
+
+#: simulation/templates/gaia/tree/pine_black.xml:4
+#: simulation/templates/gaia/tree/pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr "Mustamänty"
+
+#: simulation/templates/gaia/tree/pine_maritime.xml:4
+#: simulation/templates/gaia/tree/pine_maritime_short.xml:4
+msgid "Maritime Pine"
+msgstr "Rannikkomänty"
+
+#: simulation/templates/gaia/tree/poplar.xml:4
+#: simulation/templates/gaia/tree/poplar_dead.xml:4
+#: simulation/templates/gaia/tree/poplar_lombardy_autumn.xml:4
+msgid "Poplar"
+msgstr "Poppeli"
+
+#: simulation/templates/gaia/tree/poplar_lombardy.xml:4
+#: simulation/templates/gaia/tree/poplar_lombardy_dead.xml:4
+msgid "Black Poplar"
+msgstr "Mustapoppeli"
+
+#: simulation/templates/gaia/tree/senegal_date_palm.xml:4
+msgid "Senegal Date Palm"
+msgstr "Senegalin taatelipalmu"
+
+#: simulation/templates/gaia/tree/strangler.xml:8
+msgid "Strangler Fig"
+msgstr "Kuristajaviikuna"
+
+#: simulation/templates/gaia/tree/tamarix.xml:4
+msgid "Tamarix"
+msgstr "Tamariski"
+
+#: simulation/templates/gaia/tree/teak.xml:8
+msgid "Teak"
+msgstr "Tiikki"
+
+#: simulation/templates/gaia/tree/toona.xml:4
+msgid "Toona"
+msgstr "Toona"
+
+#: simulation/templates/gaia/tree/tropic_rainforest.xml:4
+msgid "Rainforest Tree"
+msgstr "Sademetsän puu"
+
+#: simulation/templates/mixins/builder.xml:35
+msgid "Builder"
+msgstr "Rakentaja"
+
+#: simulation/templates/mixins/mercenary.xml:13
+msgid "Mercenary"
+msgstr "Palkkasoturi"
+
+#: simulation/templates/mixins/shrine.xml:12
+msgid "Shrine"
+msgstr "Pyhäkkö"
+
+#: simulation/templates/mixins/trading_post.xml:8
+msgid "Trading Post"
+msgstr "Kauppapaikka"
+
+#: simulation/templates/skirmish/structures/default_house_10.xml:5
+msgid ""
+"Changes in a 10-pop house for civilisations with those houses, is deleted "
+"for other civs"
+msgstr "Muutokset 10 asukkaan taloissa niitä omaavien sivilisaatioille on poistettu toisilta sivilisaatioilta."
+
+#: simulation/templates/skirmish/structures/default_house_5.xml:8
+msgid ""
+"Changes in a 5-pop house for civilisations with those houses, is deleted for"
+" other civs"
+msgstr "Muutokset 5 asukkaan taloissa niitä omaavien sivilisatioille on poistettu toisilta sivilisaatioilta."
+
+#: simulation/templates/special/formations/anti_cavalry.xml:6
+#: simulation/templates/special/formations/testudo.xml:6
+msgid "Melee Infantry only, requires at least 16."
+msgstr "Vain lähitaistelujalkaväkeä, vähintään 16 vaaditaan."
+
+#: simulation/templates/special/formations/anti_cavalry.xml:7
+msgid "Anti Cavalry"
+msgstr "Ratsuväen torjunta"
+
+#: simulation/templates/special/formations/battle_line.xml:5
+msgid "Battle Line"
+msgstr "Taistelulinja"
+
+#: simulation/templates/special/formations/box.xml:6
+msgid "Requires at least 4 Soldiers or Siege engines."
+msgstr "Vaatii vähintään 4 sotilasta tai piirityskonetta."
+
+#: simulation/templates/special/formations/box.xml:7
+msgid "Box"
+msgstr "Laatikko"
+
+#: simulation/templates/special/formations/column_closed.xml:5
+msgid "Forced March"
+msgstr "Pakkomarssi"
+
+#: simulation/templates/special/formations/column_open.xml:5
+msgid "Column Open"
+msgstr "Kolonna avoinna"
+
+#: simulation/templates/special/formations/flank.xml:6
+msgid "Requires at least 8 Soldiers or Siege engines."
+msgstr "Vaatii vähintään 8 sotilasta tai piirityskonetta."
+
+#: simulation/templates/special/formations/flank.xml:7
+msgid "Flank"
+msgstr "Sivusta"
+
+#: simulation/templates/special/formations/line_closed.xml:5
+msgid "Close Order"
+msgstr "Suljettu muoto"
+
+#: simulation/templates/special/formations/line_open.xml:5
+msgid "Open Order"
+msgstr "Avoin muoto"
+
+#: simulation/templates/special/formations/null.xml:5
+msgid "None"
+msgstr "Ei mitään"
+
+#: simulation/templates/special/formations/phalanx.xml:6
+msgid "Infantry Hoplites only, requires at least 10."
+msgstr "Vain jalkaväkihopliitteja, vähintään 10 vaaditaan."
+
+#: simulation/templates/special/formations/phalanx.xml:7
+msgid "Phalanx"
+msgstr "Falangi"
+
+#: simulation/templates/special/formations/scatter.xml:5
+msgid "Scatter"
+msgstr "Hajaantua"
+
+#: simulation/templates/special/formations/skirmish.xml:5
+msgid "Ranged Soldiers only, requires at least 2."
+msgstr "Vain kantamasotilaita, vähintään 2 vaaditaan."
+
+#: simulation/templates/special/formations/skirmish.xml:6
+msgid "Skirmish"
+msgstr "Kahakka"
+
+#: simulation/templates/special/formations/syntagma.xml:6
+msgid "Infantry Pikemen only, requires at least 16."
+msgstr "Vain jalkaväen peitsimiehiä, vähintään 16 vaaditaan."
+
+#: simulation/templates/special/formations/syntagma.xml:8
+msgid "Syntagma"
+msgstr "Syntagma"
+
+#: simulation/templates/special/formations/testudo.xml:8
+msgid "Testudo"
+msgstr "Testudo"
+
+#: simulation/templates/special/formations/wedge.xml:6
+msgid "Cavalry only, requires at least 6."
+msgstr "Vain ratsuväkeä, vähintään 6 vaaditaan."
+
+#: simulation/templates/special/formations/wedge.xml:7
+msgid "Wedge"
+msgstr "Kiila"
+
+#: simulation/templates/special/player/player.xml:58
+msgid "Player"
+msgstr "Pelaaja"
+
+#: simulation/templates/special/spy.xml:16
+msgid "Spy"
+msgstr "Vakooja"
+
+#: simulation/templates/template_formation.xml:26
+msgid "Requires at least 2 Soldiers or Siege Engines."
+msgstr "Vaatii vähintään 2 sotilasta tai piirityskonetta."
+
+#: simulation/templates/template_gaia.xml:7
+msgid "Gaia"
+msgstr "Gaia"
+
+#: simulation/templates/gaia/fish/generic.xml:4
+#: simulation/templates/template_gaia_fish.xml:8
+msgid "Fish"
+msgstr "Kala"
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Catch fish for food."
+msgstr "Pyydystä kalaa saadaksesi ruokaa."
+
+#: simulation/templates/template_gaia_fruit.xml:8
+msgid "Fruit"
+msgstr "Hedelmä"
+
+#: simulation/templates/template_gaia_fruit.xml:9
+msgid "Pick fruit for food."
+msgstr "Kerää hedelmiä saadaksesi ruokaa."
+
+#: simulation/templates/template_gaia_ore.xml:8
+msgid "Metal Mine"
+msgstr "Metallikaivos"
+
+#: simulation/templates/template_gaia_ore.xml:9
+msgid "Mine ore for metal."
+msgstr "Louhi malmia saadaksesi metallia."
+
+#: simulation/templates/gaia/rock/aegean_cut.xml:8
+#: simulation/templates/gaia/rock/india_cut.xml:8
+#: simulation/templates/gaia/rock/nubia_cut.xml:8
+#: simulation/templates/gaia/rock/sahara_cut.xml:8
+#: simulation/templates/gaia/rock/temperate_cut.xml:8
+#: simulation/templates/template_gaia_rock.xml:8
+msgid "Stone Quarry"
+msgstr "Kivilouhos."
+
+#: simulation/templates/template_gaia_rock.xml:9
+msgid "Quarry rock for stone."
+msgstr "Louhi kalliota saadaksesi kiveä."
+
+#: simulation/templates/template_gaia_ruins.xml:8
+msgid "Ruins"
+msgstr "Rauniot"
+
+#: simulation/templates/template_gaia_ruins.xml:9
+msgid "Demolish ruins for stone."
+msgstr "Pura rauniot saadaksesi kiveä."
+
+#: simulation/templates/template_gaia_treasure.xml:8
+msgid "Treasure"
+msgstr "Aarre"
+
+#: simulation/templates/template_gaia_treasure.xml:9
+msgid "Collect treasures for resources."
+msgstr "Kerää aarteita saadaksesi resursseja."
+
+#: simulation/templates/template_gaia_tree.xml:8
+msgid "Tree"
+msgstr "Puu"
+
+#: simulation/templates/template_gaia_tree.xml:9
+msgid "Chop trees for wood."
+msgstr "Pilko puita saadaksesi puuta."
+
+#: simulation/templates/template_structure.xml:46
+msgid "Structure"
+msgstr "Rakenne"
+
+#: simulation/templates/template_unit.xml:39
+msgid "Unit"
+msgstr "Yksikkö"
+
+#: simulation/templates/template_wallset.xml:9
+#: simulation/templates/template_wallset.xml:11
+msgid "Wall"
+msgstr "Muuri"
+
+#: simulation/templates/template_wallset.xml:10
+msgid "Wall off an area."
+msgstr "Muuraa alue umpeen."

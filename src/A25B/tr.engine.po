@@ -1,0 +1,277 @@
+# Translation template for Pyrogenesis.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the Pyrogenesis project.
+# Translators:
+# Abdullah Ilgaz <abdullahilgaz@live.com>, 2014
+# AMG <alimuratgok@yahoo.com>, 2015
+# AMG <kobluk1@yahoo.com>, 2015
+# Cem Aktas <cemwstone@gmail.com>, 2021
+# Doğu Kan, 2013
+# Emre Cıklatekerlio <bosmail@programmer.net>, 2014
+# Erman Yolcu <thelastlost@gmail.com>, 2016
+# Ferhat Olçum <ferhatolcum@gmail.com>, 2018
+# Günay Yılmaz, 2019-2020
+# İrfan Sunay <irfan_sunay@hotmail.com>, 2018
+# Kemal Oktay Aktoğan <oktayaktogan@gmail.com>, 2017
+# sicey <sicey224@hotmail.com>, 2015
+# Taha Karadoğan <tahakaradogan@gmail.com>, 2016
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014
+# yakup <mutouk@yandex.ru>, 2014,2016-2017,2019
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-05-17 07:08+0000\n"
+"PO-Revision-Date: 2021-06-11 15:32+0000\n"
+"Last-Translator: Cem Aktas <cemwstone@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/wildfire-games/0ad/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: graphics/CameraController.cpp:656
+#, c-format
+msgid "Scroll speed increased to %.1f"
+msgstr "Kaydırma hızı %.1f arttırıldı."
+
+#: graphics/CameraController.cpp:662
+#, c-format
+msgid "Scroll speed decreased to %.1f"
+msgstr "Kaydrma hızı %.1f azaltıldı."
+
+#: graphics/CameraController.cpp:669
+#, c-format
+msgid "Rotate speed increased to X=%.3f, Y=%.3f"
+msgstr "Dödürme hızı  X=%.3f, Y=%.3f arttırıldı."
+
+#: graphics/CameraController.cpp:676
+#, c-format
+msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
+msgstr "Döndrme hızı X=%.3f, Y=%.3f azaltıldı."
+
+#: graphics/CameraController.cpp:682
+#, c-format
+msgid "Zoom speed increased to %.1f"
+msgstr "Yakınlaştırma hızı %.1f arttırıldı."
+
+#: graphics/CameraController.cpp:688
+#, c-format
+msgid "Zoom speed decreased to %.1f"
+msgstr "Yakınlaştırma hızı %.1f azaltıldı."
+
+#: i18n/L10n.cpp:308
+msgid "Long strings"
+msgstr "Uzun dizgeler"
+
+#: lobby/XmppClient.cpp:1026
+msgid "unknown subtype (see logs)"
+msgstr "bilinmeyen alttür (kayıtlara bakın)"
+
+#: lobby/XmppClient.cpp:1357
+msgid "The certificate is not trusted."
+msgstr "Sertifikaya güvenilmiyor."
+
+#: lobby/XmppClient.cpp:1358
+msgid "The certificate hasn't got a known issuer."
+msgstr "Sertifikanın bilinen bir yayıncısı yok."
+
+#: lobby/XmppClient.cpp:1359
+msgid "The certificate has been revoked."
+msgstr "Sertifika iptal edildi."
+
+#: lobby/XmppClient.cpp:1360
+msgid "The certificate has expired."
+msgstr "Sertifikanın süresi doldu."
+
+#: lobby/XmppClient.cpp:1361
+msgid "The certificate is not yet active."
+msgstr "Sertifika henüz aktif değil."
+
+#: lobby/XmppClient.cpp:1362
+msgid "The certificate has not been issued for the peer connected to."
+msgstr "Sertifika, bağlı olan eş için verilmemiş."
+
+#: lobby/XmppClient.cpp:1363
+msgid "The certificate signer is not a certificate authority."
+msgstr "Sertifika imzalayan bir sertifika yetkilisi değil."
+
+#: lobby/XmppClient.cpp:1385 lobby/XmppClient.cpp:1429
+#: lobby/XmppClient.cpp:1468
+msgid "Error"
+msgstr "Hata"
+
+#: lobby/XmppClient.cpp:1388 lobby/XmppClient.cpp:1432
+msgid "No error"
+msgstr "Hata yok"
+
+#: lobby/XmppClient.cpp:1390
+msgid "Player already logged in"
+msgstr "Oyuncu zaten giriş yaptı"
+
+#: lobby/XmppClient.cpp:1392
+msgid "Forbidden"
+msgstr "Yasaklanmış"
+
+#: lobby/XmppClient.cpp:1394
+msgid "Internal server error"
+msgstr "Sunucu içi hata"
+
+#: lobby/XmppClient.cpp:1398
+msgid "Not allowed"
+msgstr "İzin verilmemektedir"
+
+#: lobby/XmppClient.cpp:1399
+msgid "Not authorized"
+msgstr "Yetkiniz yok"
+
+#: lobby/XmppClient.cpp:1402
+msgid "Recipient temporarily unavailable"
+msgstr "Alıcı geçici olarak kullanılamıyor"
+
+#: lobby/XmppClient.cpp:1404
+msgid "Registration required"
+msgstr "Kayıt gerekli"
+
+#: lobby/XmppClient.cpp:1408
+msgid "Service unavailable"
+msgstr "Hizmet kullanım dışı"
+
+#: lobby/XmppClient.cpp:1413 lobby/XmppClient.cpp:1452
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+#: lobby/XmppClient.cpp:1433
+msgid "Stream error"
+msgstr "Akış hatası"
+
+#: lobby/XmppClient.cpp:1434
+msgid "The incoming stream version is unsupported"
+msgstr "Gelen akış sürümü desteklenmiyor."
+
+#: lobby/XmppClient.cpp:1435
+msgid "The stream has been closed by the server"
+msgstr "Bu akış sunucu tarafından kapatıldı."
+
+#: lobby/XmppClient.cpp:1439
+msgid "An I/O error occurred"
+msgstr "Bir G/Ç hatası oluştu"
+
+#: lobby/XmppClient.cpp:1441
+msgid "The connection was refused by the server"
+msgstr "Bu bağlantı sunucu tarafından reddedildi"
+
+#: lobby/XmppClient.cpp:1442
+msgid "Resolving the server's hostname failed"
+msgstr "Sunucu isim hatası çözülüyor"
+
+#: lobby/XmppClient.cpp:1443
+msgid "This system is out of memory"
+msgstr "Sistem belleği yetersiz."
+
+#: lobby/XmppClient.cpp:1445
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not "
+"complete successfully"
+msgstr "Sunucu sertifikası onaylanamıyor veya bu TLS başarılı şekilde doğrulanamıyor"
+
+#: lobby/XmppClient.cpp:1446
+msgid "The server did not offer required TLS encryption"
+msgstr "Bu sunucu TLS şifreleme gerekliliklerini sunamıyor"
+
+#: lobby/XmppClient.cpp:1448
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "Kimlik doğrulama başarısız oldu. Geçersiz şifre veya hesap yok"
+
+#: lobby/XmppClient.cpp:1449
+msgid "The user or system requested a disconnect"
+msgstr "Bu kullanıcı veya sistem bağlantının kesilmesine ihtiyaç duyuyor"
+
+#: lobby/XmppClient.cpp:1450
+msgid "There is no active connection"
+msgstr "Aktif bağlantı yok"
+
+#: lobby/XmppClient.cpp:1471
+msgid "Your account has been successfully registered"
+msgstr "Hesabın başarıyla kaydedildi"
+
+#: lobby/XmppClient.cpp:1472
+msgid "Not all necessary information provided"
+msgstr "bütün önemli bilgi karşılanamadı"
+
+#: lobby/XmppClient.cpp:1473
+msgid "Username already exists"
+msgstr "Kullanıcı adı zaten var"
+
+#: ps/Mod.cpp:84
+#, c-format
+msgid ""
+"Could not write external mod.json for zipped mod '%s'. The mod should be "
+"reinstalled."
+msgstr "Sıkıştırılmış mod '%s' için harici mod.json yazılamadı. Mod yeniden kurulmalı."
+
+#: ps/ModIo.cpp:263
+#, c-format
+msgid "Failure while starting querying for game id. Error: %s; %s."
+msgstr "Oyun ID'sini sorgulamaya başlarken hata oluştu. Hata: %s; %s."
+
+#: ps/ModIo.cpp:293
+#, c-format
+msgid "Failure while starting querying for mods. Error: %s; %s."
+msgstr "Modları sorgulamaya başlarken hata oluştu. Hata: %s; %s."
+
+#: ps/ModIo.cpp:319
+#, c-format
+msgid "Could not create mod directory: %s."
+msgstr "Mod dizini oluşturulamıyor: %s."
+
+#: ps/ModIo.cpp:344
+#, c-format
+msgid "Could not open temporary file for mod download: %s."
+msgstr "Mod yüklemesi için geçici dosya açılamıyor: %s."
+
+#: ps/ModIo.cpp:354
+#, c-format
+msgid "Failed to start the download. Error: %s; %s."
+msgstr "Yüklemeyi başlatmada hata. Hata: %s; %s."
+
+#: ps/ModIo.cpp:399
+#, c-format
+msgid "Asynchronous download failure: %s, %s."
+msgstr "Asenkron yükleme hatası: %s, %s."
+
+#: ps/ModIo.cpp:427
+#, c-format
+msgid "Download failure. Server response: %s; %s."
+msgstr "Yükleme hatası. Server cevabı: %s; %s."
+
+#: ps/ModIo.cpp:530
+msgid "Mismatched filesize."
+msgstr "Eşleşmeyen dosya boyutu."
+
+#: ps/ModIo.cpp:548
+#, c-format
+msgid "Invalid file. Expected md5 %s, got %s."
+msgstr "Geçersiz dosya. md5 umduk %s, %s bulduk."
+
+#: ps/ModIo.cpp:563
+msgid "Failed to compute final hash."
+msgstr "Son HASH hesaplamasında hata."
+
+#: ps/ModIo.cpp:569
+msgid "Failed to verify signature."
+msgstr "İmza doğrulamasında hata."
+
+#: ps/SavedGame.cpp:141
+#, c-format
+msgid "Saved game to '%s'"
+msgstr "Oyun buraya kaydedildi: '%s'"
+
+#: ps/Util.cpp:289 ps/Util.cpp:292 ps/Util.cpp:437 ps/Util.cpp:440
+#, c-format
+msgid "Screenshot written to '%s'"
+msgstr "Ekran görüntüsü buraya kaydedildi: '%s'"
+
+#: ps/scripting/JSInterface_Debug.cpp:87
+msgid "custom build"
+msgstr "özel inşa"

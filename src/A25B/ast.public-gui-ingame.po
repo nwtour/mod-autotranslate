@@ -1,0 +1,1740 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# David Sowa <isithere2@yahoo.com>, 2017-2021
+# enolp <enolp@softastur.org>, 2017
+# Stanislas Dolcini <stan@wildfiregames.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-06-14 07:08+0000\n"
+"PO-Revision-Date: 2021-06-28 01:39+0000\n"
+"Last-Translator: David Sowa <isithere2@yahoo.com>\n"
+"Language-Team: Asturian (http://www.transifex.com/wildfire-games/0ad/language/ast/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ast\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: gui/session/GameSpeedControl.xml:(tooltip):11
+msgid "Choose game speed"
+msgstr "Afita la velocidá del xuegu"
+
+#: gui/session/Menu.js:41
+#, javascript-format
+msgid "Press %(hotkey)s to toggle this menu."
+msgstr "Calca %(hotkey)s p'abrir o zarrar esti menú."
+
+#: gui/session/MenuButtons.js:32
+msgid "Chat"
+msgstr "Charrar"
+
+#: gui/session/MenuButtons.js:53
+msgid "Save"
+msgstr "Guardar"
+
+#: gui/session/MenuButtons.js:77
+msgid "Summary"
+msgstr "Resume"
+
+#: gui/session/MenuButtons.js:90
+#, javascript-format
+msgid "Press %(hotkey)s to open the summary screen."
+msgstr "Calca %(hotkey)s p'abrir la ventana «Resume»."
+
+#: gui/session/MenuButtons.js:133
+msgid "Lobby"
+msgstr "Antepar"
+
+#: gui/session/MenuButtons.js:142
+#, javascript-format
+msgid ""
+"Press %(hotkey)s to open the multiplayer lobby page without leaving the "
+"game."
+msgstr "Calca %(hotkey)s p'abrir la páxina «Antepar» ensin colar del xuegu."
+
+#: gui/session/MenuButtons.js:161
+msgid "Options"
+msgstr "Opciones"
+
+#: gui/session/MenuButtons.js:185
+msgid "Hotkeys"
+msgstr "Atayos"
+
+#: gui/session/MenuButtons.js:220
+msgid "Resume"
+msgstr "Siguir"
+
+#: gui/session/MenuButtons.js:220
+msgid "Pause"
+msgstr "Posar"
+
+#: gui/session/MenuButtons.js:221
+#, javascript-format
+msgid "Press %(hotkey)s to pause or resume the game."
+msgstr "Calca %(hotkey)s pa parar o reentamar el xuegu."
+
+#: gui/session/MenuButtons.js:237
+msgid "Resign"
+msgstr "Rindise"
+
+#: gui/session/MenuButtons.js:261
+#: gui/session/NetworkStatusOverlay.xml:(caption):9
+msgid "Exit"
+msgstr "Colar"
+
+#: gui/session/NetworkDelayOverlay.js:62
+#, javascript-format
+msgid "Delay to live stream: %(delay)ss"
+msgstr "Allancia na tresmisión en direuto: %(delay)ss"
+
+#: gui/session/NetworkStatusOverlay.js:38
+msgid "Connection to the server has been authenticated."
+msgstr "Autenticóse la conexón col sirvidor."
+
+#: gui/session/NetworkStatusOverlay.js:39
+msgid "Connected to the server."
+msgstr "Coneutóse col sirvidor."
+
+#: gui/session/NetworkStatusOverlay.js:40
+msgid "Connection to the server has been lost."
+msgstr "Perdióse la conexón col sirvidor."
+
+#: gui/session/NetworkStatusOverlay.js:42
+msgid "Waiting for players to connect:"
+msgstr "Esperando a que se coneuten los xugadores:"
+
+#: gui/session/NetworkStatusOverlay.js:43
+msgid "Synchronizing gameplay with other players…"
+msgstr "Sincronizando colos otros xugadores..."
+
+#: gui/session/NetworkStatusOverlay.js:47
+msgctxt "Separator for a list of client loading messages"
+msgid ", "
+msgstr ","
+
+#. Translation: The "x" means "times", with the mathematical meaning of
+#. multiplication.
+#: gui/session/OverlayCounterElapsedTime.js:33
+#, javascript-format
+msgid "%(time)s (%(speed)sx)"
+msgstr "%(time)s (%(speed)sx)"
+
+#: gui/session/PauseOverlay.js:40
+#: gui/session/message_box/OutOfSyncNetwork.js:20
+msgctxt "Separator for a list of players"
+msgid ", "
+msgstr ","
+
+#: gui/session/PauseOverlay.js:45
+#, javascript-format
+msgid "Paused by %(players)s"
+msgstr "Posólu %(players)s"
+
+#: gui/session/PauseOverlay.xml:(caption):7
+msgid "Game Paused"
+msgstr "Posóse la partida"
+
+#: gui/session/PauseOverlay.xml:(caption):11
+msgid "Click to Resume Game"
+msgstr "Calca pa siguir cola partida"
+
+#: gui/session/ResearchProgress.js:109 gui/session/selection_details.js:272
+#: gui/session/selection_details.js:290 gui/session/selection_panels.js:582
+msgctxt "countdown format"
+msgid "m:ss"
+msgstr "m:ss"
+
+#: gui/session/chat/ChatAddressees.js:88
+msgctxt "chat addressee"
+msgid "Everyone"
+msgstr "Toos"
+
+#: gui/session/chat/ChatAddressees.js:94
+msgctxt "chat addressee"
+msgid "Allies"
+msgstr "Aliaos"
+
+#: gui/session/chat/ChatAddressees.js:95
+msgctxt "chat message context"
+msgid "Ally"
+msgstr "Aliaos"
+
+#: gui/session/chat/ChatAddressees.js:105
+msgctxt "chat addressee"
+msgid "Enemies"
+msgstr "Enemigos"
+
+#: gui/session/chat/ChatAddressees.js:106
+msgctxt "chat message context"
+msgid "Enemy"
+msgstr "Enemigos"
+
+#: gui/session/chat/ChatAddressees.js:116
+msgctxt "chat addressee"
+msgid "Observers"
+msgstr "Espeutadores"
+
+#: gui/session/chat/ChatAddressees.js:117
+msgctxt "chat message context"
+msgid "Observer"
+msgstr "Espeutadores"
+
+#: gui/session/chat/ChatAddressees.js:124
+msgctxt "chat message context"
+msgid "Private"
+msgstr "Privao"
+
+#: gui/session/chat/ChatHistory.js:49
+#, javascript-format
+msgid "%(time)s %(message)s"
+msgstr "%(time)s %(message)s"
+
+#: gui/session/chat/ChatHistory.js:61
+#, javascript-format
+msgid "\\[%(time)s]"
+msgstr "\\[%(time)s]"
+
+#: gui/session/chat/ChatHistory.js:62
+msgid "HH:mm"
+msgstr "HH:mm"
+
+#: gui/session/chat/ChatHistory.js:82
+msgctxt "chat history filter"
+msgid "Chat and notifications"
+msgstr "Mensaxes y avisos"
+
+#: gui/session/chat/ChatHistory.js:87
+msgctxt "chat history filter"
+msgid "Chat messages"
+msgstr "Mensaxes"
+
+#: gui/session/chat/ChatHistory.js:92
+msgctxt "chat history filter"
+msgid "Players chat"
+msgstr "Mensaxes de xugadores"
+
+#: gui/session/chat/ChatHistory.js:99
+msgctxt "chat history filter"
+msgid "Ally chat"
+msgstr "Mensaxes d'aliaos"
+
+#: gui/session/chat/ChatHistory.js:106
+msgctxt "chat history filter"
+msgid "Enemy chat"
+msgstr "Mensaxes d'enemigos"
+
+#: gui/session/chat/ChatHistory.js:113
+msgctxt "chat history filter"
+msgid "Observer chat"
+msgstr "Mensaxes d'espeutadores"
+
+#: gui/session/chat/ChatHistory.js:120
+msgctxt "chat history filter"
+msgid "Private chat"
+msgstr "Mensaxes privaos"
+
+#: gui/session/chat/ChatHistory.js:125
+msgctxt "chat history filter"
+msgid "Game notifications"
+msgstr "Avisos del xuegu"
+
+#: gui/session/chat/ChatHistory.js:130
+msgctxt "chat history filter"
+msgid "Network notifications"
+msgstr "Avisos de la rede"
+
+#: gui/session/chat/ChatInput.js:31
+msgctxt "chat input"
+msgid "Type the message to send."
+msgstr "Teclexa'l mensaxe que quieras unviar."
+
+#: gui/session/chat/ChatInput.js:37
+#, javascript-format
+msgid "Press %(hotkey)s to open the public chat."
+msgstr "Primi %(hotkey)s p'abrir la charra pública."
+
+#: gui/session/chat/ChatInput.js:40
+#, javascript-format
+msgid "Press %(hotkey)s to open the observer chat."
+msgstr "Primi %(hotkey)s p'abrir la charra d'espeutadores."
+
+#: gui/session/chat/ChatInput.js:41
+#, javascript-format
+msgid "Press %(hotkey)s to open the ally chat."
+msgstr "Primi %(hotkey)s p'abrir la charra d'aliaos."
+
+#: gui/session/chat/ChatInput.js:43
+#, javascript-format
+msgid "Press %(hotkey)s to open the previously selected private chat."
+msgstr "Primi %(hotkey)s p'abrir la última charra privada esbillada."
+
+#. Translation: A player that left the game joins again
+#: gui/session/chat/ChatMessageFormatNetwork.js:24
+#, javascript-format
+msgid "%(player)s is starting to rejoin the game."
+msgstr "%(player)s ta entamando a rexunise a la partida."
+
+#. Translation: A player joins the game for the first time
+#: gui/session/chat/ChatMessageFormatNetwork.js:26
+#, javascript-format
+msgid "%(player)s is starting to join the game."
+msgstr "%(player)s ta entamando a xunise a la partida."
+
+#: gui/session/chat/ChatMessageFormatNetwork.js:37
+#, javascript-format
+msgid "%(player)s has left the game."
+msgstr "%(player)s coló de la partida."
+
+#: gui/session/chat/ChatMessageFormatNetwork.js:51
+#, javascript-format
+msgid "%(username)s has been banned"
+msgstr "Torgóse a %(username)s"
+
+#: gui/session/chat/ChatMessageFormatNetwork.js:52
+#, javascript-format
+msgid "%(username)s has been kicked"
+msgstr "Espuxóse a %(username)s"
+
+#. Translation: A player that left the game joins again
+#: gui/session/chat/ChatMessageFormatNetwork.js:71
+#, javascript-format
+msgid "%(player)s has rejoined the game."
+msgstr "%(player)s rexunióse a la partida."
+
+#. Translation: A player joins the game for the first time
+#: gui/session/chat/ChatMessageFormatNetwork.js:73
+#, javascript-format
+msgid "%(player)s has joined the game."
+msgstr "%(player)s xunióse a la partida."
+
+#: gui/session/chat/ChatMessageFormatPlayer.js:62
+#, javascript-format
+msgid "<%(user)s>"
+msgstr "<%(user)s>"
+
+#: gui/session/chat/ChatMessageFormatPlayer.js:161
+#, javascript-format
+msgid "(%(context)s) %(userTag)s %(message)s"
+msgstr "(%(context)s) %(userTag)s %(message)s"
+
+#: gui/session/chat/ChatMessageFormatPlayer.js:162
+#, javascript-format
+msgid "%(userTag)s %(message)s"
+msgstr "%(userTag)s %(message)s"
+
+#: gui/session/chat/ChatMessageFormatPlayer.js:165
+#, javascript-format
+msgid "(%(context)s) * %(user)s %(message)s"
+msgstr "(%(context)s) * %(user)s %(message)s"
+
+#: gui/session/chat/ChatMessageFormatPlayer.js:166
+#, javascript-format
+msgid "* %(user)s %(message)s"
+msgstr "* %(user)s %(message)s"
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:16
+#, javascript-format
+msgid "%(icon)sYour livestock has been attacked by %(attacker)s!"
+msgstr "%(icon)s ¡%(attacker)s ta atacando'l ganáu!"
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:17
+#, javascript-format
+msgid "%(icon)sYou have been attacked by %(attacker)s!"
+msgstr "%(icon)s ¡%(attacker)s ta atacándote!"
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:27
+msgid "Click to focus on the attacked unit."
+msgstr "Calca pa enfocar escontra la unidá atacada."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:46
+#, javascript-format
+msgid "%(player)s bartered %(amountGiven)s for %(amountGained)s."
+msgstr "%(player)s entrocó %(amountGiven)s empara de %(amountGained)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:81
+#, javascript-format
+msgid "You are now allied with %(player)s."
+msgstr "Agora tas aliáu con %(player)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:82
+#, javascript-format
+msgid "You are now at war with %(player)s."
+msgstr "Agora tas en guerra con %(player)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:83
+#, javascript-format
+msgid "You are now neutral with %(player)s."
+msgstr "Tiéneste vuelto neutral con %(player)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:86
+#, javascript-format
+msgid "%(player)s is now allied with you."
+msgstr "Agora %(player)s ta aliáu contigo."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:87
+#, javascript-format
+msgid "%(player)s is now at war with you."
+msgstr "Agora %(player)s ta en guerra contigo."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:88
+#, javascript-format
+msgid "%(player)s is now neutral with you."
+msgstr "%(player)s tiense vuelto neutral contigo."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:91
+#, javascript-format
+msgid "%(player)s is now allied with %(player2)s."
+msgstr "Agora %(player)s ta aliáu con %(player2)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:92
+#, javascript-format
+msgid "%(player)s is now at war with %(player2)s."
+msgstr "Agora %(player)s ta en guerra con %(player2)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:93
+#, javascript-format
+msgid "%(player)s is now neutral with %(player2)s."
+msgstr "%(player)s tiense vuelto neutral con %(player2)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:109
+#, javascript-format
+msgid "%(player)s is advancing to the %(phaseName)s."
+msgstr "%(player)s ta avanzando a la %(phaseName)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:111
+#, javascript-format
+msgid "The %(phaseName)s of %(player)s has been aborted."
+msgstr "Albortóse la %(phaseName)s de %(player)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:114
+#, javascript-format
+msgid "%(player)s has reached the %(phaseName)s."
+msgstr "%(player)s aportó a la %(phaseName)s."
+
+#. Translation: This comma is used for separating first to penultimate
+#. elements in an
+#. enumeration.
+#: gui/session/chat/ChatMessageFormatSimulation.js:142
+msgid ", "
+msgstr ", "
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:159
+#, javascript-format
+msgid "%(player)s has sent you %(amounts)s."
+msgstr "%(player)s unvióte %(amounts)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:161
+#, javascript-format
+msgid "You have sent %(player2)s %(amounts)s."
+msgstr "Unviesti %(amounts)s a %(player2)s."
+
+#: gui/session/chat/ChatMessageFormatSimulation.js:166
+#, javascript-format
+msgid "%(player)s has sent %(player2)s %(amounts)s."
+msgstr "%(player)s unvió %(amounts)s a %(player2)s."
+
+#: gui/session/chat/chat_window.xml:(caption):19
+msgctxt "chat input"
+msgid "Filter:"
+msgstr "Peñera:"
+
+#: gui/session/chat/chat_window.xml:(caption):46
+msgctxt "chat input"
+msgid "To:"
+msgstr "Pa:"
+
+#: gui/session/chat/chat_window.xml:(caption):60
+msgctxt "chat input"
+msgid "Text:"
+msgstr "Testu:"
+
+#: gui/session/chat/chat_window.xml:(caption):72
+msgid "Cancel"
+msgstr "Encaboxar"
+
+#: gui/session/chat/chat_window.xml:(caption):86
+msgctxt "chat"
+msgid "History"
+msgstr "Historia"
+
+#: gui/session/chat/chat_window.xml:(caption):91
+msgid "Send"
+msgstr "Unviar"
+
+#: gui/session/chat/chat_window.xml:(tooltip):29
+msgctxt "chat input"
+msgid "Filter the chat history."
+msgstr "Peñerar la historia de charres."
+
+#: gui/session/chat/chat_window.xml:(tooltip):55
+msgctxt "chat input"
+msgid "Select chat addressee."
+msgstr "Esbillar el destinatariu de la charra."
+
+#: gui/session/developer_overlay/DeveloperOverlay.js:67
+msgid "The Developer Overlay was opened."
+msgstr "Abrióse la sobrecapa de desendolcu."
+
+#: gui/session/developer_overlay/DeveloperOverlay.js:68
+msgid "The Developer Overlay was closed."
+msgstr "Zarróse la sobrecapa de desendolcu."
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:15
+msgid "Control all units"
+msgstr "Controlar toles unidaes"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:42
+msgid "Change perspective"
+msgstr "Cambiar perspeutiva"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:60
+msgid "Display selection state"
+msgstr "Amosar l'estáu de la esbilla"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:73
+msgid "Pathfinder overlay"
+msgstr "Sobrecapa d'aldadorios"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:86
+msgid "Hierarchical pathfinder overlay"
+msgstr "Sobrecapa d'aldadorios xerárquica"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:99
+msgid "Obstruction overlay"
+msgstr "Sobrecapa de pilancos"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:112
+msgid "Unit motion overlay"
+msgstr "Sobrecapa del movimientu d'unidaes"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:125
+msgid "Range overlay"
+msgstr "Sobrecapa del algame"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:138
+msgid "Bounding box overlay"
+msgstr "Sobrecapa de caxes delimitadores"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:151
+msgid "Restrict camera"
+msgstr "Restrinxir la cámara"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:169
+msgid "Reveal map"
+msgstr "Descubrir el mapa"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:195
+msgid "Enable time warp"
+msgstr "Activar l'alteriamientu temporal"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:214
+msgid "Activate Rejoin Test"
+msgstr "Probar la rexunidura"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:248
+msgid "Promote selected units"
+msgstr "Promover les unidaes esbillaes"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:269
+msgid "Enable culling"
+msgstr "Activar esmesón"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:287
+msgid "Lock cull camera"
+msgstr "Fixar la cámara d'esmesón"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:305
+msgid "Display camera frustum"
+msgstr "Amosar el tueru piramidal de la cámara"
+
+#: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:323
+msgid "Display shadows frustum"
+msgstr "Amosar tueru piramidal de solombres"
+
+#: gui/session/developer_overlay/TimeWarp.js:65
+msgid "Time warp mode"
+msgstr "Mou alteriamientu temporal"
+
+#: gui/session/developer_overlay/TimeWarp.js:66
+msgid ""
+"Note: time warp mode is a developer option, and not intended for use over "
+"long periods of time. Using it incorrectly may cause the game to run out of "
+"memory or crash."
+msgstr "Nota: La opción desendolcadora «mou alteriamientu temporal» nun ta pensada pal usu prollongáu. Si nun s'emplega a xeitu puede esgotar la memoria del xuegu o resultar en fallos."
+
+#: gui/session/dialogs/yes_no.xml:(caption):11
+msgid "Question"
+msgstr "Entruga"
+
+#: gui/session/dialogs/yes_no.xml:(caption):15
+msgid "Yes or no?"
+msgstr "¿Sí o non?"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):15
+msgid "Name"
+msgstr "Nome"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):18
+msgid "Civilization"
+msgstr "Civilización"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):21
+msgid "Team"
+msgstr "Equipu"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):24
+msgid "Theirs"
+msgstr "De so"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):27
+msgid "A"
+msgstr "A"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):31
+msgid "N"
+msgstr "N"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):35
+msgid "E"
+msgstr "E"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):39
+msgid "Tribute"
+msgstr "Tributar"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):90
+#: gui/session/objectives/ObjectivesDialog.xml:(caption):43
+#: gui/session/trade/TradeDialog.xml:(caption):22
+msgid "Close"
+msgstr "Zarrar"
+
+#: gui/session/diplomacy/DiplomacyDialogCeasefireCounter.js:27
+#, javascript-format
+msgctxt "ceasefire"
+msgid "Remaining ceasefire time: %(time)s."
+msgstr "Tiempu que queda del altu'l fueu: %(time)s."
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):85
+#: gui/session/diplomacy/DiplomacyDialogColorsButton.js:30
+#: gui/session/minimap/MiniMapDiplomacyColorsButton.js:36
+msgid "Toggle Diplomacy Colors"
+msgstr "Activar colores diplomátiques"
+
+#: gui/session/diplomacy/playercontrols/AttackRequestButton.js:38
+msgid "Request your allies to attack this enemy"
+msgstr "Pidir a los aliaos qu'ataquen esti enemigu"
+
+#: gui/session/diplomacy/playercontrols/DiplomacyPlayerText.js:75
+msgctxt "team"
+msgid "None"
+msgstr "Nengún"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(tooltip):28
+#: gui/session/diplomacy/playercontrols/DiplomacyPlayerText.js:78
+msgid "Ally"
+msgstr "Aliáu"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(tooltip):32
+#: gui/session/diplomacy/playercontrols/DiplomacyPlayerText.js:81
+msgid "Neutral"
+msgstr "Neutral"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(tooltip):36
+#: gui/session/diplomacy/playercontrols/DiplomacyPlayerText.js:84
+msgid "Enemy"
+msgstr "Enemigu"
+
+#: gui/session/diplomacy/playercontrols/SpyRequestButton.js:139
+msgid ""
+"Bribe a random unit from this player and share its vision during a limited "
+"period."
+msgstr "Sobornar una unidá d'esti xugador al debalu & aprovechar la so vista un periodu llendáu."
+
+#: gui/session/diplomacy/playercontrols/SpyRequestButton.js:142
+msgid "A failed bribe will cost you:"
+msgstr "Un sobornu fallíu costaráte:"
+
+#: gui/session/diplomacy/playercontrols/StanceButton.js:60
+msgctxt "diplomatic stance selection"
+msgid "x"
+msgstr "x"
+
+#: gui/session/diplomacy/playercontrols/TributeButton.js:112
+#, javascript-format
+msgid ""
+"Tribute %(resourceAmount)s %(resourceType)s to %(playerName)s. Shift-click "
+"to tribute %(greaterAmount)s."
+msgstr "Tributar %(resourceAmount)s %(resourceType)s a%(playerName)s. Con Mayús primida, calca p'apurrir %(greaterAmount)s."
+
+#: gui/session/input.js:190
+#, javascript-format
+msgid "Basic range: %(range)s meter"
+msgid_plural "Basic range: %(range)s meters"
+msgstr[0] "Algame básicu: %(range)s metru"
+msgstr[1] "Algame básicu: %(range)s metros"
+
+#: gui/session/input.js:191
+#, javascript-format
+msgid "Average bonus range: %(range)s meter"
+msgid_plural "Average bonus range: %(range)s meters"
+msgstr[0] "Media del algame de bonificación: %(range)s metru"
+msgstr[1] "Media del algame de bonificación: %(range)s metros"
+
+#: gui/session/input.js:701
+msgid "Cannot build wall here!"
+msgstr "¡Equí nun pue construyise la muralla!"
+
+#: gui/session/message_box/DeleteSelectionConfirmation.js:10
+msgid "Delete"
+msgstr "Desaniciar"
+
+#: gui/session/message_box/DeleteSelectionConfirmation.js:11
+msgid "Destroy everything currently selected?"
+msgstr "¿Destruyir tolo esbillao?"
+
+#: gui/session/dialogs/yes_no.xml:(caption):24
+#: gui/session/message_box/DeleteSelectionConfirmation.js:14
+#: gui/session/message_box/QuitConfirmation.js:14
+#: gui/session/message_box/QuitConfirmationMenu.js:49
+#: gui/session/message_box/ResignConfirmation.js:9
+msgid "No"
+msgstr "Non"
+
+#: gui/session/dialogs/yes_no.xml:(caption):19
+#: gui/session/message_box/DeleteSelectionConfirmation.js:17
+#: gui/session/message_box/QuitConfirmation.js:17
+#: gui/session/message_box/QuitConfirmationMenu.js:52
+#: gui/session/message_box/ResignConfirmation.js:12
+msgid "Yes"
+msgstr "Sí"
+
+#: gui/session/message_box/OutOfSyncNetwork.js:15
+#: gui/session/message_box/OutOfSyncReplay.js:26
+#, javascript-format
+msgid "Out-Of-Sync error on turn %(turn)s."
+msgstr "Fallu de sincronización na riola %(turn)s."
+
+#: gui/session/message_box/OutOfSyncNetwork.js:19
+#, javascript-format
+msgctxt "Out-Of-Sync"
+msgid "Players: %(players)s"
+msgstr "Xugadores: %(players)s"
+
+#: gui/session/message_box/OutOfSyncNetwork.js:24
+msgctxt "Out-Of-Sync"
+msgid "Your game state is identical to the hosts game state."
+msgstr "L'estáu del to xuegu ye igual al estáu del xuegu del agospiu."
+
+#: gui/session/message_box/OutOfSyncNetwork.js:25
+msgctxt "Out-Of-Sync"
+msgid "Your game state differs from the hosts game state."
+msgstr "L'estáu del to xuegu ye diferente al estáu del xuegu del agospiu."
+
+#: gui/session/message_box/OutOfSyncNetwork.js:31
+msgctxt "Out-Of-Sync"
+msgid "Rejoining Multiplayer games with AIs is not supported yet!"
+msgstr "¡Rexunise a partíes multixugador con IAs inda nun ta sofitao!"
+
+#: gui/session/message_box/OutOfSyncNetwork.js:34
+msgctxt "Out-Of-Sync"
+msgid "Ensure all players use the same mods."
+msgstr "Aseguráivos de que tolos xugadores empleguen los mesmos camudos."
+
+#: gui/session/message_box/OutOfSyncNetwork.js:35
+msgctxt "Out-Of-Sync"
+msgid "Click on \"Report a Bug\" in the main menu to help fix this."
+msgstr "Calca en «informar d'un fallu» nel menú principal p'aidar a igualu."
+
+#: gui/session/message_box/OutOfSyncNetwork.js:36
+#, javascript-format
+msgctxt "Out-Of-Sync"
+msgid "Replay saved to %(filepath)s"
+msgstr "Repetición guardada en %(filepath)s"
+
+#: gui/session/message_box/OutOfSyncNetwork.js:39
+#, javascript-format
+msgctxt "Out-Of-Sync"
+msgid "Dumping current state to %(filepath)s"
+msgstr "Entornando l'estáu actual en %(filepath)s"
+
+#: gui/session/message_box/OutOfSyncNetwork.js:51
+#: gui/session/message_box/OutOfSyncReplay.js:23
+msgid "Out of Sync"
+msgstr "Non sincronizao"
+
+#. Translation: This is shown if replay is out of sync
+#: gui/session/message_box/OutOfSyncReplay.js:28
+msgid "Out-Of-Sync"
+msgstr "Non sincronizada"
+
+#: gui/session/message_box/QuitConfirmation.js:6
+#: gui/session/message_box/QuitConfirmationMenu.js:63
+#: gui/session/message_box/ResignConfirmation.js:5
+msgid "Confirmation"
+msgstr "Confirmanza"
+
+#: gui/session/message_box/QuitConfirmation.js:9
+msgid "Are you sure you want to quit?"
+msgstr "¿De xuru que quies colar?"
+
+#: gui/session/message_box/QuitConfirmationDefeat.js:54
+msgid "VICTORIOUS!"
+msgstr "¡VICTORIA!"
+
+#: gui/session/message_box/QuitConfirmationDefeat.js:55
+msgid "DEFEATED!"
+msgstr "¡VENCIÉRONTE!"
+
+#: gui/session/message_box/QuitConfirmationDefeat.js:57
+msgid "Do you want to quit?"
+msgstr "¿Quies colar?"
+
+#: gui/session/message_box/QuitConfirmationMenu.js:33
+msgid ""
+"Are you sure you want to quit? Leaving will disconnect all other players."
+msgstr "¿De xuru que quies colar? Si sales tolos otros xugadores van desconeutase."
+
+#: gui/session/message_box/QuitConfirmationMenu.js:64
+msgid "Do you want to resign or will you return soon?"
+msgstr "¿Quies rindite o vas volver más sero?"
+
+#: gui/session/message_box/QuitConfirmationMenu.js:67
+msgid "I will return"
+msgstr "Voi volver"
+
+#: gui/session/message_box/QuitConfirmationMenu.js:71
+msgid "I resign"
+msgstr "Ríndome"
+
+#: gui/session/message_box/QuitConfirmationReplay.js:14
+msgctxt "replayFinished"
+msgid "Confirmation"
+msgstr "Confirmanza"
+
+#: gui/session/message_box/QuitConfirmationReplay.js:17
+msgctxt "replayFinished"
+msgid "The replay has finished. Do you want to quit?"
+msgstr "Finó la repetición. ¿Quies colar?"
+
+#: gui/session/message_box/QuitConfirmationReplay.js:22
+msgctxt "replayFinished"
+msgid "No"
+msgstr "Non"
+
+#: gui/session/message_box/QuitConfirmationReplay.js:25
+msgctxt "replayFinished"
+msgid "Yes"
+msgstr "Sí"
+
+#: gui/session/message_box/ResignConfirmation.js:6
+msgid "Are you sure you want to resign?"
+msgstr "¿De xuru que quies rindite?"
+
+#: gui/session/messages.js:104
+msgid "You have won!"
+msgstr "¡Ganesti!"
+
+#: gui/session/messages.js:105
+msgid "You have been defeated!"
+msgstr "¡Venciéronte!"
+
+#: gui/session/messages.js:410
+msgid "Click to quit this tutorial."
+msgstr "Calca pa colar d'esti tutorial."
+
+#: gui/session/messages.js:411
+msgid "Quit"
+msgstr "Colar"
+
+#: gui/session/messages.js:415
+msgid "Click when ready."
+msgstr "Calca cuando teas preparáu."
+
+#: gui/session/messages.js:419
+msgid "Follow the instructions."
+msgstr "Sigui les instrucciones."
+
+#: gui/session/messages.js:544
+msgid "Unknown Player"
+msgstr "Xugador desconocíu"
+
+#: gui/session/minimap/MiniMapFlareButton.js:35
+msgid "Send a flare to your allies"
+msgstr "Facer una seña a los aliaos"
+
+#: gui/session/minimap/MiniMapIdleWorkerButton.js:40
+msgid "Find idle worker"
+msgstr "Atopar un obreru baleru"
+
+#: gui/session/selection_details.js:65
+#, javascript-format
+msgid "%(secondaryName)s — Packed"
+msgstr "%(secondaryName)s — armáu/ada"
+
+#: gui/session/selection_details.js:67
+msgid "Packed"
+msgstr "Armáu/ada"
+
+#: gui/session/chat/ChatAddressees.js:74 gui/session/selection_details.js:78
+#, javascript-format
+msgid "\\[OFFLINE] %(player)s"
+msgstr "\\[FUERA DE LA REDE] %(player)s"
+
+#: gui/session/selection_details.js:83
+#, javascript-format
+msgid "%(rank)s Rank"
+msgstr "Rangu %(rank)s"
+
+#: gui/session/selection_details.js:140
+#, javascript-format
+msgid "%(hitpoints)s / %(maxHitpoints)s"
+msgstr "%(hitpoints)s / %(maxHitpoints)s"
+
+#: gui/session/selection_details.js:181
+#, javascript-format
+msgid "%(capturePoints)s / %(maxCapturePoints)s"
+msgstr "%(capturePoints)s / %(maxCapturePoints)s"
+
+#: gui/session/selection_details.js:201
+#, javascript-format
+msgid "%(experience)s %(current)s / %(required)s"
+msgstr "%(experience)s %(current)s / %(required)s"
+
+#: gui/session/selection_details.js:202 gui/session/selection_details.js:208
+msgid "Experience:"
+msgstr "Esperiencia:"
+
+#: gui/session/selection_details.js:207
+#, javascript-format
+msgid "%(experience)s %(current)s"
+msgstr "%(experience)s %(current)s"
+
+#: gui/session/selection_details.js:217
+msgid "∞"
+msgstr "∞"
+
+#: gui/session/selection_details.js:218 gui/session/selection_details.js:248
+#: gui/session/selection_details.js:278
+#, javascript-format
+msgid "%(amount)s / %(max)s"
+msgstr "%(amount)s / %(max)s"
+
+#: gui/session/selection_details.js:230
+#, javascript-format
+msgid "%(resource)s:"
+msgstr "%(resource)s:"
+
+#: gui/session/selection_details.js:261 gui/session/unit_actions.js:633
+#: gui/session/unit_actions.js:642 gui/session/unit_actions.js:660
+#: gui/session/unit_actions.js:1133
+#, javascript-format
+msgid "Gain: %(gain)s"
+msgstr "Ganancia: %(gain)s"
+
+#: gui/session/selection_details.js:270 gui/session/selection_details.js:288
+#, javascript-format
+msgid ""
+"(%(number)s)\n"
+"%(time)s"
+msgstr "(%(number)s)\n%(time)s"
+
+#: gui/session/selection_details.js:282
+msgid "Current/max gatherers"
+msgstr "Coyedores actuales/máximos"
+
+#: gui/session/selection_details.js:306
+#, javascript-format
+msgid "(%(secondaryName)s)"
+msgstr "(%(secondaryName)s)"
+
+#: gui/session/selection_details.js:452
+msgid "Capture Points:"
+msgstr "Fideleza:"
+
+#: gui/session/selection_details.js:460
+#, javascript-format
+msgid "%(label)s: %(details)s\n"
+msgstr "%(label)s: %(details)s\n"
+
+#: gui/session/selection_details.js:461
+msgid "Garrison Size"
+msgstr "Tamañu'l guarecimientu"
+
+#: gui/session/selection_details.js:466
+#, javascript-format
+msgid "%(label)s %(details)s\n"
+msgstr "%(label)s %(details)s\n"
+
+#: gui/session/selection_details.js:467
+msgid "Carrying:"
+msgstr "Llevando:"
+
+#: gui/session/selection_details.js:470 gui/session/selection_details.js:479
+#, javascript-format
+msgid "%(type)s %(amount)s"
+msgstr "%(type)s %(amount)s"
+
+#: gui/session/selection_details.js:475
+#, javascript-format
+msgid "%(label)s %(details)s"
+msgstr "%(label)s %(details)s"
+
+#: gui/session/selection_details.js:476
+msgid "Loot:"
+msgstr "Botín:"
+
+#. Translation: Used in the trading gain tooltip
+#: gui/session/selection_details.js:537
+#, javascript-format
+msgid "%(gain)s (%(player)s)"
+msgstr "%(gain)s (%(player)s)"
+
+#. Translation: Used in the trading gain tooltip to concatenate profits of
+#. different players
+#: gui/session/selection_details.js:561
+msgid "+"
+msgstr "+"
+
+#: gui/session/selection_details.js:568
+msgctxt "Separation mark in an enumeration"
+msgid ", "
+msgstr ","
+
+#: gui/session/selection_panels.js:65
+msgid "Raise an alert!"
+msgstr "¡Xubíi'l nivel d'alerta!"
+
+#: gui/session/selection_panels.js:68
+msgid "End of alert."
+msgstr "Fin de l'alerta."
+
+#: gui/session/selection_panels.js:277
+msgid "Default formation is disabled."
+msgstr "La formación predeterminada ta desactivada."
+
+#: gui/session/selection_panels.js:278
+msgid "Right-click to disable the default formation feature."
+msgstr "Calca col botón derechu'l mur pa desactivar la función «formación predeterminada»."
+
+#: gui/session/selection_panels.js:281
+msgid "This is the default formation, used for movement orders."
+msgstr "Esta ye la formación predeterminada de les tropes al movese."
+
+#: gui/session/selection_panels.js:282
+msgid "Right-click to set this as the default formation."
+msgstr "Calca col botón derechu'l mur p'afitar como predeterminada esta formación."
+
+#: gui/session/selection_panels.js:338
+#, javascript-format
+msgid "Unload %(name)s"
+msgstr "Descargar %(name)s"
+
+#: gui/session/selection_panels.js:339
+msgid "Single-click to unload 1. Shift-click to unload all of this type."
+msgstr "Calca una vegada pa descargar 1. Calca con Mayús primida pa descargar tolos d'esti tipu."
+
+#: gui/session/selection_panels.js:341 gui/session/selection_panels.js:894
+#, javascript-format
+msgid "Player: %(playername)s"
+msgstr "Xugador: %(playername)s"
+
+#: gui/session/selection_panels.js:377
+msgid "Lock Gate"
+msgstr "Pesllar"
+
+#: gui/session/selection_panels.js:383
+msgid "Unlock Gate"
+msgstr "Abrir"
+
+#: gui/session/selection_panels.js:434
+msgid "Pack"
+msgstr "Desarmar"
+
+#: gui/session/selection_panels.js:442
+msgid "Unpack"
+msgstr "Armar"
+
+#: gui/session/selection_panels.js:450
+msgid "Cancel Packing"
+msgstr "Encaboxar el desarme"
+
+#: gui/session/selection_panels.js:458
+msgid "Cancel Unpacking"
+msgstr "Encaboxar l'armadura"
+
+#: gui/session/selection_panels.js:558
+msgid "The auto-queue will try to train this item later."
+msgstr "Si se pue, ello enrestaráse más alantre de mou automáticu."
+
+#: gui/session/selection_panels.js:561
+msgid "Insufficient population capacity:"
+msgstr "Nun hai capacidá pa más población:"
+
+#: gui/session/selection_panels.js:562
+#, javascript-format
+msgid "%(population)s %(neededSlots)s"
+msgstr "%(population)s %(neededSlots)s"
+
+#: gui/session/selection_panels.js:759
+#, javascript-format
+msgid "%(number)s entity of class %(class)s"
+msgid_plural "%(number)s entities of class %(class)s"
+msgstr[0] "%(number)s entidá de clas %(class)s"
+msgstr[1] "%(number)s entidaes de clas %(class)s"
+
+#: gui/session/selection_panels.js:765
+#, javascript-format
+msgid "Remaining: %(entityCounts)s"
+msgstr "%(entityCounts)s restantes"
+
+#: gui/session/selection_panels.js:766
+msgctxt "Separator for a list of entity counts"
+msgid ", "
+msgstr ","
+
+#: gui/session/selection_panels.js:818
+msgid "Cannot research while upgrading."
+msgstr "Nun pue desendolcase demientres la meyora."
+
+#: gui/session/selection_panels.js:1043
+msgid "Cannot train while upgrading."
+msgstr "Nun pue allistase demientres la meyora."
+
+#: gui/session/selection_panels.js:1112
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s (%(secondaryName)s). %(tooltip)s"
+msgstr "Ascender a %(primaryName)s (%(secondaryName)s). %(tooltip)s"
+
+#: gui/session/selection_panels.js:1118
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s (%(secondaryName)s)."
+msgstr "Ascender a %(primaryName)s (%(secondaryName)s)."
+
+#: gui/session/selection_panels.js:1126
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s. %(tooltip)s"
+msgstr "Ascender a %(primaryName)s. %(tooltip)s"
+
+#: gui/session/selection_panels.js:1131
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s."
+msgstr "Ascender a %(primaryName)s."
+
+#: gui/session/selection_panels.js:1168
+msgid "Cancel Upgrading"
+msgstr "Encaboxar la meyora"
+
+#: gui/session/selection_panels.js:1183
+msgid ""
+"Cannot upgrade when the entity is training, researching or already "
+"upgrading."
+msgid_plural ""
+"Cannot upgrade when all entities are training, researching or already "
+"upgrading."
+msgstr[0] "Nun pue ameyorase de la que ta allistando, desendolcando o ameyorando."
+msgstr[1] "Nun puen ameyorase de la que tán toos allistando, desendolcando o ameyorando."
+
+#: gui/session/selection_panels_helpers.js:53
+msgctxt "stance"
+msgid "Violent"
+msgstr "Violentu"
+
+#: gui/session/selection_panels_helpers.js:55
+msgctxt "stance"
+msgid "Aggressive"
+msgstr "Agresivu"
+
+#: gui/session/selection_panels_helpers.js:57
+msgctxt "stance"
+msgid "Defensive"
+msgstr "Defensivu"
+
+#: gui/session/selection_panels_helpers.js:59
+msgctxt "stance"
+msgid "Passive"
+msgstr "Pasivu"
+
+#: gui/session/selection_panels_helpers.js:61
+msgctxt "stance"
+msgid "Standground"
+msgstr "Fincase"
+
+#: gui/session/selection_panels_helpers.js:73
+msgctxt "stance"
+msgid "Attack nearby opponents, focus on attackers and chase while visible"
+msgstr "Atacar enemigos averaos, centrándose nos agresores y persiguiéndolos hasta perdelos de vista"
+
+#: gui/session/selection_panels_helpers.js:75
+msgctxt "stance"
+msgid "Attack nearby opponents"
+msgstr "Atacar enemigos averaos"
+
+#: gui/session/selection_panels_helpers.js:77
+msgctxt "stance"
+msgid ""
+"Attack nearby opponents, chase a short distance and return to the original "
+"location"
+msgstr "Atacar enemigos averaos, persiguiéndolos un poco y tornando darréu al so puestu"
+
+#: gui/session/selection_panels_helpers.js:79
+msgctxt "stance"
+msgid "Flee if attacked"
+msgstr "Fuxir al vese atacáu"
+
+#: gui/session/selection_panels_helpers.js:81
+msgctxt "stance"
+msgid "Attack opponents in range, but don't move"
+msgstr "Atacar enemigos averaos ensin persiguilos"
+
+#: gui/session/selection_panels_helpers.js:95
+#, javascript-format
+msgid "Current Count: %(count)s, Limit: %(limit)s."
+msgstr "Cifra actual: %(count)s, Llende: %(limit)s."
+
+#: gui/session/selection_panels_helpers.js:109
+#, javascript-format
+msgid "%(changer)s enlarges the limit with %(change)s."
+msgstr "%(changer)s enanta la llende con %(change)s."
+
+#: gui/session/selection_panels_helpers.js:110
+#, javascript-format
+msgid "%(changer)s lessens the limit with %(change)s."
+msgstr "%(changer)s amenorga la llende con %(change)s."
+
+#: gui/session/selection_panels_helpers.js:140
+msgid "Could only be constructed once."
+msgid_plural "Could only be constructed %(limit)s times."
+msgstr[0] "Namái pudo construyise una vegada."
+msgstr[1] "Namái pudo construyise %(limit)s vegaes."
+
+#: gui/session/selection_panels_helpers.js:144
+msgid "Can be constructed only once."
+msgstr "Pue construyise namái una vegada."
+
+#: gui/session/selection_panels_helpers.js:146
+#, javascript-format
+msgid "Can be constructed %(count)s more time."
+msgid_plural "Can be constructed %(count)s more times."
+msgstr[0] "Pue construyise %(count)s vegada más."
+msgstr[1] "Pue construyise %(count)s vegaes más."
+
+#: gui/session/selection_panels_helpers.js:153
+msgid "Could only be trained once."
+msgid_plural "Could only be trained %(limit)s times."
+msgstr[0] "Namái pudo allistase una vegada."
+msgstr[1] "Namái pudo allistase %(limit)s vegaes."
+
+#: gui/session/selection_panels_helpers.js:157
+msgid "Can be trained only once."
+msgstr "Pue allistase namái una vegada."
+
+#: gui/session/selection_panels_helpers.js:159
+#, javascript-format
+msgid "Can be trained %(count)s more time."
+msgid_plural "Can be trained %(count)s more times."
+msgstr[0] "Pue allistase %(count)s vegada más."
+msgstr[1] "Pue allistase %(count)s vegaes más."
+
+#: gui/session/selection_panels_helpers.js:166
+msgid "Could only be created once."
+msgid_plural "Could only be created %(limit)s times."
+msgstr[0] "Namái pudo criase una vegada."
+msgstr[1] "Namái pudo criase %(limit)s vegaes."
+
+#: gui/session/selection_panels_helpers.js:170
+msgid "Can be created only once."
+msgstr "Pue criase namái una vegada."
+
+#: gui/session/selection_panels_helpers.js:172
+#, javascript-format
+msgid "Can be created %(count)s more time."
+msgid_plural "Can be created %(count)s more times."
+msgstr[0] "Pue criase %(count)s vegada más."
+msgstr[1] "Pue criase %(count)s vegaes más."
+
+#: gui/session/selection_panels_helpers.js:201
+#, javascript-format
+msgid "%(buildings)s*%(batchSize)s"
+msgstr "%(buildings)s*%(batchSize)s"
+
+#: gui/session/selection_panels_helpers.js:215
+#, javascript-format
+msgid "%(action)s to train %(number)s (%(fullBatch)s + %(remainderBatch)s)."
+msgstr "%(action)s p'allistar %(number)s (%(fullBatch)s + %(remainderBatch)s)."
+
+#: gui/session/selection_panels_helpers.js:217
+#, javascript-format
+msgid "%(action)s to train %(number)s (%(fullBatch)s)."
+msgstr "%(action)s p'allistar %(number)s (%(fullBatch)s)."
+
+#: gui/session/selection_panels_helpers.js:219
+#, javascript-format
+msgid "%(action)s to train %(number)s."
+msgstr "%(action)s p'allistar %(number)s."
+
+#: gui/session/selection_panels_helpers.js:224
+msgid "Shift-click"
+msgstr "Mayúscules-clic"
+
+#: gui/session/selection_panels_left/garrison_panel.xml:(tooltip):16
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):40
+msgid "Health"
+msgstr "Vida"
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):54
+msgid "Capture points"
+msgstr "Fideleza"
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):82
+msgid "Attack and Resistance"
+msgstr "Ataque y resistencia"
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):97
+msgid "Experience"
+msgstr "Esperiencia"
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):105
+msgid "Rank"
+msgstr "Rangu"
+
+#: gui/session/selection_panels_right/queue_panel.xml:(tooltip):8
+msgid "Production queue"
+msgstr "Riestra de producción"
+
+#: gui/session/session_objects/selection_group_icons.xml:(tooltip):7
+msgid ""
+"Click to select grouped units, double-click to focus the grouped units and "
+"right-click to disband the group."
+msgstr "Calca pa esbillar un garapiellu d'unidaes, calca dos vegaes pa enfocar escontra elli y calca col botón derechu pa dixebralu."
+
+#: gui/session/top_panel/BuildLabel.xml:(caption):6
+msgid "Alpha XXV: Yaunā"
+msgstr "Alfa XXV: Yaunā"
+
+#: gui/session/top_panel/CivIcon.js:80
+#, javascript-format
+msgid ""
+"%(civ)s\n"
+"%(hotkey_civinfo)s / %(hotkey_structree)s: View Civilization Overview / Structure Tree\n"
+"Last opened will be reopened on click."
+msgstr "%(civ)s\n%(hotkey_civinfo)s / %(hotkey_structree)s: Ver Güeyada a la civilización / Árbole de construcciones\nL'últimu abiertu va reabrise en calcando."
+
+#: gui/session/top_panel/CounterManager.js:101
+#, javascript-format
+msgid "%(order)s: %(hotkey)s to change order."
+msgstr "%(order)s: %(hotkey)s pa camudar l'orde."
+
+#: gui/session/top_panel/CounterManager.js:105
+msgid "Unordered"
+msgstr "Ensin ordenar"
+
+#: gui/session/top_panel/CounterManager.js:107
+msgid "Descending"
+msgstr "Descendente"
+
+#: gui/session/top_panel/CounterManager.js:108
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: gui/session/top_panel/CounterManager.js:133
+#, javascript-format
+msgid "%(playername)s: %(statValue)s"
+msgstr "%(playername)s: %(statValue)s"
+
+#. Translation: Do not insert spaces around the slash symbol for this exact
+#. string. Keep only
+#. one space between popLimit and popMax.
+#: gui/session/top_panel/CounterPopulation.js:61
+#: gui/session/top_panel/CounterPopulation.js:65
+#, javascript-format
+msgid "%(popCount)s/%(popLimit)s (%(popMax)s)"
+msgstr "%(popCount)s/%(popLimit)s (%(popMax)s)"
+
+#: gui/session/top_panel/CounterPopulation.js:63
+msgid "Population: current/limit (max)"
+msgstr "Población: actual/máxima"
+
+#: gui/session/top_panel/CounterPopulation.js:70
+msgid "Gatherers: current"
+msgstr "Coyedores: agora mesmo"
+
+#: gui/session/top_panel/FollowPlayer.xml:(caption):15
+#: gui/session/top_panel/FollowPlayer.xml:(tooltip):11
+msgctxt "observer mode"
+msgid "Follow Player"
+msgstr "Siguir un xugador"
+
+#: gui/session/diplomacy/DiplomacyDialog.xml:(caption):10
+#: gui/session/top_panel/IconButtons/DiplomacyDialogButton.js:29
+msgid "Diplomacy"
+msgstr "Diplomacia"
+
+#: gui/session/top_panel/IconButtons/GameSpeedButton.xml:(tooltip):9
+msgid "Game Speed"
+msgstr "Velocidá del xuegu"
+
+#: gui/session/objectives/ObjectivesDialog.xml:(caption):15
+#: gui/session/top_panel/IconButtons/ObjectivesDialogButton.js:23
+msgid "Objectives"
+msgstr "Oxetivos"
+
+#: gui/session/top_panel/MenuButton.xml:(caption):15
+msgid "Menu"
+msgstr "Menú"
+
+#: gui/session/top_panel/PlayerViewControl.js:123
+msgid "Observer"
+msgstr "Espeutador"
+
+#: gui/session/top_panel/PlayerViewControl.xml:(caption):17
+msgid "Observer Mode"
+msgstr "Mou espeutador"
+
+#: gui/session/top_panel/PlayerViewControl.xml:(tooltip):13
+msgid "Choose player to view"
+msgstr "Escoyer un xugador que ver"
+
+#: gui/session/trade/BarterButton.js:100
+#, javascript-format
+msgid "Buy %(resource)s"
+msgstr "Mercar %(resource)s"
+
+#: gui/session/trade/BarterButton.js:101
+#, javascript-format
+msgid "Sell %(resource)s"
+msgstr "Vender %(resource)s"
+
+#: gui/session/trade/BarterButton.js:102
+#, javascript-format
+msgctxt "buy action"
+msgid "+%(amount)s"
+msgstr "+%(amount)s"
+
+#: gui/session/trade/BarterButton.js:103
+#, javascript-format
+msgctxt "sell action"
+msgid "-%(amount)s"
+msgstr "-%(amount)s"
+
+#: gui/session/trade/BarterPanel.xml:(caption):5
+msgid "Barter"
+msgstr "Troquéu"
+
+#: gui/session/trade/BarterPanel.xml:(caption):13
+msgid "Sell:"
+msgstr "Dar:"
+
+#: gui/session/trade/BarterPanel.xml:(caption):17
+msgid "Buy:"
+msgstr "Percanciar:"
+
+#: gui/session/trade/BarterPanel.xml:(caption):21
+msgid "No Markets Available"
+msgstr "Nun hai mercaos disponibles"
+
+#: gui/session/trade/TradeButton.js:56
+#, javascript-format
+msgctxt "trading good ratio"
+msgid "%(amount)s%%"
+msgstr "%(amount)s%%"
+
+#: gui/session/trade/TradeButtonManager.js:80
+#, javascript-format
+msgid ""
+"Select one type of goods you want to modify by clicking on it, and then use "
+"the arrows of the other types to modify their shares. You can also press "
+"%(hotkey)s while selecting one type of goods to bring its share to 100%%."
+msgstr "Esbilla un tipu de bienes que quieras camudar calcando nelli, & llueu emplega les fleches de los otros tipos pa camudar les sos proporciones. Tamién pues primir %(hotkey)s al esbillar un tipu de bienes pa xubir la so proporción al 100 %%."
+
+#: gui/session/trade/TradeDialogBarterPanel.js:45
+#, javascript-format
+msgid ""
+"Start by selecting the resource you wish to sell from the upper row. For "
+"each time the lower buttons are pressed, %(quantity)s of the upper resource "
+"will be sold for the displayed quantity of the lower. Press and hold "
+"%(hotkey)s to temporarily multiply the traded amount by %(multiplier)s."
+msgstr "Entama escoyendo'l recursu que quieras vender de la fila cimera. Cada vegada que se calquen los botones baxeros, %(quantity)s de los recursos arriberos va (van) vendese pola cantidá amosada de los baxeros. Primi & caltén primíu (-ida) %(hotkey)s pa multiplicar temporalmente la cantidá entrocada por %(multiplier)s."
+
+#: gui/session/trade/TradePanel.xml:(caption):5
+msgid "Trade"
+msgstr "Cambéu"
+
+#: gui/session/trade/TradePanel.xml:(caption):14
+msgid "Resources:"
+msgstr "Recursos:"
+
+#: gui/session/trade/TraderStatusTextLand.js:15
+#, javascript-format
+msgid "There is %(numberTrading)s land trader trading"
+msgid_plural "There are %(numberTrading)s land traders trading"
+msgstr[0] "Hai %(numberTrading)s comerciante terrestre comerciando"
+msgstr[1] "Hai %(numberTrading)s comerciantes terrestres comerciando"
+
+#: gui/session/trade/TraderStatusTextLand.js:25
+#, javascript-format
+msgid "%(numberOfLandTraders)s inactive"
+msgid_plural "%(numberOfLandTraders)s inactive"
+msgstr[0] "%(numberOfLandTraders)s inactivu"
+msgstr[1] "%(numberOfLandTraders)s inactivos"
+
+#: gui/session/trade/TraderStatusTextLand.js:30
+#, javascript-format
+msgid "%(numberOfLandTraders)s land trader inactive"
+msgid_plural "%(numberOfLandTraders)s land traders inactive"
+msgstr[0] "%(numberOfLandTraders)s comerciante terrestre inactivu"
+msgstr[1] "%(numberOfLandTraders)s comerciantes terrestres inactivos"
+
+#: gui/session/trade/TraderStatusTextLand.js:40
+#, javascript-format
+msgid "%(numberGarrisoned)s garrisoned on a trading merchant ship"
+msgid_plural "%(numberGarrisoned)s garrisoned on a trading merchant ship"
+msgstr[0] "%(numberGarrisoned)s guarecíu nun mercante activu"
+msgstr[1] "%(numberGarrisoned)s guarecíos nun mercante activu"
+
+#: gui/session/trade/TraderStatusTextLand.js:45
+#, javascript-format
+msgid ""
+"There is %(numberGarrisoned)s land trader garrisoned on a trading merchant "
+"ship"
+msgid_plural ""
+"There are %(numberGarrisoned)s land traders garrisoned on a trading merchant"
+" ship"
+msgstr[0] "Hai %(numberGarrisoned)s comerciante terrestre guarecíu nun mercante activu "
+msgstr[1] "Hai %(numberGarrisoned)s comerciantes terrestres guarecíos nun mercante activu"
+
+#: gui/session/trade/TraderStatusTextLand.js:65
+#, javascript-format
+msgid "%(openingTradingString)s, and %(garrisonedString)s."
+msgstr "%(openingTradingString)s & %(garrisonedString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:66
+#, javascript-format
+msgid ""
+"%(openingTradingString)s, %(garrisonedString)s, and %(inactiveString)s."
+msgstr "%(openingTradingString)s, %(garrisonedString)s & %(inactiveString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:69
+#: gui/session/trade/TraderStatusTextShip.js:47
+#, javascript-format
+msgid "%(openingTradingString)s."
+msgstr "%(openingTradingString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:70
+#: gui/session/trade/TraderStatusTextShip.js:46
+#, javascript-format
+msgid "%(openingTradingString)s, and %(inactiveString)s."
+msgstr "%(openingTradingString)s & %(inactiveString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:75
+#, javascript-format
+msgid "%(openingGarrisonedString)s."
+msgstr "%(openingGarrisonedString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:76
+#, javascript-format
+msgid "%(openingGarrisonedString)s, and %(inactiveString)s."
+msgstr "%(openingGarrisonedString)s & %(inactiveString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:79
+#: gui/session/trade/TraderStatusTextShip.js:50
+#, javascript-format
+msgid "There is %(inactiveString)s."
+msgid_plural "There are %(inactiveString)s."
+msgstr[0] "Hai %(inactiveString)s."
+msgstr[1] "Hai %(inactiveString)s."
+
+#: gui/session/trade/TraderStatusTextLand.js:80
+msgid "There are no land traders."
+msgstr "Nun hai comerciante terrestre dalu."
+
+#: gui/session/trade/TraderStatusTextShip.js:14
+#, javascript-format
+msgid "There is %(numberTrading)s merchant ship trading"
+msgid_plural "There are %(numberTrading)s merchant ships trading"
+msgstr[0] "Hai %(numberTrading)s mercante comerciando"
+msgstr[1] "Hai %(numberTrading)s mercantes comerciando"
+
+#: gui/session/trade/TraderStatusTextShip.js:24
+#, javascript-format
+msgid "%(numberOfShipTraders)s inactive"
+msgid_plural "%(numberOfShipTraders)s inactive"
+msgstr[0] "%(numberOfShipTraders)s inactivu"
+msgstr[1] "%(numberOfShipTraders)s inactivos"
+
+#: gui/session/trade/TraderStatusTextShip.js:29
+#, javascript-format
+msgid "%(numberOfShipTraders)s merchant ship inactive"
+msgid_plural "%(numberOfShipTraders)s merchant ships inactive"
+msgstr[0] "%(numberOfShipTraders)s mercante inactivu"
+msgstr[1] "%(numberOfShipTraders)s mercantes inactivos"
+
+#: gui/session/trade/TraderStatusTextShip.js:51
+msgid "There are no merchant ships."
+msgstr "Nun hai mercante dalu."
+
+#: gui/session/tutorial_panel.xml:(caption):11
+msgid "Ready"
+msgstr "Preparáu"
+
+#: gui/session/unit_actions.js:572
+msgid ""
+"This is the origin trade market.\n"
+"Right-click to cancel trade route."
+msgstr "Esti ye'l mercáu d'orixe.\nCalca col botón drechu pa encaboxar la ruta comercial"
+
+#: gui/session/unit_actions.js:631
+msgid "Origin trade market."
+msgstr "Mercáu comercial d'orixe."
+
+#: gui/session/unit_actions.js:641
+msgid "Destination trade market."
+msgstr "Mercáu comercial de destín."
+
+#: gui/session/unit_actions.js:648
+msgid "Right-click to set as origin trade market"
+msgstr "Calca col botón derechu p'afitar como mercáu comercial d'orixe"
+
+#: gui/session/unit_actions.js:655 gui/session/unit_actions.js:1139
+msgid "This market is too close to the origin market."
+msgstr "Esti mercáu ta demasiao cerca del mercáu d'orixe."
+
+#: gui/session/unit_actions.js:659
+msgid "Right-click to set as destination trade market."
+msgstr "Calca col botón derechu p'afitar como mercáu comercial de destín."
+
+#: gui/session/unit_actions.js:724 gui/session/unit_actions.js:1071
+#, javascript-format
+msgid "Current turrets: %(occupied)s/%(capacity)s"
+msgstr "Torrines: %(occupied)s/%(capacity)s"
+
+#: gui/session/unit_actions.js:790 gui/session/unit_actions.js:1054
+#, javascript-format
+msgid "Current garrison: %(garrisoned)s/%(capacity)s"
+msgstr "Guarecimientu actual: %(garrisoned)s/%(capacity)s"
+
+#: gui/session/unit_actions.js:1130
+msgid "Right-click to establish a default route for new traders."
+msgstr "Calca col botón derechu p'afitar una ruta por defeutu pa comerciantes nuevos."
+
+#: gui/session/unit_actions.js:1134
+#, javascript-format
+msgid "Expected gain: %(gain)s"
+msgstr "Ganancia esperao: %(gain)s"
+
+#: gui/session/unit_actions.js:1260
+msgid "This entity cannot be controlled."
+msgid_plural "These entities cannot be controlled."
+msgstr[0] "A eso nun-y pues mandar."
+msgstr[1] "A esos nun-yos pues mandar."
+
+#: gui/session/unit_actions.js:1306
+msgid "Unload All."
+msgstr "Descargalo too."
+
+#: gui/session/unit_actions.js:1341
+msgid "Unload Turrets."
+msgstr "Desocupar les torrines."
+
+#: gui/session/unit_actions.js:1361
+msgid "Destroy the selected units or structures."
+msgstr "Destrúi les unidaes o construcciones esbillaes."
+
+#: gui/session/unit_actions.js:1363
+#, javascript-format
+msgid "Use %(hotkey)s to avoid the confirmation dialog."
+msgstr "Emplega %(hotkey)s pa saltar el diálogu de confirmanza."
+
+#: gui/session/unit_actions.js:1413
+msgid "Abort the current order."
+msgstr "Albortar la orde actual."
+
+#: gui/session/unit_actions.js:1435
+msgid "Order the selected units to garrison in a structure or unit."
+msgstr "Ordenar que les unidaes esbillaes se guarezan nuna construcción o unidá."
+
+#: gui/session/unit_actions.js:1457
+msgid "Order the selected units to occupy a turret point."
+msgstr "Ordenar que les unidaes esbillaes ocupen una torrina."
+
+#: gui/session/unit_actions.js:1479
+msgid "Unload"
+msgstr "Descargar"
+
+#: gui/session/unit_actions.js:1499
+msgid "Order the selected units to repair a structure, ship, or siege engine."
+msgstr "Ordena que les unidaes esbillaes igüen una construcción, barcu o máquina d'asediu."
+
+#: gui/session/unit_actions.js:1520
+msgid "Focus on Rally Point."
+msgstr "Enfocar escontra'l puntu d'alcuentru."
+
+#: gui/session/unit_actions.js:1557
+msgid "Back to Work"
+msgstr "Volver al trabayu"
+
+#: gui/session/unit_actions.js:1578
+msgid "Order the selected units to guard a structure or unit."
+msgstr "Ordena que les unidaes esbillaes guarden una construcción o unidá."
+
+#: gui/session/unit_actions.js:1598
+msgid "Remove guard"
+msgstr "Quitar la guardia"
+
+#: gui/session/top_panel/IconButtons/TradeDialogButton.js:31
+#: gui/session/trade/TradeDialog.xml:(caption):9
+#: gui/session/unit_actions.js:1617
+msgid "Barter & Trade"
+msgstr "Comerciu"
+
+#: gui/session/unit_actions.js:1637
+msgid "Patrol"
+msgstr "Roldar"
+
+#: gui/session/unit_actions.js:1638
+msgid "Attack all encountered enemy units while avoiding structures."
+msgstr "Ataca toles unidaes enemigues alcontraes evitando construcciones."
+
+#: gui/session/unit_actions.js:1666
+msgid "Press to allow allies to use this dropsite"
+msgstr "Primi pa dexar que los aliaos aprovechen esti depósitu"
+
+#: gui/session/unit_actions.js:1671
+msgid "Press to prevent allies from using this dropsite"
+msgstr "Primi pa quitar que los aliaos aprovechen esti depósitu"
+
+#: gui/session/unit_actions.js:1706
+msgid "The use of this dropsite is prohibited"
+msgstr "Nun pues aprovechar esti depósitu"
+
+#: gui/session/unit_actions.js:1712
+msgid "Allies are allowed to use this dropsite."
+msgstr "Los aliaos puen aprovechar esti depósitu."
+
+#: gui/session/unit_actions.js:1713
+msgid "You are allowed to use this dropsite"
+msgstr "Pues aprovechar esti depósitu"
+
+#: gui/session/unit_actions.js:1732
+msgid "Activate auto-queue for selected structures."
+msgstr "Activar l'enriestru automáticu nes construcciones esbillaes."
+
+#: gui/session/unit_actions.js:1752
+msgid "Deactivate auto-queue for selected structures."
+msgstr "Desactivar l'enriestru automáticu nes construcciones esbillaes."
+
+#: gui/session/unit_actions.js:1817
+msgid "The entity has to be killed before it can be gathered from"
+msgstr "Eso hai que lo matar p'aprovechalo"
+
+#: gui/session/unit_actions.js:1820
+msgid ""
+"You cannot destroy this entity as you own less than half the capture points"
+msgstr "Nun puedes desaniciar eso darréu que tienes menos de la metada de la so fideleza"
+
+#: gui/session/unit_actions.js:1823
+msgid "This entity is undeletable"
+msgstr "Esta entidá nun ye desaniciable"

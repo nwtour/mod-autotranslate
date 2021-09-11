@@ -1,0 +1,963 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# asd asd <aalovuorinen@gmail.com>, 2018
+# Jiri Grönroos <jiri.gronroos@iki.fi>, 2019
+# Juir Lae <juirlae@gmail.com>, 2019
+# Matti Tuhola, 2021
+# Max Ihalempia, 2017
+# Pauli Kaikkonen <p.kaikkon@gmail.com>, 2016
+# Riku Viitanen <riisseli4@gmail.com>, 2017
+# Saku Tiihonen <zackyistic@gmail.com>, 2016
+# Saku Tiihonen <zackyistic@gmail.com>, 2016
+# Some Dude <jonpajanen2@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-06-07 07:53+0000\n"
+"PO-Revision-Date: 2021-06-15 12:24+0000\n"
+"Last-Translator: Matti Tuhola\n"
+"Language-Team: Finnish (http://www.transifex.com/wildfire-games/0ad/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: simulation/data/auras/structures/arsenal_repair.jsonauraDescription
+msgid "Garrisoned Siege Engines +3 health regeneration rate."
+msgstr "Miehitetyille piirityskoneille +3 terveyden palautumisnopeus."
+
+#: simulation/data/auras/structures/arsenal_repair.jsonauraName
+msgid "Arsenal Repairs"
+msgstr "Asevaraston korjauksia"
+
+#: simulation/data/auras/structures/cart_super_dock_repair.jsonauraDescription
+msgid "Garrisoned Ships +10 health regeneration rate."
+msgstr "Miehitetyille laivoille +10 terveyen palautumisnopeus."
+
+#: simulation/data/auras/structures/cart_super_dock_repair.jsonauraName
+msgid "Dockyard Repairs"
+msgstr "Sataman korjauksia"
+
+#: simulation/data/auras/structures/iber_monument.jsonauraDescription
+msgid "Soldiers +20% melee and ranged attack damage."
+msgstr "Sotilaille +20 % lähi- ja kantamataisteluvahinkoa."
+
+#: simulation/data/auras/structures/iber_monument.jsonauraName
+msgid "Religious Fervor"
+msgstr "Uskonnollinen kiihko"
+
+#: simulation/data/auras/structures/kush_pyramids_economic.jsonauraDescription
+#: simulation/data/auras/units/heroes/gaul_hero_viridomarus.jsonauraDescription
+msgid "Workers +15% gather speed."
+msgstr "Työntekijöille +15 % keräysnopeus."
+
+#: simulation/data/auras/structures/kush_pyramids_economic.jsonauraName
+msgid "Patriotism"
+msgstr "Isänmaallisuus"
+
+#: simulation/data/auras/structures/kush_pyramids_military.jsonauraDescription
+msgid ""
+"Soldiers +1 crush, hack, pierce resistance and +10% melee and ranged attack "
+"damage."
+msgstr "Sotilaille +1 murskaus-, hakkaus- ja lävistyskestävyys sekä +10 % lähi- ja kantamataisteluvahinkoa."
+
+#: simulation/data/auras/structures/kush_pyramids_military.jsonauraName
+msgid "Exhortative Presence"
+msgstr "Kannustava läsnäolo"
+
+#: simulation/data/auras/structures/kush_temple_amun.jsonauraDescription
+msgid "Heroes −5% health."
+msgstr "Sankareille -5 % terveyttä."
+
+#: simulation/data/auras/structures/kush_temple_amun.jsonauraName
+msgid "Powerful Priesthood"
+msgstr "Voimakas papisto"
+
+#: simulation/data/auras/structures/library.jsonauraDescription
+msgid "Structures −15% technology resource costs and research time."
+msgstr "Rakenteille -15 % teknologiavarantokustannuksista ja tutkimusajasta."
+
+#: simulation/data/auras/structures/library.jsonauraName
+msgid "Centre of Scholarship"
+msgstr "Tieteellinen keskus"
+
+#: simulation/data/auras/structures/loyalty_regen.jsonauraDescription
+msgid "Structures +50% capture points garrison regeneration rate."
+msgstr "Rakenteille +50 % kaappauspisteiden uusiutumisnopeutta miehitetyille yksiköille."
+
+#: simulation/data/auras/structures/loyalty_regen.jsonauraName
+msgid "Loyalty"
+msgstr "Uskollisuus"
+
+#: simulation/data/auras/structures/maur_pillar.jsonauraDescription
+msgid "Traders +20% movement speed."
+msgstr "Kauppiaille +20 % liikkumisnopeutta."
+
+#: simulation/data/auras/structures/maur_pillar.jsonauraName
+msgid "Edict of Ashoka"
+msgstr "Ashokan käsky"
+
+#: simulation/data/auras/structures/rotary_mill.jsonauraDescription
+msgid "Workers +25% grain gather rate."
+msgstr "Työntekijöille +25 % viljan keräysnopeutta."
+
+#: simulation/data/auras/structures/rotary_mill.jsonauraName
+msgid "Farming bonus"
+msgstr "Maatalousbonus"
+
+#: simulation/data/auras/structures/temple_heal.jsonauraDescription
+msgid "Humans +1 health regeneration rate."
+msgstr "Ihmisille +1 terveyden palautumisnopeuteen."
+
+#: simulation/data/auras/structures/temple_heal.jsonauraName
+msgid "Medical Treatment"
+msgstr "Lääkinnällinen hoito"
+
+#: simulation/data/auras/structures/theater.jsonauraDescription
+msgid "Structures +20% territory influence radius."
+msgstr "Rakenteille +20 % vaikutusalueen säde."
+
+#: simulation/data/auras/structures/theater.jsonauraName
+msgid "Hellenization"
+msgstr "Kreikkalaistaminen"
+
+#: simulation/data/auras/structures/wall_garrisoned.jsonauraDescription
+msgid ""
+"Turreted Soldiers +3 crush, hack, pierce resistance and +20 vision range."
+msgstr "Torneihin asetetuille sotilaille +3 murskaus-, hakkerointi- ja lävistyskestävyys ja +20 näköetäisyys."
+
+#: simulation/data/auras/structures/wall_garrisoned.jsonauraName
+msgid "Wall Protection"
+msgstr "Muurin suojaus"
+
+#: simulation/data/auras/structures/wonder_population_cap.jsonauraDescription
+msgid ""
+"+20% maximum population limit (requires the “Glorious Expansion” "
+"technology)."
+msgstr "+20 % väestön enimmäisraja (vaatii \"Loistokas laajeneminen\" -teknologian)."
+
+#: simulation/data/auras/structures/wonder_population_cap.jsonauraName
+msgid "Glorious Expansion"
+msgstr "Kunniallinen laajennus"
+
+#: simulation/data/auras/structures/xp_trickle.jsonauraDescription
+msgid "Units gain experience while garrisoned inside the building."
+msgstr "Yksiköt saavat kokemusta miehittäessään rakennusta."
+
+#: simulation/data/auras/structures/xp_trickle.jsonauraName
+msgid "Rigorous Training"
+msgstr "Perusteellinen koulutus"
+
+#: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraDescription
+msgid "Warships −25% construction time."
+msgstr "Sotalaivoille -25 % rakennusajasta."
+
+#: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraName
+msgid "Delian League"
+msgstr "Delianin kieli"
+
+#: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraDescription
+msgid "Healers −20% resource costs."
+msgstr "Parantajille -20 % resurssikustannuksista."
+
+#: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraName
+msgid "Druids"
+msgstr "Druidit"
+
+#: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraDescription
+msgid "+10% international trade bonus."
+msgstr "+10 % kansainvälinen kaupan bonus."
+
+#: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraName
+msgid "Trademasters"
+msgstr "Kauppamestarit"
+
+#: simulation/data/auras/teambonuses/gaul_player_teambonus.jsonauraDescription
+msgid "Forges −15% technology resource costs and research time."
+msgstr "Takomoille -15 % teknologiaresurssikustannukset ja tutkimusaika."
+
+#: simulation/data/auras/teambonuses/gaul_player_teambonus.jsonauraName
+msgid "Products from Gaul"
+msgstr "Gallialaiset tuotteet"
+
+#: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraDescription
+msgid "Citizen Javelineers −10% resource costs."
+msgstr "Kansalaiskeihäänheittäjille -10 % resurssikustannuksista."
+
+#: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraName
+msgid "Saripeko"
+msgstr "Saripeko"
+
+#: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraDescription
+msgid "Elephants −20% resource costs and training time."
+msgstr "Norsuille -20 % resurssikustannuksista ja koulutusajasta."
+
+#: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraName
+msgid "Elephant Suppliers"
+msgstr "Norsujen toimittajat"
+
+#: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraDescription
+msgid "+20% barter sell prices."
+msgstr "+20 % vaihtokaupan myyntihintoihin."
+
+#: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraName
+msgid "Standardized Currency"
+msgstr "Yhtenäinen valuutta"
+
+#: simulation/data/auras/teambonuses/maur_player_teambonus.jsonauraDescription
+msgid ""
+"Temples −50% resource costs and building time; Temple technologies −50% "
+"resource costs and research time."
+msgstr "Temppeleille -50 % resurssikustannukset ja rakennusaika; temppeliteknologioille -50 % resurssikustannukset ja tutkimusaika."
+
+#: simulation/data/auras/teambonuses/maur_player_teambonus.jsonauraName
+msgid "Ashoka's Religious Support"
+msgstr "Ashokan uskonnollinen tuki"
+
+#: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraDescription
+msgid "Land Traders +15% trade gain."
+msgstr "Maakauppiaille +15 % kaupan voitto."
+
+#: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraName
+msgid "The Royal Road"
+msgstr "Kuninkaallinen tie"
+
+#: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraDescription
+msgid "+1.0 food trickle rate."
+msgstr "+1.0 ruoan valumanopeus."
+
+#: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraName
+msgid "Breadbasket of the Mediterranean"
+msgstr "Välimeren leipäkori"
+
+#: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraDescription
+msgid "Citizen Infantry −10% training time."
+msgstr "Kansalaisjalkaväelle -10 % koulutusajasta."
+
+#: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraName
+msgid "Conscription"
+msgstr "Asevelvollisuus"
+
+#: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraDescription
+msgid "Civil Centers −20% resource costs."
+msgstr "Kansalaiskeskuksille -20 % resurssikustannuksista."
+
+#: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraName
+msgid "Syrian Tetrapolis"
+msgstr "Syyrian tetrapolis"
+
+#: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraDescription
+msgid "Citizen Infantry Spearmen +10% health."
+msgstr "Kansalaisjalkaväen keihäsmiehille +10 % terveyttä."
+
+#: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraName
+msgid "Peloponnesian League"
+msgstr "Peloponnesolaisliitto"
+
+#: simulation/data/auras/units/carnyx.jsonauraDescription
+msgid "Enemy Soldiers −10% attack damage and capture attack strength."
+msgstr "Vihollissotilaille -10 % hyökkäysvahinkoa ja kaappaushyökkäyksen voimakkuutta."
+
+#: simulation/data/auras/units/carnyx.jsonauraName
+msgid "Intimidating Sound"
+msgstr "Uhkaava ääni"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_1.jsonauraDescription
+msgid ""
+"Solon instituted several economic reforms encouraging commerce and agriculture.\n"
+"Workers +15% gather speed."
+msgstr "Solon toteutti useita talousuudistuksia, joilla edistettiin kaupankäyntiä ja maataloutta.\nTyöntekijöille +15 % keräysnopeus."
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_1.jsonauraName
+msgid "Economic Reforms"
+msgstr "Taloudelliset uudistukset"
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_2.jsonauraDescription
+msgid ""
+"Solon brought in a new system of weights and measures, fathers were encouraged to find trades for their sons.\n"
+"Economic technologies −10% resource costs."
+msgstr "Solon otti käyttöön uuden paino- ja mittajärjestelmän, ja isiä kannustettiin etsimään pojilleen ammatteja.\nTalousteknologioille -10 % resurssikustannuksia."
+
+#: simulation/data/auras/units/catafalques/athen_catafalque_2.jsonauraName
+msgid "Economic Fortune"
+msgstr "Taloudellinen menestys"
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_1.jsonauraDescription
+msgid ""
+"Seeing entrenched defense to be useless against the Roman army, Cassivellaunus resorted to guerrilla tactics. This was later employed by other chieftains too.\n"
+"Soldiers +15% movement speed and +15% vision range."
+msgstr "Koska Cassivellaunus katsoi, että linnoittautumiseen perustuva puolustus oli hyödytöntä Rooman armeijaa vastaan, hän turvautui sissitaktiikkaan. Tätä käyttivät myöhemmin myös muut päälliköt.\nSotilaille +15 % liikkumisnopeus ja +15 % näköalue."
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_1.jsonauraName
+#: simulation/data/auras/units/heroes/iber_hero_viriato_1.jsonauraName
+msgid "Guerrilla Tactics"
+msgstr "Sissitaktiikat"
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_2.jsonauraDescription
+msgid ""
+"Cassivellaunus deployed fast-moving skirmishers to harass Roman troops and foragers.\n"
+"Javelineers +20% attack range."
+msgstr "Cassivellaunus käytti nopeasti liikkuvia vartijoita häiritsemään roomalaisia joukkoja ja metsästäjiä.\nKeihäänheittäjille +20 % hyökkäysetäisyys."
+
+#: simulation/data/auras/units/catafalques/brit_catafalque_2.jsonauraName
+msgid "Skirmisher Harassment"
+msgstr "Kahakoijien häirintä"
+
+#: simulation/data/auras/units/catafalques/cart_catafalque.jsonauraDescription
+msgid ""
+"Leader of the Carthaginian heavy cavalry at Trebia and Cannae, where his triple charge had devastating effects on the enemy.\n"
+"Melee Cavalry +1 crush, hack, pierce resistance and +10% health."
+msgstr "Karthagolaisen raskaan ratsuväen johtaja Trebiassa ja Cannaessa, jossa hänen kolminkertaisella hyökkäyksellään oli tuhoisat vaikutukset viholliseen.\nLähitaistelujoukoille +1 murskaus-, hakkaus- ja lävistyskestävyys sekä +10 % terveyttä."
+
+#: simulation/data/auras/units/catafalques/cart_catafalque.jsonauraName
+msgid "Commander of Heavy Cavalry"
+msgstr "Raskaan ratsuväen komentaja"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_1.jsonauraDescription
+msgid ""
+"Warring with the Romans, Ambiorix realized the futility of open warfare and instead resorted to ambush tactics. The Gauls quickly learned where and when to execute surprise attacks.\n"
+"Soldiers +5% melee and ranged attack damage and −25% promotion experience."
+msgstr "Roomalaisia vastaan sotimalla Ambiorix tajusi avoimen sodankäynnin turhuuden ja turvautui sen sijaan väijytystaktiikkaan. Gallialaiset oppivat nopeasti, missä ja milloin yllätyshyökkäyksiä oli tehtävä.\nSotilaille +5 % lähitaistelu- ja kantamataisteluhyökkäysten vahinkoa ja -25 % ylennyskokemusta."
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_1.jsonauraName
+msgid "Ambush Slaughter"
+msgstr "Väijytystappo"
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_2.jsonauraDescription
+msgid ""
+"When the Roman army fell short of food supplies, the Gallic tribes were ordered to give up a part of their already meagre harvest. The Eburones under Ambiorix were reluctant to do so, therefore Caesar sent troops to take them by force.\n"
+"Workers −10% grain gather rate."
+msgstr "Kun Rooman armeijan elintarvikevarastot ehtyivät, gallialaisheimot määrättiin luopumaan osasta jo ennestään niukkaa satoaan. Ambiorixin johtamat eburonit eivät halunneet suostua tähän, joten Caesar lähetti joukkoja pakottaakseen heidät voimalla.\nTyöntekijöille -10 % viljan keräysaste."
+
+#: simulation/data/auras/units/catafalques/gaul_catafalque_2.jsonauraName
+msgid "Tribute to Rome"
+msgstr "Kunnianosoitus Roomalle"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_1.jsonauraDescription
+msgid ""
+"Along with his brother Indibil, Mandonius commanded the Iberian recruits and mercenaries that took part in the Punic Wars.\n"
+"Allied Citizen Mercenaries −25% metal cost."
+msgstr "Mandonius komensi veljensä Indibilin kanssa Iberian niemimaan alokkaita ja palkkasotureita, jotka osallistuivat puunilaissotiin.\nLiittoutuneiden kansalaisten palkkasotureille -25 % metallikustannuksista."
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_1.jsonauraName
+msgid "Mercenary Commander"
+msgstr "Palkkasoturikomentaja"
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_2.jsonauraDescription
+msgid ""
+"Following the fall of Indibil in battle, Mandonius led the survivors to safety.\n"
+"Soldiers +10% health."
+msgstr "Indibilin kaaduttua taistelussa Mandonius johdatti eloonjääneet turvaan.\nSotilaille +10 % terveyttä."
+
+#: simulation/data/auras/units/catafalques/iber_catafalque_2.jsonauraName
+msgid "Saver of Lives"
+msgstr "Henkien pelastaja"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_1.jsonauraDescription
+msgid ""
+"Ruling with full power in the Meroë Empire and also playing a significant role in the Meroitic religion, Shanakdakheto represented the might of Kush, something not to be taken lightly.\n"
+"Enemy Female Citizens −15% gather speed."
+msgstr "Shanakdakheto hallitsi Meroën valtakuntaa täysivaltaisesti ja hänellä oli myös merkittävä asema meroëlaisessa uskonnossa, ja hän edusti Kušin mahtia, mihin ei tullut suhtautua kevyesti.\nVihollisen naispuolisille kansalaisille -15 % keräysnopeus."
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_1.jsonauraName
+msgid "Earliest Nubian Queen"
+msgstr "Varhaisin Nubian kuningatar"
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_2.jsonauraDescription
+msgid ""
+"As in all cultures, religion played a significant part in Kush. Shanakdakheto had the temple built around 160 BC as a symbol of the advancedness of Meroë.\n"
+"Temples +1 garrison heal rate."
+msgstr "Kuten kaikissa kulttuureissa, uskonnolla oli Kušissa merkittävä rooli. Shanakdakheto rakennutti temppelin noin vuonna 160 eaa. Meroën kehittyneisyyden symboliksi.\nTemppeleissä +1 parantumisnopeus miehittävile yksiköille."
+
+#: simulation/data/auras/units/catafalques/kush_catafalque_2.jsonauraName
+msgid "Temple at Naqa"
+msgstr "Naqan temppeli"
+
+#: simulation/data/auras/units/catafalques/mace_catafalque.jsonauraDescription
+msgid ""
+"During the First Macedonian War, Philip and his troops sacked Thermum, the religious and political center of Aetolia.\n"
+"Humans, Siege Engines, Ships, and Structures gain +5 food and wood loot."
+msgstr "Ensimmäisen makedonialaissodan aikana Filippos joukkoineen ryösti Thermumin, Aetolian uskonnollisen ja poliittisen keskuksen.\nIhmiset, piirityskoneet, laivat ja rakennelmat saavat +5 ruoka- ja puutavarasaalista."
+
+#: simulation/data/auras/units/catafalques/mace_catafalque.jsonauraName
+msgid "Sacker of Cities"
+msgstr "Kaupunkien ryöstäjä"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_1.jsonauraDescription
+msgid ""
+"Son of Chandragupta Maurya, Bindusara consolidated the empire, creating a stable state for his son Ashoka to inherit.\n"
+"Structures +20% territory influence radius."
+msgstr "Chandragupta Mauryan poika Bindusara lujitti valtakuntaa ja loi vakaan valtion poikansa Ashokan perinnöksi.\nRakenteille +20 % alueen vaikutussäde."
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_1.jsonauraName
+msgid "Consolidator of the Empire"
+msgstr "Imperiumin yhtenäistäjä"
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_2.jsonauraDescription
+msgid ""
+"Bindusara is said to have conquered lands to the south of the empire.\n"
+"Soldiers +15% capture attack strength."
+msgstr "Bindusaran kerrotaan valloittaneen maita valtakunnan eteläpuolella.\nSotilaille +15 % kaappaushyökkäysvoimaa."
+
+#: simulation/data/auras/units/catafalques/maur_catafalque_2.jsonauraName
+msgid "Vamba Moriyar"
+msgstr "Vamba Moriyar"
+
+#: simulation/data/auras/units/catafalques/pers_catafalque.jsonauraDescription
+msgid ""
+"Throughout his reign, much of Artaxerxes' wealth was spent on building projects. He restored the Palace of Darius I at Susa and restored the ancient city of Ecbatana.\n"
+"Structures −10% resource costs and +5% health."
+msgstr "Koko valtakautensa ajan Artaxerxes käytti suuren osan varallisuudestaan rakennushankkeisiin. Hän kunnosti Dareios I:n palatsin Susassa ja entisöi muinaisen Ecbatanan kaupungin.\nRakennuksille -10 % resurssikustannuksia ja +5 % terveyttä."
+
+#: simulation/data/auras/units/catafalques/pers_catafalque.jsonauraName
+msgid "Great Builder"
+msgstr "Suuri rakentaja"
+
+#: simulation/data/auras/units/catafalques/ptol_catafalque.jsonauraDescription
+msgid ""
+"Continuing his predecessors' work on the Great Library of Alexandria, he seized every book brought to the city, thus leaving to his people a vast amount of hoarded wisdom.\n"
+"Structure technologies −10% resource costs."
+msgstr "Jatkaen edeltäjiensä työtä Aleksandrian suuressa kirjastossa hän takavarikoi kaikki kaupunkiin tuodut kirjat ja jätti näin kansalleen valtavan määrän varastoitua viisautta.\nRakenneteknologioille -10 % resurssikustannuksista."
+
+#: simulation/data/auras/units/catafalques/ptol_catafalque.jsonauraName
+msgid "Great Librarian"
+msgstr "Suuri kirjastonhoitaja"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_1.jsonauraDescription
+msgid ""
+"After the rape of Lucretia by the son of King Tarquinius Superbus and her subsequent suicide, Brutus vowed to avenge her and overthrow the monarchy.\n"
+"Female Citizens −20% food cost and +10% gather speed."
+msgstr "Kun kuningas Tarquinius Superbusin poika raiskasi Lucretian ja tämä teki itsemurhan, Brutus vannoi kostavansa Lucretian ja kaatavansa monarkian.\nNaispuolisille kansalaisille -20 % ruokakustannuksia ja +10 % keräysnopeutta."
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_1.jsonauraName
+msgid "Avenger of Lucretia"
+msgstr "Lucretian kostaja"
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_2.jsonauraDescription
+msgid ""
+"Brutus was one of the key figures in the overthrow of the monarchy and the founding of the Roman Republic. Later, as consul he led a Roman army to victory against the Etruscan King Tarquinius who sought to retake the throne.\n"
+"Humans and Siege Engines +1 crush, hack, pierce resistance."
+msgstr "Brutus oli yksi monarkian kukistamisen ja Rooman tasavallan perustamisen avainhahmoista. Myöhemmin konsulina hän johti roomalaisen armeijan voittoon etruskikuningas Tarquiniusta vastaan, joka pyrki valtaistuimelle takaisin.\nIhmisille ja piirityskoneille +1 vastustuskykyää murskaukselle, hakkaukselle ja lävistyksille."
+
+#: simulation/data/auras/units/catafalques/rome_catafalque_2.jsonauraName
+msgid "Founder and Defender of the Republic"
+msgstr "Tasavallan perustaja ja puolustaja"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_1.jsonauraDescription
+msgid ""
+"Antiochus I laid the foundation for the Ezida Temple in Borsippa.\n"
+"Temples −10% resource costs; Temple technologies −10% resource costs."
+msgstr "Antiokhos I loi perustuksen Ezidan temppelille Borsippassa.\nTemppeleille -10 % resurssikustannuksista; temppeliteknologialle -10 % resurssikustannuksista."
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_1.jsonauraName
+msgid "Founder of the Ezida Temple"
+msgstr "Ezidan temppelin perustaja"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_2.jsonauraDescription
+msgid ""
+"Antiochus encouraged Greek immigration to his realm and established many new cities in Asia Minor to serve as counterweights to the Gauls.\n"
+"+5% maximum population limit."
+msgstr "Antiokhos rohkaisi kreikkalaisten maahanmuuttoa valtakuntaansa ja perusti monia uusia kaupunkeja Vähä-Aasiaan toimimaan vastapainona gallialaisille.\n+5 %:n enimmäisväestöraja."
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_2.jsonauraName
+msgid "Immigration"
+msgstr "Siirtolaisuus"
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_3.jsonauraDescription
+msgid ""
+"Son of Seleucus Nicator, Antiochus succeeded in the formidable task of keeping the empire together, meanwhile founding temples and defeating the invading Gauls with war elephants.\n"
+"Champion Elephants −10% resource costs."
+msgstr "Seleukos Nikatorin poika Antiokhos onnistui suuressa tehtävässä pitää valtakunta koossa, samalla kun hän perusti temppeleitä ja kukisti hyökkäävät gallialaiset sotanorsuilla.\nMestarinorsuille -10 % resurssikustannuksista."
+
+#: simulation/data/auras/units/catafalques/sele_catafalque_3.jsonauraName
+msgid "Basileus Megas"
+msgstr "Basileus Megas"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_1.jsonauraDescription
+msgid ""
+"Lycurgus instituted several military reforms, thus the complete and undivided allegiance to Sparta from its citizens was implemented under his form of government.\n"
+"Citizen Infantry Spearmen −10% resource costs."
+msgstr "Lykurgos toteutti useita sotilaallisia uudistuksia, ja hänen hallintomuodossaan toteutettiin kansalaisten täydellinen ja jakamaton uskollisuus Spartalle.\nKansalaisjalkaväen keihäsmiehille -10 % resurssikustannuksista."
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_1.jsonauraName
+#: simulation/data/auras/units/catafalques/spart_catafalque_2.jsonauraName
+msgid "Lycurgan Military Reforms"
+msgstr "Lykurgoksen sotilaalliset uudistukset"
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_2.jsonauraDescription
+msgid "Champion Infantry Spearmen −5% resource costs."
+msgstr "Mestarijalkaväen keihäsmiehille -10 % resurssikustannuksista."
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_3.jsonauraDescription
+msgid ""
+"To further support equality, Lycurgus forbade the use of gold and silver, introducing a new iron currency called pelanors.\n"
+"Workers +15% metal gather rate."
+msgstr "Tasa-arvon tukemiseksi Lycurgus kielsi kullan ja hopean käytön ja otti käyttöön uuden rautavaluutan nimeltä pelanorit.\nTyöntekijöille +15 % metallin keräysnopeus."
+
+#: simulation/data/auras/units/catafalques/spart_catafalque_3.jsonauraName
+msgid "Iron Pelanors"
+msgstr "Rautapelanorit"
+
+#: simulation/data/auras/units/elephant_worker.jsonauraDescription
+msgid "Builders +25% build rate."
+msgstr "Rakentajille +25 % rakennusnopeus."
+
+#: simulation/data/auras/units/elephant_worker.jsonauraName
+msgid "Elephant Workers"
+msgstr "Norsutyöläiset"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_1.jsonauraDescription
+msgid ""
+"Soldiers in his formation +3 crush, hack, pierce resistance, +15% movement "
+"speed."
+msgstr "Sotilaille muodostelmassa +3 murskaus-, hakkaus- ja lävistysvastustuskykyä, +15 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_1.jsonauraName
+msgid "Formation Reforms"
+msgstr "Muodostelmauudistukset"
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_2.jsonauraDescription
+msgid "Infantry Javelineers +15% movement speed."
+msgstr "Jalkaväen keihäänheittäjille +15 % liikkumisnopeus."
+
+#: simulation/data/auras/units/heroes/athen_hero_iphicrates_2.jsonauraName
+msgid "Peltast Reforms"
+msgstr "Kevyen jalkaväenuudistukset"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraDescription
+msgid "Builders +15% build rate."
+msgstr "Rakentajille +15 % rakennusnopeus."
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraName
+msgid "Periclean Building Program"
+msgstr "Perikleen rakennusohjelma"
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_2.jsonauraDescription
+msgid "Temples −25% stone cost, +2 garrisoned heal rate."
+msgstr "Temppeleille -25 % kivikustannuksia, +2 parantumisnopeus miehittäville yksiköille."
+
+#: simulation/data/auras/units/heroes/athen_hero_pericles_2.jsonauraName
+msgid "Temple of Athena Nike"
+msgstr "Athene Niken temppeli"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_1.jsonauraDescription
+msgid ""
+"When garrisoned, the Ship has −30% batch training time and +50% movement "
+"speed."
+msgstr "Kun alus on miehitetty, sen erien koulutusaika on -30 % ja liikkumisnopeus +50 %."
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_1.jsonauraName
+msgid "Naval Commander"
+msgstr "Merivoimien komentaja"
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_2.jsonauraDescription
+msgid "Ships −50% metal cost, −20% construction time."
+msgstr "Laivoille -50 metallikustannuksista, -20 % rakennusajasta."
+
+#: simulation/data/auras/units/heroes/athen_hero_themistocles_2.jsonauraName
+msgid "Naval Architect"
+msgstr "Merivoimien arkkitehti"
+
+#: simulation/data/auras/units/heroes/brit_hero_boudicca.jsonauraDescription
+msgid ""
+"Champions +2 capture attack strength, +20% melee and ranged attack damage, "
+"+10% movement speed."
+msgstr "Mestareille +2 kaappaushyökkäysvoimaa, +20 % lähitaistelu- ja kantamataisteluvahinkoa, +10 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/brit_hero_boudicca.jsonauraName
+msgid "Champion Army"
+msgstr "Mestariarmeija"
+
+#: simulation/data/auras/units/heroes/brit_hero_caratacos.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +1 crush, hack, pierce resistance, +15% movement "
+"speed."
+msgstr "Sotilaille ja piirityskoneille +1 murskaus-, hakkaus- ja lävistysvastustuskykyä, +15 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/brit_hero_caratacos.jsonauraName
+msgid "Guerrilla Chief"
+msgstr "Sissipäällikkö"
+
+#: simulation/data/auras/units/heroes/brit_hero_cunobelin.jsonauraDescription
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_2.jsonauraDescription
+msgid "Humans +0.8 health regeneration rate."
+msgstr "Ihmisille +0.8 terveyden palautumisnopeus."
+
+#: simulation/data/auras/units/heroes/brit_hero_cunobelin.jsonauraName
+msgid "Britannorum Rex"
+msgstr "Britannorum Rex"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_1.jsonauraDescription
+msgid "Soldiers and Siege Engines +15% movement speed."
+msgstr "Sotilaille ja piirityskoneille +15 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_1.jsonauraName
+msgid "Lightning General"
+msgstr "Salamakenraali"
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_2.jsonauraDescription
+msgid "Enemy Mercenaries −20% melee and ranged attack damage."
+msgstr "Vihollisen palkkasotureille -20 % lähitaistelu- ja kantamataisteluvahinkoa."
+
+#: simulation/data/auras/units/heroes/cart_hero_hamilcar_2.jsonauraName
+msgid "Subduer of Mercenaries"
+msgstr "Palkkasotureiden alistaja"
+
+#: simulation/data/auras/units/heroes/cart_hero_hannibal.jsonauraDescription
+msgid ""
+"Own and Allied Soldiers and Siege Engines +1 capture attack strength, +20% "
+"melee and ranged attack damage."
+msgstr "Omille ja liittoutuneiden sotilaille ja piirityskoneille +1 kaappaushyökkäysvoima, +20 % lähitaistelu- ja kantamataisteluvahinkoa"
+
+#: simulation/data/auras/units/heroes/cart_hero_hannibal.jsonauraName
+msgid "Tactician"
+msgstr "Taktikko"
+
+#: simulation/data/auras/units/heroes/cart_hero_maharbal.jsonauraDescription
+msgid "Melee Cavalry +30% melee attack damage."
+msgstr "Lähitaisteluratsuväelle +30 % lähitaisteluhyökkäysvahinkoa."
+
+#: simulation/data/auras/units/heroes/cart_hero_maharbal.jsonauraName
+msgid "Cavalry Commander"
+msgstr "Ratsuväen komentaja"
+
+#: simulation/data/auras/units/heroes/gaul_hero_brennus.jsonauraDescription
+msgid "Humans, Siege Engines, and Ships gain +15 metal loot."
+msgstr "Ihmiset, piirityskoneet ja laivat saavat +15 metallisaalista."
+
+#: simulation/data/auras/units/heroes/gaul_hero_brennus.jsonauraName
+msgid "Sacker of Rome"
+msgstr "Rooman ryöstäjä"
+
+#: simulation/data/auras/units/heroes/gaul_hero_vercingetorix.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +1 capture attack strength, +20% melee and ranged"
+" attack damage."
+msgstr "Sotilaille ja piirityskoneille +1 kaappaushyökkäyksen voimakkuutta, +20 % lähitaistelu- ja kantamahyökkäysvahinkoa."
+
+#: simulation/data/auras/units/heroes/gaul_hero_vercingetorix.jsonauraName
+msgid "Celtic Warlord"
+msgstr "Kelttiläinen sotapäällikkö"
+
+#: simulation/data/auras/units/heroes/gaul_hero_viridomarus.jsonauraName
+msgid "Preparation for War"
+msgstr "Sotavalmistelut"
+
+#: simulation/data/auras/units/heroes/hero_garrison.jsonauraDescription
+msgid ""
+"When garrisoned, the Structure has +2 capture points garrison regeneration "
+"rate."
+msgstr "Kun rakennelma on miehitetty, sillä on +2 kaappauspisteiden uusiutumisnopeus miehittäville yksiköille."
+
+#: simulation/data/auras/units/heroes/hero_garrison.jsonauraName
+msgid "Inspired Defense"
+msgstr "Inspiroitunut puolustus"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_1.jsonauraDescription
+msgid "When garrisoned, the Structure or Siege Tower has +75% arrow count."
+msgstr "Kun rakennelma tai piiritystorni on miehitetty, sen nuolien määrä kasvaa +75 %."
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_1.jsonauraName
+msgid "Valiant Defender"
+msgstr "Urhea puolustaja"
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_2.jsonauraDescription
+msgid "Soldiers +1 crush, hack, pierce resistance."
+msgstr "Sotilaille +1 murskaus-, hakkaus- ja lävistyskestävyyttä."
+
+#: simulation/data/auras/units/heroes/iber_hero_caros_2.jsonauraName
+msgid "Battle Fervor"
+msgstr "Taistelun kiihko"
+
+#: simulation/data/auras/units/heroes/iber_hero_indibil.jsonauraDescription
+msgid "Soldiers −15% resources costs, −20% training time."
+msgstr "Sotilaille -15 % resurssikustannuksista, -20 % koulutusajasta."
+
+#: simulation/data/auras/units/heroes/iber_hero_indibil.jsonauraName
+msgid "Mobilization"
+msgstr "Liikekannallepano"
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_1.jsonauraDescription
+msgid "Soldiers +20% movement speed."
+msgstr "Sotilaille +20 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_2.jsonauraDescription
+msgid "Soldiers and Siege Engines gain +100% resource loot."
+msgstr "Sotilaat ja piirityskoneet saavat +100 % resurssisaalista."
+
+#: simulation/data/auras/units/heroes/iber_hero_viriato_2.jsonauraName
+msgid "Swag"
+msgstr "Saalis"
+
+#: simulation/data/auras/units/heroes/kush_hero_amanirenas.jsonauraDescription
+#: simulation/data/auras/units/heroes/mace_hero_philip_ii.jsonauraDescription
+msgid ""
+"Champions +2 capture attack strength, +20% melee and ranged attack damage."
+msgstr "Mestareille +2 kaappaushyökkäyksen voimakkuus, +20 % lähitaistelu- ja kantamataisteluvahinkoa."
+
+#: simulation/data/auras/units/heroes/kush_hero_amanirenas.jsonauraName
+msgid "Warrior Queen"
+msgstr "Soturikuningatar"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_1.jsonauraDescription
+msgid ""
+"Temple of Amun +20% resource costs and build time. Amun Temple Guard +20% "
+"resource costs and training time."
+msgstr "Amunin temppelille +20 % resurssikustannuksia ja rakennusaikaa. Amunin temppelin vartijalle +20 % resurssikustannuksia ja koulutusaikaa."
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_1.jsonauraName
+msgid "Defier of Tradition"
+msgstr "Perinteiden uhmaaja"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_2.jsonauraDescription
+msgid ""
+"Temple of Apedemak −20% resource costs and build time. Apedemak Temple Guard"
+" −20% resource costs and training time."
+msgstr "Apademakin temppelille -20 % resurssikustannuksia ja rakennusaikaa. Apademakin temppelin vartijalle -20 % resurssikustannuksia ja koulutusaikaa."
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_2.jsonauraName
+msgid "Follower of Apedemak"
+msgstr "Apedemakin seuraaja"
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_3.jsonauraDescription
+msgid "Enemy Healers −50% healing strength."
+msgstr "Vihollisen parantajille -50 % parannuksen voimakkuutta."
+
+#: simulation/data/auras/units/heroes/kush_hero_arakamani_3.jsonauraName
+msgid "Slaughter of the Faithful"
+msgstr "Uskovien teurastus"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_1.jsonauraDescription
+msgid "Soldiers +10% melee and ranged attack damage, gain +50% resource loot."
+msgstr "Sotilaille +10 % lähi- ja kantamataisteluvahinkoa, +50 % resurssisaalista."
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_1.jsonauraName
+msgid "Savior of Kush"
+msgstr "Kušin pelastaja"
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_2.jsonauraDescription
+msgid "Kushite Triremes −50 wood and metal cost."
+msgstr "Kušilaisille kolmisouduille -50 puu- ja metallikustannuksista."
+
+#: simulation/data/auras/units/heroes/kush_hero_nastasen_2.jsonauraName
+msgid "Gift of Warships"
+msgstr "Sotalaivojen lahja"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_1.jsonauraDescription
+msgid "Structures +10% territory influence radius."
+msgstr "Rakenteille +10 % vaikutusalueen säde."
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_1.jsonauraName
+msgid "Imperialism"
+msgstr "Imperialismi"
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_2.jsonauraDescription
+msgid "Enemy Civic Centres −50% capture points garrisoned regeneration rate."
+msgstr "Vihollisen kansalaiskeskuksiin -50 % kaappauspisteiden uusiutumisnopeus miehittäville yksiköille."
+
+#: simulation/data/auras/units/heroes/mace_hero_alexander_iii_2.jsonauraName
+msgid "Conqueror"
+msgstr "Valloittaja"
+
+#: simulation/data/auras/units/heroes/mace_hero_craterus.jsonauraDescription
+msgid ""
+"Infantry Pikemen +20% capture attack strength, +20% melee attack damage."
+msgstr "Jalkaväen keihäsmiehille +20 % kaappaushyökkäyksen voimakkuutta, +20 % lähitaisteluhyökkäyksen vahinkoa."
+
+#: simulation/data/auras/units/heroes/mace_hero_craterus.jsonauraName
+msgid "Taxiarchès"
+msgstr "Taxiarchès"
+
+#: simulation/data/auras/units/heroes/mace_hero_demetrius_i.jsonauraDescription
+msgid ""
+"Siege Engines +1 crush, hack, pierce resistance, +20% melee and ranged "
+"attack damage, +10% ranged attack range, +10% vision range."
+msgstr "Piirityskoneille +1 murskaus-, hakkaus- ja lävistyskestävyys, +20 % lähi- ja kantamataisteluvahinkoa, +10 % hyökkäysten kantama, +10 % näköalue"
+
+#: simulation/data/auras/units/heroes/mace_hero_demetrius_i.jsonauraName
+msgid "Besieger"
+msgstr "Piirittäjä"
+
+#: simulation/data/auras/units/heroes/mace_hero_philip_ii.jsonauraName
+msgid "Rise of Macedon"
+msgstr "Makedonian nousu"
+
+#: simulation/data/auras/units/heroes/mace_hero_pyrrhus_i.jsonauraDescription
+msgid "Soldiers +20% melee and ranged attack damage, −15% health."
+msgstr "Sotilaille +20 % lähi- ja kantamataisteluvahinkoa, -15 % terveyttä."
+
+#: simulation/data/auras/units/heroes/mace_hero_pyrrhus_i.jsonauraName
+msgid "Pyrrhic Victory"
+msgstr "Pyrrhinen voitto"
+
+#: simulation/data/auras/units/heroes/maur_hero_ashoka.jsonauraDescription
+msgid ""
+"Temples −50% resource costs and build time. Temple technologies −50% "
+"resource costs and research time."
+msgstr "Temppeleille -50 % resurssikustannukset ja rakennusaika; temppeliteknologioille -50 % resurssikustannukset ja tutkimusaika."
+
+#: simulation/data/auras/units/heroes/maur_hero_ashoka.jsonauraName
+msgid "Buddhism"
+msgstr "Buddhalaisuus"
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_1.jsonauraDescription
+msgid ""
+"When garrisoned, the Structure's technologies have −20% resource cost and "
+"−50% research time."
+msgstr "Kun rakennelma on miehitetty, sen teknologioiden resurssikustannukset ovat -20 % ja tutkimusaika -50 %."
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_1.jsonauraName
+msgid "Teacher"
+msgstr "Opettaja"
+
+#: simulation/data/auras/units/heroes/maur_hero_chanakya_2.jsonauraName
+msgid "Regeneration"
+msgstr "Elpyminen"
+
+#: simulation/data/auras/units/heroes/pers_hero_cyrus_ii.jsonauraDescription
+msgid ""
+"Cavalry +1 capture attack strength, +20% melee and ranged attack damage."
+msgstr "Ratsuväki +1 kaappaushyökkäyksen voimakkuus, +20 % lähitaistelu- ja kantamataisteluvahinkoa."
+
+#: simulation/data/auras/units/heroes/pers_hero_cyrus_ii.jsonauraName
+msgid "Forefront Leader"
+msgstr "Eturivin johtaja"
+
+#: simulation/data/auras/units/heroes/pers_hero_darius_i.jsonauraDescription
+msgid ""
+"Soldiers, Siege Engines, Traders, and Merchant Ships +15% movement speed."
+msgstr "Sotilaille, piirityskoneille, kauppiaille ja kauppalaivoille +15 % liikkumisnopeutta."
+
+#: simulation/data/auras/units/heroes/pers_hero_darius_i.jsonauraName
+msgid "Leadership"
+msgstr "Johtajuus"
+
+#: simulation/data/auras/units/heroes/pers_hero_xerxes_i.jsonauraDescription
+msgid "Workers +15% build rate and gather speed."
+msgstr "Työntekijöille +15 % rakennus- ja keräysnopeutta."
+
+#: simulation/data/auras/units/heroes/pers_hero_xerxes_i.jsonauraName
+msgid "Administrator"
+msgstr "Hallinnoija"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_1.jsonauraDescription
+msgid "Soldiers and Siege Engines −20% melee and ranged attack repeat time."
+msgstr "Sotilaille ja piirityskoneille -20 % lähitaistelu- ja kantamahyökkäyksen toistoaikaan."
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_1.jsonauraName
+msgid "Patriot"
+msgstr "Isänmaan ystävä"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_2.jsonauraDescription
+msgid "Allied Heroes +10% health."
+msgstr "Liittolaisten sankareille +10 % terveyttä."
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_2.jsonauraName
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_3.jsonauraName
+msgid "Consort"
+msgstr "Puoliso"
+
+#: simulation/data/auras/units/heroes/ptol_hero_cleopatra_vii_3.jsonauraDescription
+msgid "Enemy Heroes −10% health."
+msgstr "Vihollisen sankareille -10 % terveyttä."
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraDescription
+msgid "Builders +10% build rate."
+msgstr "Rakentajille +10 % rakennusnopeus."
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraName
+msgid "Patron of Construction"
+msgstr "Rakentamisen mesenaatti"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_2.jsonauraDescription
+msgid "Mercenaries −35% resource costs."
+msgstr "Palkkasotureille -35 % resurssikustannuksista."
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_2.jsonauraName
+msgid "Mercenary Patron"
+msgstr "Palkkasoturien mesenaatti"
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_iv.jsonauraDescription
+msgid "Pikemen +40% health."
+msgstr "Keihäsmiehille +40 % terveyttä."
+
+#: simulation/data/auras/units/heroes/ptol_hero_ptolemy_iv.jsonauraName
+msgid "Raphia"
+msgstr "Rafia"
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_1.jsonauraDescription
+msgid "Cavalry +15% melee and ranged attack damage."
+msgstr "Ratsuväelle +15 % lähitaistelu- ja kantamahyökkäysvahinkoa."
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_1.jsonauraName
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_2.jsonauraName
+msgid "Sword of Rome"
+msgstr "Rooman miekka"
+
+#: simulation/data/auras/units/heroes/rome_hero_marcellus_2.jsonauraDescription
+msgid "Enemy Infantry −10% melee and ranged attack damage."
+msgstr "Vihollisen jalkaväelle -10 % lähitaistelu- ja kantamahyökkäysvahinkoa."
+
+#: simulation/data/auras/units/heroes/rome_hero_maximus.jsonauraDescription
+msgid "Humans and Structures +1 crush, hack, pierce resistance."
+msgstr "Ihmisille ja rakenteille +1 murskaus-, hakkaus, ja lävistysvahinkoa."
+
+#: simulation/data/auras/units/heroes/rome_hero_maximus.jsonauraName
+msgid "Shield of Rome"
+msgstr "Rooman kilpi"
+
+#: simulation/data/auras/units/heroes/rome_hero_scipio.jsonauraDescription
+msgid ""
+"Soldiers and Siege Engines +2 capture attack strength, +20% melee and ranged"
+" attack damage."
+msgstr "Sotilaille ja piirityskoneille +2 kaappaushyökkäyksen voimakkuutta, +20 % lähitaistelu- ja kantamahyökkäysvahinkoa."
+
+#: simulation/data/auras/units/heroes/rome_hero_scipio.jsonauraName
+msgid "Triumph"
+msgstr "Riemuvoitto"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iii.jsonauraDescription
+msgid "Cavalry +2 crush, hack, pierce resistance."
+msgstr "Ratsuväelle +2 murskaus-, hakkaus- ja lävistyskestävyyttä."
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iii.jsonauraName
+msgid "Ilarchès"
+msgstr "Ilarchès"
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iv.jsonauraDescription
+msgid "Enemy Structures, Ships, and Siege Engines -20% health."
+msgstr "Vihollisen rakenteille, aluksille ja piirityskoneille -20 % terveyttä."
+
+#: simulation/data/auras/units/heroes/sele_hero_antiochus_iv.jsonauraName
+msgid "Renowned Conqueror"
+msgstr "Maineikas valloittaja"
+
+#: simulation/data/auras/units/heroes/sele_hero_seleucus_i.jsonauraDescription
+msgid "Champion Elephants +20% melee attack damage, +20% movement speed."
+msgstr "Mestarinorsuille +20 % lähitaisteluvahinkoa, +20 % liikkumisnopeutta"
+
+#: simulation/data/auras/units/heroes/sele_hero_seleucus_i.jsonauraName
+msgid "Zooiarchos"
+msgstr "Zooiarchos"
+
+#: simulation/data/auras/units/heroes/spart_hero_brasidas.jsonauraDescription
+msgid ""
+"Citizen Infantry Javelineers +1 crush, hack, pierce resistance, +25% ranged "
+"attack pierce damage."
+msgstr "Kansalaisjalkaväen keihäänheittäjille +1 murskaus-, hakkaus- ja lävistyskestävyys, +25 % kantamataisteluiskun lävistysvahinkoa."
+
+#: simulation/data/auras/units/heroes/spart_hero_brasidas.jsonauraName
+msgid "Helot Reforms"
+msgstr "Heloottiuudistukset"
+
+#: simulation/data/auras/units/heroes/spart_hero_leonidas.jsonauraDescription
+msgid "Spearmen +1 capture attack strength, +25% melee attack damage."
+msgstr "Keihäsmiehille +1 kaappaushyökkäyksen voimakkuutta, +25 % lähitaisteluhyökkäyksen vahinkoa."
+
+#: simulation/data/auras/units/heroes/spart_hero_leonidas.jsonauraName
+msgid "Last Stand"
+msgstr "Viimeinen taistelu"

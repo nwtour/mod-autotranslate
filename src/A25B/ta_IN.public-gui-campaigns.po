@@ -1,0 +1,206 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# Navaneethasankar K, 2021
+# Merbin J Anselm <merbinjanselm@gmail.com>, 2021
+# Ridhubharan V <ridhudon@gmail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D. — Empires Ascendant\n"
+"POT-Creation-Date: 2021-06-07 07:53+0000\n"
+"PO-Revision-Date: 2021-04-23 16:19+0000\n"
+"Last-Translator: Ridhubharan V <ridhudon@gmail.com>, 2021\n"
+"Language-Team: Tamil (India) (https://www.transifex.com/wildfire-games/teams/17418/ta_IN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: campaigns/new_maps.jsonDescription
+msgctxt "Campaign Template"
+msgid ""
+"Discover the new maps in Alpha 25 with a demo campaign, taking you through "
+"all of them."
+msgstr ""
+
+#: campaigns/new_maps.jsonName
+msgctxt "Campaign Template"
+msgid "Demo campaign - new maps"
+msgstr ""
+
+#: campaigns/tutorial.jsonDescription
+msgctxt "Campaign Template"
+msgid "Learn how to play 0 A.D."
+msgstr "0 A.D. யை எப்படி விளையாடுவது என்பதை அறிக"
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Description
+msgctxt "Campaign Template"
+msgid ""
+"This map will give a rough guide for starting the game effectively.  Early "
+"in the game the most important thing is to gather resources as fast as "
+"possible so you are able to build enough troops later. Warning: This is very"
+" fast at the start, be prepared to run through the initial bit several "
+"times."
+msgstr ""
+"இந்த வரைபடம், விளையாட்டை திறம்பட துவங்க தோராயமான வழிகாட்டியை வழங்கும். "
+"விளையாட்டின் துவக்கத்தில் மிக முக்கியமான விஷயம் என்னவென்றால், வளங்களை "
+"முடிந்தவரை விரைவாக சேகரிப்பதே ஆகும், எனவே நீங்கள் பின்னர் போதுமான போர்படையை "
+"உருவாக்க முடியும். எச்சரிக்கை: இது தொடக்கத்தில் மிக வேகமாக இருக்கும், எனவே "
+"ஆரம்ப கட்டத்தை பல முறை இயக்க தயாராக இருங்கள்."
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Name
+msgctxt "Campaign Template"
+msgid "Economy Walkthrough"
+msgstr "பொருளாதார ஒத்திகை"
+
+#: campaigns/tutorial.jsonLevels.introduction.Description
+msgctxt "Campaign Template"
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+msgstr "நீங்கள் 0 A.D. யை விளையாடத் தொடங்க இது ஒரு அடிப்படை பயிற்சி"
+
+#: campaigns/tutorial.jsonLevels.introduction.Name
+msgctxt "Campaign Template"
+msgid "Introductory Tutorial"
+msgstr "அறிமுக பயிற்சி"
+
+#: campaigns/tutorial.jsonName
+msgctxt "Campaign Template"
+msgid "Tutorial"
+msgstr "பயிற்சி"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:156
+msgctxt "campaign status"
+msgid "Completed"
+msgstr "முழுமை பெற்றது"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:158
+msgctxt "campaign status"
+msgid "Available"
+msgstr "உபயோகப்படுத்தக்கூடியவை"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:217
+#, javascript-format
+msgid "Error loading campaign run %s: %s."
+msgstr "முனைப்பியக்க ஓட்டம் %s ஐ ஏற்றுவதில் பிழை: %s."
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):14
+msgid "Campaign Name"
+msgstr "முனைப்பியக்கத்தின் பெயர்"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):45
+msgid "No scenario selected"
+msgstr "எந்த காட்சியும் தேர்வுசெய்யப்படவில்லை"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):58
+msgid "Back to Main Menu"
+msgstr "முதன்மை பட்டியலுக்கு திரும்பு"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):62
+msgid "Saved Games"
+msgstr "சேமிக்கப்பட்ட விளையாட்டு"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):66
+msgid "Start Scenario"
+msgstr "காட்சியை துவங்கு"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):69
+msgid "Resume Saved Game"
+msgstr "சேமித்த விளையாட்டை தொடரு"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):27
+msgctxt "campaignLevelList"
+msgid "Scenario Name"
+msgstr "காட்சியின் பெயர்"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):31
+msgctxt "campaignLevelList"
+msgid "Status"
+msgstr "நிலை"
+
+#: gui/campaigns/load_modal/LoadModal.js:18
+msgid "file cannot be loaded"
+msgstr "கோப்பை ஏற்ற முடியவில்லை"
+
+#: gui/campaigns/load_modal/LoadModal.js:104
+#, javascript-format
+msgid "Are you sure you want to delete run %s? This cannot be undone."
+msgstr ""
+"ஓடடம் %s ஐ நீக்க வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா? This cannot be "
+"undone. இதை மாற்ற இயலாது."
+
+#: gui/campaigns/load_modal/LoadModal.js:105
+msgid "Confirmation"
+msgstr "உறுதிசெய்"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "No"
+msgstr "இல்லை"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "Yes"
+msgstr "ஆம்"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):13
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):39
+msgid "Load Campaign"
+msgstr "முனைப்பியக்கத்தை ஏற்று"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):20
+msgid "No ongoing campaigns."
+msgstr "நடந்து கொண்டிருக்கும் முனைப்பியக்கங்கள் எதுவும் இல்லை."
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):24
+msgid "Name of selected run:"
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஓட்டத்தின் பெயர்:"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):31
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):23
+msgid "Cancel"
+msgstr "ரத்து"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):35
+msgid "Delete"
+msgstr "அழி"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):12
+msgid "Start a campaign"
+msgstr "ஒரு முனைப்பியக்கத்தை துவங்கு"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):16
+msgid "Please enter the name of your new campaign run:"
+msgstr "உங்கள் புதிய முனைப்பியக்க ஓட்டத்தின் பெயரை உள்ளிடவும்:"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):27
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):55
+msgid "Start Campaign"
+msgstr "முனைப்பியக்கத்தை துவங்கு"
+
+#: gui/campaigns/setup/CampaignSetupPage.js:40
+msgid "No campaign selected."
+msgstr "எந்த முனைப்பியக்கமும் தேர்வுசெய்யப்படவில்லை."
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):10
+msgid "Campaigns"
+msgstr "முனைப்பியக்கங்கள்"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):37
+msgid "No Campaign selected"
+msgstr "எந்த முனைப்பியக்கமும் தேர்வுசெய்யப்படவில்லை"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):50
+msgid "Main Menu"
+msgstr "முதன்மை பட்டியல்"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(heading):26
+msgctxt "campaignsetup"
+msgid "Name"
+msgstr "பெயர்"
+
+#: gui/common/campaigns/CampaignRun.js:116
+#, javascript-format
+msgid "%(userDesc)s - %(templateName)s"
+msgstr "%(userDesc)s - %(templateName)s"

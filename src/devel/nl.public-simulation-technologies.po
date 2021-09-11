@@ -1,0 +1,1727 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# rollieoo, 2020-2021
+# Bart Groeneveld, 2017
+# bb <b.jansen5@students.uu.nl>, 2020
+# bb <b.jansen5@students.uu.nl>, 2018
+# Christof Verhoeven <christof.verhoeven@gmail.com>, 2016-2017
+# Ellen Roels, 2015
+# Floretta <florisjan.gerrits@gmail.com>, 2014
+# Freagarach, 2021
+# Freagarach, 2019-2021
+# Jan Jasper de Kroon <jajadekroon@gmail.com>, 2019
+# Marijn Billiet <marijnbilliet@gmail.com>, 2018
+# 477f07d437f0da0e33ec4ecd7b8e2b62, 2017
+# Michiel <mvdijk@mivadi.com>, 2014
+# niektb <niektb95@gmail.com>, 2014-2015
+# Paul Staring <ooypunk@hotmail.com>, 2019
+# Piers T <pierstitus@gmail.com>, 2019
+# Pim de Graaf <pimdegraaf1997@gmail.com>, 2019
+# rollieoo, 2021
+# TheBuG <Ruben.bilo@gmail.com>, 2014
+# Sander Deryckere, 2014-2016
+# Stef Jansen <stefgijsberts.sg@gmail.com>, 2014
+# Yannick Vanroy <yannickvanroy94@hotmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-08-30 07:08+0000\n"
+"PO-Revision-Date: 2021-08-31 17:31+0000\n"
+"Last-Translator: rollieoo\n"
+"Language-Team: Dutch (http://www.transifex.com/wildfire-games/0ad/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: simulation/data/technologies/agoge.jsondescription
+msgid ""
+"Spartans were housed and trained from a young age to be superlative warriors"
+" and to endure any hardship a military life can give them."
+msgstr "De Spartanen werden van jonge leeftijd getraind om de beste krijgers te worden, en om elke ontbering door een militair leven aan te kunnen."
+
+#: simulation/data/technologies/agoge.jsongenericName
+msgid "The Agoge"
+msgstr "De Agoge"
+
+#: simulation/data/technologies/agoge.jsonrequirementsTooltip
+#: simulation/data/technologies/attack_soldiers_will.jsonrequirementsTooltip
+#: simulation/data/technologies/barracks_batch_training.jsonrequirementsTooltip
+#: simulation/data/technologies/equine_transports.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_capacity_carts.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_farming_fertilizer.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_lumbering_sharpaxes.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_mining_silvermining.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_mining_slaves.jsonrequirementsTooltip
+#: simulation/data/technologies/heal_range_2.jsonrequirementsTooltip
+#: simulation/data/technologies/heal_rate_2.jsonrequirementsTooltip
+#: simulation/data/technologies/health_regen_units.jsonrequirementsTooltip
+#: simulation/data/technologies/hellenistic_metropolis.jsonrequirementsTooltip
+#: simulation/data/technologies/immortals.jsonrequirementsTooltip
+#: simulation/data/technologies/iphicratean_reforms.jsonrequirementsTooltip
+#: simulation/data/technologies/long_walls.jsonrequirementsTooltip
+#: simulation/data/technologies/nisean_horses.jsonrequirementsTooltip
+#: simulation/data/technologies/parade_of_daphne.jsonrequirementsTooltip
+#: simulation/data/technologies/pop_house_02.jsonrequirementsTooltip
+#: simulation/data/technologies/reformed_army_sele.jsonrequirementsTooltip
+#: simulation/data/technologies/ship_cost_time.jsonrequirementsTooltip
+#: simulation/data/technologies/ship_health.jsonrequirementsTooltip
+#: simulation/data/technologies/ship_movement_speed.jsonrequirementsTooltip
+#: simulation/data/technologies/siege_attack.jsonrequirementsTooltip
+#: simulation/data/technologies/siege_bolt_accuracy.jsonrequirementsTooltip
+#: simulation/data/technologies/siege_cost_time.jsonrequirementsTooltip
+#: simulation/data/technologies/siege_health.jsonrequirementsTooltip
+#: simulation/data/technologies/siege_pack_unpack.jsonrequirementsTooltip
+#: simulation/data/technologies/silvershields.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_melee_02.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_melee_03.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_ranged_02.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_ranged_03.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_hack_03.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_pierce_02.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_pierce_03.jsonrequirementsTooltip
+#: simulation/data/technologies/stable_batch_training.jsonrequirementsTooltip
+#: simulation/data/technologies/tower_health.jsonrequirementsTooltip
+#: simulation/data/technologies/tower_murderholes.jsonrequirementsTooltip
+#: simulation/data/technologies/trade_gain_02.jsonrequirementsTooltip
+#: simulation/data/technologies/traditional_army_sele.jsonrequirementsTooltip
+#: simulation/data/technologies/unlock_champion_cavalry.jsonrequirementsTooltip
+#: simulation/data/technologies/unlock_champion_chariots.jsonrequirementsTooltip
+#: simulation/data/technologies/unlock_champion_infantry.jsonrequirementsTooltip
+#: simulation/data/technologies/wonder_population_cap.jsonrequirementsTooltip
+msgid "Unlocked in City Phase."
+msgstr "Beschikbaar in grootstadsfase."
+
+#: simulation/data/technologies/agoge.jsontooltip
+msgid "Champion Infantry Spearmen +25% health, but +5% training time."
+msgstr "Kampioen infanterie speervechters krijgen +25% gezondheid, maar kosten +5% meer rekruteringstijd."
+
+#: simulation/data/technologies/archer_attack_spread.jsondescription
+msgid "Encouraging soldiers to practice archery improves their accuracy."
+msgstr "Stimuleer soldaten om het boogschieten te oefenen zodat hun precisie verbetert."
+
+#: simulation/data/technologies/archer_attack_spread.jsongenericName
+msgid "Archery Training"
+msgstr "Boogschutterstraining"
+
+#: simulation/data/technologies/archer_attack_spread.jsonrequirementsTooltip
+#: simulation/data/technologies/architecture_kush.jsonrequirementsTooltip
+#: simulation/data/technologies/cavalry_cost_time.jsonrequirementsTooltip
+#: simulation/data/technologies/cavalry_health.jsonrequirementsTooltip
+#: simulation/data/technologies/fishing_boat_gather_capacity.jsonrequirementsTooltip
+#: simulation/data/technologies/garrison_heal.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_capacity_wheelbarrow.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_farming_harvester.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_farming_training.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_lumbering_strongeraxes.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_mining_serfs.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_mining_shaftmining.jsonrequirementsTooltip
+#: simulation/data/technologies/heal_range.jsonrequirementsTooltip
+#: simulation/data/technologies/heal_rate.jsonrequirementsTooltip
+#: simulation/data/technologies/hoplite_tradition.jsonrequirementsTooltip
+#: simulation/data/technologies/infantry_cost_time.jsonrequirementsTooltip
+#: simulation/data/technologies/pop_house_01.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_melee_01.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_attack_ranged_01.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonrequirementsTooltip
+#: simulation/data/technologies/soldier_resistance_pierce_01.jsonrequirementsTooltip
+#: simulation/data/technologies/tower_crenellations.jsonrequirementsTooltip
+#: simulation/data/technologies/tower_range.jsonrequirementsTooltip
+#: simulation/data/technologies/trade_commercial_treaty.jsonrequirementsTooltip
+#: simulation/data/technologies/trade_gain_01.jsonrequirementsTooltip
+#: simulation/data/technologies/trader_health.jsonrequirementsTooltip
+msgid "Unlocked in Town Phase."
+msgstr "Beschikbaar in Stadsfase."
+
+#: simulation/data/technologies/archer_attack_spread.jsontooltip
+msgid "Archers −20% ranged attack spread."
+msgstr "Boogschutters -20% spreiding bij afstandsaanval."
+
+#: simulation/data/technologies/archery_tradition.jsondescription
+msgid ""
+"The Indian, Iranian, and Kushite peoples had a tradition of fine archery and"
+" a penchant for using massed archers in battle."
+msgstr "De Indiase, Iraanse en Koesjitische volkeren hadden een traditie van hoog ontwikkelde boogschutterij en zetten bij voorkeur grote groepen boogschutters in bij het gevecht."
+
+#: simulation/data/technologies/archery_tradition.jsongenericName
+msgid "Archery Tradition"
+msgstr "Boogschutterstraditie"
+
+#: simulation/data/technologies/archery_tradition.jsonrequirementsTooltip
+#: simulation/data/technologies/cavalry_movement_speed.jsonrequirementsTooltip
+#: simulation/data/technologies/fishing_boat_gather_rate.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_capacity_basket.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_farming_plows.jsonrequirementsTooltip
+#: simulation/data/technologies/gather_lumbering_ironaxes.jsonrequirementsTooltip
+#: simulation/data/technologies/health_females_01.jsonrequirementsTooltip
+#: simulation/data/technologies/tower_watch.jsonrequirementsTooltip
+msgid "Unlocked in Village Phase."
+msgstr "Beschikbaar in Dorpsfase."
+
+#: simulation/data/technologies/archery_tradition.jsontooltip
+msgid "Archers +10 attack range."
+msgstr "Boogschutters +10 aanvalsbereik."
+
+#: simulation/data/technologies/architecture_kush.jsongenericName
+msgid "Monumental Architecture"
+msgstr "Monumentale Architectuur"
+
+#: simulation/data/technologies/architecture_kush.jsontooltip
+msgid ""
+"Civic Structures +20% build time, +20% health, and +20% capture points."
+msgstr "Burgergebouwen +20% bouwtijd, +20% sterkte en +20% veroveringspunten."
+
+#: simulation/data/technologies/architecture_pers.jsondescription
+msgid ""
+"The Persians built the wonderful 1677 mile-long Royal Highway from Sardis to"
+" Susa; Darius the Great and Xerxes also built the magnificent Persepolis; "
+"Cyrus the Great greatly improved Ecbatana and virtually 'rebuilt' the old "
+"Elamite capital of Susa."
+msgstr "De Perzen bouwden een wonderbaarlijke koninklijke weg van 1677 mijl (2700 km) van Sardis tot Susa. Darius de Grote en Xerxes bouwden ook het prachtige Perzepolis. Cyrus de Grote verbeterde de Ecbatana en bouwde de oude hoofdstad van Susa, Elamite, zowat opnieuw."
+
+#: simulation/data/technologies/architecture_pers.jsongenericName
+msgid "Persian Architecture"
+msgstr "Perzische architectuur"
+
+#: simulation/data/technologies/architecture_pers.jsontooltip
+msgid "Structures +25% health and capture points, but also +20% build time."
+msgstr "Gebouwen +25% gezondheid en veroveringspunten, maar ook +20% constructietijd."
+
+#: simulation/data/technologies/attack_soldiers_will.jsondescription
+msgid ""
+"The will to fight is crucial to victory. Inspire your troops with higher "
+"pay."
+msgstr "De wil om te vechten is cruciaal voor de overwinning. Motiveer uw troepen met hoger loon."
+
+#: simulation/data/technologies/attack_soldiers_will.jsongenericName
+msgid "Will to Fight"
+msgstr "Wil om te vechten"
+
+#: simulation/data/technologies/attack_soldiers_will.jsonspecificName.athen
+#: simulation/data/technologies/attack_soldiers_will.jsonspecificName.mace
+#: simulation/data/technologies/attack_soldiers_will.jsonspecificName.ptol
+#: simulation/data/technologies/attack_soldiers_will.jsonspecificName.sele
+#: simulation/data/technologies/attack_soldiers_will.jsonspecificName.spart
+msgid "Dynamis"
+msgstr "Dynamis"
+
+#: simulation/data/technologies/attack_soldiers_will.jsontooltip
+msgid "Soldiers, Siege Engines, and Ships +25% attack damage."
+msgstr "Soldaten, belegeringswerktuigen en schepen +25% aanvalskracht."
+
+#: simulation/data/technologies/barracks_batch_training.jsondescription
+msgid ""
+"Significantly increase training speed of infantry by training them in large "
+"batches or companies."
+msgstr "Verbeter de rekruteersnelheid van infanterie fors door hen in grote groepen of compagnieën tegelijk te rekruteren."
+
+#: simulation/data/technologies/barracks_batch_training.jsongenericName
+#: simulation/data/technologies/stable_batch_training.jsongenericName
+msgid "Conscription"
+msgstr "Dienstplicht"
+
+#: simulation/data/technologies/barracks_batch_training.jsontooltip
+msgid "Barracks −10% batch training time."
+msgstr "Kazerne −10% rekruteringstijd voor groepen."
+
+#: simulation/data/technologies/cavalry_cost_time.jsondescription
+msgid ""
+"Calling up cavalry levies in time of war helps bolster the ranks of a king's"
+" army."
+msgstr "Extra cavalerie werven in tijden van oorlog zorgt voor een onuitputtelijk leger."
+
+#: simulation/data/technologies/cavalry_cost_time.jsongenericName
+msgid "Levy Cavalry"
+msgstr "Cavaleriewerving"
+
+#: simulation/data/technologies/cavalry_cost_time.jsontooltip
+msgid "Cavalry −10% training time."
+msgstr "Cavalerie −10% rekruteringstijd."
+
+#: simulation/data/technologies/cavalry_health.jsondescription
+msgid "Selectively breed better war horses."
+msgstr "Fok zorgvuldig betere oorlogspaarden."
+
+#: simulation/data/technologies/cavalry_health.jsongenericName
+msgid "Horse Breeding"
+msgstr "Paarden fokprogramma"
+
+#: simulation/data/technologies/cavalry_health.jsontooltip
+msgid "Cavalry +10% health."
+msgstr "Cavalerie +10% gezondheid."
+
+#: simulation/data/technologies/cavalry_movement_speed.jsondescription
+msgid "Train your horses to move faster."
+msgstr "Train uw paarden zodat ze sneller lopen."
+
+#: simulation/data/technologies/cavalry_movement_speed.jsongenericName
+msgid "Horse Racing"
+msgstr "Paardenrennen"
+
+#: simulation/data/technologies/cavalry_movement_speed.jsontooltip
+msgid "Cavalry +10% walk speed."
+msgstr "Cavalerie +10% loopsnelheid."
+
+#: simulation/data/technologies/civbonuses/cart_walls.jsondescription
+msgid ""
+"Carthaginians built their city walls in three concentric circuits. These "
+"walls were never breached. Even when the city was taken by the Romans, it "
+"was via the city's harbor, not by storming its walls."
+msgstr "De Carthagers bouwden hun stadsmuren in drie concentrische banen. Deze muren zijn nooit doorbroken. Zelf wanneer de stad werd ingenomen door de Romeinen was dat via de haven en niet door hun muren te bestormen."
+
+#: simulation/data/technologies/civbonuses/cart_walls.jsongenericName
+msgid "Triple Walls"
+msgstr "Driedubbele muren"
+
+#: simulation/data/technologies/civbonuses/cart_walls.jsontooltip
+msgid "City Walls +100% build time, +100% stone cost, and +200% health."
+msgstr "Stadsmuren +100% bouwtijd, +100% steenkosten en +200% sterkte."
+
+#: simulation/data/technologies/civbonuses/celt_structures.jsondescription
+msgid "Celtic structures were mostly made of wood with rubble foundations."
+msgstr "Keltische gebouwen waren grotendeels gemaakt uit hout met steengruis als fundering."
+
+#: simulation/data/technologies/civbonuses/celt_structures.jsongenericName
+msgid "Wooden Construction"
+msgstr "Houten constructie"
+
+#: simulation/data/technologies/civbonuses/celt_structures.jsontooltip
+msgid "Structures −20% build time, −20% health, and −20% capture points."
+msgstr "Gebouwen −20% bouwtijd, −20% sterkte en −20% veroverpunten."
+
+#: simulation/data/technologies/civbonuses/gaul_cavalry.jsondescription
+msgid ""
+"The Gauls were well-known for their effective cavalry. Celtic mercenaries "
+"were in demand throughout the Mediterranean."
+msgstr "De Galliërs stonden bekend om hun effectieve cavalerie. Keltische huurlingen waren in het hele Middellandse Zeegebied in trek."
+
+#: simulation/data/technologies/civbonuses/gaul_cavalry.jsongenericName
+msgid "Superior Cavalry"
+msgstr "Superieure cavalerie"
+
+#: simulation/data/technologies/civbonuses/gaul_cavalry.jsontooltip
+msgid "Cavalry +10% melee attack damage."
+msgstr "Cavalerie +10% schade bij mêlee aanval."
+
+#: simulation/data/technologies/civbonuses/greek_structures.jsondescription
+msgid "The Greeks used stone construction from early Mycenaean times."
+msgstr "De Grieken gebruikten al steen voor de constructie van gebouwen sinds de vroege Mycenische tijd."
+
+#: simulation/data/technologies/civbonuses/greek_structures.jsongenericName
+msgid "Hellenic Architecture"
+msgstr "Hellenistische architectuur"
+
+#: simulation/data/technologies/civbonuses/greek_structures.jsontooltip
+msgid "Structures +10% health and +10% capture points."
+msgstr "Gebouwen -10% sterkte en +10% veroveringspunten."
+
+#: simulation/data/technologies/civbonuses/maur_elephants.jsondescription
+msgid ""
+"India is the land of the elephants. Elephant warfare originated in India and"
+" continued for millennia. It was also the source of elephants for the "
+"eastern Mediterranean. Indian kings were able to field large numbers of war "
+"elephants."
+msgstr "India is het land van de olifanten. Oorlogsvoering met olifanten ontstond in India en is duizenden jaren toegepast. Landen in de Levant haalden hun olifanten uit India. Indiase koningen konden grote aantallen oorlogsolifanten in de strijd werpen."
+
+#: simulation/data/technologies/civbonuses/maur_elephants.jsongenericName
+msgid "Elephant Tradition"
+msgstr "Olifanttraditie"
+
+#: simulation/data/technologies/civbonuses/maur_elephants.jsontooltip
+msgid "Elephants −30% training time."
+msgstr "-30% rekruteringstijd voor olifanten."
+
+#: simulation/data/technologies/civbonuses/maur_population.jsondescription
+msgid ""
+"The Mauryan Empire encompassed dozens of formerly independent kingdoms over "
+"an area of 5 million square kilometers, with a population of close to 60 "
+"million people. The Mauryan regents held the title Emperor of Emperors and "
+"commanded a standing army of 600,000 infantry, 9000 elephants, 8000 "
+"chariots, and 30,000 cavalry, making it arguably the largest army of its "
+"time."
+msgstr "De Mauryadynastie regeerde over een gebied dat dozijnen oude koninkrijken omspande, wel 5 miljoen vierkante kilometer in totaal met een bevolking van zowat 60 miljoen. De Mauryaanse regenten voerden de titel van \"Keizer der Keizers\" en gaven bevelen aan een leger van 600.000 infanteriesoldaten, 9.000 olifanten, 8.000 paardenwagens en 30.000 ruiters, het grootste leger van die tijd."
+
+#: simulation/data/technologies/civbonuses/maur_population.jsongenericName
+msgid "Emperor of Emperors"
+msgstr "Keizer der Keizers"
+
+#: simulation/data/technologies/civbonuses/maur_population.jsonspecificName.maur
+msgid "Chakravarti Samrāt"
+msgstr "Chakravarti Samrāt"
+
+#: simulation/data/technologies/civbonuses/maur_population.jsontooltip
+#: simulation/data/technologies/civbonuses/pers_population.jsontooltip
+msgid "+10% maximum population limit."
+msgstr "+10% maximale bevolkingslimiet."
+
+#: simulation/data/technologies/civbonuses/maur_walls.jsondescription
+msgid ""
+"The Mauryas built their city walls out of wood, an abundant natural resource"
+" in India."
+msgstr "De Mauryas bouwden hun stadsmuren uit hout, een overvloedige natuurlijke hulpbron in India."
+
+#: simulation/data/technologies/civbonuses/maur_walls.jsongenericName
+msgid "Wooden Walls"
+msgstr "Houten schutting"
+
+#: simulation/data/technologies/civbonuses/maur_walls.jsontooltip
+msgid "City Walls −20% build time and −20% health."
+msgstr "Stadsmuren -20% bouwtijd en -20% sterkte."
+
+#: simulation/data/technologies/civbonuses/pers_population.jsondescription
+msgid ""
+"The Persians could and did levy a large number of infantry during wartime "
+"due to the sheer size of the Achaemenid Empire and the way in which it was "
+"set-up. In general the Persian infantry was well trained and fought with "
+"great tenacity. However while this was true the infantry were poor hand-to-"
+"hand, close combat fighters. Also, with the exception of the elite "
+"regiments, the Persian infantry was not a standing professional force."
+msgstr "De Perzen wierven gedurende oorlogen een zeer groot aantal infanteriesoldaten. Dit was mogelijk door de enorme grootte van het Achaemenidische rijk en de manier waarop het was georganiseerd. In het algemeen was de Perzische infanterie goed getraind en vochten ze met een sterke vastberadenheid. De infanterie was echter niet goed in gevechten van man tot man. Met de uitzondering van eliteregimenten was de Perzische infanterie geen professioneel leger."
+
+#: simulation/data/technologies/civbonuses/pers_population.jsongenericName
+msgid "Great King's Levy"
+msgstr "Belasting voor de Koning"
+
+#: simulation/data/technologies/civbonuses/ptol_structures.jsondescription
+msgid ""
+"Sun-dried mud bricks were a common building material in hot and dry areas, "
+"especially where wood was scarce. Although not as strong and durable as "
+"fired bricks or natural stone and vulnerable to constant rains and heavy "
+"floods, mud bricks have the advantage they are cheap and easy to produce."
+msgstr "Zongedroogde bakstenen van modder waren een veelgebruikt bouwmateriaal in warme en droge streken, in het bijzonder waar hout schaars was. Hoewel niet zo sterk en duurzaam als gebakken baksteen of rotssteen en gevoelig voor constante regens en overstromingen, hebben bakstenen van modder het voordeel dat ze goedkoop zijn en eenvoudig te produceren."
+
+#: simulation/data/technologies/civbonuses/ptol_structures.jsongenericName
+msgid "Sun-dried Mud Bricks"
+msgstr "Zongedroogde bakstenen van modder"
+
+#: simulation/data/technologies/civbonuses/ptol_structures.jsontooltip
+msgid "Houses and Economic Structures −40% wood cost and health."
+msgstr "Huizen en economische gebouwen −40% houtkosten en sterkte."
+
+#: simulation/data/technologies/colonization.jsondescription
+msgid ""
+"Carthaginians established many trading centers as colonies and ultimately "
+"held dominion over 300 cities and towns in North Africa alone."
+msgstr "Carthagers stichtten veel handelscentra in de vorm van kolonies. Op het hoogtepunt bezaten ze meer dan 300 steden, alleen al in noord Afrika. "
+
+#: simulation/data/technologies/colonization.jsongenericName
+msgid "Colonization"
+msgstr "Kolonisatie"
+
+#: simulation/data/technologies/colonization.jsontooltip
+msgid "Civic Structures −25% build time and resources cost"
+msgstr "Burgergebouwen kosten −25% bouwtijd en grondstoffen"
+
+#: simulation/data/technologies/equine_transports.jsondescription
+msgid ""
+"Early Achaemenid rulers acted towards making Persia the first great Asian "
+"empire to rule the seas. The Great King behaved favourably towards the "
+"various sea peoples in order to secure their services, but also carried out "
+"various marine initiatives. During the reign of Darius the Great, for "
+"example, a canal was built in Egypt and a Persian navy was sent exploring "
+"the Indus river. According to Herodotus, some 300 ships in the Persian navy "
+"were retrofitted to carry horses and their riders."
+msgstr "Vroege Achaemenidische heersers wilden Perzië het eerste grote Aziatische rijk maken dat heerste over de zeeën. De Grote Koning bevorderde goede contacten met diverse kustvolkeren om op hun diensten te kunnen rekenen, maar deed ook initiatieven op marinegebied. Gedurende de regeringstijd van Darius de Grote werd een kanaal gegraven in Egypte en werd een Perzische vloot gestuurd om de Indus te verkennen. Volgens Herodotus werden zo'n 300 Perzische schepen aangepast om paarden en hun ruiters te kunnen vervoeren."
+
+#: simulation/data/technologies/equine_transports.jsongenericName
+msgid "Equine Transports"
+msgstr "Paardentransport"
+
+#: simulation/data/technologies/equine_transports.jsontooltip
+msgid "Phoenician Triremes gain the ability to train Cavalry."
+msgstr "Fenicische triremen kunnen cavalerie rekruteren."
+
+#: simulation/data/technologies/fishing_boat_gather_capacity.jsondescription
+msgid "Salting allows to preserve fish longer."
+msgstr "Pekelen zorgt ervoor dat vis langer bewaard kan worden."
+
+#: simulation/data/technologies/fishing_boat_gather_capacity.jsongenericName
+msgid "Salting Fish"
+msgstr "Vis pekelen"
+
+#: simulation/data/technologies/fishing_boat_gather_capacity.jsontooltip
+msgid "Fishing Boats +20 food capacity."
+msgstr "Vissersboten +20 transportcapaciteit."
+
+#: simulation/data/technologies/fishing_boat_gather_rate.jsondescription
+msgid "Use nets to improve the productivity of fishing boats."
+msgstr "Gebruik netten om de productiviteit van vissersboten te verhogen."
+
+#: simulation/data/technologies/fishing_boat_gather_rate.jsongenericName
+msgid "Fishing Net"
+msgstr "Visnet"
+
+#: simulation/data/technologies/fishing_boat_gather_rate.jsontooltip
+msgid "Fishing Boats +30% fish gather rate."
+msgstr "Vissersboten +30% visverzamelingssnelheid."
+
+#: simulation/data/technologies/garrison_heal.jsondescription
+msgid "Units regain health over time while garrisoned."
+msgstr "Eenheden herkrijgen gezondheid wanneer ze in de kazerne verblijven."
+
+#: simulation/data/technologies/garrison_heal.jsongenericName
+msgid "Living Conditions"
+msgstr "Leefomstandigheden"
+
+#: simulation/data/technologies/garrison_heal.jsontooltip
+msgid "Structures +1 garrison heal rate."
+msgstr "Gebouwen +1 genezing voor gelegerden."
+
+#: simulation/data/technologies/gather_animals_stockbreeding.jsondescription
+msgid "Breed livestock to slaughter for meat."
+msgstr "Fok slachtvee voor vlees."
+
+#: simulation/data/technologies/gather_animals_stockbreeding.jsongenericName
+msgid "Stockbreeding"
+msgstr "Veeteelt"
+
+#: simulation/data/technologies/gather_animals_stockbreeding.jsontooltip
+msgid "Domestic Animals −25% breeding time."
+msgstr "Huisdieren -25% foktijd"
+
+#: simulation/data/technologies/gather_capacity_basket.jsondescription
+msgid "Workers use baskets. Increases shuttling capacity for all resources."
+msgstr "Arbeiders gebruiken rieten manden. Verhoogt draagcapaciteit voor alle grondstoffen."
+
+#: simulation/data/technologies/gather_capacity_basket.jsongenericName
+msgid "Baskets"
+msgstr "Rieten manden"
+
+#: simulation/data/technologies/gather_capacity_basket.jsontooltip
+#: simulation/data/technologies/gather_capacity_carts.jsontooltip
+#: simulation/data/technologies/gather_capacity_wheelbarrow.jsontooltip
+msgid "Workers +5 resource capacity."
+msgstr "Arbeiders +5 grondstofcapaciteit."
+
+#: simulation/data/technologies/gather_capacity_carts.jsondescription
+msgid ""
+"Workers use horse-drawn carts. Increases shuttling capacity for all "
+"resources."
+msgstr "Arbeiders gebruiken per paard getrokken karren. Verhoogt draagcapaciteit voor alle grondstoffen."
+
+#: simulation/data/technologies/gather_capacity_carts.jsongenericName
+msgid "Horse-drawn Carts"
+msgstr "Kar met paard"
+
+#: simulation/data/technologies/gather_capacity_wheelbarrow.jsondescription
+msgid ""
+"Workers use wheelbarrows. Increases shuttling capacity for all resources."
+msgstr "Arbeiders gebruiken kruiwagens. Verhoogt draagcapaciteit voor alle grondstoffen."
+
+#: simulation/data/technologies/gather_capacity_wheelbarrow.jsongenericName
+msgid "Wheelbarrow"
+msgstr "Kruiwagen"
+
+#: simulation/data/technologies/gather_farming_fertilizer.jsondescription
+msgid "Extra nutrients for farms."
+msgstr "Extra voedingsstoffen voor boerderijen."
+
+#: simulation/data/technologies/gather_farming_fertilizer.jsongenericName
+msgid "Fertilizer"
+msgstr "Mest"
+
+#: simulation/data/technologies/gather_farming_fertilizer.jsontooltip
+#: simulation/data/technologies/gather_farming_plows.jsontooltip
+#: simulation/data/technologies/gather_farming_training.jsontooltip
+msgid "Workers +20% grain gather rate."
+msgstr "Arbeiders verzamelen +20% sneller graan."
+
+#: simulation/data/technologies/gather_farming_harvester.jsondescription
+msgid ""
+"The Gauls invented an harvesting machine, making it much easier to harvest "
+"grain."
+msgstr "De Galliërs vonden een oogstmachine uit waardoor de graanoogst veel eenvoudiger werd."
+
+#: simulation/data/technologies/gather_farming_harvester.jsongenericName
+msgid "Harvesting Machine"
+msgstr "Oogstmachine"
+
+#: simulation/data/technologies/gather_farming_harvester.jsontooltip
+msgid "Workers +10% grain gather rate."
+msgstr "Arbeiders verzamelen +10% sneller graan."
+
+#: simulation/data/technologies/gather_farming_plows.jsondescription
+msgid ""
+"Equip your workers with iron plows, animal-drawn instruments to turn the "
+"sod."
+msgstr "Voorzie uw arbeiders van ijzeren ploegen, diergedreven gereedschap om de zoden te keren."
+
+#: simulation/data/technologies/gather_farming_plows.jsongenericName
+msgid "Iron Plow"
+msgstr "IJzeren ploeg"
+
+#: simulation/data/technologies/gather_farming_training.jsondescription
+msgid "Training for workers to increase farm gathering speed."
+msgstr "Training voor werkers om de landbouwproductie te verhogen."
+
+#: simulation/data/technologies/gather_farming_training.jsongenericName
+msgid "Gather Training"
+msgstr "Verzameloefeningen"
+
+#: simulation/data/technologies/gather_lumbering_ironaxes.jsondescription
+#: simulation/data/technologies/gather_lumbering_sharpaxes.jsondescription
+#: simulation/data/technologies/gather_lumbering_strongeraxes.jsondescription
+msgid "Increases wood gathering rates for trees."
+msgstr "Verhoog werksnelheid van houthakkers."
+
+#: simulation/data/technologies/gather_lumbering_ironaxes.jsongenericName
+msgid "Iron Axe Heads"
+msgstr "IJzeren bijlbladen"
+
+#: simulation/data/technologies/gather_lumbering_ironaxes.jsontooltip
+#: simulation/data/technologies/gather_lumbering_sharpaxes.jsontooltip
+#: simulation/data/technologies/gather_lumbering_strongeraxes.jsontooltip
+msgid "Workers +25% wood gather rate."
+msgstr "Arbeiders verzamelen +25% sneller hout."
+
+#: simulation/data/technologies/gather_lumbering_sharpaxes.jsongenericName
+msgid "Sharp Axe Heads"
+msgstr "Scherpere bijlen"
+
+#: simulation/data/technologies/gather_lumbering_strongeraxes.jsongenericName
+msgid "Stronger Axe"
+msgstr "Sterkere bijl"
+
+#: simulation/data/technologies/gather_mining_serfs.jsondescription
+msgid ""
+"Compel serfs to help your workers quarry stone. Increases stone gathering "
+"rates."
+msgstr "Beveel slaven om uw arbeiders te helpen bij het steendelven. Verhoogt steenverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_serfs.jsongenericName
+msgid "Serfs"
+msgstr "Slaven"
+
+#: simulation/data/technologies/gather_mining_serfs.jsonspecificName.spart
+msgid "Heilōtes"
+msgstr "Heilōtes"
+
+#: simulation/data/technologies/gather_mining_serfs.jsontooltip
+#: simulation/data/technologies/gather_mining_servants.jsontooltip
+#: simulation/data/technologies/gather_mining_slaves.jsontooltip
+msgid "Workers +25% stone gather rate."
+msgstr "Arbeiders verzamelen +25% sneller steen."
+
+#: simulation/data/technologies/gather_mining_servants.jsondescription
+msgid "Hire servants to help quarry stone. Increases stone gathering rates."
+msgstr "Huur dienaren om te helpen bij het steendelven. Verhoogt steenverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_servants.jsongenericName
+msgid "Servants"
+msgstr "Dienaren"
+
+#: simulation/data/technologies/gather_mining_servants.jsonspecificName.athen
+#: simulation/data/technologies/gather_mining_servants.jsonspecificName.mace
+#: simulation/data/technologies/gather_mining_servants.jsonspecificName.ptol
+#: simulation/data/technologies/gather_mining_servants.jsonspecificName.sele
+#: simulation/data/technologies/gather_mining_servants.jsonspecificName.spart
+msgid "Douloi"
+msgstr "Douloi"
+
+#: simulation/data/technologies/gather_mining_shaftmining.jsondescription
+msgid "Develop shaft mining. Increases metal gathering rates."
+msgstr "Ontwikkel schachtmijnen. Verhoogt metaalverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_shaftmining.jsongenericName
+msgid "Shaft Mining"
+msgstr "Schachtmijnen"
+
+#: simulation/data/technologies/gather_mining_shaftmining.jsontooltip
+#: simulation/data/technologies/gather_mining_silvermining.jsontooltip
+#: simulation/data/technologies/gather_mining_wedgemallet.jsontooltip
+msgid "Workers +25% metal gather rate."
+msgstr "Arbeiders verzamelen +25% sneller metaal."
+
+#: simulation/data/technologies/gather_mining_silvermining.jsondescription
+msgid "Strike a vein of precious silver. Increases metal gathering rates."
+msgstr "Ontdek een zilverader. Verhoogt metaalverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_silvermining.jsongenericName
+msgid "Silver Mining"
+msgstr "Zilvermijnen"
+
+#: simulation/data/technologies/gather_mining_silvermining.jsonspecificName.athen
+msgid "Mines of Laureion"
+msgstr "Mijnen van Laureion"
+
+#: simulation/data/technologies/gather_mining_silvermining.jsonspecificName.mace
+msgid "Mines of Krenides"
+msgstr "Mijnen van Krenides"
+
+#: simulation/data/technologies/gather_mining_slaves.jsondescription
+msgid ""
+"Buy slaves to help your workers quarry stone. Increases stone gathering "
+"rates."
+msgstr "Koop slaven om uw arbeiders te helpen bij het steendelven. Verhoogt steenverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_slaves.jsongenericName
+msgid "Slaves"
+msgstr "Slaven"
+
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.athen
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.mace
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.ptol
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.sele
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.spart
+msgid "Andrapoda"
+msgstr "Andrapoda"
+
+#: simulation/data/technologies/gather_mining_slaves.jsonspecificName.rome
+msgid "Servi"
+msgstr "Servi"
+
+#: simulation/data/technologies/gather_mining_wedgemallet.jsondescription
+msgid ""
+"Equip your workers with helpful tools. Increases metal gathering rates."
+msgstr "Voorzie uw arbeiders van nuttig gereedschap. Verhoogt metaalverzamelingssnelheid."
+
+#: simulation/data/technologies/gather_mining_wedgemallet.jsongenericName
+msgid "Wedge and Mallet"
+msgstr "Wig en hamer"
+
+#: simulation/data/technologies/gather_wicker_baskets.jsondescription
+msgid "Equip your foragers with wicker baskets for foraging."
+msgstr "Voorzie uw verzamelaars van rieten manden voor het foerageren."
+
+#: simulation/data/technologies/gather_wicker_baskets.jsongenericName
+msgid "Wicker Baskets"
+msgstr "Rieten manden"
+
+#: simulation/data/technologies/gather_wicker_baskets.jsontooltip
+msgid "Workers +50% fruit gather rate."
+msgstr "Arbeiders +50% fruitverzamelingssnelheid."
+
+#: simulation/data/technologies/heal_range.jsondescription
+#: simulation/data/technologies/heal_range_2.jsondescription
+msgid "Increases the healing and vision range of all healers."
+msgstr "Verhoogt het genezingsbereik en het gezichtsveld van alle helers."
+
+#: simulation/data/technologies/heal_range.jsongenericName
+msgid "Healing Range"
+msgstr "Helingsbereik"
+
+#: simulation/data/technologies/heal_range.jsonspecificName.athen
+#: simulation/data/technologies/heal_range.jsonspecificName.mace
+#: simulation/data/technologies/heal_range.jsonspecificName.ptol
+#: simulation/data/technologies/heal_range.jsonspecificName.sele
+#: simulation/data/technologies/heal_range.jsonspecificName.spart
+msgid "Olympic Pantheon"
+msgstr "Olympisch Parthenon"
+
+#: simulation/data/technologies/heal_range.jsontooltip
+#: simulation/data/technologies/heal_range_2.jsontooltip
+msgid "Healers +5 healing range."
+msgstr "Helers +5 bereik."
+
+#: simulation/data/technologies/heal_range_2.jsongenericName
+msgid "Healing Range 2"
+msgstr "Helingsbereik 2"
+
+#: simulation/data/technologies/heal_range_2.jsonspecificName.athen
+msgid "Akadēmeia"
+msgstr "Akadēmeia"
+
+#: simulation/data/technologies/heal_rate.jsondescription
+#: simulation/data/technologies/heal_rate_2.jsondescription
+msgid "Increases the healing rate of all healers."
+msgstr "Verhoogt de genezingssnelheid van alle helers."
+
+#: simulation/data/technologies/heal_rate.jsongenericName
+msgid "Healing Rate"
+msgstr "Genezingssnelheid"
+
+#: simulation/data/technologies/heal_rate.jsonspecificName.athen
+#: simulation/data/technologies/heal_rate.jsonspecificName.mace
+#: simulation/data/technologies/heal_rate.jsonspecificName.ptol
+#: simulation/data/technologies/heal_rate.jsonspecificName.sele
+#: simulation/data/technologies/heal_rate.jsonspecificName.spart
+msgid "Sphagia"
+msgstr "Sphagia"
+
+#: simulation/data/technologies/heal_rate.jsontooltip
+#: simulation/data/technologies/heal_rate_2.jsontooltip
+msgid "Healers −20% healing time."
+msgstr "Helers -20% genezingstijd."
+
+#: simulation/data/technologies/heal_rate_2.jsongenericName
+msgid "Healing Rate 2"
+msgstr "Genezingssnelheid 2"
+
+#: simulation/data/technologies/heal_rate_2.jsonspecificName.athen
+#: simulation/data/technologies/heal_rate_2.jsonspecificName.mace
+#: simulation/data/technologies/heal_rate_2.jsonspecificName.ptol
+#: simulation/data/technologies/heal_rate_2.jsonspecificName.sele
+#: simulation/data/technologies/heal_rate_2.jsonspecificName.spart
+msgid "Hippocratic Oath"
+msgstr "Eed van Hippocrates"
+
+#: simulation/data/technologies/health_females_01.jsondescription
+msgid ""
+"The loom allowed the creation of finer clothing for settlers. Women of the "
+"household were taught from a young age how to weave on the loom, and "
+"subsequently spent a large share of their lives working with it."
+msgstr "Het weefgetouw maakte het mogelijk om fijnere kleren te maken. Vrouwen van het huishouden werden al van jonge leeftijd geleerd om met het weefgetouw te werken. Daarna spendeerden ze een groot deel van hun leven aan het weefgetouw."
+
+#: simulation/data/technologies/health_females_01.jsongenericName
+msgid "The Loom"
+msgstr "Het weefgetouw"
+
+#: simulation/data/technologies/health_females_01.jsontooltip
+msgid "Female Citizens +100% health."
+msgstr "Vrouwelijke burgers +100% gezondheid."
+
+#: simulation/data/technologies/health_regen_units.jsondescription
+msgid "Organic units will slowly regenerate health over time when idle."
+msgstr "Organische eenheden zullen langzaam opnieuw gezonder worden wanneer ze inactief zijn."
+
+#: simulation/data/technologies/health_regen_units.jsongenericName
+msgid "Battlefield Medicine"
+msgstr "Medicijn op het slagveld"
+
+#: simulation/data/technologies/health_regen_units.jsontooltip
+msgid "Idle Organic units +0.5 health regeneration rate."
+msgstr "Inactieve organische eenheden +0.5 genezingssnelheid."
+
+#: simulation/data/technologies/hellenistic_metropolis.jsondescription
+msgid ""
+"Beginning with Alexander, the Hellenistic monarchs founded many cities "
+"throughout their empires, where Greek culture and art blended with local "
+"customs to create the motley Hellenistic civilization."
+msgstr "Vanaf Alexander hebben de Helleense monarchen veel steden gesticht doorheen hun rijken. Daar werd de Griekse en de lokale cultuur gemengd tot een bonte beschaving."
+
+#: simulation/data/technologies/hellenistic_metropolis.jsongenericName
+msgid "Hellenistic Metropolis"
+msgstr "Griekse metropool"
+
+#: simulation/data/technologies/hellenistic_metropolis.jsontooltip
+msgid "Civic Centers +100% health and capture points, double default arrows."
+msgstr "Beschavingscentra +100% gezondheid en veroveringspunten en dubbel zoveel standaardpijlen."
+
+#: simulation/data/technologies/hoplite_tradition.jsondescription
+msgid "Hoplite soldiers constituted most of the armies of Greece."
+msgstr "De meeste Griekse legers bestonden voor een groot deel uit hoplieten."
+
+#: simulation/data/technologies/hoplite_tradition.jsongenericName
+msgid "Hoplite Tradition"
+msgstr "Hoplieten traditie"
+
+#: simulation/data/technologies/hoplite_tradition.jsontooltip
+msgid "Hoplites −25% training time and −50% promotion experience."
+msgstr "Hoplieten −25% rekruteringstijd en −50% ervaring."
+
+#: simulation/data/technologies/immortals.jsondescription
+msgid ""
+"The Achaemenids maintained a 10,000-strong elite corps, referred to as "
+"Athanatoi (“Immortals”) by Greek authors."
+msgstr "De Achaemeniden onderhielden een elite corps van 10.000 soldaten, door Griekse auteurs de  Athanatoi (\"onsterfelijken\") genoemd."
+
+#: simulation/data/technologies/immortals.jsongenericName
+msgid "Immortals"
+msgstr "Onsterfelijken"
+
+#: simulation/data/technologies/immortals.jsontooltip
+msgid "Immortals −50% training time, but −10% health."
+msgstr "Onsterfelijken −50% rekruteringstijd, maar −10% gezondheid."
+
+#: simulation/data/technologies/infantry_cost_time.jsondescription
+msgid ""
+"Calling up infantry levies in time of war helps bolster the ranks of a "
+"king's army."
+msgstr "Extra infanterie werven in tijden van oorlog zorgt voor een onuitputtelijk leger."
+
+#: simulation/data/technologies/infantry_cost_time.jsongenericName
+msgid "Levy Infantry"
+msgstr "Infanterie recruteringen"
+
+#: simulation/data/technologies/infantry_cost_time.jsontooltip
+msgid "Infantry −10% training time."
+msgstr "Infanterie −10% rekruteringstijd."
+
+#: simulation/data/technologies/iphicratean_reforms.jsondescription
+msgid ""
+"Athenian triremes can train Marines (Epibates Athenaikos) and Cretan "
+"Mercenary Archers (Toxotes Kretikos)."
+msgstr "Atheense triremen kunnen mariniers (Epibastes Athenaikos) en Kretaanse huurlingboogschutters (Toxotes Kretikos) trainen."
+
+#: simulation/data/technologies/iphicratean_reforms.jsongenericName
+msgid "Iphicratean Reforms"
+msgstr "Hervormingen van Iphicrates"
+
+#: simulation/data/technologies/iphicratean_reforms.jsontooltip
+msgid "Athenian Triremes can train Marines and Cretan Mercenary Archers."
+msgstr "Atheense triremen kunnen mariniers en Kretaanse huurling boogschutters trainen."
+
+#: simulation/data/technologies/long_walls.jsondescription
+msgid ""
+"The Long Walls of Athens were constructed under the auspices of the wily "
+"Themistocles and extended 6 km from the city to the port of Piraeus. This "
+"secured the city's sea supply routes and prevented an enemy from starving "
+"out the city during a siege."
+msgstr "De lange muren van Athene waren geconstrueerd onder Themistokles. Het waren 6km lange muren van de stad Athene tot aan de haven van Piraeus. Dit zorgde er voor dat Athene altijd kon voorzien worden van voedsel tijdens vijandige aanvallen."
+
+#: simulation/data/technologies/long_walls.jsongenericName
+msgid "Athenian Long Walls"
+msgstr "Atheense lange muren"
+
+#: simulation/data/technologies/long_walls.jsontooltip
+msgid "Build Walls in own or neutral territory."
+msgstr "Bouw muren in eigen of neutraal territorium."
+
+#: simulation/data/technologies/nisean_horses.jsondescription
+msgid ""
+"The now-extinct Nisian breed of horse was one of the largest and robust "
+"horses of ancient times. They were highly sought after by the Seleucids and "
+"Persians as both rider and mount gained heavier armor as time progressed."
+msgstr "Het uitgestorven Niseaanse paardenras was ooit het grootste en sterkste paardenras van de oudheid. Ze waren erg gegeerd door Seleuciden en Perzen. De ruiter en het ros kregen doorheen de geschiedenis zwaardere bepantsering."
+
+#: simulation/data/technologies/nisean_horses.jsongenericName
+msgid "Nisean War Horses"
+msgstr "Niseaans oorlogspaard"
+
+#: simulation/data/technologies/nisean_horses.jsonspecificName.sele
+msgid "Nisioi"
+msgstr "Nisioi"
+
+#: simulation/data/technologies/nisean_horses.jsontooltip
+msgid "Champion Cavalry Spearmen +20% health, but +10% training time."
+msgstr "Kampioen cavalerie speervechters +20% gezondheid, maar +10% rekruteringstijd"
+
+#: simulation/data/technologies/outpost_vision.jsondescription
+msgid "Increases outpost vision."
+msgstr "Groter gezichtsveld uitkijkpost"
+
+#: simulation/data/technologies/outpost_vision.jsongenericName
+msgid "Carrier Pigeons"
+msgstr "Postduif"
+
+#: simulation/data/technologies/outpost_vision.jsontooltip
+msgid "Outposts +33% vision range."
+msgstr "Uitkijkposten +33% gezichtsveld."
+
+#: simulation/data/technologies/pair_unlock_champions_sele.jsongenericName
+msgid "Traditional Army vs Reform Army"
+msgstr "Traditioneel leger vs. hervormd leger"
+
+#: simulation/data/technologies/parade_of_daphne.jsondescription
+msgid ""
+"The festival at Daphne was a major event of the Seleucid Empire: tens of "
+"thousands of well-equipped troops participated in the opening procession."
+msgstr "Het festival van Daphne was een groots gebeuren in het Seleucidische Rijk: tienduizenden goed troepen in parade-uitrusting namen deel aan de openingsoptocht."
+
+#: simulation/data/technologies/parade_of_daphne.jsongenericName
+msgid "Parade of Daphne"
+msgstr "Parade van Daphné"
+
+#: simulation/data/technologies/parade_of_daphne.jsontooltip
+msgid "Champions −20% training time."
+msgstr "−20% rekruteringstijd voor kampioenen."
+
+#: simulation/data/technologies/phase_city.jsondescription
+msgid ""
+"Dummy technology for use in templates requirements, replaced by "
+"phase_city_generic or phase_city_{civ}."
+msgstr "Dummy technologie voor gebruik in template benodigdheden, vervangen door phase_city_generic of phase_city_{civ}."
+
+#: simulation/data/technologies/phase_city.jsongenericName
+#: simulation/data/technologies/phase_city_athen.jsongenericName
+#: simulation/data/technologies/phase_city_generic.jsongenericName
+msgid "City Phase"
+msgstr "Grootstadsfase"
+
+#: simulation/data/technologies/phase_city_athen.jsondescription
+msgid ""
+"Advances from a bustling town to a veritable metropolis, full of the wonders"
+" of modern technology. This is the Athenian city phase, where metal "
+"gathering rates are boosted because of the 'Silver Owls' bonus."
+msgstr "Ga van een bruisend stadje naar een waarachtige metropool, vol wonderen van moderne technologie. Dit is de Atheense grootstadfase waar metaalmijnsnelheden nog een bonus krijgen dankzij de \"Zilveren Uilen\"."
+
+#: simulation/data/technologies/phase_city_athen.jsonrequirementsTooltip
+#: simulation/data/technologies/phase_city_generic.jsonrequirementsTooltip
+msgid "Requires three Town Structures."
+msgstr "Vereist drie stadsgebouwen."
+
+#: simulation/data/technologies/phase_city_athen.jsonspecificName.athen
+#: simulation/data/technologies/phase_city_generic.jsonspecificName.mace
+#: simulation/data/technologies/phase_city_generic.jsonspecificName.ptol
+#: simulation/data/technologies/phase_city_generic.jsonspecificName.sele
+#: simulation/data/technologies/phase_city_generic.jsonspecificName.spart
+msgid "Megalopolis"
+msgstr "Megalopolis"
+
+#: simulation/data/technologies/phase_city_athen.jsontooltip
+msgid ""
+"Advance to City Phase, which unlocks more entities and technologies. Civic "
+"Centers +50% territory influence radius. Structures +9 capture points "
+"regeneration rate per garrisoned unit. Workers +10% metal gather rate."
+msgstr "Ga door naar de grootstadsfase, die meer entiteiten en technologieën ontsluit. Beschavingscentra +50% territorium invloed. Gebouwen +9 veroverpunten herstelsnelheid per bemande eenheid. Arbeiders +10% metaal verzamelsnelheid."
+
+#: simulation/data/technologies/phase_city_generic.jsondescription
+msgid ""
+"Advances from a bustling town to a veritable metropolis, full of the wonders"
+" of modern technology."
+msgstr "Ga van een bruisend stadje naar een echte metropool, vol wonderen van moderne technologie."
+
+#: simulation/data/technologies/phase_city_generic.jsontooltip
+msgid ""
+"Advance to City Phase, which unlocks more entities and technologies. Civic "
+"Centers +50% territory influence radius. Structures +9 capture points "
+"regeneration rate per garrisoned unit."
+msgstr "Ga door naar de grootstadsfase, die meer entiteiten en technologieën ontsluit. Beschavingscentra +50% territorium invloed. Gebouwen +9 veroverpunten herstelsnelheid per bemande eenheid."
+
+#: simulation/data/technologies/phase_town.jsondescription
+msgid ""
+"Dummy technology for use in templates requirements, replaced by "
+"phase_town_generic or phase_town_{civ}."
+msgstr "Dummy technologie voor gebruik in template benodigdheden, vervangen door phase_town_generic of phase_town_{civ}."
+
+#: simulation/data/technologies/phase_town.jsongenericName
+#: simulation/data/technologies/phase_town_athen.jsongenericName
+#: simulation/data/technologies/phase_town_generic.jsongenericName
+msgid "Town Phase"
+msgstr "Stadsfase"
+
+#: simulation/data/technologies/phase_town_athen.jsondescription
+msgid ""
+"Advances from a small village to a bustling town, ready to expand rapidly. "
+"This is the Athenian town phase, where metal gathering rates are boosted "
+"because of the 'Silver Owls' bonus."
+msgstr "Ga van een klein dorpje naar een bloeiende stad, klaar om snel uit te breiden. Dit is de Atheense stadsfase waar metaalmijnsnelheden nog een bonus krijgen dankzij de \"Zilveren Uilen\"."
+
+#: simulation/data/technologies/phase_town_athen.jsonrequirementsTooltip
+#: simulation/data/technologies/phase_town_generic.jsonrequirementsTooltip
+msgid "Requires five Village Structures."
+msgstr "Vereist 5 dorpsgebouwen."
+
+#: simulation/data/technologies/phase_town_athen.jsonspecificName.athen
+#: simulation/data/technologies/phase_town_generic.jsonspecificName.mace
+#: simulation/data/technologies/phase_town_generic.jsonspecificName.ptol
+#: simulation/data/technologies/phase_town_generic.jsonspecificName.sele
+#: simulation/data/technologies/phase_town_generic.jsonspecificName.spart
+msgid "Kōmopolis"
+msgstr "Kōmopolis"
+
+#: simulation/data/technologies/phase_town_athen.jsontooltip
+msgid ""
+"Advance to Town Phase, which unlocks more entities and technologies. Civic "
+"Centers +30% territory influence radius. Structures +7 capture points "
+"regeneration rate per garrisoned unit. Workers +10% metal gather rate."
+msgstr "Ga door naar de stadsfase, die meer entiteiten en technologieën ontsluit. Beschavingscentra +30% territorium invloed. Gebouwen +7 veroverpunten herstelsnelheid per bemande eenheid. Arbeiders +10% metaal verzamelsnelheid."
+
+#: simulation/data/technologies/phase_town_generic.jsondescription
+msgid ""
+"Advances from a small village to a bustling town, ready to expand rapidly."
+msgstr "Ga van klein dorpje naar bloeiende stad, klaar om snel uit te breiden."
+
+#: simulation/data/technologies/phase_town_generic.jsontooltip
+msgid ""
+"Advance to Town Phase, which unlocks more entities and technologies. Civic "
+"Centers +30% territory influence radius. Structures +7 capture points "
+"regeneration rate per garrisoned unit."
+msgstr "Ga door naar de stadsfase, die meer entiteiten en technologieën ontsluit. Beschavingscentra +30% territorium invloed. Gebouwen +7 veroverpunten herstelsnelheid per bemande eenheid."
+
+#: simulation/data/technologies/phase_village.jsongenericName
+msgid "Village Phase"
+msgstr "Dorpsfase"
+
+#: simulation/data/technologies/pop_house_01.jsondescription
+msgid ""
+"Home gardens ranged from simple fenced-in areas to large manicured and "
+"colonnaded enclosures."
+msgstr "Tuinen gingen van eenvoudige omheinde gebieden, tot grote, zorgvuldig gesnoeide en ommuurde vlaktes."
+
+#: simulation/data/technologies/pop_house_01.jsongenericName
+msgid "Home Garden"
+msgstr "Siertuin"
+
+#: simulation/data/technologies/pop_house_01.jsonspecificName.athen
+#: simulation/data/technologies/pop_house_01.jsonspecificName.mace
+#: simulation/data/technologies/pop_house_01.jsonspecificName.ptol
+#: simulation/data/technologies/pop_house_01.jsonspecificName.sele
+#: simulation/data/technologies/pop_house_01.jsonspecificName.spart
+msgid "Peristylon"
+msgstr "Peristylon"
+
+#: simulation/data/technologies/pop_house_01.jsonspecificName.pers
+msgid "Paradaidām"
+msgstr "Paradaidām"
+
+#: simulation/data/technologies/pop_house_01.jsonspecificName.rome
+msgid "Peristylium"
+msgstr "Peristylium"
+
+#: simulation/data/technologies/pop_house_01.jsontooltip
+#: simulation/data/technologies/pop_house_02.jsontooltip
+msgid "Houses +20% population bonus."
+msgstr "Huizen +20% bevolkingsbonus."
+
+#: simulation/data/technologies/pop_house_02.jsondescription
+msgid ""
+"Homes tended to expand as the wealth and population of a settlement grew."
+msgstr "Huizen werden vaak groter naargelang de rijkdom en bevolking van een nederzetting groeide."
+
+#: simulation/data/technologies/pop_house_02.jsongenericName
+msgid "Manors"
+msgstr "Gazonnen"
+
+#: simulation/data/technologies/pop_house_02.jsonspecificName.rome
+msgid "Insulae"
+msgstr "Insulae"
+
+#: simulation/data/technologies/reformed_army_sele.jsondescription
+msgid "The Roman-style core of the Seleucid army."
+msgstr "Het Seleucidische leger naar Romeinse stijl."
+
+#: simulation/data/technologies/reformed_army_sele.jsongenericName
+msgid "Reform Army"
+msgstr "Gereformeerd leger"
+
+#: simulation/data/technologies/reformed_army_sele.jsontooltip
+msgid "Unlock the Champion Infantry Swordsman."
+msgstr "Activeer de kampioen infanterie zwaardvechters."
+
+#: simulation/data/technologies/ship_cost_time.jsondescription
+msgid ""
+"Employ skilled shipwrights with specialized tools to speed up ship "
+"construction."
+msgstr "Neem geschoolde scheepsbouwers met speciaal gereedschap in dienst om sneller schepen te bouwen."
+
+#: simulation/data/technologies/ship_cost_time.jsongenericName
+msgid "Naval Architects"
+msgstr "Marinearchitecten"
+
+#: simulation/data/technologies/ship_cost_time.jsontooltip
+msgid "Ships −20% construction time."
+msgstr "Schepen -20% bouwtijd."
+
+#: simulation/data/technologies/ship_health.jsondescription
+msgid "Wooden reinforcement beams for ship hulls."
+msgstr "Houten versterkingen voor de scheepsboeg."
+
+#: simulation/data/technologies/ship_health.jsongenericName
+msgid "Reinforced hull"
+msgstr "Versterkte scheepsromp"
+
+#: simulation/data/technologies/ship_health.jsontooltip
+msgid "Ships +25% health."
+msgstr "Schepen +25% gezondheid."
+
+#: simulation/data/technologies/ship_movement_speed.jsondescription
+msgid ""
+"Train your oarsmen and sailors to move more efficiently and speed up your "
+"ships."
+msgstr "Train uw roeiers en zeelieden om efficiënter te bewegen en uw schepen sneller te doen gaan."
+
+#: simulation/data/technologies/ship_movement_speed.jsongenericName
+msgid "Experienced Crews"
+msgstr "Ervaren bemanning"
+
+#: simulation/data/technologies/ship_movement_speed.jsontooltip
+msgid "Ships +10% movement speed."
+msgstr "Schepen +10% snelheid."
+
+#: simulation/data/technologies/siege_attack.jsondescription
+msgid "Advanced technologies improve siege efficiency."
+msgstr "Geavanceerde technologieën voor belegering."
+
+#: simulation/data/technologies/siege_attack.jsongenericName
+msgid "Advanced Siege"
+msgstr "Geavanceerde belegering"
+
+#: simulation/data/technologies/siege_attack.jsontooltip
+msgid "Siege Engines +25% attack crush damage."
+msgstr "Belegeringswerktuigen +25% verpletterkracht."
+
+#: simulation/data/technologies/siege_bolt_accuracy.jsondescription
+msgid "Improvement to projectile accuracy."
+msgstr "Verbeterde nauwkeurigheid voor projectielen."
+
+#: simulation/data/technologies/siege_bolt_accuracy.jsongenericName
+msgid "Bolt Accuracy"
+msgstr "Accuraatheid pijlen"
+
+#: simulation/data/technologies/siege_bolt_accuracy.jsontooltip
+msgid "Bolt Shooters −20% ranged attack spread."
+msgstr "-20% spreiding bij afstandsaanval voor pijlschieters."
+
+#: simulation/data/technologies/siege_cost_time.jsondescription
+msgid "The science or craft of laying or carrying out sieges."
+msgstr "De kennis en kunde van het belegeren en omsingelen."
+
+#: simulation/data/technologies/siege_cost_time.jsongenericName
+msgid "Siegecraft"
+msgstr "Belegeringsvakmanschap"
+
+#: simulation/data/technologies/siege_cost_time.jsontooltip
+msgid "Siege Engines −20% construction time."
+msgstr "Belegeringswerktuigen -20% bouwtijd."
+
+#: simulation/data/technologies/siege_health.jsondescription
+msgid ""
+"Cover the exterior with iron plates to protect against fire and projectiles."
+msgstr "Bedek de buitenkant met ijzeren platen ter bescherming tegen vuur en projectielen."
+
+#: simulation/data/technologies/siege_health.jsongenericName
+msgid "Armor Plating"
+msgstr "Bepantsering"
+
+#: simulation/data/technologies/siege_health.jsontooltip
+msgid "Battering Rams and Siege Towers +25% health."
+msgstr "Stormrammen en belegeringstorens +25% sterkte."
+
+#: simulation/data/technologies/siege_pack_unpack.jsondescription
+msgid "Military engineers are responsible for improvements in siege engines."
+msgstr "De genie is verantwoordelijk voor verbeteringen aan belegeringswerktuigen."
+
+#: simulation/data/technologies/siege_pack_unpack.jsongenericName
+msgid "Military Engineers"
+msgstr "Militaire ingenieurs"
+
+#: simulation/data/technologies/siege_pack_unpack.jsontooltip
+msgid "Siege Engines –40% pack and unpack time."
+msgstr "Belegeringswerktuigen –40% in- en uitlaadtijd."
+
+#: simulation/data/technologies/silvershields.jsondescription
+msgid ""
+"The Silver Shields, or Argyraspidai, were the elite heavy infantry arm of "
+"the Macedonian army."
+msgstr "De Zilveren Schilden, of Argyraspidai, waren de elite zware infanterie van het Macedonische leger."
+
+#: simulation/data/technologies/silvershields.jsongenericName
+msgid "Silver Shields Regiment"
+msgstr "Regiment der Zilveren Schilden"
+
+#: simulation/data/technologies/silvershields.jsontooltip
+msgid ""
+"Upgrade Shield Bearer Champion Infantry to Silver Shields, with more health "
+"and attack damage."
+msgstr "Promoveer de schilddrager kampioeninfanterie naar Zilveren Schilden, met meer gezondheid en grotere aanvalskracht."
+
+#: simulation/data/technologies/soldier_attack_melee_01.jsondescription
+msgid ""
+"Often, a soldier would carry a secondary weapon in addition to his primary "
+"weapon of choice, to be drawn when the primary weapon has failed or been "
+"broken."
+msgstr "Vaak had een soldaat een tweede wapen bij zich, naast zijn wapen van eerste keuze, zodat hij dat kon gebruiken als zijn eerste wapen faalde of kapot was."
+
+#: simulation/data/technologies/soldier_attack_melee_01.jsongenericName
+msgid "Side Arms"
+msgstr "Zijwapens"
+
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.athen
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.mace
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.ptol
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.sele
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.spart
+msgid "Xiphos"
+msgstr "Xiphos"
+
+#: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.rome
+msgid "Pugio"
+msgstr "Pugio"
+
+#: simulation/data/technologies/soldier_attack_melee_01.jsontooltip
+#: simulation/data/technologies/soldier_attack_melee_02.jsontooltip
+msgid "Soldiers +15% melee attack damage."
+msgstr "Soldaten +15% schade bij mêlee aanval."
+
+#: simulation/data/technologies/soldier_attack_melee_02.jsondescription
+msgid "Using iron instead of bronze gave weapons additional power."
+msgstr "Het gebruik van ijzer in plaats van brons maakte de wapens sterker."
+
+#: simulation/data/technologies/soldier_attack_melee_02.jsongenericName
+msgid "Iron Weapons"
+msgstr "IJzeren wapens"
+
+#: simulation/data/technologies/soldier_attack_melee_03.jsondescription
+msgid ""
+"By adding a small amount of carbon during the iron smelting process, a "
+"stronger material, steel, can be forged."
+msgstr "Door een kleine hoeveelheid koolstof toe te voegen tijdens het ijzer smelten kan staal, een sterker materiaal, worden gesmeed."
+
+#: simulation/data/technologies/soldier_attack_melee_03.jsongenericName
+msgid "Carburization"
+msgstr "Carbonisatie"
+
+#: simulation/data/technologies/soldier_attack_melee_03.jsontooltip
+msgid "Soldiers +20% melee attack damage."
+msgstr "Soldaten +20% schade bij mêlee aanval."
+
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsondescription
+msgid ""
+"Secret steel working techniques give sword blades distinctive and beautiful "
+"markings. Not only that, but the steel's hardness is unparalleled."
+msgstr "Geheime staalbewerkingstechnieken geeft het blad van het zwaard aparte en prachtige markeringen. Daarnaast is de hardheid van het stalen blad ongeëvenaard."
+
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsongenericName
+msgid "Steel Working"
+msgstr "Staalwerken"
+
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsonspecificName.iber
+msgid "Toledo Steel"
+msgstr "Toledo-staal"
+
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsonspecificName.maur
+msgid "Wootz Steel"
+msgstr "Wootzstaal"
+
+#: simulation/data/technologies/soldier_attack_melee_03_variant.jsontooltip
+msgid ""
+"Soldiers +20% melee attack damage. Swordsmen get an additional +20% bonus."
+msgstr "Soldaten +20% schade bij mêlee aanval. Voor zwaardvechters +20% extra."
+
+#: simulation/data/technologies/soldier_attack_ranged_01.jsondescription
+msgid ""
+"Improving the fletching of arrows increases their stability and speed, and "
+"thus their penetration."
+msgstr "Door veren beter vast te maken verbetert de stabiliteit en snelheid van pijlen, en daarmee het doordringend vermogen."
+
+#: simulation/data/technologies/soldier_attack_ranged_01.jsongenericName
+msgid "Improved Fletching"
+msgstr "Betere veren"
+
+#: simulation/data/technologies/soldier_attack_ranged_01.jsontooltip
+#: simulation/data/technologies/soldier_attack_ranged_02.jsontooltip
+msgid "Soldiers +15% ranged attack damage."
+msgstr "Soldaten +15% schade bij afstandsaanval."
+
+#: simulation/data/technologies/soldier_attack_ranged_02.jsondescription
+msgid "Projectile points made of iron enable missiles to penetrate deeper."
+msgstr "Met ijzeren punten aan projectielen drongen deze dieper door."
+
+#: simulation/data/technologies/soldier_attack_ranged_02.jsongenericName
+msgid "Iron Arrowheads"
+msgstr "IJzeren pijlpunten"
+
+#: simulation/data/technologies/soldier_attack_ranged_03.jsondescription
+msgid "Arrowheads with three lobes instead of two inflict larger wounds."
+msgstr "Pijlpunten met drie snijkanten in plaats van twee brengen zwaardere wonden toe."
+
+#: simulation/data/technologies/soldier_attack_ranged_03.jsongenericName
+msgid "Trilobate Arrowheads"
+msgstr "Drievoudige pijlpunten"
+
+#: simulation/data/technologies/soldier_attack_ranged_03.jsontooltip
+msgid "Soldiers +20% ranged attack damage."
+msgstr "Soldaten +20% schade bij afstandsaanval."
+
+#: simulation/data/technologies/soldier_ranged_experience.jsontooltip
+msgid "Ranged Soldiers +25% promotion experience."
+msgstr "Afstandssoldaten promoveren met +25% ervaring."
+
+#: simulation/data/technologies/soldier_resistance_hack_01.jsondescription
+msgid "Body armor made from quilted wool, linen, cotton, or leather."
+msgstr "Harnas gemaakt van gewatteerde wol, linnen, katoen of leer."
+
+#: simulation/data/technologies/soldier_resistance_hack_01.jsongenericName
+msgid "Quilted Body Armor"
+msgstr "Gewatteerd harnas"
+
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonspecificName.athen
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonspecificName.mace
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonspecificName.ptol
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonspecificName.sele
+#: simulation/data/technologies/soldier_resistance_hack_01.jsonspecificName.spart
+msgid "Spolas"
+msgstr "Spolas"
+
+#: simulation/data/technologies/soldier_resistance_hack_01.jsontooltip
+#: simulation/data/technologies/soldier_resistance_hack_02.jsontooltip
+msgid "Soldiers +1 hack resistance."
+msgstr "Soldaten +1 slagweerstand."
+
+#: simulation/data/technologies/soldier_resistance_hack_02.jsondescription
+msgid "Body armor made from laminated linen."
+msgstr "Harnas gemaakt van gelaagd linnen."
+
+#: simulation/data/technologies/soldier_resistance_hack_02.jsongenericName
+msgid "Laminated Linen Body Armor"
+msgstr "Gelamineerd linnen pantser"
+
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.athen
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.mace
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.ptol
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.sele
+#: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.spart
+msgid "Linothōrax"
+msgstr "Linothōrax"
+
+#: simulation/data/technologies/soldier_resistance_hack_03.jsondescription
+msgid "Body armor made of small metal rings linked together."
+msgstr "Harnas gemaakt van kleine, met elkaar verbonden metalen ringen."
+
+#: simulation/data/technologies/soldier_resistance_hack_03.jsongenericName
+msgid "Mail Body Armor"
+msgstr "Maliënkolder"
+
+#: simulation/data/technologies/soldier_resistance_hack_03.jsontooltip
+msgid "Soldiers +2 hack resistance."
+msgstr "Soldaten +2 slagweerstand."
+
+#: simulation/data/technologies/soldier_resistance_pierce_01.jsondescription
+msgid ""
+"Wooden shields are heavier but much better able to resist projectiles and "
+"blows than wicker-frame shields."
+msgstr "Houten schilden zijn zwaarder maar veel beter bestand tegen projectielen en klappen dan schilden van gevlochten riet."
+
+#: simulation/data/technologies/soldier_resistance_pierce_01.jsongenericName
+msgid "Wooden Shield"
+msgstr "Houten schild"
+
+#: simulation/data/technologies/soldier_resistance_pierce_01.jsontooltip
+#: simulation/data/technologies/soldier_resistance_pierce_02.jsontooltip
+msgid "Soldiers +1 pierce resistance."
+msgstr "Soldaten +1 steekweerstand."
+
+#: simulation/data/technologies/soldier_resistance_pierce_02.jsondescription
+msgid "Strengthen shields with a metal rim or spine."
+msgstr "Versterk schilden met een metalen rand of rug."
+
+#: simulation/data/technologies/soldier_resistance_pierce_02.jsongenericName
+msgid "Metal Rim"
+msgstr "Metalen rand"
+
+#: simulation/data/technologies/soldier_resistance_pierce_03.jsondescription
+msgid "Strengthen shields further with stronger metal alloys."
+msgstr "Versterk schilden extra door sterkere metaallegeringen."
+
+#: simulation/data/technologies/soldier_resistance_pierce_03.jsongenericName
+msgid "Improved Shield Alloys"
+msgstr "Verbeterde schild legeringen"
+
+#: simulation/data/technologies/soldier_resistance_pierce_03.jsontooltip
+msgid "Soldiers +2 pierce resistance."
+msgstr "Soldaten +2 steekweerstand."
+
+#: simulation/data/technologies/spy_counter.jsondescription
+msgid "Recruit a network of informants to watch over your people."
+msgstr "Huur een netwerk van informanten om over uw volk te waken."
+
+#: simulation/data/technologies/spy_counter.jsongenericName
+msgid "Counterintelligence"
+msgstr "Contraspionage"
+
+#: simulation/data/technologies/spy_counter.jsontooltip
+msgid "Make your units 50% more expensive to bribe."
+msgstr "Maak uw eenheden 50% duurder voor omkoperij."
+
+#: simulation/data/technologies/stable_batch_training.jsondescription
+msgid ""
+"Significantly increase training speed of cavalry by training them in large "
+"batches or squadrons."
+msgstr "Verbeter de rekruteersnelheid van cavalerie fors door hen in grote groepen of eskaders tegelijk te rekruteren."
+
+#: simulation/data/technologies/stable_batch_training.jsontooltip
+msgid "Stables −10% batch training time."
+msgstr "Stallen −10% rekruteringstijd voor groepen."
+
+#: simulation/data/technologies/tower_crenellations.jsondescription
+msgid ""
+"Crenellations on the battlements allow soldiers wider range of fire in "
+"defending a keep."
+msgstr "Kantelen op de gebouwen zorgen er voor dat soldaten verder kunnen vuren bij de verdediging."
+
+#: simulation/data/technologies/tower_crenellations.jsongenericName
+msgid "Crenellations"
+msgstr "Kantelen"
+
+#: simulation/data/technologies/tower_crenellations.jsontooltip
+msgid "Sentry and Stone Towers +40% more arrows per garrisoned Soldier."
+msgstr "Uitkijk- en stenen torens vuren +40% meer pijlen af per gelegerde soldaat."
+
+#: simulation/data/technologies/tower_health.jsondescription
+msgid "Reinforce the foundations in preparation of an attack."
+msgstr "Versterk de fundamenten ter voorbereiding op een aanval."
+
+#: simulation/data/technologies/tower_health.jsongenericName
+msgid "Sturdy Foundations"
+msgstr "Stevige fundamenten"
+
+#: simulation/data/technologies/tower_health.jsontooltip
+msgid "Towers +25% health."
+msgstr "Torens +25% gezondheid."
+
+#: simulation/data/technologies/tower_murderholes.jsondescription
+msgid "Murder holes allow hitting enemies at the foot of the tower."
+msgstr "Moordgaten laten toe vijanden aan te vallen aan de voet van de toren."
+
+#: simulation/data/technologies/tower_murderholes.jsongenericName
+msgid "Murder Holes"
+msgstr "Moordgaten"
+
+#: simulation/data/technologies/tower_murderholes.jsontooltip
+msgid "Sentry and Stone Towers have 0 minimum attack range."
+msgstr "Uitkijk- en stenen torens hebben een minimaal aanvalsbereik van 0."
+
+#: simulation/data/technologies/tower_range.jsondescription
+msgid "Arrow shooters increase the maximum range of the fire arrows."
+msgstr "Boogschutters doen de maximum afstand van de vuurpijlen toenemen."
+
+#: simulation/data/technologies/tower_range.jsongenericName
+msgid "Arrow Shooters"
+msgstr "Boogschutters"
+
+#: simulation/data/technologies/tower_range.jsontooltip
+msgid "Sentry and Stone Towers +8 attack range."
+msgstr "Uitkijk- en stenen torens +8 aanvalsbereik."
+
+#: simulation/data/technologies/tower_watch.jsondescription
+msgid "A night's watch increases vigilance."
+msgstr "Een nachtwacht verhoogt de alertheid."
+
+#: simulation/data/technologies/tower_watch.jsongenericName
+msgid "Sentries"
+msgstr "Schutters"
+
+#: simulation/data/technologies/tower_watch.jsonspecificName.athen
+#: simulation/data/technologies/tower_watch.jsonspecificName.mace
+#: simulation/data/technologies/tower_watch.jsonspecificName.ptol
+#: simulation/data/technologies/tower_watch.jsonspecificName.sele
+#: simulation/data/technologies/tower_watch.jsonspecificName.spart
+msgid "Nyktophylakes"
+msgstr "Nyktophylakes"
+
+#: simulation/data/technologies/tower_watch.jsonspecificName.rome
+msgid "Vigiles"
+msgstr "Vigiles"
+
+#: simulation/data/technologies/tower_watch.jsontooltip
+msgid "Sentry and Stone Towers +1 default arrow count."
+msgstr "Uitkijk- en stenen torens +1 standaard pijlen."
+
+#: simulation/data/technologies/trade_commercial_treaty.jsondescription
+msgid "Improve the international trading profit."
+msgstr "Verhoog de internationale handelswinst."
+
+#: simulation/data/technologies/trade_commercial_treaty.jsongenericName
+msgid "Commercial Treaty"
+msgstr "Commercieel verdrag"
+
+#: simulation/data/technologies/trade_commercial_treaty.jsontooltip
+msgid "+10% international trade bonus."
+msgstr "+10% internationale handelsbonus."
+
+#: simulation/data/technologies/trade_gain_01.jsondescription
+#: simulation/data/technologies/trade_gain_02.jsondescription
+msgid "The progress in handicraft improves the trading profit."
+msgstr "De vooruitgang in handvaardigheid verhoogt uw handelswinst."
+
+#: simulation/data/technologies/trade_gain_01.jsongenericName
+msgid "Handicraft"
+msgstr "Handvaardigheid"
+
+#: simulation/data/technologies/trade_gain_01.jsontooltip
+#: simulation/data/technologies/trade_gain_02.jsontooltip
+msgid "Traders +15% trade gain."
+msgstr "Handelaren +15% winst."
+
+#: simulation/data/technologies/trade_gain_02.jsongenericName
+msgid "Advanced Handicraft"
+msgstr "Geavanceerde Handvaardigheid"
+
+#: simulation/data/technologies/trader_health.jsondescription
+msgid "Traders traveling together in caravans are less vulnerable."
+msgstr "Handelaren die gezamenlijk in karavanen reizen zijn minder kwetsbaar."
+
+#: simulation/data/technologies/trader_health.jsongenericName
+msgid "Trade Caravan"
+msgstr "Handelskaravaan"
+
+#: simulation/data/technologies/trader_health.jsontooltip
+msgid "Land Traders +50% health."
+msgstr "Handelaren te land +50% gezondheid."
+
+#: simulation/data/technologies/traditional_army_sele.jsondescription
+msgid "The Macedonian-style core of the Seleucid army."
+msgstr "Het Seleucidische leger naar Macedonische stijl."
+
+#: simulation/data/technologies/traditional_army_sele.jsongenericName
+msgid "Traditional Army"
+msgstr "Traditioneel leger"
+
+#: simulation/data/technologies/traditional_army_sele.jsontooltip
+msgid "Unlock the Champion Infantry Pikeman."
+msgstr "Activeer de kampioen infanterie piekeniers."
+
+#: simulation/data/technologies/unit_advanced.jsontooltip
+msgid ""
+"Advanced and Elite units +20% training time, +25% health, +0.7 capture "
+"attack strength, +20% loot, and −30% gather speed; Healers +5 healing "
+"strength and +3 healing range; Melee units +1 resistance and +20% attack "
+"damage; Ranged units −20% spread."
+msgstr "Geavanceerde en elite eenheden +20% rekruteringstijd, +25% gezondheid, +0.7 veroveringskracht, +20% buit en −30% verzamelsnelheid; helers +5 genezingskracht en +3 genezingsbereik; mêlee eenheden +1 weerstand en +20% aanvalsschade; afstandseenheden −20% spreiding."
+
+#: simulation/data/technologies/unit_elephant_african.jsontooltip
+msgid ""
+"African Elephants −10% resource costs, training time, health, attack damage,"
+" and loot."
+msgstr "Afrikaanse olifanten kosten -10% grondstoffen, rekruteringstijd, gezondheid, aanvalskracht en buit."
+
+#: simulation/data/technologies/unit_elephant_indian.jsontooltip
+msgid ""
+"Indian Elephants +10% resource costs, training time, health, attack damage, "
+"and loot."
+msgstr "Indiase olifanten kosten -10% grondstoffen, rekruteringstijd, gezondheid, aanvalskracht en buit."
+
+#: simulation/data/technologies/unit_elite.jsontooltip
+msgid ""
+"Elite units +20% training time, +25% health, +0.8 capture attack strength, "
+"+20% loot, and −30% gather speed; Healers +5 healing strength and +3 healing"
+" range; Melee units +1 resistance and +20% attack damage; Ranged units −20% "
+"spread."
+msgstr "Elite eenheden +20% rekruteringstijd, +25% gezondheid, +0.8 veroveringskracht, +20% buit en −30% verzamelsnelheid; helers +5 genezingskracht en +3 genezingsbereik; mêlee eenheden +1 weerstand en +20% aanvalsschade; afstandseenheden −20% spreiding."
+
+#: simulation/data/technologies/unlock_champion_cavalry.jsondescription
+#: simulation/data/technologies/unlock_champion_chariots.jsondescription
+#: simulation/data/technologies/unlock_champion_infantry.jsondescription
+msgid ""
+"Guard units (Champions) are professionals who wield the best weapons and "
+"have the best training."
+msgstr "Wachters (kampioenen) zijn professionele vechters met de beste wapens en de beste training."
+
+#: simulation/data/technologies/unlock_champion_cavalry.jsongenericName
+msgid "Unlock Champion Cavalry"
+msgstr "Activeer de Kampioen cavalerie"
+
+#: simulation/data/technologies/unlock_champion_cavalry.jsontooltip
+msgid "Unlock Champion Cavalry at the Stable."
+msgstr "Activeer de cavalerie kampioenen in de stallen."
+
+#: simulation/data/technologies/unlock_champion_chariots.jsongenericName
+msgid "Unlock Champion Chariots"
+msgstr "Activeer Kampioen strijdwagens"
+
+#: simulation/data/technologies/unlock_champion_chariots.jsontooltip
+msgid "Unlock Champion Chariots at the Stable."
+msgstr "Activeer de Kampioen strijdwagens in de stallen."
+
+#: simulation/data/technologies/unlock_champion_infantry.jsongenericName
+msgid "Unlock Champion Infantry"
+msgstr "Activeer de infanterie kampioenen"
+
+#: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.mace
+#: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.ptol
+msgid "Agēma"
+msgstr "Agēma"
+
+#: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.rome
+msgid "Regio Cohors"
+msgstr "Regio Cohors"
+
+#: simulation/data/technologies/unlock_champion_infantry.jsontooltip
+msgid "Unlock Champions Infantry at the Barracks."
+msgstr "Activeer de infanterie kampioenen in de kazerne."
+
+#: simulation/data/technologies/unlock_females_house.jsondescription
+msgid "A festival attended by women-only, to celebrate female fertility."
+msgstr "Een festival dat enkel door vrouwen bijgewoond wordt, om de vrouwelijke vruchtbaarheid te vieren."
+
+#: simulation/data/technologies/unlock_females_house.jsongenericName
+msgid "Fertility Festival"
+msgstr "Vruchtbaarheidsfeest"
+
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.athen
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.mace
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.ptol
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.sele
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.spart
+msgid "Thesmophoria"
+msgstr "Thesmophorië"
+
+#: simulation/data/technologies/unlock_females_house.jsonspecificName.rome
+msgid "Bona Dea"
+msgstr "Bona Dea"
+
+#: simulation/data/technologies/unlock_females_house.jsontooltip
+msgid "Unlock the ability to train women from houses."
+msgstr "Activeer de mogelijkheid om vrouwen te rekruteren van alle huizen."
+
+#: simulation/data/technologies/unlock_shared_dropsites.jsondescription
+msgid ""
+"The extension of trade leads to the permanent establishment of storekeepers "
+"and their families in foreign countries, allowing them to exploit the wealth"
+" of these countries."
+msgstr "De uitbreiding van handel zorgde voor permanente vestiging van koopmannen en hun families in het buitenland. Dit liet hen toe de rijkdommen van deze landen te exploiteren."
+
+#: simulation/data/technologies/unlock_shared_dropsites.jsongenericName
+msgid "Diaspora"
+msgstr "Diaspora"
+
+#: simulation/data/technologies/unlock_shared_dropsites.jsonrequirementsTooltip
+msgid "Requires three Traders"
+msgstr "Vereist drie handelaren"
+
+#: simulation/data/technologies/unlock_shared_dropsites.jsontooltip
+msgid "Allows using allied dropsites."
+msgstr "Gebruik de pakhuizen van geallieerde spelers."
+
+#: simulation/data/technologies/unlock_shared_los.jsondescription
+msgid ""
+"By means of trading and travelling people explored beyond the boundaries of "
+"their lands and drew maps of it in order to share and memorize their "
+"discoveries."
+msgstr "Door te handelen en te reizen ontdekten de mensen de wereld achter de grenzen van hun land.  Ze tekenden kaarten om ze te delen en om hun ontdekkingen niet te vergeten."
+
+#: simulation/data/technologies/unlock_shared_los.jsongenericName
+msgid "Cartography"
+msgstr "Cartografie"
+
+#: simulation/data/technologies/unlock_shared_los.jsontooltip
+msgid ""
+"See what your allies see, browse their summary and check their resources and"
+" population count in the top panel."
+msgstr "Zie wat uw alliantie ziet, blader door hun samenvatting en bekijk hun grondstoffen en bevolkingslimiet in het bovenpaneel."
+
+#: simulation/data/technologies/unlock_spies.jsondescription
+msgid ""
+"Merchants' first goal was trading, but they also gathered information about "
+"the countries they crossed."
+msgstr "Handelaren waren voornamelijk bezig met handel drijven, maar ze verzamelden ook informatie over de landen die ze doorkruisten."
+
+#: simulation/data/technologies/unlock_spies.jsongenericName
+msgid "Espionage"
+msgstr "Spionage"
+
+#: simulation/data/technologies/unlock_spies.jsontooltip
+msgid ""
+"Allows bribing the units of other players in order to share their vision."
+msgstr "Staat toe de eenheden van andere spelers om te kopen om hun inzicht te delen."
+
+#: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsondescription
+msgid "Hire professional mercenaries to fight in your army."
+msgstr "Huur professionele huurlingen om in uw leger te vechten."
+
+#: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsongenericName
+msgid "Expertise In War"
+msgstr "Oorlogservaring"
+
+#: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsontooltip
+msgid "Mercenaries start at Advanced rank."
+msgstr "Huurlingen beginnen met gevorderde rang."
+
+#: simulation/data/technologies/wonder_population_cap.jsondescription
+msgid "The wonder attracts many more people to your civilization."
+msgstr "Het wonder trekt meer mensen naar uw beschaving."
+
+#: simulation/data/technologies/wonder_population_cap.jsongenericName
+msgid "Glorious Expansion"
+msgstr "Glorieuze Expansie"
+
+#: simulation/data/technologies/wonder_population_cap.jsonspecificName.athen
+#: simulation/data/technologies/wonder_population_cap.jsonspecificName.mace
+#: simulation/data/technologies/wonder_population_cap.jsonspecificName.ptol
+#: simulation/data/technologies/wonder_population_cap.jsonspecificName.sele
+#: simulation/data/technologies/wonder_population_cap.jsonspecificName.spart
+msgid "Peristasis"
+msgstr "Peristasis"
+
+#: simulation/data/technologies/wonder_population_cap.jsontooltip
+msgid ""
+"Enable the “Glorious Expansion” aura: +20% maximum population limit per "
+"Wonder owned."
+msgstr "Activeer de Glorieuze Expansie: +20% maximale bevolkingslimiet per wonder."

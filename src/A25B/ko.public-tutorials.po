@@ -1,0 +1,854 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# moolow <copyhyeon@gmail.com>, 2018
+# ks k, 2019
+# JungHee Lee <daemul72@gmail.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D. — Empires Ascendant\n"
+"POT-Creation-Date: 2021-04-09 07:08+0000\n"
+"PO-Revision-Date: 2017-06-04 12:59+0000\n"
+"Last-Translator: JungHee Lee <daemul72@gmail.com>, 2021\n"
+"Language-Team: Korean (https://www.transifex.com/wildfire-games/teams/17418/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: maps/tutorials/introductory_tutorial.js:3
+msgid "Welcome to the 0 A.D. tutorial."
+msgstr "0 A.D. 사용 지침서에 오신 것을 환영합니다."
+
+#: maps/tutorials/introductory_tutorial.js:6
+msgid ""
+"Left-click on a Female Citizen and then right-click on a berry bush to make "
+"that Female Citizen gather food. Female Citizens gather vegetables faster "
+"than other units."
+msgstr ""
+"여성 시민을 마우스 왼쪽 버튼으로 클릭한 다음 딸기나무를 마우스 오른쪽 버튼으로 클릭하여 여성 시민이 음식을 수집하도록 합니다. 여성 "
+"시민들은 다른 유닛보다 더 빨리 채소를 수집합니다."
+
+#: maps/tutorials/introductory_tutorial.js:15
+msgid ""
+"Select the Citizen Soldier, right-click on a tree near the Civic Center to "
+"begin gathering wood. Citizen Soldiers gather wood faster than Female "
+"Citizens."
+msgstr ""
+"시민 병사들을 선택하고 시민 회관 근처의 나무를 마우스 오른쪽 단추로 클릭하여 목재 수집을 시작합니다. 시민 병사들을 여성 시민보다 더 "
+"빨리 목재를 수집합니다."
+
+#: maps/tutorials/introductory_tutorial.js:26
+#, javascript-format
+msgid ""
+"Select the Civic Center building and hold %(hotkey)s while clicking on the "
+"Hoplite icon once to begin training a batch of Hoplites."
+msgstr ""
+"시민 회관 건물을 선택하고 %(hotkey)s을(를) 누른 상태에서 장갑보병 아이콘을 한 번 클릭하면 한 무리의 장갑보병을 훈련을 "
+"시작합니다."
+
+#: maps/tutorials/introductory_tutorial.js:37
+#: maps/tutorials/introductory_tutorial.js:79
+#: maps/tutorials/introductory_tutorial.js:161
+#: maps/tutorials/introductory_tutorial.js:245
+msgid ""
+"Do not forget to press the batch training hotkey while clicking to produce "
+"multiple units."
+msgstr "여러 유닛을 생산하려면 클릭하는 동안 일괄 훈련 단축키를 누르는것을 잊지 마십시오."
+
+#: maps/tutorials/introductory_tutorial.js:38
+#: maps/tutorials/introductory_tutorial.js:162
+msgid "Click on the Hoplite icon."
+msgstr "장갑보병 아이콘을 클릭하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:46
+msgid ""
+"Select the two idle Female Citizens and build a House nearby by selecting "
+"the House icon. Place the House by left-clicking on a piece of land."
+msgstr "두 명의 노는 여성 시민을 선택하고 집 아이콘을 선택하여 인근에 집을 건설합니다. 땅을 좌클릭하여 집을 배치합니다."
+
+#: maps/tutorials/introductory_tutorial.js:54
+msgid ""
+"When they are ready, select the newly trained Hoplites and assign them to "
+"build a Storehouse beside some nearby trees. They will begin to gather wood "
+"when it's constructed."
+msgstr ""
+"준비가 되면 새로 훈련된 장갑보병을 선택하여 근처의 나무 옆에 창고를 짓도록 지정합니다. 그들은 그것이 지어지면 목재들을 모으기 시작할 "
+"것입니다."
+
+#: maps/tutorials/introductory_tutorial.js:64
+#, javascript-format
+msgid ""
+"Train a batch of Skirmishers by holding %(hotkey)s and clicking on the "
+"Skirmisher icon in the Civic Center."
+msgstr "%(hotkey)s 키를 상태에서 시민 회관에서 척후병 아이콘을 클릭하여 한 무리의 척후병을 훈련합니다."
+
+#: maps/tutorials/introductory_tutorial.js:80
+msgid "Click on the Skirmisher icon."
+msgstr "척후병 아이콘을 클릭하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:88
+msgid ""
+"Build a Farmstead in an open space beside the Civic Center using any idle "
+"builders."
+msgstr "시민 회관 옆의 빈 공간에 노는 건설 유닛을 사용하여 농장 건물을 건설하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:100
+msgid "Let's wait for the Farmstead to be built."
+msgstr "농장 건물이 건설될 때까지 기다려 봅시다."
+
+#: maps/tutorials/introductory_tutorial.js:112
+msgid ""
+"Once the Farmstead is constructed, its builders will automatically begin "
+"gathering food if there is any nearby. Select the builders and instead make "
+"them construct a Field beside the Farmstead."
+msgstr ""
+"농장이 건설되면 근처에 음식이 있으면 건축 유닛이 자동으로 식량 수집을 시작합니다. 건축 유닛을 선택하고 대신 농장 건물 옆에 밭을 "
+"건설하게 하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:136
+msgid ""
+"The Field's builders will now automatically begin gathering food from the "
+"Field. Using the newly created group of skirmishers, get them to build "
+"another House nearby."
+msgstr ""
+"무리이제 밭의 건설 유닛이 밭에서 자동으로 식량을 수집하기 시작합니다. 새로 만든 척후병 무리를 사용하여 근처에 다른 집을 지을 수 "
+"있습니다."
+
+#: maps/tutorials/introductory_tutorial.js:144
+msgid ""
+"Train a batch of Hoplites at the Civic Center. Select the Civic Center and "
+"with it selected right-click on a tree nearby. Units from the Civic Center "
+"will now automatically gather wood."
+msgstr ""
+"시민 회관에서 한 무리의 장갑보병을 훈련시킵니다. 시민 회관을 선택하고 선택한 상태로 근처의 나무를 마우스 오른쪽 버튼으로 클릭합니다. "
+"시민 회관의 유닛이 자동으로 나무를 모을 것입니다."
+
+#: maps/tutorials/introductory_tutorial.js:176
+msgid ""
+"Select the Civic Center, then hover the cursor over the tree and right-click"
+" when you see your cursor change into a wood icon."
+msgstr "시민 회관을 선택한 다음 커서를 나무 위에 놓고 커서가 목재 아이콘으로 변경되면 마우스 오른쪽 버튼을 클릭합니다."
+
+#: maps/tutorials/introductory_tutorial.js:185
+msgid ""
+"Build a Barracks nearby. Whenever your population limit is reached, build an"
+" extra House using any available builder units. This will be the fifth "
+"Village Phase structure that you have built, allowing you to advance to the "
+"Town Phase."
+msgstr ""
+"근처에 막사를 건설하십시오. 인구 제한에 도달 할 때마다 사용 가능한 건설 유닛을 사용하여 추가 주택을 건설하십시오. 이것은 당신이 "
+"건설한 다섯 번째 마을 단계 구조가 될 것이며, 당신은 소도시 단계로 나아갈 수 있습니다."
+
+#: maps/tutorials/introductory_tutorial.js:193
+msgid ""
+"Select the Civic Center again and advance to Town Phase by clicking on the "
+"II icon (you have to wait for the barracks to be built first). This will "
+"allow Town Phase buildings to be constructed."
+msgstr ""
+"시민 회관을 다시 선택하고, II 아이콘을 클릭하여 소도시 단계로 진행합니다(먼저 막사가 건설될 때까지 기다려야함). 이렇게 하면 소도시"
+" 단계 건물을 건설할 수 있습니다."
+
+#: maps/tutorials/introductory_tutorial.js:205
+msgid ""
+"While waiting for the phasing up, you may reassign your idle workers to "
+"gathering the resources you are short of."
+msgstr "‘작은 도시 단계’로 향상하고 있는 동안, 노는 일꾼에게 부족한 자원을 채집하도록 다시 명령을 내리십시오."
+
+#: maps/tutorials/introductory_tutorial.js:220
+msgid ""
+"Order the idle Skirmishers to build an outpost to the north east at the edge"
+" of your territory."
+msgstr "노는 척후병을 시켜 영토 가장자리의 북동쪽에 전초기지를 건설하도록 명령하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:228
+msgid ""
+"Start training a batch of Female Citizens in the Civic Center and set its "
+"rally point to the farm (right click on it)."
+msgstr "시민 회관에서 한 무리의 여성 시민들이 훈련을 시작하고 집회 지점을 농장으로 설정합니다 (오른쪽 클릭)."
+
+#: maps/tutorials/introductory_tutorial.js:246
+#: maps/tutorials/starting_economy_walkthrough.js:345
+msgid "Click on the Female Citizen icon."
+msgstr "여성 시민 아이콘을 클릭하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:266
+msgid ""
+"Prepare for an attack by an enemy player. Train more soldiers using the "
+"Barracks, and get idle soldiers to build a Tower near your Outpost."
+msgstr ""
+"적 플레이어의 공격에 대비하십시오. 막사를 사용하여 더 많은 병사를 훈련하고 노는 병사를 확보하여 전초 기지 근처에 타워를 건설하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:274
+msgid ""
+"Build a Forge and research the Infantry Training technology (sword icon) to "
+"improve infantry hack attack."
+msgstr "대장간을 짓고 보병 훈련 기술 (칼 아이콘)을 연구하여 보병의 난도질 공격을 향상시키십시오."
+
+#: maps/tutorials/introductory_tutorial.js:282
+msgid "The enemy is coming. Train more soldiers to fight off the enemies."
+msgstr "적국이 오고 있습니다. 적국과 싸우기 위해 더 많은 병사들을 훈련시키십시오."
+
+#: maps/tutorials/introductory_tutorial.js:290
+msgid "Try to repel the attack."
+msgstr "공격을 물리치십시오."
+
+#: maps/tutorials/introductory_tutorial.js:300
+msgid ""
+"The enemy attack has been thwarted. Now build a market and a temple while "
+"you assign new units to gather required resources."
+msgstr "적의 공격을 물리쳤습니다. 새로운 유닛을 필요한 자원 채집을 하도록 할당하는동안 이제 시장과 사원을 지으십시오."
+
+#: maps/tutorials/introductory_tutorial.js:321
+msgid ""
+"Once you meet the City Phase requirements, select your Civic Center and "
+"advance to City Phase."
+msgstr "일단 당신의 '큰 도시 단계'의 요건을 충족시키면, 시민 회관을 선택하고 '큰 도시 단계'로 향상 시키십시오."
+
+#: maps/tutorials/introductory_tutorial.js:329
+msgid ""
+"While waiting for the phase change, you may train more soldiers at the "
+"Barracks."
+msgstr "단계가 바뀌는것을 기다리는 동안, 막사에서 더 많은 병사들을 훈련시킬 수 있습니다."
+
+#: maps/tutorials/introductory_tutorial.js:337
+msgid ""
+"Now that you are in City Phase, build the Arsenal nearby and then use it to "
+"construct 2 Battering Rams."
+msgstr "이제 도시 단계에 있으므로, 근처에 무기고를 건축한 후에 이를 사용하여 2대의 충차을 건설하십시오."
+
+#: maps/tutorials/introductory_tutorial.js:359
+msgid ""
+"Stop all your soldiers gathering resources and instead task small groups to "
+"find the enemy Civic Center on the map. Once the enemy's base has been "
+"spotted, send your Siege Engines and all remaining soldiers to destroy it.\n"
+msgstr ""
+"모든 병사들이 자원을 모으는 것을 막고, 대신 작은 무리를 지휘하여 지도에서 적의 시민 회관을 찾으십시오. 적의 기지가 발견되면 공성 "
+"무기와 남아있는 모든 병사를 보내 파괴하십시오.\n"
+
+#: maps/tutorials/introductory_tutorial.js:360
+msgid "Female Citizens should continue to gather resources."
+msgstr "여성 시민은 계속해서 자원을 수집해야합니다."
+
+#: maps/tutorials/introductory_tutorial.js:371
+msgid "The enemy has been defeated. These tutorial tasks are now completed."
+msgstr "적이 패배했습니다. 이제 다음 사용 지침서 작업이 완료되었습니다."
+
+#: maps/tutorials/introductory_tutorial.xml:Description:38
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+msgstr "0 A.D. 게임을 시작하기 위한 기본 사용 지침서입니다."
+
+#: maps/tutorials/introductory_tutorial.xml:Name:38
+msgid "Introductory Tutorial"
+msgstr "입문자들을 위한 사용 지침서"
+
+#: maps/tutorials/introductory_tutorial.xml:PlayerData[0].Name:38
+#: maps/tutorials/starting_economy_walkthrough.xml:PlayerData[0].Name:39
+msgid "Player 1"
+msgstr "플레이어 1"
+
+#: maps/tutorials/introductory_tutorial.xml:PlayerData[1].Name:38
+msgid "Player 2"
+msgstr "플레이어 2"
+
+#: maps/tutorials/starting_economy_walkthrough.js:4
+msgid ""
+"This tutorial will teach the basics of developing your economy. Typically, "
+"you will start with a Civic Center and a couple units in Village Phase and "
+"ultimately, your goal will be to develop and expand your empire, often by "
+"evolving to Town Phase and City Phase afterward.\n"
+msgstr ""
+"이 사용 지침서는 경제 발전의 기본 사항을 설명합니다. 일반적으로 부락 단계에서 시민 회관과 몇 개의 유닛으로 시작하고 궁극적으로 목표는"
+" 나중에 소도시 단계 및 도시 단계로 발전하여 제국을 개발하고 확장하는 것입니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:6
+#, javascript-format
+msgid ""
+"\n"
+"Before starting, you can toggle between fullscreen and windowed mode using %(hotkey)s."
+msgstr ""
+"\n"
+"시작하기전에, %(hotkey)s 키를 사용하여 전체 화면과 창 모드로 전환할 수 있습니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:9
+msgid ""
+"You can change the level of zoom using the mouse wheel and the camera view "
+"using any of your keyboard's arrow keys.\n"
+msgstr "마우스 휠을 사용하여 확대/축소를 조정할 수 있고 키보드의 화할표 키를 이용하여 카메라 시점을 바꿀수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:10
+msgid "Adjust the game window to your preferences.\n"
+msgstr "게임 창을 원하는대로 조정하십시오.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:12
+#, javascript-format
+msgid ""
+"\n"
+"You may also toggle between showing and hiding this tutorial panel at any moment using %(hotkey)s.\n"
+msgstr ""
+"\n"
+"%(hotkey)s 키로 언제든지 이 사용 지침서 패널을 표시하거나 숨길 수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:19
+msgid ""
+"To start off, select your building, the Civic Center, by clicking on it. A "
+"selection ring in the color of your civilization will be displayed after "
+"clicking."
+msgstr "시작하려면 건물을 클릭하여 시민 회관을 선택하십시오. 클릭하면 당신의 문명 색으로 된 원모양의 선택영역이 표시됩니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:24
+msgid ""
+"Now that the Civic Center is selected, you will notice that a production "
+"panel will appear on the lower right of your screen detailing the actions "
+"that the buildings supports. For the production panel, available actions are"
+" not masked in any color, while an icon masked in either grey or red "
+"indicates that the action has not been unlocked or you do not have "
+"sufficient resources to perform that action, respectively. Additionally, you"
+" can hover the cursor over any icon to show a tooltip with more details.\n"
+msgstr ""
+"이제 시민 회관이 선택되었으니 건물이 지원하는 작업을 자세히 설명하는 생산 패널이 화면 오른쪽 아래에 나타납니다. 생산 패널에서 "
+"사용가능한 작업은 어떤색으로도 가려지지 않지만 회색이나 빨간색으로 가려진 아이콘은 작업이 잠금 해제되지 않았거나 해당 작업을 수행할 수 "
+"있는 자원이 충분하지 않음을 나타냅니다. 또한 아이콘 위에 커서를 올려두면 자세한 내용이 포함된 툴팁이 표시됩니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:25
+msgid ""
+"The top row of buttons contains portraits of units that may be trained at "
+"the building while the bottom one or two rows will have researchable "
+"technologies. Hover the cursor over the II icon. The tooltip will tell us "
+"that advancing to Town Phase requires both more constructed structures as "
+"well as more food and wood resources."
+msgstr ""
+"맨 위 열에는 건물에서 훈련할 수 있는 유닛의 초상화가 들어 있으며, 맨 아래 1, 2열에는 연구 가능한 기술이 있습니다. 커서를 II "
+"아이콘 위에 놓습니다. 이 툴팁을 통해 마을 단계로 진출하려면 더 많은 구조물과 더 많은 식량 및 목재 자원이 필요하다는 것을 알 수 "
+"있습니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:30
+msgid ""
+"You have two main types of starting units: Female Citizens and Citizen "
+"Soldiers. Female Citizens are purely economic units; they have low health "
+"and little to no attack. Citizen Soldiers are workers by default, but in "
+"times of need, can utilize a weapon to fight. You have two categories of "
+"Citizen Soldiers: Infantry and Cavalry. Female Citizens and Infantry Citizen"
+" Soldiers can gather any land resources while Cavalry Citizen Soldiers can "
+"only gather meat from animals.\n"
+msgstr ""
+"시작 유닛은 크게 두 가지 유형이 있습니다: 여성 시민과 시민 병사들입니다. 여성 시민은 순수하게 경제 단위입니다; 그들은 체력이 좋지 "
+"않고 거의 공격받지 않습니다. 시민 병사들은 기본적으로 일꾼이지만, 필요한 경우 무기를 사용하여 싸울 수 있습니다. 시민 병사는 보병과 "
+"기병의 두 가지 범주가 있습니다. 여성 시민 및 보병 시민 병사들은 모든 지하자원을 수집할 수 있는 반면 기병 시민 병사들은 동물에게서만"
+" 고기를 수집할 수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:35
+msgid ""
+"As a general rule of thumb, left-clicking represents selection while right-"
+"clicking with an entity selected represents an order (gather, build, fight, "
+"etc.).\n"
+msgstr ""
+"일반적으로 마우스 왼쪽 버튼은 선택한 개체로 마우스 오른쪽 버튼을 클릭하는 동안 선택 항목을 나타내며, 마우스 오른쪽 버튼은 순서(채집,"
+" 건설, 공격 등)를 나타냅니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:40
+msgid ""
+"At this point, food and wood are the most important resources for developing"
+" your economy, so let's start with gathering food. Female Citizens gather "
+"vegetables faster than other units.\n"
+msgstr ""
+"이 시점에서, 식량과 목재는 여러분의 경제를 발전시키는 가장 중요한 자원이므로, 우선 식량을 모으는 것부터 시작하겠습니다. 여성 시민은 "
+"다른 부대보다 더 빨리 채소를 모읍니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:41
+msgid "There are primarily three ways to select units:\n"
+msgstr "주로 유닛을 선택하는 세 가지 방법이 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:42
+msgid ""
+"1) Hold the left mouse button and drag a selection rectangle that encloses "
+"the units you want to select.\n"
+msgstr "1) 마우스 왼쪽 버튼을 누른 상태에서 선택하려는 유닛을 둘러싸는 선택 사각형을 드래그 합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:43
+msgid ""
+"2) Click on one of them and then add additional units to your selection by "
+"holding Shift and clicking each additional unit (or also via the above "
+"selection rectangle).\n"
+msgstr ""
+"2) 유닛을 클릭한 다음 Shift 키를 누른 상태에서 각 추가 유닛(또는 위의 선택 직사각형을 통해)을 클릭하여 선택 항목에 추가할 수"
+" 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:44
+msgid ""
+"3) Double-click on a unit. This will select every unit of the same type as "
+"the specified unit in your visible window. Triple-click will select all "
+"units of the same type on the entire map.\n"
+msgstr ""
+"3) 유닛을 더블 클릭합니다. 그러면 표시되는 창에서 지정된 유닛과 동일한 유형의 모든 유닛이 선택됩니다. 세번 클릭하면 전체 지도에서 "
+"동일한 유형의 모든 유닛이 선택됩니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:45
+msgid ""
+"You can click on an empty space on the map to reset the selection. Try each "
+"of these methods before tasking all of your Female Citizens to gather the "
+"grapes to the southeast of your Civic Center by right-clicking on the grapes"
+" when you have all the Female Citizens selected."
+msgstr ""
+"지도의 빈 공간을 클릭하여 선택을 재설정할 수 있습니다. 모든 여성 시민이 선택되면 포도를 마우스 오른쪽 버튼으로 클릭하여 시민 회관의 "
+"남동쪽으로 포도를 모으도록 모든 여성 시민에게 임무를 부여하기 전에 이러한 각 방법을 시도하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:56
+msgid ""
+"Now, let's gather some wood with your Infantry Citizen Soldiers. Select your"
+" Infantry Citizen Soldiers and order them to gather wood by right-clicking "
+"on the nearest tree."
+msgstr ""
+"이제 보병 시민 병사들과 함께 나무를 모읍시다. 보병 시민 병사들을 선택하고 가장 가까운 나무를 마우스 오른쪽 버튼으로 클릭하여 목재를 "
+"모으라고 명령하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:67
+msgid ""
+"Cavalry Citizen Soldiers are good for hunting. Select your Cavalry and order"
+" him to hunt the chickens around your Civic Center in similar fashion."
+msgstr "기병 시민 병사들은 사냥에 좋습니다. 기병대를 선택하고 유사한 방식으로 시민 회관 주변의 닭을 사냥하도록 명령하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:78
+msgid ""
+"All your units are now gathering resources. We should train more units!\n"
+msgstr "모든 유닛이 자원을 채집하고 있습니다. 우리는 더 많은 유닛을 훈련시켜야 합니다!\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:79
+msgid ""
+"First, let's set a rally point. Setting a rally point on a building that can"
+" train units will automatically designate a task to the new unit upon "
+"completion of training. We want to send the newly trained units to gather "
+"wood on the group of trees to the south of the Civic Center. To do so, "
+"select the Civic Center by clicking on it and then right-click on one of the"
+" trees.\n"
+msgstr ""
+"먼저 집결 지점을 설정해 보겠습니다. 유닛을 훈련할 수 있는 건물에 집결 지점을 설정하면 교육이 완료되면 새 유닛에 작업이 자동으로 "
+"지정됩니다. 우리는 새로 훈련된 유닛을 보내 시민 회관의 남쪽에 있는 나무들의 목재를 모으려고 합니다. 이렇게 하려면 시민 회관을 "
+"클릭하여 선택한 다음 나무중 하나를 마우스 오른쪽 버튼으로 클릭합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:80
+msgid ""
+"Rally points are indicated by a small flag at the end of the blue line."
+msgstr "집결 지점은 파란 색 줄에 끝은 작은 깃발로 표시됩니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:88
+msgid ""
+"Select the Civic Center, then hover the cursor over a tree and right-click "
+"when you see the cursor change into a wood icon."
+msgstr "시민 회관을 선택한 다음 커서를 나무 위에 놓고 커서가 목재 아이콘으로 바뀌면 마우스 오른쪽 버튼을 클릭합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:97
+msgid ""
+"Now that the rally point is set, we can produce additional units and they "
+"will do their assigned task automatically.\n"
+msgstr "이제 집결 지점이 지정되었으므로 추가 유닛을 생산할 수 있으며 할당된 작업을 자동으로 수행합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:98
+msgid ""
+"Citizen Soldiers gather wood faster than Female Citizens. Select the Civic "
+"Center and, while holding Shift, click on the second unit icon, the Hoplites"
+" (holding Shift trains a batch of five units). You can also train units "
+"individually by simply clicking, but training 5 units together takes less "
+"time than training 5 units individually."
+msgstr ""
+"시민 병사들은 여성 시민보다 더 빨리 목재를 수집합니다. 시민 회관을 선택하고 Shift 키를 누른 상태에서 두 번째 유닛 아이콘인 "
+"장갑보병을 클릭합니다 (Shift 키를 누르면 한 무리의 5개 유닛이 훈련됩니다). 클릭만으로 유닛을 개별적으로 훈련할 수도 있지만 5개"
+" 유닛을 함께 훈련하는 것은 5개 유닛을 개별적으로 훈련하는 것보다 시간이 덜 걸립니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:108
+msgid "Do not forget to hold Shift while clicking to train several units."
+msgstr "여러 유닛을 훈련시키려면 Shift 키를 누른 채 클릭하는것을 잊지 마십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:109
+msgid "Hold Shift and click on the Hoplite icon."
+msgstr "Shift 키를 누른 상태에서 장갑보병 아이콘을 클릭하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:118
+#: maps/tutorials/starting_economy_walkthrough.js:177
+msgid "Let's wait for the units to be trained.\n"
+msgstr "유닛이 훈련되기를 기다리십시오.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:119
+msgid ""
+"While waiting, direct your attention to the panel at the top of your screen."
+" On the upper left, you will see your current resource supply (food, wood, "
+"stone, and metal). As each worker brings resources back to the Civic Center "
+"(or another dropsite), you will see the amount of the corresponding resource"
+" increase.\n"
+msgstr ""
+"기다리는 동안 화면 상단의 패널에 주의를 기울이십시오. 왼쪽 상단에는 현재 자원 공급(식량, 목재, 석재 및 금속)이 표시됩니다. 각 "
+"일꾼이 시민 회관(또는 다른 회수 시설)로 자원을 가져오면 해당 자원의 증가량이 표시됩니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:120
+msgid ""
+"This is a very important concept to keep in mind: gathered resources have to"
+" be brought back to a dropsite to be accounted, and you should always try to"
+" minimize the distance between resource and nearest dropsite to improve your"
+" gathering efficiency."
+msgstr ""
+"채집된 자원을 자원 회수 시설로 가져와야 적용됩니다. 이것은 명심해야 할 매우 중요한 개념입니다. 채집 효율을 향상시키려면 자원과 회수 "
+"시설 사이의 거리는 가능한 짧아야 합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:129
+msgid ""
+"The newly trained units automatically go to the trees and start gathering "
+"wood.\n"
+msgstr "새로 훈련된 유닛은 자동으로 나무로 가서 목재를 모으기 시작합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:130
+msgid ""
+"But as they have to bring it back to the Civic Center to deposit it, their "
+"gathering efficiency suffers from the distance. To fix that, we can build a "
+"Storehouse, a dropsite for wood, stone, and metal, close to the trees. To do"
+" so, select your five newly trained Citizen Soldiers and look for the "
+"construction panel on the bottom right, click on the Storehouse icon, move "
+"the mouse as close as possible to the trees you want to gather and click on "
+"a valid place to build the dropsite.\n"
+msgstr ""
+"하지만 시민회관으로 부터 멀리서 다시 가져와야하므로 수집 효율이 떨어집니다. 이를 해결하기 위해 나무, 돌, 금속 등의 낙하 장소인 "
+"창고를 목재 가까이에 지을 수 있습니다. 그렇게 하려면 새로 교육을 받은 5명의 시민 병사를 선택하고 오른쪽 하단에 있는 건설 패널을 "
+"찾은 다음 창고 아이콘을 클릭하고 수집할 나무로 마우스를 최대한 가까이 이동한 다음 유효한 장소를 클릭하여 회수 시설을 만드십시오.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:131
+msgid ""
+"Invalid (obstructed) positions will show the building preview overlay in "
+"red."
+msgstr "잘못된 (방해받는) 위치는 건물 미리보기 덧판이 빨간색으로 표시됩니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:141
+msgid ""
+"The selected Citizens will automatically start constructing the building "
+"once you place the foundation."
+msgstr "선택한 시민은 기초가 세워지면 건물 건설을 자동으로 시작합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:152
+msgid ""
+"When construction finishes, the builders default to gathering wood "
+"automatically.\n"
+msgstr "건설이 완료되면 건축 유닛은 기본적으로 목재를 자동으로 수집합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:153
+msgid ""
+"Let's train some Female Citizens to gather more food. Select the Civic "
+"Center, hold Shift and click on the Female Citizen icon to train five Female"
+" Citizens."
+msgstr ""
+"더 많은 음식을 모으기 위해 일부 여성 시민을 훈련합시다. 시민센터를 선택하고 Shift 키를 누른 상태에서 여성 시민 아이콘을 클릭하여"
+" 5명의 여성 시민을 양성합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:167
+msgid "Do not forget to hold Shift and click to train several units."
+msgstr "Shift 키를 누른 채 클릭하면 여러 유닛을 훈련시키는 것을 잊지 마십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:168
+msgid "Hold shift and click on the Female Citizen icon."
+msgstr "Shift 키를 누른 채 여성 시민 아이콘을 클릭하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:178
+msgid ""
+"In the meantime, we seem to have enough workers gathering wood. We should "
+"remove the current rally point of the Civic Center away from gathering wood."
+" For that purpose, right-click on the Civic Center when it is selected (and "
+"the flag icon indicating the rally point is crossed out)."
+msgstr ""
+"그동안 목재를 모으는 일꾼도 충분할 것 같습니다. 우리는 목재를 모으지 말고 시민 회관의 현재 집회 장소를 제거해야 합니다. 이를 위해 "
+"시민 회관이 선택되면 마우스 오른쪽 버튼으로 클릭하고(집결 지점을 나타내는 깃발 아이콘이 가로로 표시됨)를 클릭합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:192
+msgid "The units should be ready soon.\n"
+msgstr "유닛은 곧 준비될 것입니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:193
+msgid ""
+"In the meantime, direct your attention to your population count on the top "
+"panel. It is the fifth item from the left, after the resources. It would be "
+"prudent to keep an eye on it. It indicates your current population "
+"(including those being trained) and the current population limit, which is "
+"determined by your built structures."
+msgstr ""
+"한편, 상단 패널의 인구수에 관심을 집중 시키십시오. 자원 후 왼쪽에서 다섯 번째 항목입니다. 그것을 지켜 보는 것이 현명할 것입니다. "
+"현재 인구 (훈련된 사람들 포함)와 현재 인구 제한을 나타내며, 이는 건축물에 의해 결정됩니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:206
+msgid ""
+"As you have nearly reached the population limit, you must increase it by "
+"building some new structures if you want to train more units. The most cost "
+"effective structure to increase your population limit is the House.\n"
+msgstr ""
+"인구 제한에 거의 도달했기 때문에 더 많은 유닛을 훈련시키려면 몇 가지 새로운 건축물을 건설하여 이를 늘려야 합니다. 당신의 인구 제한을"
+" 증가시키기 위한 가장 비용 효과적인 건축물은 집입니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:207
+msgid ""
+"Now that the units are ready, let's see how to build several Houses in a "
+"row."
+msgstr "이제 유닛이 준비되었으므로 여러 집을 연속으로 짓는 방법을 살펴 보겠습니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:212
+msgid ""
+"Select two of your newly-trained Female Citizens and ask them to build these"
+" Houses in the empty space to the east of the Civic Center. To do so, after "
+"selecting the Female Citizens, click on the House icon in the bottom right "
+"panel and, while holding Shift, click first on the position in the map where"
+" you want to build the first House, and then click on the position where you"
+" want to build the second House (when you give a command while holding "
+"Shift, you put the command in a queue; units automatically switch to the "
+"next command in their queue when they finish their current command). Press "
+"Escape to get rid of the House cursor so you don't spam Houses all over the "
+"map.\n"
+msgstr ""
+"새로 훈련된 여성 시민 두 명을 선발하여 시민 회관 동쪽에 있는 빈 공간에 이 집들을 지어 달라고 요청하십시오. 이렇게 하려면, 여성 "
+"시민을 선택한 후 오른쪽 하단 패널에서 집 아이콘을 클릭하고 Shift 키를 누른 상태에서 지도에서 첫 번째 집을 건설할 위치를 먼저 "
+"클릭한 다음 Shift 키를 누른 상태에서 명령을 내릴 때 두 번째 집을 건설할 위치를 클릭합니다 (Shift를 누른 상태에서 명령을 "
+"내리면 명령을 대기열에 넣습니다. 유닛은 현재 명령을 완료하면 대기열의 다음 명령으로 자동 전환됩니다). Escape 키를 눌러 집 "
+"커서를 제거하여 집 전체를 스팸으로 표시하지 않도록 합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:213
+msgid ""
+"Reminder: to select only two Female Citizens, click on the first one and "
+"then hold Shift and click on the second one."
+msgstr ""
+"알림: 두 명의 여성 시민만 선택하려면 첫 번째 여성 시민을 클릭한 다음 Shift 키를 누른 상태에서 두 번째 여성 시민을 "
+"클릭하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:246
+msgid ""
+"You may notice that berries are a finite supply of food. We will need a more"
+" lasting food source. Fields produce an unlimited food resource, but are "
+"slower to gather than forageable fruits.\n"
+msgstr ""
+"당신은 베리가 한정된 식량 공급원이라는 것을 알게 될 지도 모릅니다. 우리는 더 지속적인 식량 공급원이 필요할 것입니다. 밭은 무한정 "
+"식량 자원을 생산하지만, 수확 가능한 과일보다 채집하는 것이 느립니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:247
+msgid ""
+"But to minimize the distance between a farm and its corresponding food "
+"dropsite, we will first build a Farmstead."
+msgstr "하지만 농장과 그에 상응하는 식량 회수 시설 사이의 거리를 최소화하기 위해, 우리는 먼저 농장 건물을 건설할 것입니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:258
+msgid ""
+"Select the three remaining (idle) Female Citizens and order them to build a "
+"Farmstead in the center of the large open area to the west of the Civic "
+"Center.\n"
+msgstr "남아 있는 (노는) 여성 시민 3명을 선택하고 시민 회관 서쪽의 넓은 공터 중앙에 농장 건물을 건설하도록 명령합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:259
+msgid ""
+"We will need a decent chunk of space around the Farmstead to build Fields. "
+"In addition, we can see goats on the west side to further improve our food "
+"gathering efficiency should we ever decide to hunt them.\n"
+msgstr ""
+"밭을 짓기 위해서는 농장 건물 주변에 적당한 공간이 필요합니다. 게다가, 만약 우리가 그들을 사냥하기로 결정한다면, 우리는 우리의 먹이 "
+"채집 효율성을 더욱 향상시키기 위해 서쪽의 염소들을 볼 수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:260
+msgid ""
+"If you try to select the three idle Female Citizens by clicking and dragging"
+" a selection rectangle over them, you might accidentally select additional "
+"units. To avoid that, hold the I key while selecting so that only idle units"
+" are selected. If you accidentally select a cavalry unit, hold Ctrl and "
+"click on the cavalry unit icon of the selection panel at the bottom of the "
+"screen to remove the cavalry unit from the current selection."
+msgstr ""
+"세 명의 노는 여성 시민을 클릭하고 선택 사각형 위로 드래그하여 선택하려고 하면 실수로 추가 유닛을 선택할 수 있습니다. 이를 방지하려면"
+" I 키를 누른 상태에서 선택하면 노는 유닛만 선택됩니다. 실수로 기병 부대를 선택한 경우 Ctrl 키를 누른 상태에서 화면 하단에 있는"
+" 선택 패널의 기병 부대 아이콘을 클릭하여 현재 선택에서 기병 부대를 제거하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:275
+msgid ""
+"When the Farmstead construction is finished, its builders will automatically"
+" look for food, and in this case, they will go after the nearby goats.\n"
+msgstr "농장 건물 건설이 완료되면, 그 건설 유닛들은 자동적으로 식량을 찾고, 이 경우 근처에 있는 염소를 쫓습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:276
+msgid ""
+"But your House builders will only look for something else to build and, if "
+"nothing found, become idle. Let's wait for them to build the Houses."
+msgstr ""
+"그러나 당신의 집 건설 유닛은 건축할 단지 다른 건물을 지을 수 있는 것을 찾을 뿐이고, 아무것도 발견하지 못하면 노는 상태가됩니다. "
+"그들이 집을 지을 때까지 기다려 봅시다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:292
+msgid ""
+"When both Houses are built, select your two Female Citizens and order them "
+"to build a Field as close as possible to the Farmstead, which is a dropsite "
+"for all types of food."
+msgstr ""
+"집이 모두 지어지면, 두 명의 여성 시민을 선택하고 모든 종류의 음식에 대한 회수 시설인 농장 건물에 최대한 가까이 밭을 건설하도록 "
+"명령하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:302
+msgid ""
+"When the Field is ready, the builders will automatically start gathering "
+"it.\n"
+msgstr "밭이 준비되면, 건축 유닛이 자동으로 수집을 시작합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:303
+msgid ""
+"The cavalry unit should have slaughtered all chickens by now. Select it and "
+"explore the south-west area: there is a lake with some camels around. Move "
+"your cavalry by right-clicking on the point you want to go, and when you see"
+" a herd of camels, right-click on one of them to start hunting for food."
+msgstr ""
+"기병 유닛은 지금쯤 닭을 모두 도축했을 것입니다. 그것을 선택하고 남서쪽 지역을 탐험하세요. 호수 주위에 낙타가 몇 마리 있습니다. 가고"
+" 싶은 지점을 마우스 오른쪽 버튼으로 클릭하여 기병 유닛을 이동하고 낙타 무리를 보면 그 중 하나를 마우스 오른쪽 버튼으로 클릭하여 "
+"먹이를 사냥합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:314
+msgid ""
+"Up to five Workers can gather from a Field. To add additional Workers, "
+"select the Civic Center and set a rally point on a Field by right-clicking "
+"on it. If the Field is not yet finished, new Workers sent by a rally point "
+"will help building it, and when built, they will gather food."
+msgstr ""
+"하나의 밭에 최대 5명의 일꾼을 모을 수 있습니다. 일꾼을 추가하려면 시민 회관을 선택하고 밭을 마우스 오른쪽 단추로 클릭하여 집결 "
+"지점을 지정합니다. 아직 밭이 완성되지 않은 경우, 집결 지점에서 보낸 새로운 일꾼들이 밭을 건설하는데 도움을 줄 것이고, 건설되면 "
+"식량을 모을 것입니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:322
+msgid "Select the Civic Center and right-click on the Field."
+msgstr "시민 회관을 선택하고 밭을 마우스 오른쪽 버튼으로 클릭합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:330
+msgid ""
+"Now click three times on the Female Citizen icon in the bottom right panel "
+"to train three additional farmers."
+msgstr "이제 오른쪽 하단 패널에있는 여성 시민 아이콘을 세 번 클릭하여 세 명의 추가 농부를 교육하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:344
+msgid "Click without holding Shift to train a single unit."
+msgstr "단일 유닛을 훈련시키려면 Shift 키를 누르지 않고 그냥 클릭하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:355
+msgid ""
+"You can increase the gather rates of your workers by researching new "
+"technologies available in some buildings.\n"
+msgstr "당신은 몇몇 건물에서 이용 가능한 새로운 기술을 연구함으로써 당신의 일꾼들의 채집율을 증가시킬 수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:356
+msgid ""
+"The farming rate, for example, can be improved with a researchable "
+"technology in the Farmstead. Select the Farmstead and look at its production"
+" panel on the bottom right. You will see several researchable technologies. "
+"Hover the cursor over them to see their costs and effects and click on the "
+"one you want to research."
+msgstr ""
+"예를 들어 농장 건물에서 연구 가능한 기술을 사용하여 농업 비율을 개선할 수 있습니다. 농장 건물을 선택하고 오른쪽 하단에 있는 농장 "
+"건물의 생산 패널을 살펴봅니다. 여러 가지 연구 가능한 기술을 보실 수 있습니다. 비용 및 효과를 보려면 커서를 위에 놓고 조사하려는 "
+"커서를 클릭하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:371
+msgid ""
+"We should start preparing to phase up into Town Phase, which will unlock "
+"many more units and buildings. Select the Civic Center and hover the cursor "
+"over the Town Phase icon to see what is still needed.\n"
+msgstr ""
+"우리는 더 많은 유닛과 건물을 개방하기 위해 '작은 도시 단계'로 진입할 준비를 시작해야 합니다. 시민 회관을 선택하고 '작은 도시 "
+"단계' 아이콘 위에 커서를 올려 놓으면 여전히 무엇이 필요한지 확인할 수 있습니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:372
+msgid ""
+"We now have enough resources, but one structure is missing. Although this is"
+" an economic tutorial, it is nonetheless useful to be prepared for defense "
+"in case of attack, so let's build Barracks.\n"
+msgstr ""
+"이제 충분한 자원이 있지만 하나의 건축물이 부족합니다. 이것은 실리적인 사용 지침서지만, 공격 시 방어 태세를 갖추는 것이 유용하니, "
+"막사를 건설해 봅시다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:373
+msgid ""
+"Select four of your soldiers and ask them to build a Barracks: as before, "
+"start selecting the soldiers, click on the Barracks icon in the production "
+"panel and then lay down a foundation not far from your Civic Center where "
+"you want to build."
+msgstr ""
+"병사 4명을 선택하여 막사를 짓도록 명령하십시오. 이전처럼 병사들을 선택하고 생산 패널에서 막사 아이콘을 클릭한 다음 짓고자하는 시민 "
+"회관에서 멀지 않는곳에 그 기반을 마련하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:384
+msgid ""
+"Let's wait for the Barracks to be built. As this construction is lengthy, "
+"you can add two soldiers to build it faster. To do so, select your Civic "
+"Center and set up a rally point on the Barracks foundation by right-clicking"
+" on it (you should see a hammer icon). Then produce two more builders by "
+"clicking on the Hoplite icon twice."
+msgstr ""
+"막사가 건설되기를 기다려 봅시다. 이 건축물은 길기 때문에 두 명의 병사들을 추가하여 더 빨리 만들 수 있습니다. 이렇게 하려면 시민 "
+"회관을 선택하고 오른쪽 단추로 클릭하여 막사 기초에 집결 지점을 설정합니다(망치 아이콘이 표시되어야 함). 그런 다음 장갑보병 아이콘을 "
+"두 번 클릭하여 두 개의 건설 유닛을 더 생성합니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:394
+msgid ""
+"You should now be able to research Town Phase. Select the Civic Center and "
+"click on the technology icon.\n"
+msgstr "이제 '소도시 단계'를 연구할 수 있습니다. 시민 회관을 선택하고 기술 아이콘을 클릭합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:395
+msgid ""
+"If you still miss some resources (icon with red overlay), wait for them to "
+"be gathered by your workers."
+msgstr "여전히 일부 자원(빨간 색 덧판이가 있는 아이콘)이 부족할 경우 일꾼이 자원을 채집할 때까지 기다리십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:409
+msgid ""
+"In later phases, you need usually stone and metal to build bigger structures"
+" and train better soldiers. Hence, while waiting for the research to be "
+"done, you will send half of your idle Citizen Soldiers (who have finished "
+"building the Barracks) to gather stone and the other half to gather metal.\n"
+msgstr ""
+"이후 단계에서는 더 큰 건축물을 건설하고 더 나은 병사를 훈련하기 위해 일반적으로 석재와 금속이 필요합니다. 따라서 연구가 완료되기를 "
+"기다리는 동안 노는 시민 병사(막사 건설을 마친)의 절반은 석재를 모으고 나머지 절반은 금속을 모으도록 보냅니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:410
+msgid ""
+"To do so, we could select three Citizen Soldiers and right-click on the "
+"stone quarry on the west of the Civic Center (the cursor changes when "
+"hovering the stone quarry while your soldiers are selected). However, these "
+"soldiers were gathering wood, so they may still carry some wood which would "
+"be lost when starting to gather another resource."
+msgstr ""
+"이를 위해 시민 병사 3명을 선정하고 시민 회관 서쪽에 있는 돌 채석장을 마우스 오른쪽 버튼으로 클릭하면 됩니다(병사가 선발되는 동안 돌"
+" 채석장을 맴돌면 커서가 바뀝니다). 하지만, 이 병사들은 목재를 모으고 있었기 때문에, 그들은 다른 자원을 모으기 시작할 때 잃어버릴 "
+"목재를 가지고 다닐 수도 있습니다."
+
+#: maps/tutorials/starting_economy_walkthrough.js:415
+msgid ""
+"Thus, we should order them to deposit their wood in the Civic Center along "
+"the way. To do so, we will hold Shift while clicking to queue orders: select"
+" your soldiers, hold Shift and right-click on the Civic Center to deposit "
+"their wood and then hold Shift and right-click on the stone quarry to gather"
+" it.\n"
+msgstr ""
+"따라서, 우리는 그들에게 도중에 시민 회관에 그들의 목재를 맡기도록 명령해야 합니다. 그렇게 하려면 Shift 키를 누른 상태에서 명령을"
+" 대기합니다. 즉, 병사를 선택하고 Shift 키를 누른 채 시민 회관을 마우스 오른쪽 버튼으로 클릭하여 목재를 보관한 다음 Shift "
+"키를 누른 채 석재 채석장을 마우스 오른쪽 버튼으로 클릭하여 수집합니다.\n"
+
+#: maps/tutorials/starting_economy_walkthrough.js:416
+msgid ""
+"Perform a similar order queue with the remaining soldiers and the metal mine"
+" in the west."
+msgstr "남아있는 병사들과 서쪽의 금속 광산에서 비슷한 순서를 행하십시오."
+
+#: maps/tutorials/starting_economy_walkthrough.js:450
+msgid ""
+"This is the end of the walkthrough. This should give you a good idea of the "
+"basics of setting up your economy."
+msgstr "이제, 이 예행 연습은 끝났습니다. 이 자습서는 당신에게 이 게임의 기본 경제 개념에 대한 좋은 발상을 줄것입니다."
+
+#: maps/tutorials/starting_economy_walkthrough.xml:Description:39
+msgid ""
+"This map will give a rough guide for starting the game effectively. Early in"
+" the game the most important thing is to gather resources as fast as "
+"possible so you are able to build enough troops later."
+msgstr ""
+"이 지도는 게임을 효과적으로 시작하기 위한 대략적인 가이드입니다. 경기 초반에 가장 중요한 것은 가능한 한 빨리 자원을 모아서 나중에 "
+"충분한 병력을 양성할 수 있도록 하는 것입니다."
+
+#: maps/tutorials/starting_economy_walkthrough.xml:Name:39
+msgid "Starting Economy Walkthrough"
+msgstr "경제 연습 시작"

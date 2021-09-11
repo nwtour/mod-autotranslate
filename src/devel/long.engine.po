@@ -1,0 +1,196 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: None\n"
+"POT-Creation-Date: 2021-04-23 17:14+0230\n"
+"PO-Revision-Date: 2021-04-23 17:14+0230\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#, python-format
+msgid "Scroll speed increased to %.1f"
+msgstr "Скорость скроллинга увеличена до %.1f"
+
+#, python-format
+msgid "Scroll speed decreased to %.1f"
+msgstr "Скорость скроллинга уменьшена до %.1f"
+
+#, python-format
+msgid "Rotate speed increased to X=%.3f, Y=%.3f"
+msgstr "Скорость вращения увеличена до X=%.3f, Y=%.3f"
+
+#, python-format
+msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
+msgstr "Скорость вращения уменьшена до X=%.3f, Y=%.3f"
+
+#, python-format
+msgid "Zoom speed increased to %.1f"
+msgstr "Скорость зума увеличена до %.1f"
+
+#, python-format
+msgid "Zoom speed decreased to %.1f"
+msgstr "Скорость зума уменьшена до %.1f"
+
+msgid "Long strings"
+msgstr "Длинные строки"
+
+msgid "unknown subtype (see logs)"
+msgstr "неизвестный подтип (см. логи)"
+
+msgid "The certificate is not trusted."
+msgstr "Сертификат не является надёжным."
+
+msgid "The certificate hasn't got a known issuer."
+msgstr "У сертификата нет известного выдающего лица."
+
+msgid "The certificate has been revoked."
+msgstr "The certificate has been revoked."
+
+msgid "The certificate has expired."
+msgstr "Срок действия сертификата истёк."
+
+msgid "The certificate is not yet active."
+msgstr "The certificate is not yet active."
+
+msgid "The certificate has not been issued for the peer connected to."
+msgstr "The certificate has not been issued for the peer connected to."
+
+msgid "The certificate signer is not a certificate authority."
+msgstr "Подписавшее сертификат лицо не является сертифицирующей организацией."
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "No error"
+msgstr "Нет ошибок"
+
+msgid "Player already logged in"
+msgstr "Player already logged in"
+
+msgid "Forbidden"
+msgstr "Forbidden"
+
+msgid "Internal server error"
+msgstr "Internal server error"
+
+msgid "Not allowed"
+msgstr "Не разрешено"
+
+msgid "Not authorized"
+msgstr "Нет авторизации"
+
+msgid "Recipient temporarily unavailable"
+msgstr "Recipient temporarily unavailable"
+
+msgid "Registration required"
+msgstr "Необходима регистрация"
+
+msgid "Service unavailable"
+msgstr "Service unavailable"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Stream error"
+msgstr "Ошибка соединения"
+
+msgid "The incoming stream version is unsupported"
+msgstr "Версия входящего соединения не поддерживается"
+
+msgid "The stream has been closed by the server"
+msgstr "The stream has been closed by the server"
+
+msgid "An I/O error occurred"
+msgstr "Произошла ошибка ввода/вывода"
+
+msgid "The connection was refused by the server"
+msgstr "The connection was refused by the server"
+
+msgid "Resolving the server's hostname failed"
+msgstr "Resolving the server's hostname failed"
+
+msgid "This system is out of memory"
+msgstr "Этой системе не хватает памяти"
+
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not complete "
+"successfully"
+msgstr ""
+"The server's certificate could not be verified or the TLS handshake did not complete "
+"successfully"
+
+msgid "The server did not offer required TLS encryption"
+msgstr "Сервер не предложил запрашиваемого TLS шифрования"
+
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "Authentication failed. Incorrect password or account does not exist"
+
+msgid "The user or system requested a disconnect"
+msgstr "Пользователь или система запросили отключение"
+
+msgid "There is no active connection"
+msgstr "There is no active connection"
+
+msgid "Your account has been successfully registered"
+msgstr "Your account has been successfully registered"
+
+msgid "Not all necessary information provided"
+msgstr "Предоставлена не вся необходимая информация"
+
+msgid "Username already exists"
+msgstr "Это имя пользователя уже используется"
+
+#, python-format
+msgid "Failure while starting querying for game id. Error: %s; %s."
+msgstr "Failure while starting querying for game id. Error: %s; %s."
+
+#, python-format
+msgid "Failure while starting querying for mods. Error: %s; %s."
+msgstr "Failure while starting querying for mods. Error: %s; %s."
+
+#, python-format
+msgid "Could not create mod directory: %s."
+msgstr "Невозможно создать каталог модификаций: %s."
+
+#, python-format
+msgid "Could not open temporary file for mod download: %s."
+msgstr "Невозможно открыть временный файл для загрузки модификации: %s."
+
+#, python-format
+msgid "Failed to start the download. Error: %s; %s."
+msgstr "Failed to start the download. Error: %s; %s."
+
+#, python-format
+msgid "Asynchronous download failure: %s, %s."
+msgstr "Asynchronous download failure: %s, %s."
+
+#, python-format
+msgid "Download failure. Server response: %s; %s."
+msgstr "Download failure. Server response: %s; %s."
+
+msgid "Mismatched filesize."
+msgstr "Несовпадающий размер файла."
+
+#, python-format
+msgid "Invalid file. Expected md5 %s, got %s."
+msgstr "Файл поврежден. Ожидаемая md5 %s, полученная %s."
+
+msgid "Failed to compute final hash."
+msgstr "Failed to compute final hash."
+
+msgid "Failed to verify signature."
+msgstr "Failed to verify signature."
+
+#, python-format
+msgid "Saved game to '%s'"
+msgstr "Игра сохранена в '%s'"
+
+#, python-format
+msgid "Screenshot written to '%s'"
+msgstr "Снимок экрана записан в '%s'"
+
+msgid "custom build"
+msgstr "пользовательская сборка"
+

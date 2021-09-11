@@ -1,0 +1,274 @@
+# Translation template for Pyrogenesis.
+# Copyright (C) 2021 Wildfire Games
+# This file is distributed under the same license as the Pyrogenesis project.
+# Translators:
+# AlexKR <alexkr.post@gmail.com>, 2015
+# Andriy Nahirnjak <andriy.nagirnjak@gmail.com>, 2014
+# Cecil Rhodes <taxat98895@lercjy.com>, 2020
+# 009ee41e4c490a944b98e20dd0cc29dd_e31b370 <3a1cdc1a7c52cc59f91bdc5fed0a3a77_882482>, 2020
+# Dmytro Ryl'kov <tverdislav@ukr.net>, 2018
+# Oleg Adept <adeptoleg@gmail.com>, 2020
+# Victor Butko <victor.butko@gmail.com>, 2014
+# 85c91c3444bcf82d63b07801f727e341, 2020
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2016
+# Микола Франчук <thekolian1996@gmail.com>, 2018,2021
+# Сергій Дубик <dubyk@ukr.net>, 2014
+# Тарас Коржик <ordinarystory@i.ua>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2021-05-17 07:08+0000\n"
+"PO-Revision-Date: 2021-05-17 10:18+0000\n"
+"Last-Translator: Transifex Bot <>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/wildfire-games/0ad/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: graphics/CameraController.cpp:656
+#, c-format
+msgid "Scroll speed increased to %.1f"
+msgstr "Швидкість прокрутки збільшена до %.1f"
+
+#: graphics/CameraController.cpp:662
+#, c-format
+msgid "Scroll speed decreased to %.1f"
+msgstr "Швидкість прокрутки зменшена до %.1f"
+
+#: graphics/CameraController.cpp:669
+#, c-format
+msgid "Rotate speed increased to X=%.3f, Y=%.3f"
+msgstr "Швидкість повороту збільшена до X=%.3f, Y=%.3f"
+
+#: graphics/CameraController.cpp:676
+#, c-format
+msgid "Rotate speed decreased to X=%.3f, Y=%.3f"
+msgstr "Швидкість повороту зменшена до X=%.3f, Y=%.3f"
+
+#: graphics/CameraController.cpp:682
+#, c-format
+msgid "Zoom speed increased to %.1f"
+msgstr "Швидкість приближення збільшена до %.1f"
+
+#: graphics/CameraController.cpp:688
+#, c-format
+msgid "Zoom speed decreased to %.1f"
+msgstr "Швидкість приближення зменшена до %.1f"
+
+#: i18n/L10n.cpp:308
+msgid "Long strings"
+msgstr "Довгі рядки"
+
+#: lobby/XmppClient.cpp:1026
+msgid "unknown subtype (see logs)"
+msgstr "невідомий підтип (дивитися журнали)"
+
+#: lobby/XmppClient.cpp:1357
+msgid "The certificate is not trusted."
+msgstr "Сертифікат не є довіреним."
+
+#: lobby/XmppClient.cpp:1358
+msgid "The certificate hasn't got a known issuer."
+msgstr "Сертифікат не має відомого видавця."
+
+#: lobby/XmppClient.cpp:1359
+msgid "The certificate has been revoked."
+msgstr "Сертифікат відкликаний."
+
+#: lobby/XmppClient.cpp:1360
+msgid "The certificate has expired."
+msgstr "Термін дії сертифікату минув."
+
+#: lobby/XmppClient.cpp:1361
+msgid "The certificate is not yet active."
+msgstr "Сертифікат ще не активний."
+
+#: lobby/XmppClient.cpp:1362
+msgid "The certificate has not been issued for the peer connected to."
+msgstr "Сертифікат не виданий для однорангового підключеного."
+
+#: lobby/XmppClient.cpp:1363
+msgid "The certificate signer is not a certificate authority."
+msgstr "Підписант сертифіката не є органом сертифікації."
+
+#: lobby/XmppClient.cpp:1385 lobby/XmppClient.cpp:1429
+#: lobby/XmppClient.cpp:1468
+msgid "Error"
+msgstr "Помилка"
+
+#: lobby/XmppClient.cpp:1388 lobby/XmppClient.cpp:1432
+msgid "No error"
+msgstr "Немає помилки"
+
+#: lobby/XmppClient.cpp:1390
+msgid "Player already logged in"
+msgstr "Гравець уже ввійшов у систему"
+
+#: lobby/XmppClient.cpp:1392
+msgid "Forbidden"
+msgstr "Заборонено"
+
+#: lobby/XmppClient.cpp:1394
+msgid "Internal server error"
+msgstr "Внутрішня помилка сервера"
+
+#: lobby/XmppClient.cpp:1398
+msgid "Not allowed"
+msgstr "Не дозволено"
+
+#: lobby/XmppClient.cpp:1399
+msgid "Not authorized"
+msgstr "Не авторізовано"
+
+#: lobby/XmppClient.cpp:1402
+msgid "Recipient temporarily unavailable"
+msgstr "Одержувач тимчасово недоступний"
+
+#: lobby/XmppClient.cpp:1404
+msgid "Registration required"
+msgstr "Потрібна реєстрація"
+
+#: lobby/XmppClient.cpp:1408
+msgid "Service unavailable"
+msgstr "Сервіс недоступний"
+
+#: lobby/XmppClient.cpp:1413 lobby/XmppClient.cpp:1452
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+#: lobby/XmppClient.cpp:1433
+msgid "Stream error"
+msgstr "Помилка потоку"
+
+#: lobby/XmppClient.cpp:1434
+msgid "The incoming stream version is unsupported"
+msgstr "Версія вхідного потоку не підтримується"
+
+#: lobby/XmppClient.cpp:1435
+msgid "The stream has been closed by the server"
+msgstr "Потік був закритий сервером"
+
+#: lobby/XmppClient.cpp:1439
+msgid "An I/O error occurred"
+msgstr "Виникла помилка вводу/виводу"
+
+#: lobby/XmppClient.cpp:1441
+msgid "The connection was refused by the server"
+msgstr "Підключення було розірвано сервером"
+
+#: lobby/XmppClient.cpp:1442
+msgid "Resolving the server's hostname failed"
+msgstr "Дозволення ім'я власника сервера не вдалося"
+
+#: lobby/XmppClient.cpp:1443
+msgid "This system is out of memory"
+msgstr "Ця система не має достатньої кількості пам’яті"
+
+#: lobby/XmppClient.cpp:1445
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not "
+"complete successfully"
+msgstr "Сертифікат сервера не вдалося перевірити або успішно виконати рукостискання TLS"
+
+#: lobby/XmppClient.cpp:1446
+msgid "The server did not offer required TLS encryption"
+msgstr "Сервер не запропонував необхідне шифрування TLS"
+
+#: lobby/XmppClient.cpp:1448
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "Аутентифікацію не вдалося. Неправильний пароль або обліковий запис не існує"
+
+#: lobby/XmppClient.cpp:1449
+msgid "The user or system requested a disconnect"
+msgstr "Користувач або система вимагали відключення"
+
+#: lobby/XmppClient.cpp:1450
+msgid "There is no active connection"
+msgstr "Немає активного підключення"
+
+#: lobby/XmppClient.cpp:1471
+msgid "Your account has been successfully registered"
+msgstr "Ваш обліковий запис було успішно зареєстровано"
+
+#: lobby/XmppClient.cpp:1472
+msgid "Not all necessary information provided"
+msgstr "Надана не вся необхідна інформація"
+
+#: lobby/XmppClient.cpp:1473
+msgid "Username already exists"
+msgstr "Користувач з таким ім'ям вже існує"
+
+#: ps/Mod.cpp:84
+#, c-format
+msgid ""
+"Could not write external mod.json for zipped mod '%s'. The mod should be "
+"reinstalled."
+msgstr ""
+
+#: ps/ModIo.cpp:263
+#, c-format
+msgid "Failure while starting querying for game id. Error: %s; %s."
+msgstr "Помилка під час запуску запиту на ідентифікатор гри. Помилка: %s; %s."
+
+#: ps/ModIo.cpp:293
+#, c-format
+msgid "Failure while starting querying for mods. Error: %s; %s."
+msgstr "Помилка під час запуску запитів для модифікацій. Помилка: %s; %s."
+
+#: ps/ModIo.cpp:319
+#, c-format
+msgid "Could not create mod directory: %s."
+msgstr "Не вдалося створити каталог модифікацій: %s."
+
+#: ps/ModIo.cpp:344
+#, c-format
+msgid "Could not open temporary file for mod download: %s."
+msgstr "Не вдалося відкрити тимчасовий файл для завантаження модифікацій: %s."
+
+#: ps/ModIo.cpp:354
+#, c-format
+msgid "Failed to start the download. Error: %s; %s."
+msgstr "Не вдалося розпочати завантаження. Помилка: %s; %s."
+
+#: ps/ModIo.cpp:399
+#, c-format
+msgid "Asynchronous download failure: %s, %s."
+msgstr "Помилка асинхронного завантаження: %s, %s."
+
+#: ps/ModIo.cpp:427
+#, c-format
+msgid "Download failure. Server response: %s; %s."
+msgstr "Помилка завантаження. Відповідь сервера: %s; %s."
+
+#: ps/ModIo.cpp:530
+msgid "Mismatched filesize."
+msgstr "Невідповідний розмір файлу."
+
+#: ps/ModIo.cpp:548
+#, c-format
+msgid "Invalid file. Expected md5 %s, got %s."
+msgstr "Невірний файл. Очікуваний md5 %s, отриманий %s."
+
+#: ps/ModIo.cpp:563
+msgid "Failed to compute final hash."
+msgstr "Не вдалося розрахувати остаточний хеш."
+
+#: ps/ModIo.cpp:569
+msgid "Failed to verify signature."
+msgstr "Не вдалося перевірити підпис."
+
+#: ps/SavedGame.cpp:141
+#, c-format
+msgid "Saved game to '%s'"
+msgstr "Збережено гру до '%s'"
+
+#: ps/Util.cpp:289 ps/Util.cpp:292 ps/Util.cpp:437 ps/Util.cpp:440
+#, c-format
+msgid "Screenshot written to '%s'"
+msgstr "Знімок екрану записаний до '%s'"
+
+#: ps/scripting/JSInterface_Debug.cpp:87
+msgid "custom build"
+msgstr "користувацька збірка"
