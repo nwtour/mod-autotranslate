@@ -67,10 +67,6 @@
       "english" : "No campaign selected.",
       "translation" : "Није изабрана ниједна кампања."
    },
-   "b43898a9a8c63c1e66cae04fb88f9771" : {
-      "english" : "%(userDesc)s - %(templateName)s",
-      "translation" : "%(усерДесц) с - %(име шаблона) с"
-   },
    "b66d8055865d07a70acac2ef085f8531" : {
       "english" : "Economy Walkthrough",
       "translation" : "Економски водич"

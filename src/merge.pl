@@ -5,44 +5,57 @@ use Data::Dumper;
 use File::Slurp qw(read_file write_file);
 use JSON qw(from_json to_json);
 use Digest::MD5::File qw(md5_hex);
+use Getopt::Long;
+use FindBin qw($Bin);
+use File::Spec::Functions qw(catfile);
 
-my $input = $ARGV[0];
-my $output = 'sr.public-gui-campaigns.po';
+my ($lang, $po) = ("", "");
+
+GetOptions ("lang=s" => \$lang, "po=s" => \$po);
+
+die "Usage: merge.pl --lang=<LANG NAME> --po=<PO_FILENAME>\n\texample: --lang=sr --po=public-gui-campaigns\n" if ! $lang || ! $po;
+
+my $input  = catfile ($Bin, 'A25B', join('', $lang, '.', $po, '.po'));
+my $output = catfile ($Bin, '..', 'l10n', join('', $lang, '.', $po, '.po'));
 
 my @strings = read_file ($input);
+my @output_strings;
 
-my $translations = from_json(read_file("translations.json"));
+my $translations = from_json (read_file (catfile ($Bin, 'json', $lang . '.translations.json')));
 
 my $i = 0;
 while (exists $strings[$i]) {
 
-	if ($strings[$i] =~ /^msgstr\s""/) {
+	if ($strings[$i] !~ /^msgstr\s""/) {
 
-		my $found = 0;
-		foreach my $minus (1, 2, 3) {
+		push @output_strings, $strings[$i];
+		$i++;
+	}
 
-			if ($strings[($i - $minus)] =~ /^msgid\s"(.+)"/) {
+	my $found = 0;
+	foreach my $minus (1, 2, 3) {
 
-				my $md5 = md5_hex($1);
-				if (exists $translations->{$md5} && $translations->{$md5}{translation} ) {
-					print "msgstr \"" . $translations->{$md5}{translation} . "\"\n";
-					$found = 1;
-				}
-				else {
+		if ($strings[($i - $minus)] =~ /^msgid\s"(.+)"/) {
 
-					print STDERR "$md5 $minus NOT FOUND\n";
-				}
-				last;
+			my $md5 = md5_hex ($1);
+			if (exists $translations->{$md5} && $translations->{$md5}{translation} ) {
+
+				push @output_strings, "msgstr \"" . $translations->{$md5}{translation} . "\"\n";
+				$found = 1;
 			}
 			else {
-				print STDERR "NOTMSGID " . $strings[($i - $minus)] . "\n";
+
+				print "$md5 $minus NOT FOUND\n";
 			}
+			last;
 		}
-		print $strings[$i] unless $found;
+		else {
+			print "NOTMSGID " . $strings[($i - $minus)] . "\n";
+		}
 	}
-	else {
-		print $strings[$i];
-	}
+	push @output_strings, $strings[$i] unless $found;
 	$i++;
 }
 
+write_file ($output, @output_strings);
+print "Successfull write to $output\n";

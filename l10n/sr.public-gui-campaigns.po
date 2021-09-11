@@ -31,12 +31,12 @@ msgstr ""
 #: campaigns/new_maps.jsonName
 msgctxt "Campaign Template"
 msgid "Demo campaign - new maps"
-msgstr ""
+msgstr "Демо кампања - нове мапе"
 
 #: campaigns/tutorial.jsonDescription
 msgctxt "Campaign Template"
 msgid "Learn how to play 0 A.D."
-msgstr ""
+msgstr "Научите како играти 0 А.Д."
 
 #: campaigns/tutorial.jsonLevels.eco_walkthrough.Description
 msgctxt "Campaign Template"
@@ -51,7 +51,7 @@ msgstr ""
 #: campaigns/tutorial.jsonLevels.eco_walkthrough.Name
 msgctxt "Campaign Template"
 msgid "Economy Walkthrough"
-msgstr ""
+msgstr "Економски водич"
 
 #: campaigns/tutorial.jsonLevels.introduction.Description
 msgctxt "Campaign Template"
@@ -66,7 +66,7 @@ msgstr "Уводни туторијал"
 #: campaigns/tutorial.jsonName
 msgctxt "Campaign Template"
 msgid "Tutorial"
-msgstr ""
+msgstr "Приручник"
 
 #: gui/campaigns/default_menu/CampaignMenu.js:156
 msgctxt "campaign status"
@@ -76,41 +76,41 @@ msgstr "Довршено"
 #: gui/campaigns/default_menu/CampaignMenu.js:158
 msgctxt "campaign status"
 msgid "Available"
-msgstr ""
+msgstr "Доступан"
 
 #: gui/campaigns/default_menu/CampaignMenu.js:217
 #, javascript-format
 msgid "Error loading campaign run %s: %s."
-msgstr ""
+msgstr "Грешка при учитавању покренуте кампање %s: %s."
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):14
 msgid "Campaign Name"
-msgstr ""
+msgstr "Назив кампање"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):45
 msgid "No scenario selected"
-msgstr ""
+msgstr "Није изабран ниједан сценарио"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):58
 msgid "Back to Main Menu"
-msgstr ""
+msgstr "Назад на главни мени"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):62
 msgid "Saved Games"
-msgstr ""
+msgstr "Сачуване игре"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):66
 msgid "Start Scenario"
-msgstr ""
+msgstr "Покрени сценарио"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(caption):69
 msgid "Resume Saved Game"
-msgstr ""
+msgstr "Настави сачувану игру"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(heading):27
 msgctxt "campaignLevelList"
 msgid "Scenario Name"
-msgstr ""
+msgstr "Назив сценарија"
 
 #: gui/campaigns/default_menu/CampaignMenu.xml:(heading):31
 msgctxt "campaignLevelList"
@@ -119,12 +119,12 @@ msgstr "Статус"
 
 #: gui/campaigns/load_modal/LoadModal.js:18
 msgid "file cannot be loaded"
-msgstr ""
+msgstr "није могуће учитати датотеку"
 
 #: gui/campaigns/load_modal/LoadModal.js:104
 #, javascript-format
 msgid "Are you sure you want to delete run %s? This cannot be undone."
-msgstr ""
+msgstr "Јесте ли сигурни да желите да избришете рун %s? Ово се не може поништити."
 
 #: gui/campaigns/load_modal/LoadModal.js:105
 msgid "Confirmation"
@@ -141,15 +141,15 @@ msgstr "Да"
 #: gui/campaigns/load_modal/LoadModal.xml:(caption):13
 #: gui/campaigns/load_modal/LoadModal.xml:(caption):39
 msgid "Load Campaign"
-msgstr ""
+msgstr "Учитај кампању"
 
 #: gui/campaigns/load_modal/LoadModal.xml:(caption):20
 msgid "No ongoing campaigns."
-msgstr ""
+msgstr "Нема текућих кампања."
 
 #: gui/campaigns/load_modal/LoadModal.xml:(caption):24
 msgid "Name of selected run:"
-msgstr ""
+msgstr "Назив изабраног трчања:"
 
 #: gui/campaigns/load_modal/LoadModal.xml:(caption):31
 #: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):23
@@ -162,20 +162,20 @@ msgstr "Обриши"
 
 #: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):12
 msgid "Start a campaign"
-msgstr ""
+msgstr "Покрените кампању"
 
 #: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):16
 msgid "Please enter the name of your new campaign run:"
-msgstr ""
+msgstr "Унесите назив ваше нове кампање:"
 
 #: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):27
 #: gui/campaigns/setup/CampaignSetupPage.xml:(caption):55
 msgid "Start Campaign"
-msgstr ""
+msgstr "Започни кампању"
 
 #: gui/campaigns/setup/CampaignSetupPage.js:40
 msgid "No campaign selected."
-msgstr ""
+msgstr "Није изабрана ниједна кампања."
 
 #: gui/campaigns/setup/CampaignSetupPage.xml:(caption):10
 msgid "Campaigns"
@@ -183,7 +183,7 @@ msgstr "Кампање"
 
 #: gui/campaigns/setup/CampaignSetupPage.xml:(caption):37
 msgid "No Campaign selected"
-msgstr ""
+msgstr "Није изабрана ниједна кампања"
 
 #: gui/campaigns/setup/CampaignSetupPage.xml:(caption):50
 msgid "Main Menu"
