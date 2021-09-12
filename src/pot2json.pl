@@ -17,6 +17,8 @@ my $output_file = catfile ($Bin, 'json', $pot . '.json');
 
 die "Usage: pot2json.pl --pot=<POT_NAME>\n\texample --pot=engine\n" if ! -e $input_file;
 
+print "Input file: $input_file\n";
+
 my @po_strings = read_file ($input_file);
 
 my %json_strings;
@@ -47,5 +49,6 @@ while (exists $po_strings[ $i ]) {
 	$i++;
 }
 
-write_file ($output_file, to_json(\%json_strings, { pretty => 1}));
+print "Output file: $output_file\n";
+write_file ($output_file, to_json (\%json_strings, {pretty => 1, canonical => 1}));
 
