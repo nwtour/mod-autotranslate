@@ -9,6 +9,7 @@ use JSON qw(from_json to_json);
 use Getopt::Long;
 use FindBin qw($Bin);
 use File::Spec::Functions qw(catfile);
+use Storable qw(dclone);
 
 my ($lang, $po, $translate_exe) = ("", "", "");
 
@@ -50,6 +51,31 @@ sub run_translate {
 	return $translation;
 }
 
+sub special_symbols {
+	my $string = shift;
+	if ($string =~ /\\n/) {
+
+		print "FOUND SUBSTRING in $string\n";
+		$string =~ s/(\\n)/_LALALA_/;
+		return ("\\n", $string);
+	}
+	if ($string =~ /\[color=\\\\\\"([a-zA-Z]+)\\\\\\"\]/) {
+
+		my $color = $1;
+		print "FOUND SUBSTRING in $string\n";
+		$string =~ s/(\[color=\\\\\\"[a-zA-Z]+\\\\\\"\])/_LALALA_/;
+		return ("[color=\\\\\\\"$color\\\\\\\"]", $string);
+	}
+	if ($string =~ /%\(([a-z_]+)\)s/) {
+
+		my $varname = $1;
+		print "FOUND SUBSTRING in $string\n";
+		$string =~ s/(%\([a-z_]+\)s)/_LALALA_/;
+		return (" %($varname)s ", $string);
+	}
+	return ('', $string);
+}
+
 foreach my $md5 (keys %{$release}) {
 
 	my $ingame = (exists $devel->{$md5} && $devel->{$md5}{translation} ? $devel->{$md5}{translation} : "");
@@ -68,37 +94,52 @@ foreach my $md5 (keys %{$release}) {
 		next;
 	}
 
-	my $english = $devel->{$md5}{english};
+	my $english = ${ dclone (\$devel->{$md5}{english}) };
 
-	my @list;
-	my @regexp = ('%s', '%.1f', '%.3f');
+	if (! $english) {
+
+		die "$md5 is null english\n";
+	}
+
+	my @change;
+	my ($substring, $english) = special_symbols ($english);
+
+	while ($substring) {
+
+		push @change, $substring;
+		($substring, $english) = special_symbols ($english);
+	}
+
 	my $translation = "";
-	foreach my $regex (@regexp) {
 
-		next if $english !~ /$regex/;
-		my @list = split ($regex, $english);
-		my @ll;
-		foreach my $substring (@list) {
+	my @substrings = split ('_LALALA_', $english);
+	if (scalar (@substrings) > 1) {
+		my @translated_substrings;
+		foreach my $substring (@substrings) {
 
-			my $temp = ($substring =~ /^(\W[0-9]+)$/ ? $substring : run_translate ($substring));
-			push @ll, $temp;
-			print "TEMP $english $temp\n";
-			sleep (30);
+			my $translated_substring = $substring;
+
+			if ($substring && $substring !~ /^(\W[0-9]+)$/) {
+
+				$translated_substring = run_translate ($substring);
+				sleep (30);
+			}
+
+			push @translated_substrings, $translated_substring;
+			print "Translate substring: $english = '$translated_substring'\n";
 		}
-		if (scalar (@list) == 1) {
+		my $k = 0;
+		while (exists $translated_substrings[$k]) {
 
-		}
-		$translation = join ($regex, @ll);
-		if (scalar (@ll) == 1) {
-
-			$translation = ($english =~ /^$regex/ ? $regex . $translation : $translation . $regex);
+			$translation .= $translated_substrings[$k] . $change[$k];
+			$k++;
 		}
 	}
 
 	$translation = run_translate ($english) if ! $translation;
-	$result->{$md5} = {english => $english, translation => $translation};
+	$result->{$md5} = {english => $devel->{$md5}{english}, translation => $translation};
 	write_file ($output, to_json ($result, {pretty => 1, canonical => 1}));
-	print "$md5 = $translation (translation result)\n";
+	print join ('', $md5, " : ", $devel->{$md5}{english}, " = ", $translation, " (translation result)\n");
 	exit;
 }
 

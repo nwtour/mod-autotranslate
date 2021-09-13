@@ -1,0 +1,5594 @@
+{
+   "0014f8b96d996135614c21355a053994" : {
+      "english" : "Mapping",
+      "translation" : ""
+   },
+   "001b95c087a6c621b6db0fe3a7d5785f" : {
+      "english" : "Game rating column",
+      "translation" : ""
+   },
+   "003c33a409ea12558fe47629d2886178" : {
+      "english" : "Modifier to barter bunch of resources.",
+      "translation" : ""
+   },
+   "00d3852f226feabe7191d4a0ac00a4b1" : {
+      "english" : "Display generic names before specific names.",
+      "translation" : ""
+   },
+   "00f33109b15ede9eaadc1ac379965d7e" : {
+      "english" : "A dog that the Britons can train at the cavalry stable.",
+      "translation" : ""
+   },
+   "01436fdbe9737634dc9487dfa7158710" : {
+      "english" : "Towers:  %(costs)s",
+      "translation" : "Ступови:  %(costs)s"
+   },
+   "018c4c70c409e316f8d9dc227369709d" : {
+      "english" : "%(hotkey)s: Toggle the multiplayer lobby in a dialog window.",
+      "translation" : ""
+   },
+   "0193dd353d041c91ea12ececfc7d2c0b" : {
+      "english" : "The “Formation control” option lets you choose whether formations disband for orders other than walking or patrolling.",
+      "translation" : ""
+   },
+   "0196fb040851adac7d8dd9e8746f70dc" : {
+      "english" : "Civilization Overview",
+      "translation" : ""
+   },
+   "019d1ca7d50cc54b995f60d456435e87" : {
+      "english" : "Used",
+      "translation" : "Искоришћено"
+   },
+   "01a9eae2cb923e40a71eb65b8feef2d5" : {
+      "english" : "History References",
+      "translation" : ""
+   },
+   "01fa6cffee75d720bfe6f1bf0857c0fd" : {
+      "english" : "The host has ended the game.",
+      "translation" : ""
+   },
+   "0223ea35da21da8dadfaf687767cc17d" : {
+      "english" : "Attack Move",
+      "translation" : ""
+   },
+   "02875f6f873d79c157cfc50e57d55fe3" : {
+      "english" : "QUINQUEREME",
+      "translation" : ""
+   },
+   "02c6c7a43d826f5912d1fccabbe55517" : {
+      "english" : "Slow, but high-quality antialiasing, uses two samples per pixel. Supported for GL3.3+.",
+      "translation" : ""
+   },
+   "02ecff0b319facc3e4fb82c1cfd91cc1" : {
+      "english" : "Game Setup",
+      "translation" : ""
+   },
+   "03970a3bd7c0c6e1c34a90d9f58435f2" : {
+      "english" : "%(resourceFirstWord)s exchanged",
+      "translation" : ""
+   },
+   "0399a729b478b76173e47a1be766470c" : {
+      "english" : "Decrease camera rotation speed.",
+      "translation" : ""
+   },
+   "03ab9f94f6e43c5d4dd89f66f6d6777f" : {
+      "english" : "Push order in front",
+      "translation" : ""
+   },
+   "03b5d18200a2f59ed9128c68a1ba21ff" : {
+      "english" : "Hotkey Description",
+      "translation" : ""
+   },
+   "03db09841f67df8ebb8f8bf96214bf6f" : {
+      "english" : "Run vertical sync to fix screen tearing. REQUIRES GAME RESTART",
+      "translation" : ""
+   },
+   "0420a3d606e7c3955da7ad7dda670230" : {
+      "english" : "Increases firepower with garrisoned infantry.",
+      "translation" : ""
+   },
+   "0493d27e20d11e356e53e0a730b0ad08" : {
+      "english" : "Repair",
+      "translation" : "Поправи"
+   },
+   "04ffa0d3f4cdac73e53a87ad200cfca1" : {
+      "english" : "Construct rams and train citizen soldiers.",
+      "translation" : ""
+   },
+   "051bd784820d3a35e47b44c55d249463" : {
+      "english" : "Start the economic tutorial.",
+      "translation" : ""
+   },
+   "051e2f625da7873a7fef0311dc678758" : {
+      "english" : "Incompatible replay",
+      "translation" : "Неодговарајуће понављање"
+   },
+   "05316bb3e7e2302ba4d66d60ef8bcf22" : {
+      "english" : "\\n     %(description)s",
+      "translation" : ""
+   },
+   "0562068ae27fe42f5ffc601d00d11357" : {
+      "english" : "PIKEMEN",
+      "translation" : ""
+   },
+   "0584e445d656b83b431227bb80ff0c30" : {
+      "english" : "Donate",
+      "translation" : ""
+   },
+   "05cd8aa0fff5dac7ae036014ab3585e1" : {
+      "english" : "Set camera jump position 2.",
+      "translation" : ""
+   },
+   "05f2cc9d39356bf05f10f8b654a66d0d" : {
+      "english" : "Toggle ceasefire counter",
+      "translation" : ""
+   },
+   "060e8f0bc3690d87edf238f806d51e26" : {
+      "english" : "Set the balance between performance and visual appearance.",
+      "translation" : ""
+   },
+   "06150d7fb50011ff47fea42d1775f404" : {
+      "english" : "Toggle summary",
+      "translation" : ""
+   },
+   "062f4ef5cda80d185d8d17ab07719a82" : {
+      "english" : "Caution: Each hero can be recruited only once per match!",
+      "translation" : ""
+   },
+   "0640b9e936fe4bc91b86b23cdfd7a186" : {
+      "english" : "Mass barter",
+      "translation" : ""
+   },
+   "06453b7daf66b79a3e6fe9ea46bc776b" : {
+      "english" : "Researches:",
+      "translation" : ""
+   },
+   "068863b97bb1f5acfbafcb4cc6bd40ae" : {
+      "english" : "Enable particles.",
+      "translation" : ""
+   },
+   "069effef0cbac8e3cca6f6f248d185ff" : {
+      "english" : "All displayed",
+      "translation" : ""
+   },
+   "06ae07800ec94d287ca2f810d390174f" : {
+      "english" : "Modifier to attackmove targeting only units when clicking on a point.",
+      "translation" : ""
+   },
+   "06bc0792b9c36c67d297146195d8fa5b" : {
+      "english" : "Reset camera rotation to default.",
+      "translation" : ""
+   },
+   "06cb91a407703eced029900a9f2dddb3" : {
+      "english" : "%(nick)s — %(name)s",
+      "translation" : ""
+   },
+   "071642fa72ba780ee90ed36350d82745" : {
+      "english" : "Fish",
+      "translation" : "Риба"
+   },
+   "0740f2c95a765ab6157bcbc7b33e1c5d" : {
+      "english" : "Civilization:",
+      "translation" : "Цивилизација:"
+   },
+   "0757c6c389736cfa5b036254d0737748" : {
+      "english" : "Modifier to set the rally point on the building itself.",
+      "translation" : ""
+   },
+   "075ae3d2fc31640504f814f60e5ef713" : {
+      "english" : "disabled",
+      "translation" : "онемогући"
+   },
+   "0777c6ddf97789f49ee9d3bfe4a2465b" : {
+      "english" : "Toggle unit silhouettes.",
+      "translation" : ""
+   },
+   "079f04d14dea94f347734288579f1678" : {
+      "english" : "Map exploration",
+      "translation" : ""
+   },
+   "07a5bda58b5308fffb18bddaffd05c5a" : {
+      "english" : "Rewind time. Must have activated timewarp.",
+      "translation" : ""
+   },
+   "07aa33394db2675fc2efe0dd65335285" : {
+      "english" : "%(hotkey)s: Close Structure Tree.",
+      "translation" : ""
+   },
+   "07b43c477f71fa0fb7d6c88ec937d85e" : {
+      "english" : "defeated",
+      "translation" : "поражен"
+   },
+   "07c1cc26056ebbdca546d2393b59f536" : {
+      "english" : "Garrison units to slowly heal them and protect the army camp from attacks and decay.",
+      "translation" : ""
+   },
+   "07ca5050e697392c9ed47e6453f1453f" : {
+      "english" : "Completed",
+      "translation" : "Довршено"
+   },
+   "07d9e3aefc4093a49121c91ef65e708b" : {
+      "english" : "meters",
+      "translation" : "метара"
+   },
+   "07e5e1aac0f383cbe8f6a69b587ae34d" : {
+      "english" : "Auto detect",
+      "translation" : ""
+   },
+   "080260f85df946f12792bf57eb75fe66" : {
+      "english" : "%(playerName)s (%(AIdescription)s)",
+      "translation" : ""
+   },
+   "081921db18e66c06fc4ff3387a0d9ba4" : {
+      "english" : "Show structure tree.",
+      "translation" : ""
+   },
+   "081bc607c78e2d452e987504e1fc9a1b" : {
+      "english" : "Strongest infantry unit in the game.",
+      "translation" : ""
+   },
+   "0832b3c5798779e4a8d0ba4184591bba" : {
+      "english" : "Outposts",
+      "translation" : ""
+   },
+   "0885f0c211f74834f0109c5abaf4cdc4" : {
+      "english" : "Language:",
+      "translation" : "Језик:"
+   },
+   "08aad6e0d2a56031f7d174f256cdfe52" : {
+      "english" : "Focus the %(name)s summary tab.",
+      "translation" : ""
+   },
+   "08ae4440216a4987883617ba4bba7d2f" : {
+      "english" : "When ON shadows cover the whole map and shadows cutoff distance is ignored. Useful for making screenshots of a whole map.",
+      "translation" : ""
+   },
+   "0911a5ce8ed6d560a1b0c57cd092792d" : {
+      "english" : "Queue 7th unit",
+      "translation" : ""
+   },
+   "0944556c5779de6d2fc8e04ee09589ef" : {
+      "english" : "Bribes",
+      "translation" : ""
+   },
+   "096945571836bc8bcab794ef6d616d42" : {
+      "english" : "Zoom camera out.",
+      "translation" : ""
+   },
+   "09824fdcf3412670a6f25b5ce648dab8" : {
+      "english" : "Custom exit to desktop",
+      "translation" : ""
+   },
+   "09a9caf94feec148bf734a3a05a3da76" : {
+      "english" : "Scroll up or use %(hotkey)s to move a tab left.",
+      "translation" : ""
+   },
+   "09ba7a32c9f352781b2b6015f70d1180" : {
+      "english" : "Modifier to order only one entity in selection.",
+      "translation" : ""
+   },
+   "09e36f1e43353c8dbdd09b116f7855c5" : {
+      "english" : "Back to Work",
+      "translation" : "Назад на Посао"
+   },
+   "09f9747f2b409534e1651d1beacda758" : {
+      "english" : "Toggle real-time overlay",
+      "translation" : ""
+   },
+   "0a38e7286ebbb560354992b3ce62be67" : {
+      "english" : "Food",
+      "translation" : "храна"
+   },
+   "0a495ba7cff9e1c4861aeab58775c0dc" : {
+      "english" : "Maps that come with scripted events and potentially spawn enemy units.",
+      "translation" : ""
+   },
+   "0a927d29a4a6dd7c244bd33350470cae" : {
+      "english" : "Select only wounded units",
+      "translation" : ""
+   },
+   "0aafa497807d5ac9b509656bd13b5283" : {
+      "english" : "Greek",
+      "translation" : ""
+   },
+   "0b17105895a083938132c0e895e2d26e" : {
+      "english" : "MSAA (4×)",
+      "translation" : ""
+   },
+   "0b2f5a99962c01e94f1574ebc499f02b" : {
+      "english" : "Map Size:",
+      "translation" : "Величина мапе:"
+   },
+   "0b4d078fd0e3615f19e0eb268aa140a8" : {
+      "english" : "Therefore select some units, press and hold the right mouse button, draw any line, then release the button.",
+      "translation" : ""
+   },
+   "0ba7602ceb638f7f6862908611e15e7d" : {
+      "english" : "Use them to slaughter enemy cavalry or as a shock force to support your regular infantry.",
+      "translation" : ""
+   },
+   "0bd9a40af34ba331b8232a471da2c5d7" : {
+      "english" : "Toggle in-game menu",
+      "translation" : ""
+   },
+   "0beb16a47208c77d8a07607e63dcfb40" : {
+      "english" : "A randomly selected map.",
+      "translation" : "Насумично одабрана мапа."
+   },
+   "0c6ca9ffcea05687f6baf5eaf6550fa8" : {
+      "english" : "%(resourceIcon)s %(rate)s",
+      "translation" : "%(resourceIcon)s %(rate)s"
+   },
+   "0c84ef8f66527ea701daf8ac147eb26a" : {
+      "english" : "%(auralabel)s %(aurainfo)s",
+      "translation" : "%(auralabel)s %(aurainfo)s"
+   },
+   "0d54027bd0b8ee41e1814510b1f224b2" : {
+      "english" : "Host Game",
+      "translation" : "Покрени игру за више играча"
+   },
+   "0d6da93af721c1106a5e5d185a32aa1c" : {
+      "english" : "Pause single-player games when window loses focus.",
+      "translation" : ""
+   },
+   "0da0616d195432bad92d33616a5bf104" : {
+      "english" : "Show the previous tab.",
+      "translation" : ""
+   },
+   "0dafc0b0476be5d5a90a219692e719e1" : {
+      "english" : "Bribes\\n(%(succeeded)s / %(failed)s)",
+      "translation" : ""
+   },
+   "0db377921f4ce762c62526131097968f" : {
+      "english" : "General",
+      "translation" : "Опште"
+   },
+   "0e14f8ff31e4043208d729d52f708f54" : {
+      "english" : "Automatically assign joining clients to free player slots during the match setup.",
+      "translation" : ""
+   },
+   "0e5cc8c1f1004e9b47d6fa483d0ee27d" : {
+      "english" : "Turn off Auto-Queue for selected structures.",
+      "translation" : ""
+   },
+   "0e65407cab396b0f07a2fa48c7a9b90e" : {
+      "english" : "UI volume",
+      "translation" : ""
+   },
+   "0e73f375a0720f24a67d2745fd005d72" : {
+      "english" : "Toggle game-time overlay",
+      "translation" : ""
+   },
+   "0e94fc907a9ec9f74ce6b74672fe1021" : {
+      "english" : "Paste from clipboard.",
+      "translation" : ""
+   },
+   "0e9faafbdfe06770bbbb82071c082f29" : {
+      "english" : "Viola, violin",
+      "translation" : ""
+   },
+   "0eaadb4fcb48a0a0ed7bc9868be9fbaa" : {
+      "english" : "Warning",
+      "translation" : "Упозорење"
+   },
+   "0eb21eccb2427ea582fc24b9654eacc6" : {
+      "english" : "Fast-forward (timewarp)",
+      "translation" : ""
+   },
+   "0ec325cdebb03cd1e2125141e747cb32" : {
+      "english" : "All Maps",
+      "translation" : "Све мапе"
+   },
+   "0eda0e6a75f1103b511280a209196f40" : {
+      "english" : "They will see the flare on their minimap.",
+      "translation" : ""
+   },
+   "0f063441abf5c4176c1ec5d5d0c862ef" : {
+      "english" : "Game Session",
+      "translation" : ""
+   },
+   "0f1bad32e3ebd8d7d48d3913d0e814e7" : {
+      "english" : "Save current selection as Control Group 8.",
+      "translation" : ""
+   },
+   "0f3ab70d39735cd6538eebb9dc59cdff" : {
+      "english" : "Are you sure you want to quit 0 A.D.?",
+      "translation" : "Да ли сте сигурни да желите да напустите \\\"0 a.d.\\\"?"
+   },
+   "0f4763d8d54dc625bdf38e623db4642d" : {
+      "english" : "Jump to camera position 4 (see “Set camera jump 4”).",
+      "translation" : ""
+   },
+   "0f745e70908c3773c8a27b027457b79a" : {
+      "english" : "%(team)s:\\n%(playerDescriptions)s",
+      "translation" : "%(team)s:\\n%(playerDescriptions)s"
+   },
+   "0f80e736c24c1431424e0ff1d8d65e8f" : {
+      "english" : "Turn on Auto-Queue for selected structures.",
+      "translation" : ""
+   },
+   "0f86b9143fdf0d3b712d0186d2d4ae4a" : {
+      "english" : "Deselect unit type",
+      "translation" : ""
+   },
+   "0fa1ebe72da80a6a949033694e8fb7a3" : {
+      "english" : "Historical characters, such as Xerxes, Leonidas, Pericles, Hannibal, Scipio, and Boudicca.",
+      "translation" : ""
+   },
+   "0ff2a676ca4978baad4f27dbe80c0de7" : {
+      "english" : "%(label)s %(bonus)s",
+      "translation" : ""
+   },
+   "105da9c5fa9f8ac7ff088af799b4f7d5" : {
+      "english" : "Although reasonably easy for an experienced player, the default AI level is quite challenging for new players yet to master the basic mechanisms of the game. Beginners are advised to start by playing against a lower level AI (Sandbox or Very Easy). Change the AI level by clicking the gear icon next to the player you want to modify in the selection panel above.",
+      "translation" : ""
+   },
+   "107773a1c506b594d38ad905efda865c" : {
+      "english" : "Garrison",
+      "translation" : ""
+   },
+   "1123bd6d834b810d253de8d411bd1d44" : {
+      "english" : "New structures are aligned with nearby structures while pressing the hotkey.",
+      "translation" : ""
+   },
+   "1129e0750ac7ae095f09d210d1f48052" : {
+      "english" : "Champion Infantry available to the Spartans.",
+      "translation" : ""
+   },
+   "1148a301d6c8f2524f428b2605b8947e" : {
+      "english" : "Special technology for the Persians.",
+      "translation" : ""
+   },
+   "11acd1f9878de9a40ab4c660f9e490d1" : {
+      "english" : "Destroy selected units",
+      "translation" : ""
+   },
+   "124bea225f81a19ad2ac2b30573c3c38" : {
+      "english" : "Add Control Group 0 to the current selection.",
+      "translation" : ""
+   },
+   "125e206f1bc3706b437013b2ed42c250" : {
+      "english" : "Real time overlay",
+      "translation" : ""
+   },
+   "12ac83027bd5e57aacef944eed952deb" : {
+      "english" : "High quality models.",
+      "translation" : ""
+   },
+   "12d2026ac6bcd4d5ad9887a5a7b9b5f0" : {
+      "english" : "Losing connection to server (%(seconds)ss)",
+      "translation" : "Губљење конекције ка серверу (%(seconds)ss)"
+   },
+   "12ead85b9d84c1520d8cef80ad163e04" : {
+      "english" : "%(playerName)s (%(AIdescription)s, %(state)s)",
+      "translation" : ""
+   },
+   "12f3f52c2caa902d15bb0f58eb34ec93" : {
+      "english" : "Scroll up or use %(hotkey)s to move a tab up.",
+      "translation" : ""
+   },
+   "132202b965c88a7c5f197ba0affd6db5" : {
+      "english" : "Only the host can kick clients!",
+      "translation" : "Само домаћин може избацити клијенте!"
+   },
+   "1396537a21582776ad21f6bf3190349f" : {
+      "english" : "Toggle diplomacy colors",
+      "translation" : ""
+   },
+   "13ad5ac690e735fa48cf982532174e79" : {
+      "english" : "Navy",
+      "translation" : "морнарица"
+   },
+   "13e03873859867aeade5b25ed6b00278" : {
+      "english" : "Population",
+      "translation" : "Становништво"
+   },
+   "142e3acd3610d6c670ac3f74b36347c6" : {
+      "english" : "Trumpet",
+      "translation" : ""
+   },
+   "14546ebd4482a717cc0974cc314d2d76" : {
+      "english" : "Unit Statistics (%(trained)s / %(killed)s / %(captured)s / %(lost)s)",
+      "translation" : ""
+   },
+   "14df6ecbe5be68ab6a94fe8910a16e66" : {
+      "english" : "Flute",
+      "translation" : ""
+   },
+   "150d27178d8370ce455a7e7b8fc06333" : {
+      "english" : "Delete before cursor",
+      "translation" : ""
+   },
+   "15618f348b5165b42451e6ed81d40521" : {
+      "english" : "Select next idle worker.",
+      "translation" : ""
+   },
+   "15908e7cfab590c16f7a79f4b3ea0df5" : {
+      "english" : "Duration reduction: %(durationReduction)s%%",
+      "translation" : ""
+   },
+   "15ae6638206a5a0f00f04f2befc55331" : {
+      "english" : "In game music gain.",
+      "translation" : ""
+   },
+   "15bbb9d0bbf25e8d2978de1168c749dc" : {
+      "english" : "Website",
+      "translation" : "Веб-страница"
+   },
+   "15ffe0bd8bce2d0b53d34e09656d7be6" : {
+      "english" : "Wonders",
+      "translation" : "Чуда"
+   },
+   "1613bd779198e2a3af2273cf7f5da01e" : {
+      "english" : "Unsaved changes will be lost",
+      "translation" : ""
+   },
+   "165ecf2c4f429f955f1c5345d1dfa7ad" : {
+      "english" : "Jump to camera position 1 (see “Set camera jump 1”).",
+      "translation" : ""
+   },
+   "16858644a544a79109dc2f069f91a843" : {
+      "english" : "Remove units from selection.",
+      "translation" : ""
+   },
+   "1700a10a9ffc5c66b2fced54739510af" : {
+      "english" : "Dynamically sort players in the resources and population tooltip by value.",
+      "translation" : ""
+   },
+   "17145f3925e725e0e2f80a6d5f892e48" : {
+      "english" : "Smooth shadows.",
+      "translation" : ""
+   },
+   "171e33a0853c270a1609b29ce5e2e45d" : {
+      "english" : "Defeated",
+      "translation" : "Поражен"
+   },
+   "17213acf4286da50c2acf7ec0aaa5aff" : {
+      "english" : "Hotkeys active in the game setup screen.",
+      "translation" : ""
+   },
+   "17237ecf0cc872a115af61b0923e1ed3" : {
+      "english" : "Modifier to occupy a turret when clicking on a turret holder.",
+      "translation" : ""
+   },
+   "1734f2e80832426906586281916d30f0" : {
+      "english" : "Ambient volume",
+      "translation" : ""
+   },
+   "1738807a7f88304204f8af3d3ad1414f" : {
+      "english" : "Toggle highlight of guarded units.",
+      "translation" : ""
+   },
+   "17919d7c3235196c002c92fd72b8c913" : {
+      "english" : "Explored Map",
+      "translation" : "Истражена мапа"
+   },
+   "17ef83738f22a326b4efab3edebec816" : {
+      "english" : "Toggle highlight of guarding units.",
+      "translation" : ""
+   },
+   "180c87f94cd4283802656e44f79bb3b4" : {
+      "english" : "Increase camera rotation speed.",
+      "translation" : ""
+   },
+   "1817d4e88283977df583d4c8267394e1" : {
+      "english" : "Show frames per second in top right corner.",
+      "translation" : ""
+   },
+   "181822edcd92164b239bd1099d3f213c" : {
+      "english" : "%(hotkey)s: View the structure tree of civilizations featured in 0 A.D.",
+      "translation" : ""
+   },
+   "187cc59b4e15fc81760f20462ea36461" : {
+      "english" : "Pledgie Drive 2",
+      "translation" : ""
+   },
+   "190d7533c87d65d2f4a91d7f4a022209" : {
+      "english" : "Select Control Group 0",
+      "translation" : ""
+   },
+   "1919e5429a1f769afcd4b43338b982f6" : {
+      "english" : "CELTIC WAR BARGE",
+      "translation" : "КЕЛТСКИ РАТНИ СПЛАВ"
+   },
+   "192da57a8203a5dfbc251c28aae92379" : {
+      "english" : "When observing a game, automatically speed up if you start lagging, to catch up with the live match.",
+      "translation" : ""
+   },
+   "192f0fbed7bb457c0a89d5118d86290e" : {
+      "english" : "Save current selection as Control Group 2.",
+      "translation" : ""
+   },
+   "1962ef26fc67d6e0391ff9ba89ffcb03" : {
+      "english" : "The number below it shows you how many citizens are currently gathering them.",
+      "translation" : ""
+   },
+   "19bb79752df76c3787d844e1370316f5" : {
+      "english" : "Add only non-military units to the selection.",
+      "translation" : ""
+   },
+   "19efe87f6bea61a9c3d56998dc2bdbe4" : {
+      "english" : "Rotate building placement preview anticlockwise.",
+      "translation" : ""
+   },
+   "1a0daeb5fe7075a83191e63b7dadf9d0" : {
+      "english" : "Diplomacy colors: enemy",
+      "translation" : ""
+   },
+   "1a3b280286c269161d3239c683179e97" : {
+      "english" : "MSAA (16×)",
+      "translation" : ""
+   },
+   "1a4f7e7ff8c423cd29fc6d59f175fa5d" : {
+      "english" : "Toggle chat window in team chat mode.",
+      "translation" : ""
+   },
+   "1a6ed71936482ccc3b28c44888ddbdee" : {
+      "english" : "Show an experience status bar above each selected unit.",
+      "translation" : ""
+   },
+   "1aaccf6e29241028682657bfad47a2cd" : {
+      "english" : "Diplomacy colors: ally",
+      "translation" : ""
+   },
+   "1ac7b3aac37e45389e39f681a6333c1a" : {
+      "english" : "The basic melee infantry for every faction in the game.",
+      "translation" : ""
+   },
+   "1b62fd5a563caa148b9da2fffbcbbf99" : {
+      "english" : "Build in a forward base to resupply your assault with fresh troops.",
+      "translation" : ""
+   },
+   "1b735bb3de3ade49025301e2ffc9cee4" : {
+      "english" : "Entities appearance is randomized normally.",
+      "translation" : ""
+   },
+   "1b9e9227b4960bceed4f0dad9d5e9fa7" : {
+      "english" : "Generally flat, with a few watering holes and rocky outcrops.",
+      "translation" : ""
+   },
+   "1ba3b784ebd6233ee65ce851e1fa072c" : {
+      "english" : "Resulting locale:",
+      "translation" : ""
+   },
+   "1ba4649b0381b6ef4b535b60956c4a5c" : {
+      "english" : "Pan camera",
+      "translation" : ""
+   },
+   "1c00eb63df37c7740f094dff73c44e17" : {
+      "english" : "Gain an advantage on the battleground by tactically positioning your units!",
+      "translation" : ""
+   },
+   "1c14375aca24b022908e8e073f09eb9f" : {
+      "english" : "General hotkeys.",
+      "translation" : ""
+   },
+   "1c210ae757991d9e50f6814001cf0c64" : {
+      "english" : "Go to the next page.",
+      "translation" : ""
+   },
+   "1c26b62a57d4eab47a1580561ec7fbe5" : {
+      "english" : "Move cursor to left word",
+      "translation" : ""
+   },
+   "1c65c5c9e0040e263f0173cd2d4e1522" : {
+      "english" : "Load Game",
+      "translation" : "Учитај снимљену игру"
+   },
+   "1c9636dea55deb150fe63e7322a19ff5" : {
+      "english" : "Set the cursor to Flare. The hotkey can be released.",
+      "translation" : ""
+   },
+   "1ce36403ceca8791376cf189cfc2155b" : {
+      "english" : "Custom hotkey to trigger exit-to-desktop. The native hotkeys (Alt+F4 / Cmd+Q / etc.) are always active.",
+      "translation" : ""
+   },
+   "1ce739f9d146c987182fc31d7a8d71f8" : {
+      "english" : "Your version: %(version)s",
+      "translation" : "Твоја верзија: %(version)s"
+   },
+   "1d039985c0fb7694db454ded7fee0080" : {
+      "english" : "%(rangeLabel)s %(minRange)s to %(maxRange)s %(rangeUnit)s",
+      "translation" : ""
+   },
+   "1d03c4d17be857abd5afdea183707e73" : {
+      "english" : "%(dateString)s %(map)s - %(description)s",
+      "translation" : "%(dateString)s %(map)s - %(description)s"
+   },
+   "1d1ea000e263f4cef76258efa822743e" : {
+      "english" : "Pick Random Map",
+      "translation" : ""
+   },
+   "1d2abf2bc4aa7641e03298e78a4308ae" : {
+      "english" : "Jump to camera position 2 (see “Set camera jump 2”).",
+      "translation" : ""
+   },
+   "1d4f2b03f1a022f0ba1d081db93619f1" : {
+      "english" : "0 A.D. Founder",
+      "translation" : ""
+   },
+   "1d912bfa1c4497248fd6a03d6616dadc" : {
+      "english" : "Toggle default formation",
+      "translation" : ""
+   },
+   "1dde966cdad8284f139dbf89e7ce3dba" : {
+      "english" : "Randomize the appearance of entities. Disabling gives a small performance improvement.",
+      "translation" : ""
+   },
+   "1e0a1e0b7c4b8c3b941d26c86394958e" : {
+      "english" : "TRIREME",
+      "translation" : "ТРИРЕМА"
+   },
+   "1e0a478c7dab7ed1fc0a824d8b1320cb" : {
+      "english" : "Structure Tree",
+      "translation" : "Структурно Стабло"
+   },
+   "1e2a5cd04724b58c87e517f7c1eb6050" : {
+      "english" : "Toggle Console",
+      "translation" : ""
+   },
+   "1e768a05051a0a1063db0aa042eeef22" : {
+      "english" : "Rotate camera counterclockwise around terrain.",
+      "translation" : ""
+   },
+   "1e97e73f1e45d465e23a2ea172bc3355" : {
+      "english" : "Sharpening",
+      "translation" : ""
+   },
+   "1e9bdb04572707ecf8fb4079aabbafc1" : {
+      "english" : "Remaining repair time:",
+      "translation" : ""
+   },
+   "1ed045b752bdcc54d06ec2a86d52cffa" : {
+      "english" : "Could not find an unused port for the enet STUN client.",
+      "translation" : ""
+   },
+   "1f021da370015caccaa43bd8dcc2526a" : {
+      "english" : "Show a chat notification if an ally tributes resources to another team member if teams are locked, and all tributes in observer mode.",
+      "translation" : ""
+   },
+   "1f08d08fd864b99cbeebd88b9a0784a7" : {
+      "english" : "Income",
+      "translation" : "Приход"
+   },
+   "1f2d86e82b403a6a1ef04c8c30e97827" : {
+      "english" : "Simpler models for better performance.",
+      "translation" : ""
+   },
+   "1fcd8d4eefe84d92b905b69d588009c8" : {
+      "english" : "Next tab",
+      "translation" : ""
+   },
+   "1fe917b01f9a3f87fa2d7d3b7643fac1" : {
+      "english" : "FAQ",
+      "translation" : ""
+   },
+   "20cfa15e05554635641c8201b032715e" : {
+      "english" : "WHALES",
+      "translation" : "КИТОВИ"
+   },
+   "20fac6516157cc534606f7240692b34f" : {
+      "english" : "Map Filter:",
+      "translation" : "Филтер мапе:"
+   },
+   "21a1c77b24e92588d7bd2dddbe4c074a" : {
+      "english" : "%(hotkey)s: Learn about the civilizations featured in 0 A.D.",
+      "translation" : ""
+   },
+   "221de0302dfa64c56670e37d4376aa33" : {
+      "english" : "Lead Composer",
+      "translation" : ""
+   },
+   "2239ce6f09ce2717c66871476d4308c2" : {
+      "english" : "Model quality setting.",
+      "translation" : ""
+   },
+   "225de253076178b99d01efc01dc272c3" : {
+      "english" : "Garrison troops aboard to increase fire power.",
+      "translation" : ""
+   },
+   "226c91dde5949391b388256772f7d280" : {
+      "english" : "Special Ptolemaic structures to increase your vision range when built on the shore.",
+      "translation" : ""
+   },
+   "2281116f43e4564bf891e76ff0f0bc58" : {
+      "english" : "Zoom camera in - the effect depends on FPS.",
+      "translation" : ""
+   },
+   "22b9f1407199f7f32fef12336050151c" : {
+      "english" : "Flare display duration",
+      "translation" : ""
+   },
+   "230e900963807f8392c58a730c38b57f" : {
+      "english" : "Available to: Carthaginians, Kushites, Mauryas, Persians, Ptolemies, and Seleucids.",
+      "translation" : ""
+   },
+   "2337c6096718dfa623314f6be439d23c" : {
+      "english" : "Control group membership",
+      "translation" : ""
+   },
+   "23846710a8cb41231b876f5c97d36200" : {
+      "english" : "A map with a predefined landscape and number of players. Freely select the other game settings.",
+      "translation" : ""
+   },
+   "24aff4e5c59651ebf5f8c1ba74e4322f" : {
+      "english" : "Select next idle worker",
+      "translation" : ""
+   },
+   "24b3d6e038aa48d5da7b7658e407ad74" : {
+      "english" : "\\\\[Invalid value %(id)s]",
+      "translation" : "\\\\[Invalid value %(id)s]"
+   },
+   "24df0526f9fbb1ed4610a03c13429c4a" : {
+      "english" : "Join Game",
+      "translation" : "Придружи се постојећој игри"
+   },
+   "24f86bcb89b2855591af0da0002cecca" : {
+      "english" : "Don't ask for confirmation when deleting a saved game.",
+      "translation" : ""
+   },
+   "250751e51c11ffa306f5fc8f9f0a4e20" : {
+      "english" : "Zoom in (step-by-step)",
+      "translation" : ""
+   },
+   "254e263e15d4869976ac453fcbc82324" : {
+      "english" : "LIGHTHOUSE",
+      "translation" : ""
+   },
+   "25676e5bbff6e1dd71249d4d2e07a94f" : {
+      "english" : "Protect login and data exchanged with the lobby server using TLS encryption.",
+      "translation" : ""
+   },
+   "26096b78e5b7dc07b264251cd75295b9" : {
+      "english" : "Relic Count",
+      "translation" : "Број реликвија"
+   },
+   "2652eec977dcb2a5aea85f5bec235b05" : {
+      "english" : "Sandbox",
+      "translation" : "Слободна игра"
+   },
+   "26997c6b8ed496bc3388c3d176edddd7" : {
+      "english" : "Played time:",
+      "translation" : ""
+   },
+   "26b17225b626fb9238849fd60eabdf60" : {
+      "english" : "+",
+      "translation" : "+"
+   },
+   "26bcb76c404b3b481680d1c7a761202b" : {
+      "english" : "FPS throttling in menus",
+      "translation" : ""
+   },
+   "26c6b2752edd93c16f322286a29a49e6" : {
+      "english" : "Focus the camera on the position of the last attack notification.",
+      "translation" : ""
+   },
+   "26cfc820af61e0aa0bfbc499bdf26514" : {
+      "english" : "Decrease camera zoom speed.",
+      "translation" : ""
+   },
+   "27c16525843905cd2d094f5869085085" : {
+      "english" : "Builds:",
+      "translation" : ""
+   },
+   "27c7a3e74f674b75b4eb93f4d304602a" : {
+      "english" : "Maps: %(mapCount)s",
+      "translation" : ""
+   },
+   "282fb8f2809fffa9a5c34798e57d1acb" : {
+      "english" : "Modifier to garrison when clicking on building.",
+      "translation" : ""
+   },
+   "2840f0bc1f7983c45713b94c7eac4ba5" : {
+      "english" : "Garrison Size",
+      "translation" : ""
+   },
+   "288d468c5e0969f26a310773eda65603" : {
+      "english" : "Unordered",
+      "translation" : ""
+   },
+   "289a6896d3fad22b0a43192dd3dd045b" : {
+      "english" : "Ceasefire time overlay",
+      "translation" : ""
+   },
+   "28a41bcde07b2266d5c6411b698ad5ce" : {
+      "english" : "Filter compatible replays",
+      "translation" : ""
+   },
+   "28bb8ae8bc9a0f036f7442c4fd33a9b9" : {
+      "english" : "Toggle fullscreen/windowed mode.",
+      "translation" : ""
+   },
+   "28cf08cf8ce668d78fffe16352f16f68" : {
+      "english" : "Attack Move (unit only)",
+      "translation" : ""
+   },
+   "28d0edd045e05cf5af64e35ae0c4c6ef" : {
+      "english" : "Low",
+      "translation" : "Ниско"
+   },
+   "28d2119e1203c3b8aa4f93dfc0cc5627" : {
+      "english" : "Network warnings",
+      "translation" : ""
+   },
+   "290612199861c31d1036b185b4e69b75" : {
+      "english" : "Summary",
+      "translation" : "Сажетак"
+   },
+   "290dc5afaa7348a7d83ec15d75f45468" : {
+      "english" : "Chat notification barter",
+      "translation" : ""
+   },
+   "29157729a11c1257c64ed8dee1722578" : {
+      "english" : "Follow the first unit in the selection.",
+      "translation" : ""
+   },
+   "2923351dfede6807499f634b5eab1dd9" : {
+      "english" : "Harvest from animals, berry bushes, fish, or fields.",
+      "translation" : ""
+   },
+   "294aed2f5e61c85aaad574927e185f84" : {
+      "english" : "Display only generic names for entities.",
+      "translation" : ""
+   },
+   "294dbd5281e533583a8816d71a7df4cf" : {
+      "english" : "Resource Trickle:",
+      "translation" : ""
+   },
+   "2955d52a37c08d078f27af01fc7faf4a" : {
+      "english" : "Toggle GUI visibility",
+      "translation" : ""
+   },
+   "29736cb3345c711dd03cee804d840f22" : {
+      "english" : "Click to visit 0 A.D. Trac to report a bug, crash, or error.",
+      "translation" : ""
+   },
+   "2a7a397e3164785c4603709a6c489451" : {
+      "english" : "Kill / Death ratio",
+      "translation" : "Однос убистава и смрти"
+   },
+   "2a829e54f48627bb4827a1cd2ca68f83" : {
+      "english" : "%(primaryName)s",
+      "translation" : ""
+   },
+   "2afa72f3bdc7925efcac16e0fe786e31" : {
+      "english" : "Go to the previous page.",
+      "translation" : ""
+   },
+   "2b939c51190bf841e71c7b4516e0d51d" : {
+      "english" : "upload failed (%(errorCode)s)",
+      "translation" : ""
+   },
+   "2bfeaf94db8397062fbd604ae211a878" : {
+      "english" : "Rich in all types of mining.",
+      "translation" : ""
+   },
+   "2c081ec41ec617923e888f9d2f5105e1" : {
+      "english" : "Rated and unrated games",
+      "translation" : "Оцењене и неоцењене игре"
+   },
+   "2c526c645bca9542ba1598835d46b753" : {
+      "english" : "Speed:",
+      "translation" : "Брзина:"
+   },
+   "2c5b2ea700cc706473fff871d3eb037d" : {
+      "english" : "Destroy without confirmation",
+      "translation" : ""
+   },
+   "2c6aec6c0cb2760435bb17051fe0c359" : {
+      "english" : "Hotkeys for the in-game user interface.",
+      "translation" : ""
+   },
+   "2c92d5448a786594f58f20c481dc54f2" : {
+      "english" : "Saved game will be permanently deleted, are you sure?",
+      "translation" : "Сачуване игре ће бити избрисане за стално, да ли си сигуран?"
+   },
+   "2c944a1ec33f2b9e355302bf639e738a" : {
+      "english" : "FidelityFX CAS",
+      "translation" : ""
+   },
+   "2c9b92e5932ad85fc47dbb51baf9a98c" : {
+      "english" : "Saves changes",
+      "translation" : "Сачувај промене"
+   },
+   "2ca042e73368e0730fe3aae860cf591e" : {
+      "english" : "Some setting values are invalid! Are you sure you want to save them?",
+      "translation" : ""
+   },
+   "2cf54c8750a0881f5cbf2e2f9b044929" : {
+      "english" : "History of the %(civilization)s",
+      "translation" : "Историја  %(civilization)s"
+   },
+   "2d0b2fc1d81fa8dc40f6ba9d54f70737" : {
+      "english" : "WILDFIRE GAMES",
+      "translation" : "WILDFIRE GAMES"
+   },
+   "2d2339705edf1f62c46e3ff786b7dfd3" : {
+      "english" : "Load a saved game.",
+      "translation" : ""
+   },
+   "2d4d10b89e4acc9edad2054cff3d9703" : {
+      "english" : "Infantry",
+      "translation" : "пешадија"
+   },
+   "2d6734eb23fa2415526cc6a86e3fbf5a" : {
+      "english" : "Units and Structures can be part of multiple control groups. This is useful to keep control groups for distinct armies and a control group for the entire army simultaneously.",
+      "translation" : ""
+   },
+   "2dec5ee9db863ffb68915b70bce4efe4" : {
+      "english" : "Structures",
+      "translation" : ""
+   },
+   "2df393ddd24f034419bc95a677a0825d" : {
+      "english" : "Resetting the options will erase your saved settings. Do you want to continue?",
+      "translation" : ""
+   },
+   "2df9471cdad442e6da3dceb57987202a" : {
+      "english" : "Select only idle units",
+      "translation" : ""
+   },
+   "2dfa443267b32cb824385ae67199693e" : {
+      "english" : "PERSIAN ARCHITECTURE",
+      "translation" : "ПЕРСИЈСКА АРХИТЕКТУРА"
+   },
+   "2e0d15d209f70b183365c484bb0469df" : {
+      "english" : "Quicksave",
+      "translation" : ""
+   },
+   "2e970514a87dba2f87e82a9a8ea12393" : {
+      "english" : "CIVIC CENTERS",
+      "translation" : ""
+   },
+   "2e9ff1d766d092182c674d522f3b1aa6" : {
+      "english" : "When hosting, pause the game if observers are lagging more than this many turns. If set to -1, observers are ignored.",
+      "translation" : ""
+   },
+   "2edb87a110188c3e438f683bf68c8051" : {
+      "english" : "Walk/Patrol Only",
+      "translation" : ""
+   },
+   "2eef4e91dabb32e01b4be8be616ce472" : {
+      "english" : "Cheap and quickly built, but weak.",
+      "translation" : ""
+   },
+   "2efdceb6f3d9dea0e8fc8ca62034d018" : {
+      "english" : "Toggle private chat",
+      "translation" : ""
+   },
+   "2f2d9ad38f3275523c5485499fc46e1a" : {
+      "english" : "Shadow map resolution. High values can crash the game when using a graphics card with low memory!",
+      "translation" : ""
+   },
+   "2f796d31b25a730cedb9cc4be7281d8f" : {
+      "english" : "Open the 0 A.D. Game Manual.",
+      "translation" : ""
+   },
+   "2f957d0714873b28381eaf0693a6f733" : {
+      "english" : "Delete the selected replay using %(hotkey)s.",
+      "translation" : ""
+   },
+   "2fa283897ad6757abfc457189d46e6f3" : {
+      "english" : "Per Unit",
+      "translation" : "По јединици"
+   },
+   "2fa6334d7d5ac15d5cac99e4150e87b7" : {
+      "english" : "Set Control Group 6",
+      "translation" : ""
+   },
+   "2fdf63ebe74fdb970cdcd44d817b2819" : {
+      "english" : "(stacks)",
+      "translation" : ""
+   },
+   "2ff4ab1d379832d3edee28194fb4e7b2" : {
+      "english" : "Stone",
+      "translation" : "камен"
+   },
+   "304d2d3f00957b3d8e46ff9c54c2caeb" : {
+      "english" : "How to show entity names.",
+      "translation" : ""
+   },
+   "3061a43dfbf91dedd8703397b154e0e0" : {
+      "english" : "%(hotkey)s: Close map browser.",
+      "translation" : ""
+   },
+   "3098400643960a328d3d641e6fa9ff71" : {
+      "english" : "Search Map:",
+      "translation" : ""
+   },
+   "30e51e8efd59d60787bbd02356348ab4" : {
+      "english" : "Click to delete the hotkey",
+      "translation" : ""
+   },
+   "316141033c974924555d8dec06a00799" : {
+      "english" : "Show a chat notification to observers when a player bartered resources.",
+      "translation" : ""
+   },
+   "31840a66a8d6d223e5b0540138768838" : {
+      "english" : "Market",
+      "translation" : "Тржница"
+   },
+   "32049a67643695a04289488ccf5948fd" : {
+      "english" : "Add fourth unit type to queue.",
+      "translation" : ""
+   },
+   "329c457dcfaf8a3e52c35d8de931136b" : {
+      "english" : "Diplomacy colors: neutral",
+      "translation" : ""
+   },
+   "32f68a60cef40faedbc6af20298c1a1e" : {
+      "english" : "DELETE",
+      "translation" : "ИЗБРИШИ"
+   },
+   "3350f5b7c3a85e0a8b83f38c1af8fd00" : {
+      "english" : "Select Control Group 9",
+      "translation" : ""
+   },
+   "33a759ae8076953b308df4b7e67a6005" : {
+      "english" : "Only generic names",
+      "translation" : ""
+   },
+   "33d3d3ecd62102fae3a3024bf2c2a540" : {
+      "english" : "UI sound gain.",
+      "translation" : ""
+   },
+   "33de75847e6f337fea7749bf342eb729" : {
+      "english" : "%(playerName)s (%(civ)s, %(AIdescription)s)",
+      "translation" : ""
+   },
+   "3445c5a4fe5d6796d7e1646b2c89011d" : {
+      "english" : "Diplomacy colors: self",
+      "translation" : ""
+   },
+   "346c32dc6b7eba0f31c859a08423be8a" : {
+      "english" : "Dictionary files used:",
+      "translation" : ""
+   },
+   "347701089fb2dde5db488161e0fb22ea" : {
+      "english" : "Gather Rates:",
+      "translation" : "Брзина прикупљања:"
+   },
+   "3482e497d9439c3a97d8f650c6191765" : {
+      "english" : "New Maps",
+      "translation" : "Нове мапе"
+   },
+   "355a86e1663d47a3b7df19e9ddc3a085" : {
+      "english" : "Players can make alliances and declare war on allies.",
+      "translation" : "Играчи могу начинити савезе и објавити рат савезницима."
+   },
+   "3589f3a3d9faac2d696843ba0408a74c" : {
+      "english" : "%(auraname)s:",
+      "translation" : "%(auraname)s:"
+   },
+   "35fcf14fb3fa7a5a939064ea9761170d" : {
+      "english" : "%(rangeLabel)s %(maxRange)s (%(relativeRange)s) %(rangeUnit)s",
+      "translation" : ""
+   },
+   "361a04e81c6171f9f09c7323f170e253" : {
+      "english" : "In-game GUI",
+      "translation" : ""
+   },
+   "3656183169810334a96b91129dc9d881" : {
+      "english" : "Hard",
+      "translation" : "Тешко"
+   },
+   "368fe771261fcb18f7988833c9294a20" : {
+      "english" : "Tutorial",
+      "translation" : ""
+   },
+   "3695552d6d0c4abfbe8a5775f547a557" : {
+      "english" : "Send the selected units on attack move to the specified location after dropping resources.",
+      "translation" : ""
+   },
+   "369b740328ae87952c5df46511042bd7" : {
+      "english" : "Master volume",
+      "translation" : ""
+   },
+   "36c094fde54838691d0f1fa33f916fb6" : {
+      "english" : "Civic Centers",
+      "translation" : ""
+   },
+   "36c6e2cd1246c0f8b07492cb29800629" : {
+      "english" : "%(playerName)s (%(state)s)",
+      "translation" : "%(playerName)s (%(state)s)"
+   },
+   "36e5aeabfb90dee5b215fc1fa0eaec75" : {
+      "english" : "New player notification in game setup",
+      "translation" : ""
+   },
+   "36f5b4388bf7eb0500912e5f22a611f1" : {
+      "english" : "Password is invalid.",
+      "translation" : "Погрешна шифра."
+   },
+   "3727b4d2311005c88de3b4a52f3de3a2" : {
+      "english" : "Defensive",
+      "translation" : "Одбрамбен"
+   },
+   "373eec3a38a08ce26a2005b4f767a02e" : {
+      "english" : "FORGE",
+      "translation" : ""
+   },
+   "37a4555170a77cf3d8318a3997c3d4ab" : {
+      "english" : "Trained by:",
+      "translation" : ""
+   },
+   "37aa0ea3f4677fdf5bcea79d1460b586" : {
+      "english" : "Aligning structures allows to conserve space for future construction.",
+      "translation" : ""
+   },
+   "37d9f646951cef8b6aa5518975c4db6e" : {
+      "english" : "Optional four-letter script code part following the language code (as listed in ISO 15924)",
+      "translation" : ""
+   },
+   "37eed1165dec2d19d71f61b3447c7e83" : {
+      "english" : "How long the flare markers on the minimap are displayed in seconds.",
+      "translation" : ""
+   },
+   "3829cabf32e8e7f58a3619e3c6aa3ec8" : {
+      "english" : "The resource counter panel shows you how much of each resources you have at the moment.",
+      "translation" : ""
+   },
+   "383b108c2100fe92eafe4eb91e131c04" : {
+      "english" : "Not implemented yet.",
+      "translation" : ""
+   },
+   "383ff86ff959e52d39e1ac4811c75403" : {
+      "english" : "Unassigned hotkey: %(hotkeyName)s",
+      "translation" : ""
+   },
+   "38596a8378eada9a3938644bdcfdc3b7" : {
+      "english" : "Tightly packed groups of structures can also be used for obstructing raiding enemies.",
+      "translation" : ""
+   },
+   "387baf0199e7c9cc944fae94e96448fa" : {
+      "english" : "Miscellaneous",
+      "translation" : ""
+   },
+   "389a96d0d9b3feb46b8c9d941566a4ae" : {
+      "english" : "Aggressive",
+      "translation" : "Агресивно"
+   },
+   "392ef35d3d0f4b01292d616059a0c2db" : {
+      "english" : "The structure is available to some civilizations to train elephant units.",
+      "translation" : ""
+   },
+   "3a16e3f27cde26c624d13ac0617fa414" : {
+      "english" : "Auto-rally point",
+      "translation" : ""
+   },
+   "3a3761725dbb742ab5c36e1abd83fa5d" : {
+      "english" : "BIOMES",
+      "translation" : ""
+   },
+   "3a3c91221e1c66b273e3ffa091c7f718" : {
+      "english" : "Randomly select a biome from the list.",
+      "translation" : ""
+   },
+   "3a942a487b2ed14e40aa7332a0abfcc6" : {
+      "english" : "Fishing is faster than gathering food on fields.",
+      "translation" : ""
+   },
+   "3ac9486f3a52ed289aade49608f154dd" : {
+      "english" : "Number of shader effects. REQUIRES GAME RESTART",
+      "translation" : ""
+   },
+   "3ad08db6a3bdef629e08102662ad2839" : {
+      "english" : "Create a unique map with a different resource distribution each time. Freely select the number of players and teams.",
+      "translation" : ""
+   },
+   "3adbdb3ac060038aa0e6e6c138ef9873" : {
+      "english" : "Category",
+      "translation" : "Категорија"
+   },
+   "3af919bf9ccc64c75f7dd1975b2dc6e3" : {
+      "english" : "Champion Spearmen and Champion Cavalry Spearmen for Carthage.",
+      "translation" : ""
+   },
+   "3afb672eeeb6041582f3b43fab73cb22" : {
+      "english" : "A quick, cheap wooden wall available to all factions.",
+      "translation" : ""
+   },
+   "3afbd9828e011526955ca93b48b57524" : {
+      "english" : "Screenshot",
+      "translation" : ""
+   },
+   "3b051905bd25558ba4a225712523064b" : {
+      "english" : "Activate fast-forward mode. Must have activated timewarp.",
+      "translation" : ""
+   },
+   "3b0c14770e6bd663518496da60f524da" : {
+      "english" : "Tree",
+      "translation" : "дрво"
+   },
+   "3b26194b13edb91ea719ef5cbee8d5bd" : {
+      "english" : "Fruit",
+      "translation" : "Воће "
+   },
+   "3ba159885c7fda77c7c8c3b1e663b38c" : {
+      "english" : "Secure lobby authentication failed. Join via lobby.",
+      "translation" : ""
+   },
+   "3bf7e81f5620a98f1e4d35143e6becce" : {
+      "english" : "Cheats",
+      "translation" : "Преваре"
+   },
+   "3c0514292aa00ba4f9ac38f8cadfa000" : {
+      "english" : "MSAA (2×)",
+      "translation" : ""
+   },
+   "3c18971605b1367c3d2ed6fda74be164" : {
+      "english" : "Champion",
+      "translation" : "шампион"
+   },
+   "3cd4fba7bb119a6772a0940a83342262" : {
+      "english" : "Hides shadows beyond a certain distance from a camera.",
+      "translation" : ""
+   },
+   "3d1664cae110ce6df587d6cfb2788201" : {
+      "english" : "Special Credits",
+      "translation" : ""
+   },
+   "3d174e012a92e75327140be9c7912b93" : {
+      "english" : "Scroll down or use %(hotkey)s to move a tab down.",
+      "translation" : ""
+   },
+   "3d70d88af1ef33536511f7abc8b9c106" : {
+      "english" : "Rewind (timewarp)",
+      "translation" : ""
+   },
+   "3d848836917bd0360fac19e4f4c83626" : {
+      "english" : "Rotate camera counterclockwise around terrain - the effect depends on FPS.",
+      "translation" : ""
+   },
+   "3d9497946ce56a6bcd815549338c2ba7" : {
+      "english" : "This option allows to align new structures with nearby structures.",
+      "translation" : ""
+   },
+   "3dbb9dbbf5110c468303a311e9ed4e2f" : {
+      "english" : "Allow everybody or buddies only to join the game as observer after it started.",
+      "translation" : ""
+   },
+   "3dbe227f4fdbaf903e92b20b620e1494" : {
+      "english" : "Networking / Lobby",
+      "translation" : ""
+   },
+   "3dd97310aeafbba2d1530470d0383b60" : {
+      "english" : "Increase map preview size.",
+      "translation" : ""
+   },
+   "3df2ff92d7b2718a26eebb36538ae49f" : {
+      "english" : "Turret Positions",
+      "translation" : ""
+   },
+   "3ea349923f45e0adc697dfaf70f1c937" : {
+      "english" : "CITY WALLS",
+      "translation" : ""
+   },
+   "3ec6c5953e1d08653f9219a397c59e3d" : {
+      "english" : "RESOURCE GATHERING",
+      "translation" : "ПРИКУПЉАЊЕ РЕСУРАСА"
+   },
+   "3ed67a1d46253c702c1ce660622b8496" : {
+      "english" : "Use OpenGL 2.0 shaders (recommended).",
+      "translation" : ""
+   },
+   "3f0add3c20d2819705b867473d96c6d7" : {
+      "english" : "You have abandoned the game.",
+      "translation" : "Напустио си игру."
+   },
+   "3f0c4bb4ceefd6e9682e0dd3168ea1fb" : {
+      "english" : "Set camera jump 2",
+      "translation" : ""
+   },
+   "3f1fcda5409228ba77cf0f80c6b117e9" : {
+      "english" : "Add Control Group 8 to the current selection.",
+      "translation" : ""
+   },
+   "3f2509e9aa2938df865acb3f783216ab" : {
+      "english" : "Confirm the current command.",
+      "translation" : ""
+   },
+   "3fbad119260dfc5fac95d1e07548aa3e" : {
+      "english" : "Show the 0 A.D. credits.",
+      "translation" : ""
+   },
+   "3fcb6a814236dfd951b7db4cd363b33a" : {
+      "english" : "Biomes can be used on some random maps and determine which region of the world the map represents.",
+      "translation" : ""
+   },
+   "3fd6c178e1ae74d9b620df6c8c9585a3" : {
+      "english" : "When OFF, use the lowest settings possible to render water. This makes other settings irrelevant.",
+      "translation" : ""
+   },
+   "404785fe7f97950b89fb26e88b3ecd7b" : {
+      "english" : "Sort resources and population tooltip",
+      "translation" : ""
+   },
+   "407e4362a41601c3120c75356cfe5113" : {
+      "english" : "Jump to camera 2",
+      "translation" : ""
+   },
+   "4085cdca8c7afb41140c4226ab6ee56d" : {
+      "english" : "Endless Game",
+      "translation" : "Неограничена игра"
+   },
+   "40888d2bfed6626d956aea83fd35636b" : {
+      "english" : "Set camera jump position 4.",
+      "translation" : ""
+   },
+   "40ef62e5f1430348b39a86059a9ebe57" : {
+      "english" : "Translators",
+      "translation" : "Преводиоци"
+   },
+   "4104617158f28c12950311633f60d7af" : {
+      "english" : "2D Art",
+      "translation" : "2D Уметност"
+   },
+   "417818330cbc578e1cbef58039f28c03" : {
+      "english" : "Select only wounded units.",
+      "translation" : ""
+   },
+   "41d83c2a92550894d17ec570ae106cf6" : {
+      "english" : "FPS overlay",
+      "translation" : ""
+   },
+   "4246e3ce54ea83a4f5c18c65c83bcbf6" : {
+      "english" : "Selecting Units",
+      "translation" : ""
+   },
+   "42e6ce9b0e36b892fa1d59d380e2aef8" : {
+      "english" : "Variant (unused):",
+      "translation" : ""
+   },
+   "42f1758507c895b60e1936c195521af7" : {
+      "english" : "Toggle display of attack range overlays of selected defensive structures.",
+      "translation" : ""
+   },
+   "4319592c4ff61c8579ea93adcfd58419" : {
+      "english" : "%(listHeader)s %(listOfValues)s",
+      "translation" : ""
+   },
+   "43cbc12247eec069e32e89ad9a67dd3c" : {
+      "english" : "Community and Management",
+      "translation" : ""
+   },
+   "43d452a29692ecf9ae74bee0c7c315e0" : {
+      "english" : "Set Control Group 2",
+      "translation" : ""
+   },
+   "43f169d1a694e6e2a59694e44f82614d" : {
+      "english" : "They influence the appearence of the maps and also the amount of resources that are available.",
+      "translation" : ""
+   },
+   "440b1950ad855361a9f61b2af6d3e4e1" : {
+      "english" : "Formation control",
+      "translation" : ""
+   },
+   "445d8a8c15da20085a5fa927c25ce536" : {
+      "english" : "Enable welcome screen",
+      "translation" : ""
+   },
+   "44a50f07b4bdc57740901280f9eddaf5" : {
+      "english" : "Capture",
+      "translation" : "Заузти"
+   },
+   "44d62a25bdd0c64db5c6ff0c17907e04" : {
+      "english" : "They are countered by ranged units and swordsmen, so support your spearmen with slingers or cavalry.",
+      "translation" : ""
+   },
+   "44d9a2b4d52b7c93907bbef5c77935a4" : {
+      "english" : "View the different maps featured in 0 A.D.",
+      "translation" : ""
+   },
+   "44d9eec4e26b25afb4b37cf3f62b259b" : {
+      "english" : "%(hotkey)s: Switch to Structure Tree.",
+      "translation" : ""
+   },
+   "44ed524e5b09a740e7edc4cdf595cd42" : {
+      "english" : "Error opening campaign run:",
+      "translation" : ""
+   },
+   "44f4cdcaf2ae1713ee21b68a8ce0e637" : {
+      "english" : "A lot of health and very strong attacks.",
+      "translation" : ""
+   },
+   "44f8b8f5f9aabe6cc8cc9cac25607d62" : {
+      "english" : "Modifier to attackmove when clicking on a point.",
+      "translation" : ""
+   },
+   "456d664abff7b18efb31546474d2c7d6" : {
+      "english" : "Music volume",
+      "translation" : ""
+   },
+   "45bb24be5e521704c326f7abc062cd3b" : {
+      "english" : "Server full.",
+      "translation" : ""
+   },
+   "45d96cefc0efa3a056f596fbc66538d1" : {
+      "english" : "You have left the game.",
+      "translation" : "Напустио си игру."
+   },
+   "45f91ed18e08f022fe748ceca7950482" : {
+      "english" : "Snap to edges",
+      "translation" : ""
+   },
+   "46848f4ffcbbd0d1acf36bd78d0455f0" : {
+      "english" : "ELEPHANT STABLE",
+      "translation" : ""
+   },
+   "46b9ccb6dc4956340065ecf4192f949d" : {
+      "english" : "Cut to clipboard",
+      "translation" : ""
+   },
+   "46c2f6a048dd043ac9075dac37b4621e" : {
+      "english" : "Flare (hold)",
+      "translation" : ""
+   },
+   "46cf1d26a2d6c633292f19f7a7c9a14f" : {
+      "english" : "Toggle MP lobby",
+      "translation" : ""
+   },
+   "4755dd2349a54b16093fcb99d6f55748" : {
+      "english" : "Select next idle unit.",
+      "translation" : ""
+   },
+   "47b7c52adbce03898629b07e13384ba7" : {
+      "english" : "Rated games",
+      "translation" : "Оцењене игре"
+   },
+   "47dcbd834e669233d7eb8a51456ed217" : {
+      "english" : "Music",
+      "translation" : "Музика"
+   },
+   "4931a9584f9e9adafcbffa1cd2572e51" : {
+      "english" : "[imgleft=\\\"iconLag\\\"]The game can have performance problems, especially with large maps and a great number of units.",
+      "translation" : ""
+   },
+   "497d56f821a9bdab326903c2af2560e5" : {
+      "english" : "Decrease map preview size.",
+      "translation" : ""
+   },
+   "4994a8ffeba4ac3140beb89e8d41f174" : {
+      "english" : "Language",
+      "translation" : "Језик"
+   },
+   "4998c7507a6f5430127fbe8ebd211cf2" : {
+      "english" : "%(attackType)s",
+      "translation" : ""
+   },
+   "49c91d2fad9b143ba82f35102327aba5" : {
+      "english" : "Rotate counterclockwise",
+      "translation" : ""
+   },
+   "49ee3087348e8d44e1feda1917443987" : {
+      "english" : "Name",
+      "translation" : "Име"
+   },
+   "4a0c0ddfba895afacb498e672d3b010e" : {
+      "english" : "Unknown Victory Condition",
+      "translation" : ""
+   },
+   "4a31a0e739d4930cbc30e951c1560163" : {
+      "english" : "Reverts to previous saved settings",
+      "translation" : ""
+   },
+   "4a66eda003c1018ae5c4f4fda19b95e5" : {
+      "english" : "Units gain experience while garrisoned inside the structure.",
+      "translation" : ""
+   },
+   "4aa09525b1f1ad5238107b8e2ceaa9a7" : {
+      "english" : "Jump to camera 4",
+      "translation" : ""
+   },
+   "4ae44543f76f7ff3716126ee75e48a5d" : {
+      "english" : "%(label)s: %(turretsLimit)s",
+      "translation" : ""
+   },
+   "4b57306a5053a7152b5898d3254e018f" : {
+      "english" : "Enable game setting tips",
+      "translation" : ""
+   },
+   "4b6058e9bfd6b7f212a674f5152cd6e1" : {
+      "english" : "Maps where ships are needed to reach the enemy.",
+      "translation" : "Мапе где бродови требају да достигну свог непријатеља."
+   },
+   "4b8bd01abfdefdc389fc7474c014337e" : {
+      "english" : "Occupy Turret Point",
+      "translation" : ""
+   },
+   "4babc5ae353d650fe2a7769746179e3f" : {
+      "english" : "Learn how to play, start the tutorial, discover the technology trees, and the history behind the civilizations.",
+      "translation" : ""
+   },
+   "4bcd4ccece1403b5d825704a9c181895" : {
+      "english" : "Save current selection as Control Group 9.",
+      "translation" : ""
+   },
+   "4c4ebc5783f7d3d4acb0eaea6189d25c" : {
+      "english" : "Build: %(buildDate)s (%(revision)s)",
+      "translation" : "Верзија: %(buildDate)s (%(revision)s)"
+   },
+   "4c66d79152391da6e31f5ee8c06d7af1" : {
+      "english" : "Toggle snap-to-edge",
+      "translation" : ""
+   },
+   "4c901a4ea3597fa8eabe2f1282389148" : {
+      "english" : "Fishing boats carry a large amount of food per trip.",
+      "translation" : ""
+   },
+   "4cecfe2b70d04641450e2d7aeceb724d" : {
+      "english" : "Add Control Group 3",
+      "translation" : ""
+   },
+   "4cfbb125e9878528bab91d12421134d8" : {
+      "english" : "Rock",
+      "translation" : "стена"
+   },
+   "4d68e929bd30a738a26cfcbb259f2376" : {
+      "english" : "Show a chat notification if you are attacked by another player.",
+      "translation" : ""
+   },
+   "4dd924852c9ec6bcb8a7a42ea5436af3" : {
+      "english" : "%(hotkey)s: Launch the multiplayer lobby to join and host publicly visible games and chat with other players.",
+      "translation" : ""
+   },
+   "4e64df4775c237c4723c55c29ea3c54f" : {
+      "english" : "Slow, but high-quality antialiasing, uses four samples per pixel. Supported for GL3.3+.",
+      "translation" : ""
+   },
+   "4ea142539b042a729e94cc5cd0b91bd1" : {
+      "english" : "Players can't change the initial teams.",
+      "translation" : "Играчи не могу променити првобитно изабране тимове."
+   },
+   "4eb9ed99d7faf851c882cadb0a527fdf" : {
+      "english" : "Copy to clipboard.",
+      "translation" : ""
+   },
+   "4ebbedba610fdd9c64d276e4dd87af52" : {
+      "english" : "Select and download mods for the game.",
+      "translation" : ""
+   },
+   "4edd4ed2dab747da6868e605b7e2f271" : {
+      "english" : "Art lead",
+      "translation" : ""
+   },
+   "4efa8d8551f83f7bedb58e193b07782d" : {
+      "english" : "%(player)s losing connection (%(seconds)ss)",
+      "translation" : "%(player)s губи конекцију (%(seconds)ss)"
+   },
+   "4efe78e031c190a68815a6d7d3bb0fe3" : {
+      "english" : "Houses",
+      "translation" : "Кућа"
+   },
+   "4f3272dd6af50df1852e6e7749f96f8c" : {
+      "english" : "This replay needs a different sequence of mods:",
+      "translation" : ""
+   },
+   "4f68aa6dcc12b8a349953fc07cc5ba68" : {
+      "english" : "Display the time at which a chat message was posted.",
+      "translation" : ""
+   },
+   "504894b22ecc743eb94d05d5c70e4f80" : {
+      "english" : "Campaigns",
+      "translation" : "Кампање"
+   },
+   "504d0351b320daa5d77d8e1e5a1c6267" : {
+      "english" : "Delete saved game",
+      "translation" : ""
+   },
+   "50544a1639089c3250f62d59a61b9eab" : {
+      "english" : "Add first unit type to queue.",
+      "translation" : ""
+   },
+   "505b5714d28f2d5a7451b3d5b672f18e" : {
+      "english" : "Increases firepower with garrisoned catapults.",
+      "translation" : ""
+   },
+   "5066dda9dc1266f23693cf534f306331" : {
+      "english" : "Trade income",
+      "translation" : "приход од трговине"
+   },
+   "5114fa91726b909bea633b55eb517783" : {
+      "english" : "Queue 1st unit",
+      "translation" : ""
+   },
+   "5165ec39b68b4362e78119e290ef72be" : {
+      "english" : "Set Control Group 3",
+      "translation" : ""
+   },
+   "51bc7cc58dd6a30839dbda6dceb56077" : {
+      "english" : "Ore",
+      "translation" : "Руда "
+   },
+   "51cf7e9e12caadb5361c23d1451ee2ee" : {
+      "english" : "Claim large tracts of territory.",
+      "translation" : ""
+   },
+   "51eb8cec234fc3e89f34087980897667" : {
+      "english" : "Charts",
+      "translation" : "Статистике"
+   },
+   "52005ae5877995d43444f98f85a66a5f" : {
+      "english" : "Special thanks to:",
+      "translation" : ""
+   },
+   "520083a0ba692d145441bc8f20cdb01e" : {
+      "english" : "Nomad Mode",
+      "translation" : ""
+   },
+   "520bcc678f91c6c46ba0aba8cc920f16" : {
+      "english" : "Help with the project expenses by donating.",
+      "translation" : ""
+   },
+   "52388c3cf9cf019fe7c456f3369aa89e" : {
+      "english" : "Modifier to repair when clicking on building/mechanical unit.",
+      "translation" : ""
+   },
+   "5255d363fd71eb536749a40357e8605d" : {
+      "english" : "Filter compatible saved games",
+      "translation" : ""
+   },
+   "526d688f37a86d3c3f27d0c5016eb71d" : {
+      "english" : "Reset",
+      "translation" : ""
+   },
+   "5289bf157522a5cd34676f2777d27048" : {
+      "english" : "Revert",
+      "translation" : ""
+   },
+   "52b1f10ee0e382acbcf407e9eb2f8faa" : {
+      "english" : "PYRAMIDS OF MEROË",
+      "translation" : ""
+   },
+   "52ebc26c2921d5b84fc670dff9891821" : {
+      "english" : "Zoom out",
+      "translation" : ""
+   },
+   "5324a9ddd7f2dae3644766a540f0e6f1" : {
+      "english" : "Can be de-activated by choosing “no formation” as the default.",
+      "translation" : ""
+   },
+   "5326e11997b7f5bc70a7c9c1b1f83982" : {
+      "english" : "Careful! Fish are not an infinite resource!",
+      "translation" : ""
+   },
+   "532aa474e2c472a8c8209bd15cae57c5" : {
+      "english" : "Date / Time",
+      "translation" : "Датум / Време"
+   },
+   "53423027222b99e6e449e12bfc323275" : {
+      "english" : "New Campaign",
+      "translation" : ""
+   },
+   "53702e331341f00bc2c7e4df5fd0f7c5" : {
+      "english" : "Rotate building clockwise",
+      "translation" : ""
+   },
+   "53b04187314d13956f5288866dd93f41" : {
+      "english" : "Economic",
+      "translation" : "Економски"
+   },
+   "53c4d5fd746c0f763c2f1baf2b7a410a" : {
+      "english" : "Launch the multiplayer lobby. \\\\[DISABLED BY BUILD]",
+      "translation" : ""
+   },
+   "53f68f014ce05ffa62dc5fd49b8392cf" : {
+      "english" : "Please read and accept the UserReporter Terms and Conditions.",
+      "translation" : ""
+   },
+   "540d9daed084f91ced59cfb811afeaa3" : {
+      "english" : "In-game hotkeys.",
+      "translation" : ""
+   },
+   "545f6c2f382c04810103b3e5e6f7d841" : {
+      "english" : "Unlimited",
+      "translation" : "Неограничено"
+   },
+   "546f122c6b65c73189653f4252372e3c" : {
+      "english" : "Unknown Civilization",
+      "translation" : "Непозната цивилизација"
+   },
+   "5481d2822574f9c5854b5e6ae7021cff" : {
+      "english" : "Detailed tooltips",
+      "translation" : ""
+   },
+   "54861efdd06fc309e1c9a420feff98eb" : {
+      "english" : "Scenario",
+      "translation" : "Сценарио"
+   },
+   "5499493768447afb7e8fc8f1af32eb51" : {
+      "english" : "−",
+      "translation" : ""
+   },
+   "54a321051065dea56785d6b6cf301816" : {
+      "english" : "Show which player has a bad connection in multiplayer games.",
+      "translation" : ""
+   },
+   "55084e3b0584c16bfc0e18f80f605774" : {
+      "english" : "connecting to server",
+      "translation" : "повезивање на сервер"
+   },
+   "550b9baf4217909257ade664ec29ddd0" : {
+      "english" : "THEATER",
+      "translation" : ""
+   },
+   "557e63e83087261e309fc4629e4a1aa4" : {
+      "english" : "Toggle in-game menu.",
+      "translation" : ""
+   },
+   "55b6efa9d00a03759a2374089caeea17" : {
+      "english" : "The sharpness of the choosen pass.",
+      "translation" : ""
+   },
+   "55dcdf017b51fc96f7b5f9d63013b95d" : {
+      "english" : "Chat",
+      "translation" : "Chat"
+   },
+   "55f3a2ef83ce489a6239aa9b01d73800" : {
+      "english" : "%(colorIndicator)s %(playerListing)s",
+      "translation" : ""
+   },
+   "55fc376922c546bf87fa753643f86e26" : {
+      "english" : "Toggle profiler2",
+      "translation" : ""
+   },
+   "564c8d1c1e0d3f84c6e0e54b4ce9a3c5" : {
+      "english" : "You have unsaved changes, do you want to close this window?",
+      "translation" : "Имаш несачуване промене, да ли желиш да затвориш овај прозор?"
+   },
+   "5661006dc8a9f5e6d6a5508f4f16158d" : {
+      "english" : "Are you sure you want to delete this replay permanently?",
+      "translation" : "Да ли си сигуран да желиш избрисати ово понављање за стално?"
+   },
+   "568611919482c82a02325bc55c29300a" : {
+      "english" : "Set Control Group 4",
+      "translation" : ""
+   },
+   "56a8a9eb05f9014da51a4f9b57322ac7" : {
+      "english" : "Category:",
+      "translation" : "Категорија:"
+   },
+   "57042d9a4207b023ee109faa5244e8d5" : {
+      "english" : "Status Effects:",
+      "translation" : ""
+   },
+   "57045c0ff697a98d3e0c1dbf9229a44e" : {
+      "english" : "Chat timestamp",
+      "translation" : ""
+   },
+   "571094bb27864b600d8e6b561a137a55" : {
+      "english" : "Quality",
+      "translation" : ""
+   },
+   "575d6afa02f45825d9d8444fbe5465f9" : {
+      "english" : "To save CPU workload, throttle render frequency in all menus. Set to maximum to disable throttling.",
+      "translation" : ""
+   },
+   "577447baeb193b671768d1ca2c1cc1e6" : {
+      "english" : "Pledgie Drive 1",
+      "translation" : ""
+   },
+   "57a4f8fed0b5e17d1637e6448f4e595b" : {
+      "english" : "Default behavior of the AI.",
+      "translation" : ""
+   },
+   "57cc9b210b0e3ff7b28013cec3d36acf" : {
+      "english" : "Guard",
+      "translation" : "Стража"
+   },
+   "57cd24d66e39bee5b1eb5ff4bebb6844" : {
+      "english" : "Scroll or rotate right.",
+      "translation" : ""
+   },
+   "57faaefaaf816fb912fbeb61bb34b880" : {
+      "english" : "PALISADE WALLS",
+      "translation" : "ПАЛИСАДНИ ЗИД"
+   },
+   "5804e938c6990eb6c66390d661b83e32" : {
+      "english" : "Users (%(num)s): %(users)s",
+      "translation" : "Играчи (%(num)s): %(users)s"
+   },
+   "580f554335bc9150188934730678e4ad" : {
+      "english" : "When your ranged infantry units are occupying the turrets, they have additional armor and can shoot at the enemy. ",
+      "translation" : ""
+   },
+   "581564d0bf976875771a02f06023fa82" : {
+      "english" : "Hold %(hotkey)s to skip the confirmation dialog while deleting.",
+      "translation" : ""
+   },
+   "583d134a09941f3faefe2cdd65856e7a" : {
+      "english" : "invalid locale",
+      "translation" : ""
+   },
+   "5875975272d9e2597a1c12109b9d22ce" : {
+      "english" : "Exposed Heroes",
+      "translation" : ""
+   },
+   "592a664288b0ac0889a0be2c80bd96c1" : {
+      "english" : "Infantry citizen-soldiers are faster gathering minerals.",
+      "translation" : ""
+   },
+   "59379bdc939f9ebd43cd7c54bf9a9145" : {
+      "english" : "The scenario editor is not available or failed to load. See the game logs for additional information.",
+      "translation" : ""
+   },
+   "593adf9a72f346b835afbc872849c06f" : {
+      "english" : "(unused)",
+      "translation" : ""
+   },
+   "5958d45177821a90aff679ed2445e970" : {
+      "english" : "%(component)s %(cost)s",
+      "translation" : "%(component)s %(cost)s"
+   },
+   "59a2f1eae6e1d102b0ff6181dd2a3d32" : {
+      "english" : "Enable/disable HTTP/GPU modes for new profiler.",
+      "translation" : ""
+   },
+   "59cc458cd82d4499946f2f7de81cf1df" : {
+      "english" : "Add Control Group 9",
+      "translation" : ""
+   },
+   "59d0a6370080a6200939d427cc8f6057" : {
+      "english" : "Delete without confirmation",
+      "translation" : ""
+   },
+   "59fca6367fb4966a0d46b7b49cb4d8af" : {
+      "english" : "Toggle civ info",
+      "translation" : ""
+   },
+   "5a0edf9b14f20d58dcd3b369c2b7e156" : {
+      "english" : "Heavily armored and slow. Low attack.",
+      "translation" : ""
+   },
+   "5a0f5af3160a31506c07cd7f708a87d4" : {
+      "english" : "Save current selection as Control Group 3.",
+      "translation" : ""
+   },
+   "5a1918be2f7cc66e422fb29bf7902d7f" : {
+      "english" : "Last Man Standing",
+      "translation" : "Онај који је задњи остао да стоји"
+   },
+   "5a50c456c0cf60c927da25b9d245933e" : {
+      "english" : "Damage:",
+      "translation" : ""
+   },
+   "5a9afbc0812e8c362f1a8bd09178b68e" : {
+      "english" : "Page: %(currentPage)s/%(maxPage)s",
+      "translation" : ""
+   },
+   "5aa1bc153babcb825765d40cbe8abbaa" : {
+      "english" : "3D Art",
+      "translation" : "3D Уметност"
+   },
+   "5b109771309980620ea19f1957e8cc89" : {
+      "english" : "Toggle objectives",
+      "translation" : ""
+   },
+   "5b1a2694090708c64de5f2b0cf654b38" : {
+      "english" : "FORMATIONS",
+      "translation" : ""
+   },
+   "5b4d105ce15c40f9aa3eff74e75fa8bc" : {
+      "english" : "Enter new Hotkey, hold to register.",
+      "translation" : ""
+   },
+   "5bc93926281094faf2267b389f46bc34" : {
+      "english" : "Delete word to the right of cursor.",
+      "translation" : ""
+   },
+   "5be4663d3c67c0f3fd766206ff936ff3" : {
+      "english" : "Unit silhouettes",
+      "translation" : ""
+   },
+   "5c3480f1f8700402662973b9b290b39b" : {
+      "english" : "Random Biome",
+      "translation" : ""
+   },
+   "5c6ba25104401c9ee0650230fc6ba413" : {
+      "english" : "Tab",
+      "translation" : ""
+   },
+   "5c82bfc50cdb77cba5a63b7f9ed0cbdf" : {
+      "english" : "Structures +25% health.",
+      "translation" : ""
+   },
+   "5c87891a26be9b2b9e34d0f1b5f21cb6" : {
+      "english" : "Add third unit type to queue.",
+      "translation" : ""
+   },
+   "5cdc128cdfaea14f76c694a95d3aaf86" : {
+      "english" : "%(healthLabel)s %(current)s / %(max)s",
+      "translation" : "%(healthLabel)s %(current)s / %(max)s"
+   },
+   "5d1066d643b23bde52248d589abfcea6" : {
+      "english" : "Trigger Maps",
+      "translation" : ""
+   },
+   "5d260c002c9ff7acefaf60e54be21ec5" : {
+      "english" : "Do you still want to proceed?",
+      "translation" : "Да ли још увек желиш да наставиш?"
+   },
+   "5d3b7e106cddc8622b0751bfa0bddd86" : {
+      "english" : "Toggle status bars",
+      "translation" : ""
+   },
+   "5d3d95cb74ad59528ab385023f8a2a39" : {
+      "english" : "Save profile",
+      "translation" : ""
+   },
+   "5d79ecb738467a3ba8c236787ff22110" : {
+      "english" : "gives %(name)s",
+      "translation" : ""
+   },
+   "5d80b24dea86c24d283733ff008be42d" : {
+      "english" : "They have a large vision range and will shoot arrows at the enemy in sight. ",
+      "translation" : ""
+   },
+   "5d97a39e7e418d41d9fd9979d555ac02" : {
+      "english" : "Add to selection",
+      "translation" : ""
+   },
+   "5dd135d1bcfa7f63c3b7f25425c2a4a1" : {
+      "english" : "Score",
+      "translation" : "Резултат"
+   },
+   "5dd35ccb81838ea8bf995e9634d6ff06" : {
+      "english" : "Researched at:",
+      "translation" : ""
+   },
+   "5df59f0a5454441d998c800082202835" : {
+      "english" : "High Food and Metal cost, but very powerful.",
+      "translation" : ""
+   },
+   "5dfd07cd80acb9a52100746ea59adc38" : {
+      "english" : "Dropsite for:",
+      "translation" : ""
+   },
+   "5e0d7988522fa82dd4a2ccda843056f9" : {
+      "english" : "Order an entity to leave a turret point.",
+      "translation" : ""
+   },
+   "5e1a70865cd8b5b296a5e08ae601ac35" : {
+      "english" : "Slow, but high-quality antialiasing, uses eight samples per pixel. Supported for GL3.3+.",
+      "translation" : ""
+   },
+   "5e29845a4cca46ba964cefa802c5313d" : {
+      "english" : "Player name",
+      "translation" : "Име играча"
+   },
+   "5e3c9514f7241ac20dce216fab4aaf32" : {
+      "english" : "Destroy selected units.",
+      "translation" : ""
+   },
+   "5e53c0c08f802351c42338b59b4f19b7" : {
+      "english" : "Per Player",
+      "translation" : "По играчу"
+   },
+   "5ed32a3bdbaead7176a325cd8703deaa" : {
+      "english" : "Toggle guarded highlight",
+      "translation" : ""
+   },
+   "5f085340a4fda5875697e34b7de727b9" : {
+      "english" : "Indiegogo 2013 campaign\\nMore than 1000 donators (!), including:",
+      "translation" : ""
+   },
+   "5f38e392d6312011bea3c217bb2b7a11" : {
+      "english" : "Catafalque Overview",
+      "translation" : ""
+   },
+   "5f43a50fbeadcef9a63d36a1ec0a0b22" : {
+      "english" : "You have been kicked.",
+      "translation" : ""
+   },
+   "5f476f671f597d5e705567392d126c3c" : {
+      "english" : "Gatherable by Fishing Boats after the whale is killed.",
+      "translation" : ""
+   },
+   "5f6287d3ba858f4d552719938ef4ee2f" : {
+      "english" : "No tooltip available.",
+      "translation" : ""
+   },
+   "5f6e493e3adc7a4640cf2985dc8f5b6f" : {
+      "english" : "FREEHAND POSITION",
+      "translation" : ""
+   },
+   "5f9e8abaa1ef4695d19cca8267541591" : {
+      "english" : "TERRITORY DECAY",
+      "translation" : ""
+   },
+   "5fa08527512b9f5c232e1309f8939735" : {
+      "english" : "Show a chat notification if you or an ally have started, aborted or completed a new phase, and phases of all players in observer mode.",
+      "translation" : ""
+   },
+   "5fa4b3a154fc9f21845df952099cf46d" : {
+      "english" : "Scroll forwards or rotate up.",
+      "translation" : ""
+   },
+   "6034f416ce16febe667d40492b7e55ad" : {
+      "english" : "Unload unit type",
+      "translation" : ""
+   },
+   "605669cab962bf944d99ce89cf9e58d9" : {
+      "english" : "Health",
+      "translation" : "Живот"
+   },
+   "60a84cd3a77fd3a49547129d4f7292c6" : {
+      "english" : "Special structures of the Hellenic civilizations to increase the size of your territory while you control it.",
+      "translation" : ""
+   },
+   "60e3ace45c9aac6086068af92bf80c1d" : {
+      "english" : "%(damage)s %(damageType)s %(resistancePercentage)s",
+      "translation" : ""
+   },
+   "60e79b5840809684754f54461f4c7dc0" : {
+      "english" : "%(damage)s %(damageType)s",
+      "translation" : "%(damage)s %(damageType)s"
+   },
+   "61077d468c2cd1f5aaba1a3d95d61074" : {
+      "english" : "Contrast adaptive sharpening, a fast, contrast based sharpening pass.",
+      "translation" : ""
+   },
+   "61a4e4e2c7c405842865ce51c9811467" : {
+      "english" : "Graphics (general)",
+      "translation" : ""
+   },
+   "62543b5008bfa4973d31448a18fb2215" : {
+      "english" : "Cut down from trees or groves.",
+      "translation" : ""
+   },
+   "62ab2d2af6f9d5027fed2914e0ac9c50" : {
+      "english" : "Display only specific names for entities.",
+      "translation" : ""
+   },
+   "62efb9ec331e364b96efe68c8b03ca20" : {
+      "english" : "Worker",
+      "translation" : "радник"
+   },
+   "62f3042f9b87cf361475b9210bf38c09" : {
+      "english" : "HEROES",
+      "translation" : ""
+   },
+   "63908374b1ba8d091979232b7d174b66" : {
+      "english" : "Programming managers",
+      "translation" : ""
+   },
+   "63b5ac0ab9aa7e1fb533466b763a0803" : {
+      "english" : "Units gain experience while garrisoned inside the building.",
+      "translation" : ""
+   },
+   "63bdad7bd2517d0ef04e305ded6ead4f" : {
+      "english" : "High-quality water effects",
+      "translation" : ""
+   },
+   "63e7b22ec32cecd3a696fc40cda3be16" : {
+      "english" : "Loot:",
+      "translation" : "Плен:"
+   },
+   "63edc1511c833ca7eb3f78455125e711" : {
+      "english" : "Toggle diplomacy colors.",
+      "translation" : ""
+   },
+   "645f4aa8e6f35a98457e0d6e698b3d93" : {
+      "english" : "Tin whistles",
+      "translation" : ""
+   },
+   "64663f4646781c9c0110838b905daa23" : {
+      "english" : "Random",
+      "translation" : "Насумично"
+   },
+   "648f76e97a3b81c6570372fb7a5f2d3a" : {
+      "english" : "%(durName)s: %(duration)s",
+      "translation" : ""
+   },
+   "64d4488c9bce3de98a9a4145edd19984" : {
+      "english" : "Force move",
+      "translation" : ""
+   },
+   "64f32220f957a337e38e670de613b936" : {
+      "english" : "Always show the remaining ceasefire time.",
+      "translation" : ""
+   },
+   "64fafff747cb17e5be815bd8123b67bc" : {
+      "english" : "Map Making",
+      "translation" : "Прављење Мапа"
+   },
+   "650f34eb38f10bea8f7f4327d9d302a0" : {
+      "english" : "Enable settings panel slide",
+      "translation" : ""
+   },
+   "6529ac10957a522a09d74c4387d18c40" : {
+      "english" : "Increase camera scroll speed.",
+      "translation" : ""
+   },
+   "652a50daf136c002c2ca8f7c8f952469" : {
+      "english" : "Roam around the oceans of the game and flee when attacked.",
+      "translation" : ""
+   },
+   "6539932ea17112b2f168e7171fe3c919" : {
+      "english" : "%(playerName)s",
+      "translation" : "%(playerName)s"
+   },
+   "653f9efb815e5aeb1ef9ca4f12414f7b" : {
+      "english" : "May conflict with: ",
+      "translation" : ""
+   },
+   "65445bab21488f0a0a7d901ec269124b" : {
+      "english" : "+ ",
+      "translation" : ""
+   },
+   "6545115020ba75241d0e86b22460dcdd" : {
+      "english" : "Focus on last attack notification",
+      "translation" : ""
+   },
+   "655d20c1ca69519ca647684edbb2db35" : {
+      "english" : "High",
+      "translation" : "Високо"
+   },
+   "6582cd15efda888ff97d2190db28235f" : {
+      "english" : "Catafalque Bonuses",
+      "translation" : ""
+   },
+   "6588b5d438cb5ca36aec99fe8083c486" : {
+      "english" : "A cheap dropsite for non-food resources (Wood, Stone, Metal).",
+      "translation" : ""
+   },
+   "65a8abf48dc472b4425881df22dcff84" : {
+      "english" : "Increase zoom speed",
+      "translation" : ""
+   },
+   "65c12e40666b2e8a95cb8c67458af886" : {
+      "english" : "Victorious",
+      "translation" : "Победник"
+   },
+   "661743fe651d0844cad9ef3aa87d6046" : {
+      "english" : "Train all citizen soldiers. Some civilizations can unlock the training of champions as well.",
+      "translation" : ""
+   },
+   "66322d6a3db9caada57d67b77933353f" : {
+      "english" : "Players: %(numberOfPlayers)s",
+      "translation" : ""
+   },
+   "66ba162102bbf6ae31b522aec561735e" : {
+      "english" : "Single",
+      "translation" : ""
+   },
+   "66c58125a4acc6bb96e94e2a473112e4" : {
+      "english" : "Wounded unit health",
+      "translation" : ""
+   },
+   "66d02c2f8a582446f8dd8752366002b5" : {
+      "english" : "Succeeded",
+      "translation" : ""
+   },
+   "66d749f7078cba759cd00567da261790" : {
+      "english" : "%(resources)s / %(time)s",
+      "translation" : "%(resources)s / %(time)s"
+   },
+   "66ef6e7fc750f83661bbe43fe0bf55c7" : {
+      "english" : "Trains cavalry units and lets you research cavalry specific technologies.",
+      "translation" : ""
+   },
+   "671c629f859bd417a265908b269d569c" : {
+      "english" : "Celtic harp",
+      "translation" : ""
+   },
+   "67530e39e16ca49d14f6fdc78aa59839" : {
+      "english" : "Modifier to execute this order, then go back to the current order.",
+      "translation" : ""
+   },
+   "6794e7b16f55b952b04e118ec3a7cc78" : {
+      "english" : "Loot",
+      "translation" : "Плен"
+   },
+   "67bedd010aa3b6bd0a21588aaee49668" : {
+      "english" : "You have been defeated…",
+      "translation" : ""
+   },
+   "67c1630ba573558f0027cd3e6680e1be" : {
+      "english" : "Camera-related hotkeys.",
+      "translation" : ""
+   },
+   "67f812c922dc98beb3d6037f4581d466" : {
+      "english" : "Show detailed tooltips for trainable units in unit-producing structures.",
+      "translation" : ""
+   },
+   "6812ec2a29067fa90e60b442d2335c55" : {
+      "english" : "Enable scrolling by moving the mouse.",
+      "translation" : ""
+   },
+   "686014ec7d0936f80d5db17a173ecd9b" : {
+      "english" : "Show the Welcome Screen again. Useful if you hid it by mistake.",
+      "translation" : ""
+   },
+   "688b113f739a629dfebe1ed96602712d" : {
+      "english" : "%(label)s %(costs)s",
+      "translation" : ""
+   },
+   "689202409e48743b914713f96d93947c" : {
+      "english" : "Value",
+      "translation" : "Вредност"
+   },
+   "68b8ec874033bda93f526a1cd2429286" : {
+      "english" : "Modifier to patrol a unit.",
+      "translation" : ""
+   },
+   "69029de23d212699963fd00f3a5d8b04" : {
+      "english" : "Toggle product/company watermark for official screenshots.",
+      "translation" : ""
+   },
+   "690bf775621be0086de9bc786ec5de72" : {
+      "english" : "SNAPPING",
+      "translation" : ""
+   },
+   "69691c7bdcc3ce6d5d8a1361f22d04ac" : {
+      "english" : "M",
+      "translation" : ""
+   },
+   "69780f2b803aa0ccc02b121af7602639" : {
+      "english" : "Increase scroll speed",
+      "translation" : ""
+   },
+   "69afa6e3d8ea6e3868e6d82bd57f8892" : {
+      "english" : "Select military only",
+      "translation" : ""
+   },
+   "69d917a1d7e6bfffceb6a1b213fd45b5" : {
+      "english" : "Change game options.",
+      "translation" : ""
+   },
+   "69edde90a1c38b2efccc65419fc0e540" : {
+      "english" : "Cost:",
+      "translation" : ""
+   },
+   "69fe0ea4ff54cd2d381b1a8eb64ab9ef" : {
+      "english" : "Toggle chat",
+      "translation" : ""
+   },
+   "6a4669940856c96f44950f98f41e7e82" : {
+      "english" : "If one player wins, his or her allies win too. If one group of allies remains, they win.",
+      "translation" : "Ако играч победи, побеђују и његови савезници. Ако једна група савезника преостане, они побеђују."
+   },
+   "6a932d898f2413df0db48f60e388044e" : {
+      "english" : "Load Campaign",
+      "translation" : ""
+   },
+   "6a95cdcab9096ec80bb75dc4dab5d578" : {
+      "english" : "%(hotkey)s: Switch to Civilization Overview.",
+      "translation" : ""
+   },
+   "6adf97f83acf6453d4a6a4b1070f3754" : {
+      "english" : "None",
+      "translation" : "Ништа"
+   },
+   "6ae5dceb3a6dbc97252466229cdd1396" : {
+      "english" : "Walls:  %(costs)s",
+      "translation" : "Зидине:  %(costs)s"
+   },
+   "6b30e7a6231d762b8e75e1e7cd31a5b5" : {
+      "english" : "Garrison Limit",
+      "translation" : "Огра"
+   },
+   "6b4572cd68702f41c5aad06add0aa4d7" : {
+      "english" : "Decrease scroll speed",
+      "translation" : ""
+   },
+   "6b4e4b5893d2c62171b8f3d0c3dcba4c" : {
+      "english" : "Decide whether formations are enabled for all orders or only 'Walk' and 'Patrol'.",
+      "translation" : ""
+   },
+   "6b884d2bd7c096d769be7511b8fdc676" : {
+      "english" : "Previous tab",
+      "translation" : ""
+   },
+   "6ba9bf7e9586f190db768089477406cc" : {
+      "english" : "Toggle ceasefire counter.",
+      "translation" : ""
+   },
+   "6bc026c45bb00009da0d8e9e0cf7b9e9" : {
+      "english" : "Real water depth",
+      "translation" : ""
+   },
+   "6c31cb012f34ddd90a6126a71be2c811" : {
+      "english" : "%(health_min)s to %(health_max)s",
+      "translation" : ""
+   },
+   "6c546b3e379802cd38a17bc5b9bac66f" : {
+      "english" : "Decent hack attack make them good front line troops.",
+      "translation" : ""
+   },
+   "6c889e0d8a3fbfb368e1461ba9f5b309" : {
+      "english" : "%(amount)s %(name)s",
+      "translation" : ""
+   },
+   "6d1ff9d9f38c64865e6f21b65f0a04b4" : {
+      "english" : "Game Options",
+      "translation" : "Подешавања игре"
+   },
+   "6d4b8e401487fceba73cc05c85994d00" : {
+      "english" : "Resource Statistics (%(gathered)s / %(used)s)",
+      "translation" : "Статистике ресурса (%(gathered)s / %(used)s)"
+   },
+   "6d9ee90dee302b56dc908a2a03a3abc8" : {
+      "english" : "Show current system time in top right corner.",
+      "translation" : ""
+   },
+   "6dd1a5f3d4ab17036b2996b9b6df07df" : {
+      "english" : "SAVANNA BIOME",
+      "translation" : "САВАНА"
+   },
+   "6de8d169cb8d4316c8949c9be6c3e245" : {
+      "english" : "Set the cursor to Flare while this hotkey is pressed.",
+      "translation" : ""
+   },
+   "6df20653275ffcfa47243b5433be378c" : {
+      "english" : "Good for transporting or fighting.",
+      "translation" : ""
+   },
+   "6dfc91953224294242a0eab598c0cfda" : {
+      "english" : "Queue 2nd unit",
+      "translation" : ""
+   },
+   "6e4dd7ce4ea3c1d4a90edb289e22da98" : {
+      "english" : "Wood",
+      "translation" : "дрво"
+   },
+   "6e71267b28c455d72ecdd2b0badc8147" : {
+      "english" : "Set Control Group 7",
+      "translation" : ""
+   },
+   "6e8dbba673fa836e08301921445bd3b4" : {
+      "english" : "Rated game",
+      "translation" : "Оцењена игра"
+   },
+   "6e9390afddf01e01805ee59261c8f678" : {
+      "english" : "Zoom out (step-by-step)",
+      "translation" : ""
+   },
+   "6ec1ca09b92270eba215c10f2a3ace97" : {
+      "english" : "Population Limit",
+      "translation" : "Ограничење популације"
+   },
+   "6ec7e636a4802bfc6387fa18beb2f2c9" : {
+      "english" : "Min: %(min)s",
+      "translation" : "Минимум: %(min)s"
+   },
+   "6ee032ed0c9edb8e62f82c93de53656a" : {
+      "english" : "Decide whether units can be part of multiple control groups.",
+      "translation" : ""
+   },
+   "6f004f7952c08de394d5fdef20f19670" : {
+      "english" : "#%i",
+      "translation" : ""
+   },
+   "6f1216d21540cd6ae1cf52ff1d4f4759" : {
+      "english" : "Rebuild Cache",
+      "translation" : ""
+   },
+   "6f1bf85c9ebb3c7fa26251e1e335e032" : {
+      "english" : "Terms",
+      "translation" : ""
+   },
+   "6f593c68e046ada3527d7a286030fad0" : {
+      "english" : "Change the hotkeys and close",
+      "translation" : ""
+   },
+   "6f6cb72d544962fa333e2e34ce64f719" : {
+      "english" : "Size",
+      "translation" : "Величина"
+   },
+   "6fb388f5a8afa8fa9e7841b7d256a1fc" : {
+      "english" : "Click to open the 0 A.D. translate page in your browser.",
+      "translation" : ""
+   },
+   "6fdbe9399ef5cffde84a25624d349270" : {
+      "english" : "Learn to Play",
+      "translation" : "Наичи да играш"
+   },
+   "6fdefcffd9285f89cb97af86c8814465" : {
+      "english" : "Arrange your soldiers in formations to keep them organized during battles.",
+      "translation" : ""
+   },
+   "7021410a6f0d807c29e9e949f683c85d" : {
+      "english" : "Number of units trained per batch by default.",
+      "translation" : ""
+   },
+   "70476268e1e046f4ee7a0fba6f9410b6" : {
+      "english" : "Water refraction",
+      "translation" : ""
+   },
+   "70661040cc65eccdabf395d5ae76d30d" : {
+      "english" : "Total score",
+      "translation" : ""
+   },
+   "70716484a08da791a1829c484f9fc67a" : {
+      "english" : "Tributes \\n(%(sent)s / %(received)s)",
+      "translation" : "Данак\\n(%(sent)s / %(received)s)"
+   },
+   "70874f8ad860125514c5707a8bab71d9" : {
+      "english" : "If you disable it, the welcome screen will still appear once, each time a new version is available. You can always launch it from the main menu.",
+      "translation" : ""
+   },
+   "70a358eb99b07c9ede671a32c1f967a8" : {
+      "english" : "Scroll/Rotate left",
+      "translation" : ""
+   },
+   "70c7f5b014c7266902bded07edcc0d73" : {
+      "english" : "Additional music, percussion, djembe, sampling",
+      "translation" : ""
+   },
+   "70d13e9c534470f9bb3110e22c3074a8" : {
+      "english" : "Allied View",
+      "translation" : ""
+   },
+   "70d9be9b139893aa6c69b5e77e614311" : {
+      "english" : "Confirm",
+      "translation" : "Потврди"
+   },
+   "7114971e848e651b08f8e40c8ad450bc" : {
+      "english" : "Color of your units when diplomacy colors are enabled.",
+      "translation" : ""
+   },
+   "711cf9861ab9ad7111a7b55c9cbbc334" : {
+      "english" : "Load the latest quicksaved game. Does nothing if no quicksaves exist.",
+      "translation" : ""
+   },
+   "71e4d540db21d7abfccfde9b9d9f403f" : {
+      "english" : "New structures are aligned with nearby structures unless the hotkey is pressed.",
+      "translation" : ""
+   },
+   "71ebbb6b313ca0e0a31da50f95eea3c6" : {
+      "english" : "Force attack",
+      "translation" : ""
+   },
+   "720f320118ef801896c26e75bc04a360" : {
+      "english" : "Replay Games",
+      "translation" : ""
+   },
+   "7223e90f65f61f2ad1e004a0d291675e" : {
+      "english" : "Toggle in-game tutorial panel.",
+      "translation" : ""
+   },
+   "723a49d4b321dec15374a4560b650986" : {
+      "english" : "Help improve 0 A.D.!",
+      "translation" : "Помози да се 0 A.D. унапреди!"
+   },
+   "7249b087a9171225f4d916d2522a1b87" : {
+      "english" : "Flare (toggle)",
+      "translation" : ""
+   },
+   "7272f1e57b93b5da2ddfa6b7c91771d0" : {
+      "english" : "WAR DOG",
+      "translation" : ""
+   },
+   "727797446e278071c7db4cd82e866a70" : {
+      "english" : "No saved games found.",
+      "translation" : ""
+   },
+   "7280578e6a45fd916ed9431425289c9e" : {
+      "english" : "Latin",
+      "translation" : ""
+   },
+   "72879702f8aca238b4373a3f571dfedc" : {
+      "english" : "Select Control Group 6",
+      "translation" : ""
+   },
+   "72a1e62456743057f9572655cf159a71" : {
+      "english" : "Bad connection to server (%(milliseconds)sms)",
+      "translation" : "Лоша конекција на сервер (%(milliseconds)sms)"
+   },
+   "72fd57cacb416002f919865bf570143a" : {
+      "english" : "Health:",
+      "translation" : "Живот:"
+   },
+   "733368e3b93bc30ada5a0d37c2f56828" : {
+      "english" : "%(dateString)s %(map)s",
+      "translation" : "%(dateString)s %(map)s"
+   },
+   "737bfc38b37916102a883060f4f09a3a" : {
+      "english" : "The decay process can be slowed down or reversed by garrisoning some units in the structure.",
+      "translation" : ""
+   },
+   "737ecc85a90fbd849a056e67e41e32d9" : {
+      "english" : "Display the range of auras of selected units and structures. (It can also be toggled with the hotkey during a game).",
+      "translation" : ""
+   },
+   "73bbb4ff8c713dc537d4dc271a55a55b" : {
+      "english" : "Focus on rallypoint",
+      "translation" : ""
+   },
+   "73f278152999dec8847c842d5ec02ab7" : {
+      "english" : "Chat notification tribute",
+      "translation" : ""
+   },
+   "73fe968817f1934cecd36bc42f91145f" : {
+      "english" : "World Population Cap",
+      "translation" : "Ограничење светског становништва"
+   },
+   "749288faee97eea9b6de78f4259a0e91" : {
+      "english" : "%(label)s %(details)s",
+      "translation" : "%(label)s %(details)s"
+   },
+   "749a5090bcaf244803b021a75f6cce8f" : {
+      "english" : "You can automatically send us feedback that can help us fix bugs, and improve performance and compatibility.",
+      "translation" : ""
+   },
+   "74c71dd27dc607915953dd3487b036f3" : {
+      "english" : "Action volume",
+      "translation" : ""
+   },
+   "74f70b596e3c0b82653c34b712896e7a" : {
+      "english" : "%(attackLabel)s: %(effects)s, %(range)s, %(rate)s%(statusEffects)s%(splash)s",
+      "translation" : ""
+   },
+   "750dc5fd6c72408fbd7657a4b8eda55a" : {
+      "english" : "Default difficulty of the AI.",
+      "translation" : ""
+   },
+   "75676e806c92e2c05193b8f9ba00a9ad" : {
+      "english" : "Civ centers",
+      "translation" : "Грађанских центара"
+   },
+   "75845e0fb80cdd6f170cce622403a028" : {
+      "english" : "Garrison ships inside to slowly repair them.",
+      "translation" : ""
+   },
+   "75954a3c6f2ea54cb9dff249b6b5e8e6" : {
+      "english" : "Range:",
+      "translation" : "Домет:"
+   },
+   "75ba88646b1e458b4b66a63911ffc4bf" : {
+      "english" : "Feminization",
+      "translation" : "Феминизација"
+   },
+   "75d901fd4affdd2e476528ee1e56765d" : {
+      "english" : "Team total",
+      "translation" : "Тим укупно"
+   },
+   "75f3badd341eab950ea97faed6fd38cf" : {
+      "english" : "If you want to help with art, sound, gameplay or programming, make sure to join our official forum.",
+      "translation" : ""
+   },
+   "7628e92518308524b1d1b608d3468cf3" : {
+      "english" : "Built by:",
+      "translation" : ""
+   },
+   "763acead66dc9b65f7a196925ad56c43" : {
+      "english" : "Map control (finish)",
+      "translation" : ""
+   },
+   "7645497ddbb60771f1a88661a28bd424" : {
+      "english" : "Add fivth unit type to queue.",
+      "translation" : ""
+   },
+   "76be1220118ad41f3629c3c54812bdff" : {
+      "english" : "Model quality",
+      "translation" : ""
+   },
+   "76d9c49b7dec652f22016c59aab713c9" : {
+      "english" : "Map Overview",
+      "translation" : ""
+   },
+   "76e2d4532560b6d19a54b5a86dd520a0" : {
+      "english" : "%(playerName)s (%(civ)s, %(state)s)",
+      "translation" : "%(playerName)s (%(civ)s, %(state)s)"
+   },
+   "7795a529a602ae89bcc77c0118f783de" : {
+      "english" : "Hotkey to enable snapping",
+      "translation" : ""
+   },
+   "77cd452440d0abc7a1aff4ca4430b747" : {
+      "english" : "[imgleft=\\\"constructionIcon\\\"]This game is still in development. You may encounter bugs, and some features are not as fleshed out as we would like.",
+      "translation" : ""
+   },
+   "7808383704f9b0c8cc6b236d56521ce8" : {
+      "english" : "Co-Lead Designers",
+      "translation" : ""
+   },
+   "785bb55badf9a0a5732dd7359d232a8f" : {
+      "english" : "Include offscreen",
+      "translation" : ""
+   },
+   "78ba49cae0debcec7944c0b9d4bb68b0" : {
+      "english" : "Train citizens: female citizens, infantry citizen-soldiers, and cavalry citizen-soldiers.",
+      "translation" : ""
+   },
+   "7966627bde0ccc3de451e49092070cee" : {
+      "english" : "Provide you with a resource boost, so keep an eye out for them as you explore.",
+      "translation" : ""
+   },
+   "797aa0bab16d8fe22d369277bfd45534" : {
+      "english" : "Model appearance randomization",
+      "translation" : ""
+   },
+   "79840aaa22a39cc2efc73f886b8e33f3" : {
+      "english" : "Players joining the match will be assigned if there is a free slot.",
+      "translation" : ""
+   },
+   "79f79dc41d15a49670755e553ddcfd0d" : {
+      "english" : "Take PNG screenshot.",
+      "translation" : ""
+   },
+   "7a1018106482207010a16e63c2392168" : {
+      "english" : "(%(resistancePercentage)s)",
+      "translation" : ""
+   },
+   "7a16a854f32231a8df9326136b09ee62" : {
+      "english" : "Walk",
+      "translation" : "Ходање"
+   },
+   "7a181b4428dd025fd05eb8d4c3ac91a4" : {
+      "english" : "Add Control Group 4",
+      "translation" : ""
+   },
+   "7a1920d61156abc05a60135aefe8bc67" : {
+      "english" : "Default",
+      "translation" : "Подразумевано"
+   },
+   "7a4765bde982c9c622816dcaab410b00" : {
+      "english" : "Treasures",
+      "translation" : ""
+   },
+   "7a76605affb10175953d116badf33f6e" : {
+      "english" : "Enable fog.",
+      "translation" : ""
+   },
+   "7a81e662035a6b4be3703d290264f61a" : {
+      "english" : "Resistance:",
+      "translation" : ""
+   },
+   "7b1c89713ac1e90c1a2bac1fef4bb705" : {
+      "english" : "Rotate camera clockwise around terrain - the effect depends on FPS.",
+      "translation" : ""
+   },
+   "7b3d022c78f876cf439865ace227b38a" : {
+      "english" : "Reduce aliasing effect on edges.",
+      "translation" : ""
+   },
+   "7b63d1cafe15e5edab88a8e81de794b5" : {
+      "english" : "won",
+      "translation" : "победа"
+   },
+   "7b91156d64b76a5dda815937fce9119d" : {
+      "english" : "Zoom in",
+      "translation" : ""
+   },
+   "7c0e5cba40ec02cfc231fd06abc839a9" : {
+      "english" : "Select Control Group 5",
+      "translation" : ""
+   },
+   "7c2131ec78876ce749c2dadd24d47065" : {
+      "english" : "Limited",
+      "translation" : ""
+   },
+   "7c5a9d94cf11379b6d1194e97ed69962" : {
+      "english" : "Toggle display of aura range overlays of selected units and structures.",
+      "translation" : ""
+   },
+   "7ca085e9bab85978c78d6231f150dc05" : {
+      "english" : "%(hotkey)s: Close Civilization Overview.",
+      "translation" : ""
+   },
+   "7cbe6051e0deb865678c20c15cf18a5d" : {
+      "english" : "%(amount)s %(resourceType)s",
+      "translation" : "%(amount)s %(resourceType)s"
+   },
+   "7d145614fe499a8dc3dae1091b86297b" : {
+      "english" : "Victory:",
+      "translation" : "Победа:"
+   },
+   "7d26da20cf0c373280232531c07d1cca" : {
+      "english" : "Select Control Group 4",
+      "translation" : ""
+   },
+   "7d2957dfd3b888fc4087f60c3c650953" : {
+      "english" : "Military",
+      "translation" : "Војска"
+   },
+   "7d3637658c43cd30c2abeb6e0b413f8f" : {
+      "english" : "%(primaryName)s (%(secondaryName)s)",
+      "translation" : ""
+   },
+   "7d7be5b419120b568116d18b504175c9" : {
+      "english" : "Toggle in-game objectives page.",
+      "translation" : ""
+   },
+   "7db32a15129586de5a212251b9ad8747" : {
+      "english" : "Collectible chests and bare resources on land and shipwrecks on the shore.",
+      "translation" : ""
+   },
+   "7e2776ca78630907e5bd51239c56f650" : {
+      "english" : "Modifier to unload all units of type.",
+      "translation" : ""
+   },
+   "7e86b036c23f9a7df08bff9baeaf98ad" : {
+      "english" : "Siege",
+      "translation" : "Опсада"
+   },
+   "7ee0ceabd1065b20af67175859951588" : {
+      "english" : "Group by team",
+      "translation" : ""
+   },
+   "7f8c0283f16925caed8e632086b81b9c" : {
+      "english" : "Sent",
+      "translation" : "Послато"
+   },
+   "7f8dac8711c89084d639800b9706e4ee" : {
+      "english" : "Alpha XXVI: Z——",
+      "translation" : ""
+   },
+   "7f943921724d63dc0ac9c6febf99fa88" : {
+      "english" : "Easy",
+      "translation" : "Лако"
+   },
+   "7fc1de6f33242c7e3876678d861c30d2" : {
+      "english" : "Available to Britons, Gauls, and Iberians.",
+      "translation" : ""
+   },
+   "7fc592cfcac9c45ed90de01677337844" : {
+      "english" : "CARTHAGINIAN NAVAL SHIPYARD",
+      "translation" : ""
+   },
+   "8032c149d0e48ad38ef6b60289f910cd" : {
+      "english" : "Persian",
+      "translation" : ""
+   },
+   "803fbda75ba6f90011497e1e256fb8c1" : {
+      "english" : "Capture points:",
+      "translation" : ""
+   },
+   "807a31f55f9264ad46e370da5cbad110" : {
+      "english" : "SPARTIATES",
+      "translation" : "СПАРТИЈАТИ"
+   },
+   "80f8800ff829fd471d100bcbbce168c4" : {
+      "english" : "Toggle structure tree",
+      "translation" : ""
+   },
+   "8125bc24b3ce506c7a8bffb26969b767" : {
+      "english" : "MAP FLARE",
+      "translation" : ""
+   },
+   "814225cef3a138c09df09af1b75154e6" : {
+      "english" : "Reset all hotkeys to default values?\\nWARNING: this cannot be reversed.",
+      "translation" : ""
+   },
+   "814e20407673748e357aa268babb1f95" : {
+      "english" : "Requires %(technology)s",
+      "translation" : "Захтева %(technology)s"
+   },
+   "8174f8dd8cddf553d15c1e7ae2b04fe5" : {
+      "english" : "Keywords (unused):",
+      "translation" : "Кључне речи (неискоришћене):"
+   },
+   "81a9ec50a45a82b9df1749ff34b4de19" : {
+      "english" : "Change the current selection to control group 8.",
+      "translation" : ""
+   },
+   "8203218d332072baa559fa3b963a24bf" : {
+      "english" : "Player name (single-player)",
+      "translation" : ""
+   },
+   "8203428383b27fa1354dff2f6be44dfd" : {
+      "english" : "Start Replay",
+      "translation" : ""
+   },
+   "822634a0115489dfd957f9eb4213d01d" : {
+      "english" : "Error: Server failed to allocate a unique client identifier.",
+      "translation" : ""
+   },
+   "829457748a02c1c7d83e460d38f4870b" : {
+      "english" : "Default AI difficulty",
+      "translation" : ""
+   },
+   "82b2648855c3a55a0d7379d08027a560" : {
+      "english" : "Use actual water depth in rendering calculations.",
+      "translation" : ""
+   },
+   "82c601fe1d96abc7c03698fcd7bded24" : {
+      "english" : "Graphics (advanced)",
+      "translation" : ""
+   },
+   "831e141e8d371244317dce8cbde7c6c3" : {
+      "english" : "%(projectileString)s / %(attackRateString)s",
+      "translation" : ""
+   },
+   "832b66ebcbdc220ac5be479c8b9d36e9" : {
+      "english" : "Set Control Group 0",
+      "translation" : ""
+   },
+   "834230169687fc16d123382997d28e1b" : {
+      "english" : "Modifier to queue unit orders instead of replacing.",
+      "translation" : ""
+   },
+   "839d7e27e18768bdefcddfaf345824f2" : {
+      "english" : "Jump to camera 1",
+      "translation" : ""
+   },
+   "83b50a4341b96a50906a7de788589d5e" : {
+      "english" : "Change the current selection to control group 7.",
+      "translation" : ""
+   },
+   "83d89d60bc9a05a5196b22ce3cfb7674" : {
+      "english" : "Start 0 A.D. in a window.",
+      "translation" : ""
+   },
+   "83e63048124e278921e409f22699f0fd" : {
+      "english" : "Close/Cancel",
+      "translation" : ""
+   },
+   "8412aab7c26d72a26e9e0b9fbf5ba25c" : {
+      "english" : "Treasures collected",
+      "translation" : "сакупљена блага"
+   },
+   "84294bb9f215b10daf23df58b5411070" : {
+      "english" : "Un-select all units and cancel building placement.",
+      "translation" : ""
+   },
+   "842b86436fe5be863e97baa1974ffd51" : {
+      "english" : "Transports up to 50 units.",
+      "translation" : ""
+   },
+   "8439615a0d07970cf90df44ad5a714ad" : {
+      "english" : "Right-click an icon to set the default formation: units that are ordered to walk or patrol will automatically use it.",
+      "translation" : ""
+   },
+   "849f0c60c047608606319bff30363576" : {
+      "english" : "%(playerName)s (%(civ)s, %(AIdescription)s, %(state)s)",
+      "translation" : ""
+   },
+   "84a54d7d4813d52beb44c517118e47e4" : {
+      "english" : "Open map browser",
+      "translation" : ""
+   },
+   "85013019100cd48fa1958c050dde660b" : {
+      "english" : "Quickload",
+      "translation" : ""
+   },
+   "854004dff32749e7a55597f6a62c1666" : {
+      "english" : "Donors",
+      "translation" : ""
+   },
+   "85474185abf541c4c436cd95cc4c29e5" : {
+      "english" : "OVERWRITE SAVE",
+      "translation" : ""
+   },
+   "85713099cd36e143a90390ae32821797" : {
+      "english" : "MSAA (8×)",
+      "translation" : ""
+   },
+   "85b9ccbfd1628037abfa0f9f8b3a9c4d" : {
+      "english" : "Set camera jump position 3.",
+      "translation" : ""
+   },
+   "860856bc499c432f6cc7d35ba6242b2e" : {
+      "english" : "Map Size",
+      "translation" : "Величина Мапе"
+   },
+   "86357a9b0f4bd75cce57287f25a0c80e" : {
+      "english" : "Close or cancel the current dialog box/popup.",
+      "translation" : ""
+   },
+   "863f85da79609d5592006c1877167a26" : {
+      "english" : "Change the current selection to control group 0.",
+      "translation" : ""
+   },
+   "8645178ae001f35497b159c869fcc252" : {
+      "english" : "Enable/disable real-time profiler.",
+      "translation" : ""
+   },
+   "867a2f23a79e6f07e592515da955a9ad" : {
+      "english" : "More specific rendering settings.",
+      "translation" : ""
+   },
+   "869cb1481fdffd0336396cb962219536" : {
+      "english" : "The small pyramids improve the gathering rate of the workers around them.",
+      "translation" : ""
+   },
+   "86fd1fc315495df8b8015537f47b6d3c" : {
+      "english" : "Use a real water refraction map and not transparency.",
+      "translation" : ""
+   },
+   "8752003828935d68324e5a1e70f29ea7" : {
+      "english" : "The large pyramids increase the military capabilities of soldiers around them.",
+      "translation" : ""
+   },
+   "875562e45994d9a42bcee65b7bc9ac3b" : {
+      "english" : "Press %(hotkey)s to autocomplete player names.",
+      "translation" : ""
+   },
+   "87806d16cc25870410f022161f68ec8a" : {
+      "english" : "Shows the game time elapsed since the game started.",
+      "translation" : ""
+   },
+   "87f8a6ab85c9ced3702b4ea641ad4bb5" : {
+      "english" : "Medium",
+      "translation" : "Средње"
+   },
+   "8815f09af546bbfaa3f8f9f1644c29bd" : {
+      "english" : "Additional music",
+      "translation" : "Додатна музика"
+   },
+   "88183b946cc5f0e8c96b2e66e1c74a7e" : {
+      "english" : "Unknown",
+      "translation" : "Непознато"
+   },
+   "882163f2c2bf704dd0864dd7529b74bd" : {
+      "english" : "Constructed",
+      "translation" : "Направљено"
+   },
+   "8855346ad5d721abf266a8ea367c2f2e" : {
+      "english" : "Blocks %(name)s",
+      "translation" : ""
+   },
+   "886d0d7e14e28ac4de5da88375070c75" : {
+      "english" : "These settings only affect the multiplayer.",
+      "translation" : ""
+   },
+   "8881d8b9c2efb6028968c11d95d85296" : {
+      "english" : " (hold to register)",
+      "translation" : ""
+   },
+   "889c5c2f79ad19acdfd0c225c3cbecf7" : {
+      "english" : "The hotkeys will not be modified",
+      "translation" : ""
+   },
+   "88d6556e8e01e6c4cc015344f3396b7e" : {
+      "english" : "Player name in use. If you were disconnected, retry in few seconds.",
+      "translation" : ""
+   },
+   "88e6e4641a1cd7b7e48e33433215e262" : {
+      "english" : "Add Control Group 3 to the current selection.",
+      "translation" : ""
+   },
+   "8915e08ed836450153bf38b44b2daa08" : {
+      "english" : "Saved game will be permanently overwritten, are you sure?",
+      "translation" : ""
+   },
+   "89463e4ca3f23da1e2123cde7769e837" : {
+      "english" : "Research structure for all factions.",
+      "translation" : ""
+   },
+   "898775029ed93c758e85a4b78ad69d60" : {
+      "english" : "Toggle heal ranges",
+      "translation" : ""
+   },
+   "899e83692606e711b715d44e177dfe8d" : {
+      "english" : "Watch Replay",
+      "translation" : ""
+   },
+   "8a1d2c4d3425e3cfdcfa715fda094e7f" : {
+      "english" : "This savegame needs an older version of 0 A.D.",
+      "translation" : ""
+   },
+   "8a33159fdad323c1fdabd90d8ef3526d" : {
+      "english" : "Enable shadows.",
+      "translation" : ""
+   },
+   "8b91e452cc9667a311043ebe79c2892d" : {
+      "english" : "Unload garrisoned units when a building/mechanical unit is selected.",
+      "translation" : ""
+   },
+   "8c104ef68169a2ce19169f94e16ad4ad" : {
+      "english" : "The unit will go back to work.",
+      "translation" : ""
+   },
+   "8c313aaa746fcc1f31f92d1f58f7c4ae" : {
+      "english" : "Rotate up",
+      "translation" : ""
+   },
+   "8c360a2f25d41143a0d1b78856e05bb4" : {
+      "english" : "Allied Victory",
+      "translation" : "Савезничка победа"
+   },
+   "8c4a6897e2e8911da37611e40cc00221" : {
+      "english" : "IBERIAN FIRESHIP",
+      "translation" : ""
+   },
+   "8c4b2aff9769efb15c79168b371ce0e8" : {
+      "english" : "Slow, but high-quality antialiasing, uses sixteen samples per pixel. Supported for GL3.3+.",
+      "translation" : ""
+   },
+   "8c6c244a52160227e97e5bebb04b7907" : {
+      "english" : "Unload turreted units.",
+      "translation" : ""
+   },
+   "8c6e3ade80b205a631a98f4474fae02e" : {
+      "english" : "Pack up into carts for movement, and unpack into stationary engines for attack!",
+      "translation" : ""
+   },
+   "8ce332198b5c9c880ce5a136e2e1ca64" : {
+      "english" : "Toggle FPS counter",
+      "translation" : ""
+   },
+   "8ce4b16b22b58894aa86c421e8759df3" : {
+      "english" : "k",
+      "translation" : ""
+   },
+   "8ce672d6ca58f0d564a52949571aa6e8" : {
+      "english" : "Players joining the match will only be assigned if they are a buddy of the host and if there is a free slot.",
+      "translation" : ""
+   },
+   "8d0530be25de6981ce5b53c64e6fcac6" : {
+      "english" : "yyyy-MM-dd HH:mm",
+      "translation" : "yyyy-MM-dd HH:mm"
+   },
+   "8d35db13863e53238639022c660cf1cf" : {
+      "english" : "Blocks: %(blockPercentage)s%%, Duration reduction: %(durationReduction)s%%",
+      "translation" : ""
+   },
+   "8d97843c71090dbd6fae28e6fc432115" : {
+      "english" : "Water reflections",
+      "translation" : ""
+   },
+   "8db21ee66d0ed1f6d24ce1b9c4274d4c" : {
+      "english" : "Hotkey",
+      "translation" : ""
+   },
+   "8dbdc28fa032d0c8515705814420fd39" : {
+      "english" : "2000 Food.",
+      "translation" : ""
+   },
+   "8dc42710ae7e3e706e1fa086ce40d708" : {
+      "english" : "Pause/unpause game.",
+      "translation" : ""
+   },
+   "8e556fc8fe88d77d7a181bc9d80ced79" : {
+      "english" : "Rotate clockwise",
+      "translation" : ""
+   },
+   "8e9d66c663cfb4826d5a7f5a0b0d4354" : {
+      "english" : "Enable Feedback",
+      "translation" : ""
+   },
+   "8e9f20f8e8ebfaf75642d03fda38f6b1" : {
+      "english" : "Add units to selection.",
+      "translation" : ""
+   },
+   "8ed04b68dddf4ee5e6b1bc61c59f95cb" : {
+      "english" : "A map with a predefined landscape and matchsettings.",
+      "translation" : ""
+   },
+   "8f9bbf5c7f3772f89978af3c2df60890" : {
+      "english" : "Add Control Group 1",
+      "translation" : ""
+   },
+   "8fbc73007cbeddad59c54919ea1febc1" : {
+      "english" : "Chock full of herd animals for plentiful hunting.",
+      "translation" : ""
+   },
+   "8fe883cd0791819c57516d753ecc26a2" : {
+      "english" : "Show current simulation time in top right corner.",
+      "translation" : ""
+   },
+   "901a7320e77e54c4794bd577399eb0a6" : {
+      "english" : "Multiplayer",
+      "translation" : "Игра за више играча"
+   },
+   "902b0d55fddef6f8d651fe1035b7d4bd" : {
+      "english" : "Error",
+      "translation" : "Грешка"
+   },
+   "9055b27d1f6ac3646c5a839d31134140" : {
+      "english" : "Very High",
+      "translation" : "Веома Високо"
+   },
+   "905c36f0cdefa05643de24dfe2950f6c" : {
+      "english" : "Special structures allowing you to hire mercenaries for your army.",
+      "translation" : ""
+   },
+   "906defde58bacce014bbeed7bd14b891" : {
+      "english" : "Usually the strongest structure of a civilization and the place where you can train Heroes.",
+      "translation" : ""
+   },
+   "90827b985181e47984ced297d75d63ab" : {
+      "english" : "Max: %(max)s",
+      "translation" : "Максимум: %(max)s"
+   },
+   "908d45ed85d710e493808d123002d537" : {
+      "english" : "Strong watchtowers, which help you defend your position.",
+      "translation" : ""
+   },
+   "90b09881dec2b5f230edc027d092be4c" : {
+      "english" : "OUTPOSTS",
+      "translation" : ""
+   },
+   "9164905f53ca1ead97b367a01528f829" : {
+      "english" : "%(stackability)s",
+      "translation" : ""
+   },
+   "9175e0763c0f680321c79accb7f15159" : {
+      "english" : "Game time overlay",
+      "translation" : ""
+   },
+   "91e19d5052f08f0295c317c0124d3b3f" : {
+      "english" : "Toggle display of status bars.",
+      "translation" : ""
+   },
+   "922a9b370c7c1e6e018d67fcef6af93e" : {
+      "english" : "Persist match settings",
+      "translation" : ""
+   },
+   "923f1290d5b3c0c6eff4547d29a8ed58" : {
+      "english" : "Adjust hotkeys.",
+      "translation" : ""
+   },
+   "927b2de219473708ca446fa52dcb0e4d" : {
+      "english" : "%(label)s: %(garrisonLimit)s",
+      "translation" : "%(label)s: %(garrisonLimit)s"
+   },
+   "928b3be15df2c0b3fdc4eb1e9397967f" : {
+      "english" : "Do not ask confirmation when deleting a building/unit.",
+      "translation" : ""
+   },
+   "9293bdc3b0a1ccf66e86fb06f73d75a6" : {
+      "english" : "Resource Supply:",
+      "translation" : ""
+   },
+   "92fbfddfc10a61db133548ce55bd684f" : {
+      "english" : "Failed to connect to the server.",
+      "translation" : "Неуспешно повезивање на сервер."
+   },
+   "93371456d59da21b765a0384d923ea75" : {
+      "english" : "Cavalry",
+      "translation" : "коњица"
+   },
+   "9349ada99a085ef4d5db72c5aca374bc" : {
+      "english" : "Welcome Screen",
+      "translation" : "Екран добродошлице"
+   },
+   "936a09d0a3bebbd0569a662511aca2d1" : {
+      "english" : "RESOURCE COUNTER",
+      "translation" : ""
+   },
+   "93b269df0a4ddf35209e2ec0104c5646" : {
+      "english" : "Use higher-quality effects for water, rendering coastal waves, shore foam, and ships trails.",
+      "translation" : ""
+   },
+   "93cad7855213e697d066bbb97876b41a" : {
+      "english" : "Ceasefire",
+      "translation" : "Примирје"
+   },
+   "93cba07454f06a4a960172bbd6e2a435" : {
+      "english" : "Yes",
+      "translation" : "Да"
+   },
+   "93ec972c68d5caca43370a9746a08cea" : {
+      "english" : "Players",
+      "translation" : "Играчи"
+   },
+   "948a2e3548aaf7f9941a3192fa607d51" : {
+      "english" : "Credits",
+      "translation" : ""
+   },
+   "94a8ad84b335148537c699cdf73af99a" : {
+      "english" : "Add Control Group 1 to the current selection.",
+      "translation" : ""
+   },
+   "94bc91c89466121e75784cb74ea9ac6d" : {
+      "english" : "Number of repairers:",
+      "translation" : ""
+   },
+   "94bd368bc46362bce5a8de0bda92bc23" : {
+      "english" : "Build in neutral or own territory.",
+      "translation" : ""
+   },
+   "94c0c98dbb9dbe09ad30dd8854d7deb1" : {
+      "english" : "(extends)",
+      "translation" : ""
+   },
+   "94c2c1c58b9bd6e9f1bfa3813964cf32" : {
+      "english" : "Show the average rating of the participating players in a column of the gamelist.",
+      "translation" : ""
+   },
+   "9570511ac7b8f2d2049116696a9ec1df" : {
+      "english" : "%(min)s - %(max)s min",
+      "translation" : "%(min)s - %(max)s најмање"
+   },
+   "95e5af0f7121848d5bec290965ee93e1" : {
+      "english" : "Toggle current display of computer time.",
+      "translation" : ""
+   },
+   "95f29a7265ee86cd7d32d4bcf123d925" : {
+      "english" : "Reset Camera",
+      "translation" : ""
+   },
+   "960b44c579bc2f6818d2daaf9e4c16f0" : {
+      "english" : "Normal",
+      "translation" : "нормална"
+   },
+   "9624e95330a43d2e4a759ced5c1b7ce6" : {
+      "english" : "DEFENSE TOWERS",
+      "translation" : "ОДБРАНДБЕНЕ КУЛЕ"
+   },
+   "9626167a19c4682005e8a8eb9da0d571" : {
+      "english" : "Toggle in-game summary.",
+      "translation" : ""
+   },
+   "9632df5caa74301b45b6e1bbfe495072" : {
+      "english" : "Lost connection to the server.",
+      "translation" : "Изгубљена је веза са сервером"
+   },
+   "967d35e40f3f95b1f538bd248640bf3b" : {
+      "english" : "Camera",
+      "translation" : ""
+   },
+   "968517d22714ca2d600a6c476c313367" : {
+      "english" : "Friendly Fire: %(enabled)s",
+      "translation" : "Пријатељска ватра: %(enabled)s"
+   },
+   "96b0141273eabab320119c467cdcaf17" : {
+      "english" : "Total",
+      "translation" : "Укупно"
+   },
+   "9743e5a4d6cacb923b427631a826bc4c" : {
+      "english" : "Can be built in friendly and neutral territory.",
+      "translation" : ""
+   },
+   "978d7d6bde930f0fa9615627a15b2fc1" : {
+      "english" : "Art",
+      "translation" : "Уметност"
+   },
+   "97dadeeb07adc0690d9800838ad7b9d1" : {
+      "english" : "Save current selection as Control Group 1.",
+      "translation" : ""
+   },
+   "987779bcae3b298272cbd46c47b9eaf3" : {
+      "english" : "Open/close console.",
+      "translation" : ""
+   },
+   "9890d37e9443cd07a931f88f94798541" : {
+      "english" : "Projectile Limit",
+      "translation" : ""
+   },
+   "98921133d10fbdb0fb6dbb7b2648befe" : {
+      "english" : "Head",
+      "translation" : ""
+   },
+   "98b06ef30caa386be0f897d0e5c5a135" : {
+      "english" : "VSync",
+      "translation" : "VSync"
+   },
+   "98d981ab708a99163aa9f69263ff8cb5" : {
+      "english" : "Open the Atlas Scenario Editor in a new window. You can run this more reliably by starting the game with the command-line argument \\\"-editor\\\".",
+      "translation" : "Отворите едитор атлас сценарија у новом прозору. Поузданији начин покретања едитора је додавањем аргумента \\\"-editor\\\" у командну линију."
+   },
+   "98dfe74908e64c6a3fb0fd396287a9c7" : {
+      "english" : "Add second unit type to queue.",
+      "translation" : ""
+   },
+   "98e73efc76a0170d0e1eb0296ef5573b" : {
+      "english" : "Start, load, or replay a single-player game.",
+      "translation" : ""
+   },
+   "99239b782798a7b2483467e4794cfac3" : {
+      "english" : "Tributes",
+      "translation" : ""
+   },
+   "99640104d929cb8c31279dfea66cdbe2" : {
+      "english" : "Players:",
+      "translation" : "Играча:"
+   },
+   "9973c0861c1decbc6c0fa938d64d480d" : {
+      "english" : "As defined by the map.",
+      "translation" : ""
+   },
+   "997753eb487694ee029dddbbdc9e8acc" : {
+      "english" : "Joining an existing multiplayer game.",
+      "translation" : "Придруживање постојећој игри за више играча."
+   },
+   "99900ef401754680b4a3f7e1f738dcd1" : {
+      "english" : "Zoom camera in.",
+      "translation" : ""
+   },
+   "99a4e56c74ee22da0e4ee89304163ba0" : {
+      "english" : "To save CPU workload, throttle render frequency in running games. Set to maximum to disable throttling.",
+      "translation" : ""
+   },
+   "99aabfb4f95245910695486e8fdb21d4" : {
+      "english" : "Use citizen-soldiers and female citizens to gather resources.",
+      "translation" : ""
+   },
+   "99dfe2678d7d13f87ee39b78c7338927" : {
+      "english" : "In game ambient sound gain.",
+      "translation" : ""
+   },
+   "9a28d2b1e39490b39fe16ae24e67e1b1" : {
+      "english" : "Shader effects",
+      "translation" : ""
+   },
+   "9a3297a0e7ee265ed9648bd136ff0e89" : {
+      "english" : "Add only military units to the selection.",
+      "translation" : ""
+   },
+   "9a588db8471730dbfebac65cd5467ad8" : {
+      "english" : "Filtering",
+      "translation" : ""
+   },
+   "9a7bc6495f1918a4bcfed8b7fcb9beec" : {
+      "english" : "Only one player can win the game. If the remaining players are allies, the game continues until only one remains.",
+      "translation" : "Само један може победити. Ако су преостали играчи савезници, игра се наставља све док не преостане само један."
+   },
+   "9a843f20677a52ca79af903123147af0" : {
+      "english" : "Welcome!",
+      "translation" : "Добродошли!"
+   },
+   "9b101116c13a6c4b75f53552f6edcda5" : {
+      "english" : "Use the Spearmen as heavy infantry against cavalry. Use the Cavalry as heavy shock against siege weapons and skirmishers.",
+      "translation" : ""
+   },
+   "9b1b47f6485754c937d7df179c8623d5" : {
+      "english" : "Display the attack range of selected defensive structures. (It can also be toggled with the hotkey during a game).",
+      "translation" : ""
+   },
+   "9b29a7156da94f7ec47a20a8e2527205" : {
+      "english" : "STOREHOUSES",
+      "translation" : "СКЛАДИШТА"
+   },
+   "9b6545e4cea9b4ad4979d41bb9170e2b" : {
+      "english" : "Advanced",
+      "translation" : "Напредан"
+   },
+   "9b7fef82679936e22d117f553511c0ec" : {
+      "english" : "Didgeridoo",
+      "translation" : ""
+   },
+   "9c235733d6a55462f9b5b1e01cf28108" : {
+      "english" : "Big screenshot",
+      "translation" : ""
+   },
+   "9c529a9d70ea2b493c0065e552e71025" : {
+      "english" : "upload failed (%(errorMessage)s)",
+      "translation" : ""
+   },
+   "9c9d9d52d7a3b207b4b08de042ca417d" : {
+      "english" : "Garrison wounded units inside for quicker healing.",
+      "translation" : ""
+   },
+   "9cb615e3ae03bc834c795a68edc29689" : {
+      "english" : "Add seventh unit type to queue.",
+      "translation" : ""
+   },
+   "9d07e0e08af7f96cf45be0112b9ccfbe" : {
+      "english" : "Sound",
+      "translation" : "Звук"
+   },
+   "9d21f2f376d604bba76016eef9878ad3" : {
+      "english" : "Other orders will disband existing formations.",
+      "translation" : ""
+   },
+   "9d5d79f8414cbb2cc0d530c1f4b3a6bd" : {
+      "english" : "Toggle guarding highlight",
+      "translation" : ""
+   },
+   "9dbddb48e79793d127f9858cc8b7f53a" : {
+      "english" : "Time elapsed",
+      "translation" : ""
+   },
+   "9dbe59623e6ba1ebfbfc2d890823142f" : {
+      "english" : "Focus the camera on the rally point of the selected building.",
+      "translation" : ""
+   },
+   "9dc18cdd11b4973ecee8ea9d4ed30b63" : {
+      "english" : "Reward:",
+      "translation" : ""
+   },
+   "9dc89e41160c525b4200fe9ac3452aae" : {
+      "english" : "Show outlines of units behind structures.",
+      "translation" : ""
+   },
+   "9e6d84a0a0066cea771bfcd820422a45" : {
+      "english" : "Continue Campaign",
+      "translation" : ""
+   },
+   "9e8869f7d77584bf9ffcd13629349f22" : {
+      "english" : "Other Hotkeys",
+      "translation" : ""
+   },
+   "9e88de1ff342d956ffd2d7a831209d84" : {
+      "english" : "How you want to be addressed in multiplayer matches (except lobby).",
+      "translation" : ""
+   },
+   "9ed277a4502951e5a74732463c6710e9" : {
+      "english" : "Economy score",
+      "translation" : ""
+   },
+   "9f6b7b88d03c78ac97973e07c8e657bc" : {
+      "english" : "No winner will be determined, even if everyone is defeated.",
+      "translation" : ""
+   },
+   "9f75452921af0033334512428e29900e" : {
+      "english" : "Rate:",
+      "translation" : ""
+   },
+   "9f90cc93190f90702836af5b558ba89e" : {
+      "english" : "• %(name)s %(info_icon)s%(description)s",
+      "translation" : ""
+   },
+   "9fd66658c6051721fb5c4453baeb7322" : {
+      "english" : "Set trade to 100%",
+      "translation" : ""
+   },
+   "a0199cf7be7b241ffef10af0aef3efab" : {
+      "english" : "Hotkeys",
+      "translation" : ""
+   },
+   "a0595ce88bd2fd553c6a3fed90f94039" : {
+      "english" : "All maps except naval and demo maps.",
+      "translation" : "Све мапе осим морских и демо мапа."
+   },
+   "a07f7588275e6b286450c54c3fb5bc92" : {
+      "english" : "No override",
+      "translation" : ""
+   },
+   "a0bf169f2539e893e00d7b1296bc4d8e" : {
+      "english" : "Multiple",
+      "translation" : ""
+   },
+   "a0bfb8e59e6c13fc8d990781f77694fe" : {
+      "english" : "Continue",
+      "translation" : "настави"
+   },
+   "a10311459433adf322f2590a4987c423" : {
+      "english" : "enabled",
+      "translation" : "омогући"
+   },
+   "a1615f2d0d61fb6c22f4f37da334f78d" : {
+      "english" : "Save current selection as Control Group 4.",
+      "translation" : ""
+   },
+   "a1855cb812bf6d345678aea978847588" : {
+      "english" : "Replays",
+      "translation" : ""
+   },
+   "a19129f7209c9ba0626e2f1ad8abb9a8" : {
+      "english" : "DEFAULT FORMATION",
+      "translation" : ""
+   },
+   "a1a1303d12ce2b1b0fc6bd3f9aeaf3b9" : {
+      "english" : "Value: %(val)s (min: %(min)s, max: %(max)s)",
+      "translation" : "Вредност: %(val)s (минимум: %(min)s, максимум: %(max)s)"
+   },
+   "a1c09d6540370e24698c03dc63ba1f99" : {
+      "english" : "Rotate camera to look downwards.",
+      "translation" : ""
+   },
+   "a1cb6955b74a5e292836d3607c5eab82" : {
+      "english" : "Do not use sharpening.",
+      "translation" : ""
+   },
+   "a1f2c53d00e0b154cb2adbb01b61ad02" : {
+      "english" : "Modifier to move to a point instead of another action (e.g. gather).",
+      "translation" : ""
+   },
+   "a1fa27779242b4902f7ae3bdd5c6d508" : {
+      "english" : "Type",
+      "translation" : "Тип"
+   },
+   "a28776866ea763f2d7c8a54ee9a0fd80" : {
+      "english" : "Upkeep:",
+      "translation" : ""
+   },
+   "a2a64dc9886a9a4fc8d58654c9c40215" : {
+      "english" : "Project Leaders",
+      "translation" : ""
+   },
+   "a328f1ba5a0bd13ec9eb45cc145aad13" : {
+      "english" : "EMBASSIES AND MERCENARY CAMPS",
+      "translation" : ""
+   },
+   "a340218aa612d7e4d3d549e202ad1d81" : {
+      "english" : "Jump to camera 3",
+      "translation" : ""
+   },
+   "a3597e3857dee396d85f09227c46a685" : {
+      "english" : "Show rank icons above status bars.",
+      "translation" : ""
+   },
+   "a35fa8dabe13447f2b1321516a19c8f3" : {
+      "english" : "Balancing",
+      "translation" : ""
+   },
+   "a3c32caf29f32995fd06bd3e75ea72d5" : {
+      "english" : "%(label)s: %(effects)s",
+      "translation" : ""
+   },
+   "a41002444bfc53a7562328c5a727e9eb" : {
+      "english" : "Assign players",
+      "translation" : ""
+   },
+   "a4383a2a5df1151ccae3878fd690a93d" : {
+      "english" : "%(captureLabel)s %(current)s / %(max)s",
+      "translation" : ""
+   },
+   "a43e10aa2f6b9ea9ad36fcc8b78f4f32" : {
+      "english" : "Add Control Group 9 to the current selection.",
+      "translation" : ""
+   },
+   "a464df3dbe3a1a792b755bacad09af57" : {
+      "english" : "Random Map Scripts",
+      "translation" : ""
+   },
+   "a51cdcf09c6c515f199df9c655cafc3f" : {
+      "english" : "%(label)s %(speeds)s",
+      "translation" : "%(label)s %(speeds)s"
+   },
+   "a537cf78de96913e8c206a23eefd39e2" : {
+      "english" : "Select next idle warrior.",
+      "translation" : ""
+   },
+   "a59227b74bb8955b068dbb6989e1a8b9" : {
+      "english" : "Toggle wireframe mode",
+      "translation" : ""
+   },
+   "a5d7fbfa7aec3ee1cba3146b383b30fc" : {
+      "english" : "Research weapon and armor upgrades for your units.",
+      "translation" : ""
+   },
+   "a612782072a3b8f151c5e2120ef20efd" : {
+      "english" : "Copy to clipboard",
+      "translation" : ""
+   },
+   "a61bbf7ad0ed153cb6c84fe3c8a9f2bb" : {
+      "english" : "Matches",
+      "translation" : "Мечеви"
+   },
+   "a68e3fe676dad7a426f0002b27f6e977" : {
+      "english" : "Sharpness factor",
+      "translation" : ""
+   },
+   "a6d13bc089b319403d3f0d9af404489f" : {
+      "english" : "Map control (peak)",
+      "translation" : ""
+   },
+   "a6dc628573b84945542f0c3967068b96" : {
+      "english" : "Increase camera zoom speed.",
+      "translation" : ""
+   },
+   "a6e3fbba4ab6671c378c2b8eb87cce25" : {
+      "english" : "Specific names first",
+      "translation" : ""
+   },
+   "a6f84824179100c9322bdc88593e24e5" : {
+      "english" : "Number of times you have to scroll to increase/decrease the batchsize by 1.",
+      "translation" : ""
+   },
+   "a6ff29db0c274b35229560d26f2cb2e8" : {
+      "english" : "Switch between null default formation and the last default formation used (defaults to 'box').",
+      "translation" : ""
+   },
+   "a81976275a7aad5af445a4c565717b09" : {
+      "english" : "%(startingResourcesTitle)s (%(amount)s)",
+      "translation" : "%(startingResourcesTitle)s (%(amount)s)"
+   },
+   "a81f9d1fa402914e16a32013dbb4a767" : {
+      "english" : "Add Control Group 8",
+      "translation" : ""
+   },
+   "a82be0f551b8708bc08eb33cd9ded0cf" : {
+      "english" : "Information",
+      "translation" : "Информације"
+   },
+   "a83d04350da8cfc49f4a7d18b14bcf6e" : {
+      "english" : "Choose the language of the game.",
+      "translation" : "Одабери језик игре."
+   },
+   "a86d5c75db86d1230739e9115c9e7107" : {
+      "english" : "0 A.D. Credits",
+      "translation" : ""
+   },
+   "a8733968ca11cd9ad7965f88244b507d" : {
+      "english" : "Change the current selection to control group 2.",
+      "translation" : ""
+   },
+   "a87b443b17923ba849ea6fa057e9ba49" : {
+      "english" : "Toggle watermark",
+      "translation" : ""
+   },
+   "a893c7afdf05dddd736e993c71668ffc" : {
+      "english" : "Toggle aura ranges",
+      "translation" : ""
+   },
+   "a8f51c01c58d0bd7a5996fad0e67d778" : {
+      "english" : "Loading Aborted",
+      "translation" : "Учитавање обустављено"
+   },
+   "a90b025b84816ed3dd903b53c7526d33" : {
+      "english" : "Click to open the 0 A.D. IRC chat in your browser (#0ad on webchat.quakenet.org). It is run by volunteers who do all sorts of tasks, it may take a while to get your question answered. Alternatively, you can use the forum (see Website).",
+      "translation" : ""
+   },
+   "a92d01752ff76f75d3085d42bd9de96d" : {
+      "english" : "Chat notification attack",
+      "translation" : ""
+   },
+   "a93941b742eeaa73dc2e89576e7ef563" : {
+      "english" : "Current Scores",
+      "translation" : "Тренутни Резултати"
+   },
+   "a975c6eb10d82e40d77b71b669a2faf2" : {
+      "english" : "Select Control Group 3",
+      "translation" : ""
+   },
+   "a9c753ca9f3e6a9416c8a85fb613fb80" : {
+      "english" : "You have won the battle!",
+      "translation" : "Победио си!"
+   },
+   "a9f8197efa6359c8afe15b460318ffa5" : {
+      "english" : "Napatan",
+      "translation" : ""
+   },
+   "aa12497aa17256ed76a2d450ad19b508" : {
+      "english" : "Experience status bar",
+      "translation" : ""
+   },
+   "aa2d30a2e5057b7eaf5bb9bc36a9fc8e" : {
+      "english" : "Add Control Group 7",
+      "translation" : ""
+   },
+   "aa35bb36b72fadd05c54f2de820b95a8" : {
+      "english" : "Entities will all look the same.",
+      "translation" : ""
+   },
+   "aa9ebfd80da9bf23f763a63c052a452a" : {
+      "english" : "FXAA",
+      "translation" : ""
+   },
+   "aac0b62e8cbcc857efc70d2c4ca8fad1" : {
+      "english" : "Togge attack ranges",
+      "translation" : ""
+   },
+   "aac4746a7373138e42097a3e7df9b599" : {
+      "english" : "Toggle in-game barter/trade page.",
+      "translation" : ""
+   },
+   "abd546f3915666475dfbf9240140659c" : {
+      "english" : "Toggle unit silhouettes",
+      "translation" : ""
+   },
+   "ac1e1d64559c9aa51b29a2e473232d71" : {
+      "english" : "Toggle display of heal range overlays of selected units.",
+      "translation" : ""
+   },
+   "ac22db92ce64cac87261c914fbd1342a" : {
+      "english" : "FPS: %(fps)4s",
+      "translation" : "FPS: %(fps)4s"
+   },
+   "ac4ddc4aec8677dee6267369f44a8b29" : {
+      "english" : "(replaces)",
+      "translation" : ""
+   },
+   "ac5bb077c33753116b5e91ff1766e7bc" : {
+      "english" : "Received",
+      "translation" : "Примио"
+   },
+   "ac8e996aaffad66ca3449f34702a13be" : {
+      "english" : "And thanks to the entire community for making 0 A.D. possible.",
+      "translation" : ""
+   },
+   "acc374686955fcaa7e3d11fde876ec2d" : {
+      "english" : "uploading (%f%%)",
+      "translation" : "слање података (%f%%)"
+   },
+   "accc89f7864a9703eb163f64f5a7732d" : {
+      "english" : "Special structures available for the Kushites.",
+      "translation" : ""
+   },
+   "acdb802bfc2b99b15d1782570285c427" : {
+      "english" : "Value:",
+      "translation" : "Вредност:"
+   },
+   "ad0758b3464113f3af88cbc4c81bd527" : {
+      "english" : "Map Type",
+      "translation" : "Врста мапе"
+   },
+   "ad4aa221c22fd934ecd55e34457ffc3b" : {
+      "english" : "Particles",
+      "translation" : "Честице"
+   },
+   "ad6923b87de19e5d02c4f8608b7efb90" : {
+      "english" : "Scroll backwards or rotate down.",
+      "translation" : ""
+   },
+   "ad767d27e4d7d9ca5b03a06665f2a1eb" : {
+      "english" : "Mass tribute",
+      "translation" : ""
+   },
+   "ad79fff18e8c735069789304cd9372cf" : {
+      "english" : "Special thanks to",
+      "translation" : ""
+   },
+   "ad921d60486366258809553a3db49a4a" : {
+      "english" : "unknown",
+      "translation" : "непознато"
+   },
+   "adbafcb2887e23ae69efca5026b81037" : {
+      "english" : "Follow Unit",
+      "translation" : ""
+   },
+   "adef66961910a8e52da2bd038d5eb694" : {
+      "english" : "Game has already started, no observers allowed.",
+      "translation" : ""
+   },
+   "ae0d366dcedf729e0fb97c49debf7441" : {
+      "english" : "Compare the bonuses of catafalques featured in 0 A.D.",
+      "translation" : ""
+   },
+   "ae11d3ee071e72953c90b02bff1a19cb" : {
+      "english" : "Unload",
+      "translation" : ""
+   },
+   "ae2379f0d044ab65a2d171cce533bb4e" : {
+      "english" : "Thank you for helping improve 0 A.D.!",
+      "translation" : "Хвала ти на помоћи у унапређивању 0 A.D.!"
+   },
+   "ae26637d8a6bd924858d98aa5e08d46d" : {
+      "english" : "Increase rotation speed",
+      "translation" : ""
+   },
+   "aefbd0597f1bc2493bbc18898243513b" : {
+      "english" : "Destroyed",
+      "translation" : "Уништено"
+   },
+   "af13039994e13b1f05abd32edfd963be" : {
+      "english" : "Set Control Group 5",
+      "translation" : ""
+   },
+   "af229d066233c0e3a25e6a9abece04b0" : {
+      "english" : "Has low health, but is fast and will fearlessly attack enemies.",
+      "translation" : ""
+   },
+   "af51fdf94adbb4b6fe4f1275b07df10d" : {
+      "english" : "Maps",
+      "translation" : ""
+   },
+   "af75d6f6bd7289d5d1d0a2823dc9c2e5" : {
+      "english" : "Available to: Kushites, Macedonians, Ptolemies, and Seleucids.",
+      "translation" : ""
+   },
+   "af8336024f98a00c6a5f6fcfade062dc" : {
+      "english" : "%(speed)s %(movementType)s",
+      "translation" : "%(speed)s %(movementType)s"
+   },
+   "afa0cedd83f41e144e9cc27152356e57" : {
+      "english" : "Change the current selection to control group 5.",
+      "translation" : ""
+   },
+   "afb4cf4e62d7a4117fa4014296b1c2b3" : {
+      "english" : "Modifier to deselect units when clicking group icon, instead of selecting.",
+      "translation" : ""
+   },
+   "afb9f1f66a2d8e7360821b96d85e8050" : {
+      "english" : "%(resourceIcon)s %(reward)s",
+      "translation" : ""
+   },
+   "afe7d175c716253ddf6b6baf261a2086" : {
+      "english" : "Decrease rotation speed",
+      "translation" : ""
+   },
+   "aff4752584bd9c2ff2124f72ca7b1f37" : {
+      "english" : "Change the current selection to control group 4.",
+      "translation" : ""
+   },
+   "b03b365a89bde52e69cb01deb1055292" : {
+      "english" : "%(civilization)s Gameplay",
+      "translation" : "%(civilization)s Игра"
+   },
+   "b0470bca14352d358abda88b5445fc0f" : {
+      "english" : "Can transport up to 40 units.",
+      "translation" : ""
+   },
+   "b054d2d6d14f064e5f60481424cffc8a" : {
+      "english" : "Include offscreen units in selection.",
+      "translation" : ""
+   },
+   "b0b3de68195cc0d3431e11d17a53b5d0" : {
+      "english" : "Move cursor to start of word to the left of cursor.",
+      "translation" : ""
+   },
+   "b0f9dd9b948726675a1ebf7722d9833f" : {
+      "english" : "Display specific names before generic names.",
+      "translation" : ""
+   },
+   "b10941d111277de9a0f516e7da431165" : {
+      "english" : "%(name)s %(details)s",
+      "translation" : ""
+   },
+   "b10b96459c410e1a12e73dda4ae8ae24" : {
+      "english" : "Display the healing range of selected units. (It can also be toggled with the hotkey during a game).",
+      "translation" : ""
+   },
+   "b137eb564cfe578a398e40f95adf3472" : {
+      "english" : "Toggle team chat",
+      "translation" : ""
+   },
+   "b151a618393429f0c8bab3389397c4a0" : {
+      "english" : "Add Control Group 5",
+      "translation" : ""
+   },
+   "b1719f35e2a311e7a4a2386aecc182de" : {
+      "english" : "Female citizens gather vegetable resources faster.",
+      "translation" : ""
+   },
+   "b2296bb31d0101416a1d256eae394fae" : {
+      "english" : "Average quality and average performance.",
+      "translation" : ""
+   },
+   "b22f0418e8ac915eb66f829d262d14a2" : {
+      "english" : "Audio",
+      "translation" : ""
+   },
+   "b2569b3d9ee0906425f588a7910bbd9a" : {
+      "english" : "Delete word to the left of cursor.",
+      "translation" : ""
+   },
+   "b2b0919dca50598372d19a17072cad48" : {
+      "english" : "Livestock bred",
+      "translation" : ""
+   },
+   "b2ce21ea3da2bab6d0c52b51f1303d82" : {
+      "english" : "Used against cavalry for an attack bonus.",
+      "translation" : ""
+   },
+   "b2d1f29c0e8afc9fd246154de341540a" : {
+      "english" : "%(playerName)s (OFFLINE, %(state)s)",
+      "translation" : "%(playerName)s (OFFLINE, %(state)s)"
+   },
+   "b33dbf44ff6043b9de552b709502c530" : {
+      "english" : "Select only idle units.",
+      "translation" : ""
+   },
+   "b36f62e8f50e7dde9b6841b7e9d89b1c" : {
+      "english" : "This savegame needs a different sequence of mods:",
+      "translation" : ""
+   },
+   "b375805576eebafec951b76f97ea3889" : {
+      "english" : "Could not find the STUN endpoint.",
+      "translation" : ""
+   },
+   "b3ab2a97886002cd7d9398c5eb49e3bb" : {
+      "english" : "Scroll batch increment ratio",
+      "translation" : ""
+   },
+   "b40d00f554245c11048f35814d30fa93" : {
+      "english" : "Decrease camera scroll speed.",
+      "translation" : ""
+   },
+   "b43898a9a8c63c1e66cae04fb88f9771" : {
+      "english" : "%(userDesc)s - %(templateName)s",
+      "translation" : ""
+   },
+   "b4d235c4bbc0bf3be332826e059aa891" : {
+      "english" : "Game Lobby",
+      "translation" : ""
+   },
+   "b4ec4391f83bc621745ab5120a1af4c6" : {
+      "english" : "Set camera jump 3",
+      "translation" : ""
+   },
+   "b50116ffecc72fae05a67cf372635618" : {
+      "english" : "Queue order",
+      "translation" : ""
+   },
+   "b525cd1fee91e5891dfd8b67f171d26c" : {
+      "english" : "Save current selection as Control Group 0.",
+      "translation" : ""
+   },
+   "b53e03fd80bb1571516cd34e73475e86" : {
+      "english" : "%(previousAmounts)s and %(lastAmount)s",
+      "translation" : "%(previousAmounts)s и %(lastAmount)s"
+   },
+   "b575c8fa527cc8649e4a69b38f72685d" : {
+      "english" : "Report a Bug",
+      "translation" : "Пријави грешку у игри"
+   },
+   "b578b733cbb788fc6ad208314d2c4c2b" : {
+      "english" : "Lost",
+      "translation" : "Изгубљено"
+   },
+   "b5a7adde1af5c87d7fd797b6245c2a39" : {
+      "english" : "Description",
+      "translation" : "Опис"
+   },
+   "b5ce3b425ae01722b7c1dadd1d6eeb17" : {
+      "english" : "Upgradable to:",
+      "translation" : ""
+   },
+   "b5d770487760de2b8d04e26d55ebad68" : {
+      "english" : "Modifier to align new structures with nearby existing structure.",
+      "translation" : ""
+   },
+   "b5ee38d0225ad0052e36223b8c213aa2" : {
+      "english" : "Scroll or rotate left.",
+      "translation" : ""
+   },
+   "b62f72ceb59e45e236742365138397e8" : {
+      "english" : "%(statusName)s: %(statusInfo)s %(stackability)s",
+      "translation" : ""
+   },
+   "b63148f54c8e3d3cfd0603baae351208" : {
+      "english" : "∞",
+      "translation" : ""
+   },
+   "b6a734d8dadabf42b13d300baa39aa99" : {
+      "english" : "Queue 4th unit",
+      "translation" : ""
+   },
+   "b6ddc7c592eeafcf8d96ab3f76598202" : {
+      "english" : "Demo Maps",
+      "translation" : "Демо мапа"
+   },
+   "b6f9ca9ff853420e2d1da9ded72238fd" : {
+      "english" : "Heal:",
+      "translation" : "Лечење:"
+   },
+   "b7a2f00196f43a56b7725197842b41d1" : {
+      "english" : "Click to set the hotkey",
+      "translation" : ""
+   },
+   "b819ec44633002430318e44abf54d8f8" : {
+      "english" : "Used against cavalry or against other melee infantry to pin them in place.",
+      "translation" : ""
+   },
+   "b848c37056ef5a9631a79b344b80ed88" : {
+      "english" : "Sound Manager",
+      "translation" : ""
+   },
+   "b8786828a1c422c20e2ce788075a732a" : {
+      "english" : "Captured",
+      "translation" : "Освојено"
+   },
+   "b8c1e52609c8d79371c7818e49679ff7" : {
+      "english" : "Entities will be less diverse.",
+      "translation" : ""
+   },
+   "b8fcf58f8dd755e682e6dc1482bc58bd" : {
+      "english" : "[imgleft=\\\"iconMap\\\"]0 A.D. is Free Software: you can participate in its development.",
+      "translation" : ""
+   },
+   "b9a9d5466e6c22bdbfeefbc0aebbb428" : {
+      "english" : "Call to arms",
+      "translation" : ""
+   },
+   "b9ea61e0b9585fcc306ccd0064b8485f" : {
+      "english" : "Click to open play0ad.com in your web browser.",
+      "translation" : "Изабери да отвориш сајт play0ad.com у твом веб претраживачу."
+   },
+   "b9f15d4ddcca4e7e9b87a1558482d9a4" : {
+      "english" : "Incorrect network protocol version.",
+      "translation" : ""
+   },
+   "b9f5c797ebbf55adccdd8539a65a0241" : {
+      "english" : "Disabled",
+      "translation" : "Онемогућено"
+   },
+   "ba20c7e6e89bcd83f2555fc5f0b0d637" : {
+      "english" : "Nick notification",
+      "translation" : ""
+   },
+   "ba43dac240b75d98dddc21b58b11b86e" : {
+      "english" : "Host a multiplayer game.",
+      "translation" : ""
+   },
+   "ba96d96fb742df60bd651766652703b6" : {
+      "english" : "These maps are not playable but for demonstration purposes only.",
+      "translation" : "Ове мапе не могу да се играју,имају само сврху демонстрације."
+   },
+   "bafd7322c6e97d25b6299b5d6fe8920b" : {
+      "english" : "No",
+      "translation" : "Не"
+   },
+   "bafec9b9264e946ff2d0cce258bad2ec" : {
+      "english" : "Game time elapsed: %(time)s",
+      "translation" : "Протекло време у игри: %(time)s"
+   },
+   "bb60f04dd5dfa93d253c942b637bb657" : {
+      "english" : "Change options regarding the in-game settings.",
+      "translation" : ""
+   },
+   "bb6a6b7a724396c850761ef0ec4609e0" : {
+      "english" : "Select Control Group 7",
+      "translation" : ""
+   },
+   "bbafd755fe88d23bf7f6741c504b41d1" : {
+      "english" : "No summary data available.",
+      "translation" : "Сумарни подаци нису доступни."
+   },
+   "bbb4273dbdf36f45fb153b884b560847" : {
+      "english" : "Research healing technologies.",
+      "translation" : ""
+   },
+   "bc6a0cafe6ac6b35aa46be5c5b0d32fd" : {
+      "english" : "Stop the current action.",
+      "translation" : ""
+   },
+   "bcadfef745f1ea2f11c4759bd09bb5ab" : {
+      "english" : "Gathered",
+      "translation" : "Прикупљено"
+   },
+   "bcc4bd434385e5f83d8e2f368111fa84" : {
+      "english" : "Toggle dev overlay",
+      "translation" : ""
+   },
+   "bcf84690c5adaa9e29843d82ff7c3716" : {
+      "english" : "Rebuild the replay cache from scratch. Potentially slow!",
+      "translation" : ""
+   },
+   "bcfaccebf745acfd5e75351095a5394a" : {
+      "english" : "Disable",
+      "translation" : ""
+   },
+   "bd7c0a5f62ae166384afdd467c021b5c" : {
+      "english" : "Structures can be aligned by keeping the snap hotkey pressed during placement.",
+      "translation" : ""
+   },
+   "bdc6ff018e6ba339ad20f0775a6617a2" : {
+      "english" : "%(label)s %(component)s %(amount)s",
+      "translation" : ""
+   },
+   "be2e7b79019158c00e374a658ef4ebf8" : {
+      "english" : "Antialiasing",
+      "translation" : ""
+   },
+   "be542e63ce687ea72b41a32d34e09d34" : {
+      "english" : "CATAPULTS",
+      "translation" : "КАТАПУЛТИ"
+   },
+   "bea7dcc3bc27138633555cd6a3695fa5" : {
+      "english" : "Strong stone walls that help you protect your city.",
+      "translation" : ""
+   },
+   "bef14a691b71daefa818090ee1bd325b" : {
+      "english" : "Toggle wireframe mode.",
+      "translation" : ""
+   },
+   "bf27f3b72b60c894d9aad3ab485eabb7" : {
+      "english" : "You have been disconnected.",
+      "translation" : "Искључен си са везе."
+   },
+   "bf643d2444fe9339377363e0347b55a0" : {
+      "english" : "When the winner of this match is determined, the lobby score will be adapted.",
+      "translation" : ""
+   },
+   "bfbb1cc04a3d3489f5ae33fdfcbcbf6c" : {
+      "english" : "Heroes cannot be garrisoned and they are vulnerable to raids.",
+      "translation" : ""
+   },
+   "bfe4258b0e4ab752f22e767f2170d5a5" : {
+      "english" : "Insufficient resources:",
+      "translation" : "Недовољно ресурса:"
+   },
+   "c0b43191927d38818f94e5d2601d1519" : {
+      "english" : "Filter replays by typing one or more, partial or complete player names.",
+      "translation" : ""
+   },
+   "c0d2a45de500add6b5ade6d7612d3b03" : {
+      "english" : "Game is loading, please try again later.",
+      "translation" : ""
+   },
+   "c117907d14c8e673b6b2858560acfe46" : {
+      "english" : "%(label)s: %(garrisonSize)s %(extraSize)s",
+      "translation" : ""
+   },
+   "c12d6424b2ce4d46ad0056125af72a9e" : {
+      "english" : "Take large BMP screenshot.",
+      "translation" : ""
+   },
+   "c146a08e349984a88245e7c2d67f0faa" : {
+      "english" : "Start a new single-player game.",
+      "translation" : ""
+   },
+   "c172e2613c6553a384d1e814e48d0865" : {
+      "english" : "Jump to camera position 3 (see “Set camera jump 3”).",
+      "translation" : ""
+   },
+   "c1b77b57990db9129833ada35a754b55" : {
+      "english" : "%(percentage)s%%",
+      "translation" : "%(percentage)s%%"
+   },
+   "c21fdebbd421b6f6d6e17ecfdf00f96e" : {
+      "english" : "Decay happens when structures are not connected to an allied Civil Center.",
+      "translation" : ""
+   },
+   "c22092f294b3ce7f4cbd8925d3a3b9c0" : {
+      "english" : "Much stronger than other docks, but also more expensive.",
+      "translation" : ""
+   },
+   "c2791564e658ac3d3e5bad2490361827" : {
+      "english" : "Research technologies to improve the gathering capabilities of your citizens.",
+      "translation" : ""
+   },
+   "c2cc7b55ed85f2884be1f8bbd7879b6a" : {
+      "english" : "Trains:",
+      "translation" : ""
+   },
+   "c2e154cd266e82962b4410e8a4b5b562" : {
+      "english" : "Chat backlog",
+      "translation" : ""
+   },
+   "c2e32f3721ae10a82ab20d6510fccee3" : {
+      "english" : "Ruins",
+      "translation" : "рушевине"
+   },
+   "c30e86eb05a30e2ce700d4df0656dc38" : {
+      "english" : "Gaia",
+      "translation" : ""
+   },
+   "c344c091b72a8642f13ae102d61360d2" : {
+      "english" : "Add Control Group 4 to the current selection.",
+      "translation" : ""
+   },
+   "c39f542679c6fdc9afe4a6b004d35e94" : {
+      "english" : "Select non-military only",
+      "translation" : ""
+   },
+   "c3a61db170f5647698af895e5d4bcaf9" : {
+      "english" : "Toggle diplomacy",
+      "translation" : ""
+   },
+   "c3a6f8056da8d7b3b4da6d1bc192d020" : {
+      "english" : "FPS throttling in games",
+      "translation" : ""
+   },
+   "c3d2a1a47b3eb2d6ee8e8d52e1847198" : {
+      "english" : "Have auras which alter the stats of other units or structures.",
+      "translation" : ""
+   },
+   "c3e2f270b8ccb1b887af0c1b79a1dfc4" : {
+      "english" : "Save current selection as Control Group 7.",
+      "translation" : ""
+   },
+   "c413baf208d8fbfbabeaee19d2fae6f7" : {
+      "english" : "Rotate building counterclockwise",
+      "translation" : ""
+   },
+   "c42baa609e32e34dd65b77e30a19efcb" : {
+      "english" : "Special dock of the Carthaginians to construct warships.",
+      "translation" : ""
+   },
+   "c4326067584df06d2a9c96389da93f6a" : {
+      "english" : "Players only receive a slot when the host assigns them explicitly.",
+      "translation" : ""
+   },
+   "c4408d335012a56ff58937d78050efad" : {
+      "english" : "Accept",
+      "translation" : "Прихвати"
+   },
+   "c45048f8f5399fb99407fcb618eb250f" : {
+      "english" : "Both are trainable from the Temple, instead of the Fortress like most other champions.",
+      "translation" : ""
+   },
+   "c4889b34b37ec4f8e1ab18aa69006ce8" : {
+      "english" : "Water effects",
+      "translation" : ""
+   },
+   "c49db4e4ed97bd8261f495c33220d416" : {
+      "english" : "Scroll/Rotate down",
+      "translation" : ""
+   },
+   "c4ca969b6fc7ccd309e92a528cef2728" : {
+      "english" : "You have been banned.",
+      "translation" : "Забрањен Вам је приступ."
+   },
+   "c4e0697b103813a238eeb5f78bb1d001" : {
+      "english" : "Number of builders:",
+      "translation" : ""
+   },
+   "c4e15802d6220ff2822fe9484c74ecb2" : {
+      "english" : "Click to visit the Frequently Asked Questions page in your browser.",
+      "translation" : ""
+   },
+   "c5301693c4e792bcd5a479ef38fb8f8d" : {
+      "english" : "Run",
+      "translation" : "Трчање"
+   },
+   "c569a00b3d82959a87958489c8b22f80" : {
+      "english" : "Scroll/Rotate up",
+      "translation" : ""
+   },
+   "c59d226478fbbb2f1c24816e5bfe9026" : {
+      "english" : "Attack range visualization",
+      "translation" : ""
+   },
+   "c61a13f487373f4c42c00d8671562d3b" : {
+      "english" : "Fast, but simple antialiasing.",
+      "translation" : ""
+   },
+   "c6589f5236c0c434d0c63dc5f9a856f2" : {
+      "english" : "Balanced",
+      "translation" : ""
+   },
+   "c65ce109a62a95ddfe430e08f7acf1e3" : {
+      "english" : "Windowed mode",
+      "translation" : ""
+   },
+   "c67aecc8792bf4df9bfb5e8592ff5003" : {
+      "english" : "Set camera jump position 1.",
+      "translation" : ""
+   },
+   "c7346936ab2c5c0952744443c7eb4912" : {
+      "english" : "Notice: This game is under development and many features have not been added yet.",
+      "translation" : ""
+   },
+   "c7363e728099efcbd5536895d8bcc816" : {
+      "english" : "%(playerName)s (%(civ)s)",
+      "translation" : "%(playerName)s (%(civ)s)"
+   },
+   "c77149b6d7fc9f952848ad44a4da38a4" : {
+      "english" : "Publications",
+      "translation" : ""
+   },
+   "c7d58df5ed8375f16b03345d42774f1d" : {
+      "english" : "%(label)s\\n%(details)s",
+      "translation" : ""
+   },
+   "c7d820e640b0a94af9667147efa98ca7" : {
+      "english" : "Cavalry citizen-soldiers are faster gathering meat.",
+      "translation" : ""
+   },
+   "c7df18600701c9842f7ffbe66e29f09c" : {
+      "english" : "Best for MP",
+      "translation" : ""
+   },
+   "c7f1afe91dcb010d155cb7a7cccf2344" : {
+      "english" : "%(healRateLabel)s %(value)s %(health)s / %(second)s",
+      "translation" : "%(healRateLabel)s %(value)s %(health)s / %(second)s"
+   },
+   "c877e5708405a66df1e8b97447eb7d5b" : {
+      "english" : "Rotate Down",
+      "translation" : ""
+   },
+   "c89ef7412d0ec8b7de100d3fe57f8c29" : {
+      "english" : "Frame drum, darbuka, riq, toms",
+      "translation" : ""
+   },
+   "c909ec8caea111c5e107eefcc1d8ba4b" : {
+      "english" : "Map Type:",
+      "translation" : "Тип мапе:"
+   },
+   "c90d2d87597a565adbe16e220c76da75" : {
+      "english" : "Set camera jump 1",
+      "translation" : ""
+   },
+   "c9983c09928c061ef2c9f200db4ef43f" : {
+      "english" : "Are you sure you want to quit 0 A.D. and open the Scenario Editor?",
+      "translation" : ""
+   },
+   "c9cc8cce247e49bae79f15173ce97354" : {
+      "english" : "Save",
+      "translation" : "Сачувај"
+   },
+   "c9d4a56d2d8e3bef61a1d168cd53e693" : {
+      "english" : "Starting Resources",
+      "translation" : "Почетни ресурси"
+   },
+   "c9e89115c6c7f277be5e7b6e7b5cbcc6" : {
+      "english" : "Default AI behavior",
+      "translation" : ""
+   },
+   "c9fa882ff996dd822b5a0fd007b70b4a" : {
+      "english" : "Playback previous games.",
+      "translation" : ""
+   },
+   "c9fb7c0e3f82aee09e893dad0e405350" : {
+      "english" : "Select next idle builder",
+      "translation" : ""
+   },
+   "ca16cc14ea872ed515c936dc119aa965" : {
+      "english" : "Team %(team)s",
+      "translation" : "Tим %(team)s"
+   },
+   "ca37995e131636f4f5e6e0db66df9ebb" : {
+      "english" : "When the decay is completed, the structure will be given to the most influential neighbor.",
+      "translation" : ""
+   },
+   "ca4c4bfe37fb45436d31398dcd8a7b05" : {
+      "english" : "Resets user settings to their game default",
+      "translation" : ""
+   },
+   "ca561514ace0bd2ba428fb461435e01d" : {
+      "english" : "Add Control Group 2 to the current selection.",
+      "translation" : ""
+   },
+   "cb6512c84af66ea483d248c582dff007" : {
+      "english" : "The heaviest standard warship. Available to: Carthaginians, Ptolemies, Romans, and Seleucids.",
+      "translation" : ""
+   },
+   "cb6d1697dc30be823c7a892691bfcda7" : {
+      "english" : "Maps that are brand new in this release of the game.",
+      "translation" : "Мапе које су потпуно нове у овом издању игре."
+   },
+   "cb8909786715cab89d03f1ab2a491ff4" : {
+      "english" : "Blocks: %(blockPercentage)s%%",
+      "translation" : ""
+   },
+   "cc6221b752e326c764e5feeb75b5ea5f" : {
+      "english" : "Delete the selected savegame using %(hotkey)s.",
+      "translation" : ""
+   },
+   "ccc35c69eb12d2f588f0609bba673eb3" : {
+      "english" : "Set camera jump 4",
+      "translation" : ""
+   },
+   "ccf01ebb25c3c382ebc06a761c6013e9" : {
+      "english" : "Decrease zoom speed",
+      "translation" : ""
+   },
+   "cd1220206f82cf0d2275230409acb963" : {
+      "english" : "Rotate building placement preview clockwise.",
+      "translation" : ""
+   },
+   "cd156fa61ce7961e91b9e4ba620f083f" : {
+      "english" : "[font=\\\"sans-16\\\"]",
+      "translation" : ""
+   },
+   "cd56a9c68c3b6503ccfb283c81775b07" : {
+      "english" : "Fog",
+      "translation" : ""
+   },
+   "cdc45feb2253278466f1ce762f291807" : {
+      "english" : "Save Game",
+      "translation" : "Сачувај игру"
+   },
+   "cddde263e46c346b28fb1bd5ca36dc25" : {
+      "english" : "\\\"%(label)s\\\"",
+      "translation" : "\\\"%(label)s\\\""
+   },
+   "ce19243bca73c89a33e3954044e07c56" : {
+      "english" : "Generic names first",
+      "translation" : ""
+   },
+   "ce1bff194b462c01b9594dffba0a12cb" : {
+      "english" : "Exit the game.",
+      "translation" : ""
+   },
+   "ce2578ec3c56640d255a0e8c943efa02" : {
+      "english" : "Map Description",
+      "translation" : "Опис Мапе"
+   },
+   "ce36b9c0cea333e8bd83771e4aa9bb1f" : {
+      "english" : "FORTRESS",
+      "translation" : "ТВРЂАВА"
+   },
+   "ce44f68fde0ff266b0b335b7849695a4" : {
+      "english" : "Units in formations stay in formations.",
+      "translation" : ""
+   },
+   "cf3fb1ff52ea1eed3347ac5401ee7f0c" : {
+      "english" : "Ascending",
+      "translation" : ""
+   },
+   "cf6c714e501850b0c139b6c373d27353" : {
+      "english" : "Randomly select a map from the list.",
+      "translation" : ""
+   },
+   "cf73bd583f5ed553b755364fdbb932ce" : {
+      "english" : "Outcome",
+      "translation" : "Исход"
+   },
+   "cf86b4649849e5805ed41dbc2c632b4e" : {
+      "english" : "CAVALRY STABLE",
+      "translation" : ""
+   },
+   "cf9e09f8708271f4fe2e972e0269806c" : {
+      "english" : "Click on any mapping to modify it.\\\\n You may have up to 4 different hotkeys.",
+      "translation" : ""
+   },
+   "cfb0dcbde66ff51b1a091906cd48b314" : {
+      "english" : "Delete replay",
+      "translation" : "Избриши понављање"
+   },
+   "cfdfd7a511fdb9beee47cecedc48297c" : {
+      "english" : "Post-processing",
+      "translation" : ""
+   },
+   "d005a5323c6af199f0192851354ea718" : {
+      "english" : "Very Hard",
+      "translation" : "Веома тешко"
+   },
+   "d0464d7d8d3f44427ce88c796384de3a" : {
+      "english" : "Pick a map at random.",
+      "translation" : ""
+   },
+   "d0a7f740637c4c7605008c23f7345e65" : {
+      "english" : "BARRACKS",
+      "translation" : "КАСАРНА"
+   },
+   "d0d74113875dc36abb1895ff268c72e9" : {
+      "english" : "Maps that are recommended for Multiplayer play.",
+      "translation" : ""
+   },
+   "d156915df9371305b4945cdbdd599058" : {
+      "english" : "Save current selection as Control Group 6.",
+      "translation" : ""
+   },
+   "d1585fd47d42b13956bf37b228cfb540" : {
+      "english" : "Queue 5th unit",
+      "translation" : ""
+   },
+   "d1abf918a7924fbef9c72de6944e2556" : {
+      "english" : "Very Easy",
+      "translation" : "Веома лако"
+   },
+   "d1b6a6143a9fa6be18308ef927d385ee" : {
+      "english" : "The special Iberian fireship is very effective against other ships and buildings, but steadily loses health.",
+      "translation" : ""
+   },
+   "d21622f0efeb1e323c5277c96510d2c0" : {
+      "english" : "Wood tends to be sparse, but consists of high-yield Baobab trees.",
+      "translation" : ""
+   },
+   "d2257ffbda8721ca69f4220fe7ae7433" : {
+      "english" : "Unrated games",
+      "translation" : "Неоцењене игре"
+   },
+   "d225f050f255af6884ce1b4c1bc70ebb" : {
+      "english" : "Delete after cursor",
+      "translation" : ""
+   },
+   "d27af58c3ebbe5c0b1f40f693821aea8" : {
+      "english" : "Disable Feedback",
+      "translation" : ""
+   },
+   "d2bf2edc490014fa2ae8c4dd837ec143" : {
+      "english" : "Toggle in-game diplomacy page.",
+      "translation" : ""
+   },
+   "d2d8be97af81a7f8aa57f71617d4e558" : {
+      "english" : "The wounded unit hotkey considers the selected units as wounded if their health percentage falls below this number.",
+      "translation" : ""
+   },
+   "d342f8597c3ea420117bfb09888723bd" : {
+      "english" : "Voices",
+      "translation" : "Гласови"
+   },
+   "d38f4afc007ddb255c04f2d810fafaf5" : {
+      "english" : "Diplomacy",
+      "translation" : "Дипломатија"
+   },
+   "d3aff23895d479019bfd38af9a50d0cd" : {
+      "english" : "Save current profiler data to logs/profile.txt.",
+      "translation" : ""
+   },
+   "d3d2e617335f08df83599665eef8a418" : {
+      "english" : "Close",
+      "translation" : "Затвори"
+   },
+   "d3de3d5c11b9ced6f1e0b5cbb91c8331" : {
+      "english" : "Batch production",
+      "translation" : ""
+   },
+   "d41a97496bfb3c7e026fbc90c3de127b" : {
+      "english" : "Select next idle warrior",
+      "translation" : ""
+   },
+   "d41d279af4b67cb60ccd2c64fe8489c3" : {
+      "english" : "Queue 6th unit",
+      "translation" : ""
+   },
+   "d42a95a9f80b7bcbb983fc6d5afb7120" : {
+      "english" : "Zoom camera out - the effect depends on FPS.",
+      "translation" : ""
+   },
+   "d45ddadb8227166d7fa2463cd9aba69f" : {
+      "english" : "Hotkey to disable snapping",
+      "translation" : ""
+   },
+   "d45e5d06f1dc94daeef316d3c0161e58" : {
+      "english" : "AUTOQUEUE",
+      "translation" : ""
+   },
+   "d46e524806ba7528eec13f3c0dc14a2f" : {
+      "english" : "Trained",
+      "translation" : "Обучено"
+   },
+   "d485d1e816e9673293527abb0c4ba063" : {
+      "english" : "Select Control Group 2",
+      "translation" : ""
+   },
+   "d4b4515f6838bf1ce45cff4053530267" : {
+      "english" : "Unsaved changes affect this session only",
+      "translation" : ""
+   },
+   "d4d10483d6026323748eb7560c626e76" : {
+      "english" : "Set Control Group 8",
+      "translation" : ""
+   },
+   "d4d9110f9199b4a07fa531a60edee6b1" : {
+      "english" : "%(hotkey)s: Close Catafalque Bonuses.",
+      "translation" : ""
+   },
+   "d5924045e7596605c28e7aef8ac3e118" : {
+      "english" : "Relive history through historical military campaigns.",
+      "translation" : ""
+   },
+   "d5d789f5ea80da8abb5f670d106537e4" : {
+      "english" : "Select next idle builder.",
+      "translation" : ""
+   },
+   "d5d81730b059ec921b264fa0d4edbfca" : {
+      "english" : "Traders",
+      "translation" : "Трговаца"
+   },
+   "d5f8e7384f264789eecd46989748a42e" : {
+      "english" : "%(component)s %(loot)s",
+      "translation" : "%(component)s %(loot)s"
+   },
+   "d6081176077d3ff2e1075880ada85e2b" : {
+      "english" : "Naming of entities.",
+      "translation" : ""
+   },
+   "d63fd1b5fa3a0a6ab53649e9a5921d18" : {
+      "english" : "An oceanic resource.",
+      "translation" : ""
+   },
+   "d6fa00ef1d2dea1c7a9c412f625ad2e5" : {
+      "english" : "How you want to be addressed in single-player matches.",
+      "translation" : ""
+   },
+   "d78654a254853f2fa83862908d0e7871" : {
+      "english" : "Toggle profiler",
+      "translation" : ""
+   },
+   "d7ab7d0fde7a0088f2160748e37f0013" : {
+      "english" : "Cut selected text and copy to the clipboard.",
+      "translation" : ""
+   },
+   "d7c8c85bf79bbe1b7188497c32c3b0ca" : {
+      "english" : "Failed",
+      "translation" : ""
+   },
+   "d7d7ca2831b48eecd8bf6926821d8a04" : {
+      "english" : "Right-click to view more information.",
+      "translation" : ""
+   },
+   "d7e603d89f39aa26e8b6c4efcd42c685" : {
+      "english" : "Ranged siege engines that are good against structures.",
+      "translation" : ""
+   },
+   "d814e7f877069ae1f714ff02fdda058b" : {
+      "english" : "Paste from clipboard",
+      "translation" : ""
+   },
+   "d8158f04b5e9e30b144c535797175998" : {
+      "english" : "This savegame needs 0 A.D. version %(requiredVersion)s, while you are running version %(currentVersion)s.",
+      "translation" : ""
+   },
+   "d8311b114910a4e060a5a1cff3a1a763" : {
+      "english" : "Pause/Unpause",
+      "translation" : ""
+   },
+   "d832ac14c53e450ad3f1febb3f3ce2b8" : {
+      "english" : "Exploration score",
+      "translation" : ""
+   },
+   "d83b770ada1e962c91a9a7ddf72edebc" : {
+      "english" : "Any victory condition",
+      "translation" : ""
+   },
+   "d84cdf49b88f3f3855e39ec5a09dedff" : {
+      "english" : "Use screen-space post-processing filters (HDR, Bloom, DOF, etc).",
+      "translation" : ""
+   },
+   "d85a8a381c36f6dde21d81542830e2b1" : {
+      "english" : "Sold",
+      "translation" : "Продато"
+   },
+   "d86c9780afd08a1f10c2e3cc0be44142" : {
+      "english" : "Audio managers",
+      "translation" : ""
+   },
+   "d873759de5d24da59534db104e10fc1a" : {
+      "english" : "Modifier to put the desired trade resource to 100%.",
+      "translation" : ""
+   },
+   "d899172347f7a52b0fb827c968a82d29" : {
+      "english" : "Set Control Group 9",
+      "translation" : ""
+   },
+   "d904fe06c133167d9a35dc7844b6e822" : {
+      "english" : "When adding a Unit or Structure to a control group, they are removed from other control groups. Use this choice if you want control groups to refer to distinct armies.",
+      "translation" : ""
+   },
+   "d932a3a9316ea8511b447748213c51c8" : {
+      "english" : "Remaining build time:",
+      "translation" : ""
+   },
+   "d9333752893c9430196b060bd6904bf1" : {
+      "english" : "Structure Statistics (%(constructed)s / %(destroyed)s / %(captured)s / %(lost)s)",
+      "translation" : ""
+   },
+   "d9991c0e479c35ee9e7ce2361bcccb1b" : {
+      "english" : "Player name (multiplayer)",
+      "translation" : ""
+   },
+   "d9b3fa8bec49e20d38834955e6d92a84" : {
+      "english" : "Error: Client simulated an unexpected game turn.",
+      "translation" : ""
+   },
+   "d9ddd5f9013436d9d90fbe548e19a206" : {
+      "english" : "All Hotkeys",
+      "translation" : ""
+   },
+   "da02cd330cbc3bf122ec426fe71c0646" : {
+      "english" : "Adjust game settings.",
+      "translation" : "Промени подешавања игре."
+   },
+   "da1c4441fe5f708aa28a0d68b9ed5c23" : {
+      "english" : "Rotate camera clockwise around terrain.",
+      "translation" : ""
+   },
+   "da2b3f8cb7b4d8415a6946e52e355a32" : {
+      "english" : "Cutoff distance",
+      "translation" : ""
+   },
+   "da56543d798147e54af8c0d4be753dbf" : {
+      "english" : "Toggle chat window.",
+      "translation" : ""
+   },
+   "da98f67ec23e5c135ce4ead016bbe36a" : {
+      "english" : "Interval:",
+      "translation" : ""
+   },
+   "dae8ace18bdcbcc6ae5aece263e14fe8" : {
+      "english" : "Options",
+      "translation" : "Опције"
+   },
+   "daecf6f4ca1bff21200b3c10728b3e5f" : {
+      "english" : "Enable the autoqueue feature to automatically train units.",
+      "translation" : ""
+   },
+   "daf6da45c27ee89a754c57f324fc5523" : {
+      "english" : "(world)",
+      "translation" : ""
+   },
+   "db0def951c4bd8b6ad45ef61f43ae933" : {
+      "english" : "Change the current selection to control group 3.",
+      "translation" : ""
+   },
+   "db1e2a1b7d42f278d71fe69fa1db6770" : {
+      "english" : "Fortresses",
+      "translation" : "Тврђава"
+   },
+   "db4d9d0fc0769bb42375c3270bdb7444" : {
+      "english" : "Order one unit",
+      "translation" : ""
+   },
+   "dc066b024760b099c46b440081ea8644" : {
+      "english" : "Add Control Group 2",
+      "translation" : ""
+   },
+   "dc1dcb08a6b678b3f6999960d7b1962f" : {
+      "english" : "Set Control Group 1",
+      "translation" : ""
+   },
+   "dc6c2d70ef4079de5cd4f95c301e1338" : {
+      "english" : "Move cursor to start of word to the right of cursor.",
+      "translation" : ""
+   },
+   "dc858a375412dbf9059e1f03a52a04d1" : {
+      "english" : "Heroes",
+      "translation" : "Хероји"
+   },
+   "dcb4f9f7a1ecd1df8789f200d8d41247" : {
+      "english" : "Chat notification phase",
+      "translation" : ""
+   },
+   "dce2a44c5a55b13c6ab364f5e6e01d26" : {
+      "english" : "Do not use antialiasing.",
+      "translation" : ""
+   },
+   "dd052a4d5a292dea5b1badae73752a31" : {
+      "english" : "Unload Turrets",
+      "translation" : ""
+   },
+   "dd69c095c7d4e784686c032c6a8d02b1" : {
+      "english" : "No historians were harmed during the development of this project.",
+      "translation" : ""
+   },
+   "dd8fe9b2f18e60143333f3a03ac20774" : {
+      "english" : "FISHING",
+      "translation" : "ПЕЦАЊЕ"
+   },
+   "dd905590d541b768ba7d433731b98f60" : {
+      "english" : "Locale:",
+      "translation" : "Локално:"
+   },
+   "dda6db62c6f39f1a3c74d4b3e3879121" : {
+      "english" : "Revealed Map",
+      "translation" : "Откривена мапа"
+   },
+   "ddcf50c29294d4414f3f7c1bbc892cb5" : {
+      "english" : "Resources",
+      "translation" : "Ресурси"
+   },
+   "dde98fa66ef8081029ffb8f24d643c89" : {
+      "english" : "Shadows",
+      "translation" : "Сенке"
+   },
+   "ddf519ff5a182ff61a45e9e960292d52" : {
+      "english" : "The Medium Warship.",
+      "translation" : ""
+   },
+   "de17e03e527321572bc3363a012077d5" : {
+      "english" : "Add Control Group 6",
+      "translation" : ""
+   },
+   "de4bf2d1e3d534dbbeb61846bd1279b0" : {
+      "english" : "Translate the Game",
+      "translation" : "Преведи игру"
+   },
+   "de54e2419fcd25a07dc706ae8dc2ee3a" : {
+      "english" : "TEMPLES",
+      "translation" : "ХРАМОВИ"
+   },
+   "de5fcd6e60e473b52ed14617e43698da" : {
+      "english" : "%(AIdifficulty)s %(AIbehavior)s %(AIname)s",
+      "translation" : ""
+   },
+   "de6a27102e65a7eb6f8de719a0d80474" : {
+      "english" : "%(playerName)s (OFFLINE)",
+      "translation" : "%(playerName)s (OFFLINE)"
+   },
+   "de6b801b38b8e4ea3a7538b14bbfd050" : {
+      "english" : "WAR ELEPHANTS",
+      "translation" : "РАТНИ СЛОНОВИ"
+   },
+   "df12aafe71642f7fed6319eaedd66944" : {
+      "english" : "Color of allies when diplomacy colors are enabled.",
+      "translation" : ""
+   },
+   "df35a8ba01afbbe5aeedb3aa259b2b22" : {
+      "english" : "This replay is not compatible with your version of the game!",
+      "translation" : "Ово понављање није одговарајуће за твоју верзију игре!"
+   },
+   "df7a8712303eeadde5d19f0e2955085c" : {
+      "english" : "Patrol",
+      "translation" : ""
+   },
+   "df872558500571b56a4ec2b03917926c" : {
+      "english" : "Fight against one or more human players in a multiplayer game.",
+      "translation" : "Бори се против једног или више људских противника у игри за више играча."
+   },
+   "dfe33f775a61d6a0277b36797777685e" : {
+      "english" : "Prefer GLSL",
+      "translation" : ""
+   },
+   "e0073d2c2f6d50b0b14c2280c34dfe47" : {
+      "english" : "Hero Garrison",
+      "translation" : "Гарнизон за хероје"
+   },
+   "e02d2ae03de9d493df2b6b2d2813d302" : {
+      "english" : "Duration",
+      "translation" : "Трајање:"
+   },
+   "e0397278bf7e9b64db6ea6c487dc20a0" : {
+      "english" : "Modifier to train units in batches.",
+      "translation" : ""
+   },
+   "e0626222614bdee31951d84c64e5e9ff" : {
+      "english" : "Select",
+      "translation" : ""
+   },
+   "e07f20372b30cd8c4e7d298fdd31cee4" : {
+      "english" : "Hotkeys relating to modifying unit selection.",
+      "translation" : ""
+   },
+   "e0aa021e21dddbd6d8cecec71e9cf564" : {
+      "english" : "OK",
+      "translation" : "ОК"
+   },
+   "e0e7a24aedf34150657205ed608d5d39" : {
+      "english" : "Random Map",
+      "translation" : ""
+   },
+   "e0f242c03fa85b0b5ac6c4a998ef06e6" : {
+      "english" : "%(mapName)s - %(mapType)s",
+      "translation" : "%(mapName)s - %(mapType)s"
+   },
+   "e16c418f84e88bd248a2f4761b398534" : {
+      "english" : "A medium trireme-class warship.",
+      "translation" : ""
+   },
+   "e191b001fcf9ec2b7733cb444a4c4289" : {
+      "english" : "Max lag for observers",
+      "translation" : ""
+   },
+   "e1ba155a9f2e8c3be94020eef32a0301" : {
+      "english" : "Manual",
+      "translation" : "Упутство"
+   },
+   "e1fc0ca428e0ee95fe7083433c6e8443" : {
+      "english" : "upload succeeded",
+      "translation" : "слање успело"
+   },
+   "e23014577c5665852b2f1a777aa2a174" : {
+      "english" : "Works as long as you have enough resources, then it will stop.",
+      "translation" : ""
+   },
+   "e298c05f88cc29539c0e93ff425df05b" : {
+      "english" : "%(splashShape)s Splash",
+      "translation" : ""
+   },
+   "e3277a95303554a813a543c27ce8c451" : {
+      "english" : "Rank icon above status bar",
+      "translation" : ""
+   },
+   "e33a06520ba8754566fe5c34f8919c9c" : {
+      "english" : "Attack:",
+      "translation" : ""
+   },
+   "e3891a3ad0de827b21fe5fb10e5b1b60" : {
+      "english" : "All available hotkeys.",
+      "translation" : ""
+   },
+   "e3cf5ac19407b1a62c6fccaff675a53b" : {
+      "english" : "Descending",
+      "translation" : ""
+   },
+   "e3d84e99922b15978aeca8bf4f3bcaac" : {
+      "english" : "Mine from rocks, stone quarries or ruins.",
+      "translation" : ""
+   },
+   "e3ef2da783e0227594058423794ccd06" : {
+      "english" : "Scroll/Rotate right",
+      "translation" : ""
+   },
+   "e3f8b1e1bcd91b954cf997a806b69838" : {
+      "english" : "Barter efficiency",
+      "translation" : "ефикасност цењкања"
+   },
+   "e404dd0bece5f7c53d80edaa70513eec" : {
+      "english" : "Main Menu",
+      "translation" : "Главни мени"
+   },
+   "e4450f7f9e94b03ec6adcc9ed330fadc" : {
+      "english" : "Scenario Editor",
+      "translation" : "Едитор сценарија"
+   },
+   "e453ed7c0c98769cf87f4e4f8e0ff267" : {
+      "english" : "Add Control Group 0",
+      "translation" : ""
+   },
+   "e4b662d3892f8c0c86801919f979467f" : {
+      "english" : "Meat",
+      "translation" : "Месо "
+   },
+   "e4b782c6f237d11159fcb3d377d6f6b6" : {
+      "english" : "Modifier to escort/guard when clicking on unit/building.",
+      "translation" : ""
+   },
+   "e4bb77845ed2468129b0d4f34cbe70b8" : {
+      "english" : "Single-player",
+      "translation" : ""
+   },
+   "e4e0b64503a0bea6619a47a9f0af7f28" : {
+      "english" : "Add Control Group 5 to the current selection.",
+      "translation" : ""
+   },
+   "e52b9b5619a35d6bd3bab33a2d6fb3b5" : {
+      "english" : "In-game",
+      "translation" : ""
+   },
+   "e570d36fcec467eb6f78687b91ba6900" : {
+      "english" : "TLS encryption",
+      "translation" : ""
+   },
+   "e5771a362d88a71a657bfcd21ca54b3f" : {
+      "english" : "Units",
+      "translation" : "Јединице"
+   },
+   "e5990cf329fa9821f75e32034330e13c" : {
+      "english" : "CARTHAGINIAN SACRED BAND",
+      "translation" : "КАРТАГИНСКА СВЕТА ЧЕТА"
+   },
+   "e5ba0db2fe0587d36ebbb1a385e3b8b2" : {
+      "english" : "%(statusName)s: %(statusInfo)s",
+      "translation" : ""
+   },
+   "e5dc4c2376ed127bd2d4edd52521aff5" : {
+      "english" : "Default: %(value)s",
+      "translation" : ""
+   },
+   "e5f71edc71bf40bcd64fea612721eb39" : {
+      "english" : "Garrison soldiers inside to add more firepower to its defense.",
+      "translation" : ""
+   },
+   "e646f8d58f3d43afc092925482373679" : {
+      "english" : "+%(number)s",
+      "translation" : "+%(number)s"
+   },
+   "e65462882a1e4d2e6483bb8deacd5a30" : {
+      "english" : "Toggle developer commands panel.",
+      "translation" : ""
+   },
+   "e659b52eba1f0299b2d8ca3483919e72" : {
+      "english" : "Type:",
+      "translation" : "Тип:"
+   },
+   "e6c043bc5f39d000923cfce25263332b" : {
+      "english" : "Capture:",
+      "translation" : ""
+   },
+   "e6d74205270f610f30264915c8319bb8" : {
+      "english" : "Stop units",
+      "translation" : ""
+   },
+   "e6ea27c876e9fc2369b6d07d4de49816" : {
+      "english" : "This is often caused by UDP port 20595 not being forwarded on the host side, by a firewall, or anti-virus software.",
+      "translation" : ""
+   },
+   "e6effe0e6c5eab6a8cabf4f7cd495593" : {
+      "english" : "Cover whole map",
+      "translation" : ""
+   },
+   "e6f43c40ab1c07cd29e4e83e4ef6bf85" : {
+      "english" : "Programming",
+      "translation" : "Програмирање"
+   },
+   "e7436d916abe684b429ef8d2e0ad44a5" : {
+      "english" : "Late observer joins",
+      "translation" : ""
+   },
+   "e75b7bb08a80cfd04de410eebf5eace9" : {
+      "english" : "Required version: %(version)s",
+      "translation" : "Потребна верзија: %(version)s"
+   },
+   "e7b2ba27db401dc5f9f6aa0a568373ba" : {
+      "english" : "In game unit action sound gain.",
+      "translation" : ""
+   },
+   "e86a67b54f6dd2bc760d71e9c3f8cdbb" : {
+      "english" : "Min: %(min)s, Max: %(max)s",
+      "translation" : "Минимум: %(min)s, Максимум: %(max)s"
+   },
+   "e86fcf966358f378b1af8098f39844fc" : {
+      "english" : "Use them as support in your army or for quick raids.",
+      "translation" : ""
+   },
+   "e88e8481e38cc78682e9d3a2b2f6731f" : {
+      "english" : "Deactivate auto-queue",
+      "translation" : ""
+   },
+   "e893bded7c7fea1effde02e8f0131cbe" : {
+      "english" : "Map Name",
+      "translation" : "Име мапе"
+   },
+   "e897676155a3835a2e7b067fe11c4049" : {
+      "english" : "Queue 3rd unit",
+      "translation" : ""
+   },
+   "e8cae57347b599bfbd59df7f964cabc9" : {
+      "english" : "Batch training size",
+      "translation" : ""
+   },
+   "e8f739d4018430c13e426f575a219acf" : {
+      "english" : "Vulnerable to siege weapons like catapults, rams and war elephants.",
+      "translation" : ""
+   },
+   "e90e19350b2a9844006801ab706e4fb8" : {
+      "english" : "Scroll down or use %(hotkey)s to move a tab right.",
+      "translation" : ""
+   },
+   "e93f994f01c537c4e2f7d8528c3eb5e9" : {
+      "english" : "Count",
+      "translation" : ""
+   },
+   "e98dfe7f98fce1aa89496ffc9b4bb5b9" : {
+      "english" : "Remove units from selection",
+      "translation" : ""
+   },
+   "e9cb55efcea4be3889b00ab9a4fa5345" : {
+      "english" : "Background pause",
+      "translation" : ""
+   },
+   "e9d075acb6186d74e24d46584ea619a4" : {
+      "english" : "Show tips when setting up a game.",
+      "translation" : ""
+   },
+   "e9e4ced00e1cb0bd580895a454b50961" : {
+      "english" : "Queue 8th unit",
+      "translation" : ""
+   },
+   "ea36b29688258dc3f2c56b87dbbf1b76" : {
+      "english" : "Naval Maps",
+      "translation" : "Поморска мапа"
+   },
+   "ea4788705e6873b424c65e91c2846b19" : {
+      "english" : "Cancel",
+      "translation" : "Обустави"
+   },
+   "ea7f4159ad3cad33eb421661adfa2669" : {
+      "english" : "Buddies",
+      "translation" : ""
+   },
+   "ea837da7e73bbfa1f91f38811c54a075" : {
+      "english" : "Toggle “frames per second” counter.",
+      "translation" : ""
+   },
+   "eaa57a9b4248ce3968e718895e1c2f04" : {
+      "english" : "Metal",
+      "translation" : "метал"
+   },
+   "eab54ec664eb80ef0332fc930d4f8586" : {
+      "english" : "Only specific names",
+      "translation" : ""
+   },
+   "eac160845284142c4eebc70e4667f1bd" : {
+      "english" : "Toggle visibility of the in-game user interface.",
+      "translation" : ""
+   },
+   "eb31fd01039dbec965197d992b7b4797" : {
+      "english" : "Master audio gain.",
+      "translation" : ""
+   },
+   "eb4943250965c9cf6b1effc7e61727c8" : {
+      "english" : "Toggle tutorial",
+      "translation" : ""
+   },
+   "eb74a7955a6422076fcf935ca5ee3aea" : {
+      "english" : "Change the current selection to control group 9.",
+      "translation" : ""
+   },
+   "eb7a2ed98876a15da130ad8f5be4eac3" : {
+      "english" : "%(rangeLabel)s %(minRange)s to %(maxRange)s (%(relativeRange)s) %(rangeUnit)s",
+      "translation" : ""
+   },
+   "eb9bb1d4835c027810b533fb36414001" : {
+      "english" : "Allow water to reflect a mirror image.",
+      "translation" : ""
+   },
+   "eb9e8308813d6b1abfbaa34eeba92680" : {
+      "english" : "Error: Client commands were ready for an unexpected game turn.",
+      "translation" : ""
+   },
+   "ebceb3e0a7919531ed79c041869b3caa" : {
+      "english" : "Feedback is currently enabled.",
+      "translation" : ""
+   },
+   "ec0363785f9c7ce7735163e96d41c9d0" : {
+      "english" : "Buildable in neutral or enemy territory. Good for building a secret base behind enemy lines or to consolidate gains within enemy territory.",
+      "translation" : ""
+   },
+   "ec54ca565bdc2a1af0c624793f60e5d6" : {
+      "english" : "Slide the settings panel when opening, closing or resizing.",
+      "translation" : ""
+   },
+   "ec95caf43c3659cadc4e678c31a573d7" : {
+      "english" : "Expensive and slow.",
+      "translation" : ""
+   },
+   "ece2dcb6a4e717aa48c3979be2c62fc0" : {
+      "english" : "Cancel selection",
+      "translation" : ""
+   },
+   "ed097d5649c33ef3ae888b9037edf7fa" : {
+      "english" : "Select next idle unit",
+      "translation" : ""
+   },
+   "ed36a1ef76a59ee3f15180e0441188ad" : {
+      "english" : "Any",
+      "translation" : "Сваки"
+   },
+   "ed9151f24326e9162e5a8661d2bc585d" : {
+      "english" : "TREASURES",
+      "translation" : ""
+   },
+   "edae9165443e0d63babd15b5669b89f2" : {
+      "english" : "Map Browser",
+      "translation" : ""
+   },
+   "edbb77ea40a0e6929670c6990d98c02e" : {
+      "english" : "Change the current selection to control group 1.",
+      "translation" : ""
+   },
+   "ee86b4f7c398f85b4750f640fd33bd00" : {
+      "english" : "Bad connection to %(player)s (%(milliseconds)sms)",
+      "translation" : "Лоша конекција ка %(player)s (%(milliseconds)sms)"
+   },
+   "ef3ff71e107e56dab78f7e2fa203adff" : {
+      "english" : "Make a temporary save of the game that can be loaded with quickload. Quicksaving always overwrites the previous save.",
+      "translation" : ""
+   },
+   "ef609a26090a437576fb5b07d03f803f" : {
+      "english" : "Garrison to fire arrows",
+      "translation" : ""
+   },
+   "ef70e46fd3bbc21e3e1f0b6815e750c0" : {
+      "english" : "Disconnected",
+      "translation" : "Веза обустављена"
+   },
+   "efed1c683356cfb879c1fa53de5dabc8" : {
+      "english" : "[font=\\\"sans-bold-20\\\"]  Thank you for installing 0 A.D. Empires Ascendant!",
+      "translation" : ""
+   },
+   "efedef4e14a630f47663f93bd1454077" : {
+      "english" : "Scores at the end of the game.",
+      "translation" : "Резултати на крају игре."
+   },
+   "f058c96e5b5c92e4db7a4e5cd802956f" : {
+      "english" : "Heroes can be garrisoned.",
+      "translation" : ""
+   },
+   "f073c33d6f5e64bc7ad418a546066a84" : {
+      "english" : "%(hotkey)s: Close map browser and discard the selection.",
+      "translation" : ""
+   },
+   "f0bed96a4854aa38edad92a957188986" : {
+      "english" : "Heal range visualization",
+      "translation" : ""
+   },
+   "f0dd7aa2332dc72e1d9a502142f91f35" : {
+      "english" : "Reduce blurry effects.",
+      "translation" : ""
+   },
+   "f1117307e696cf5dc323c4f226d84e45" : {
+      "english" : "Filter:",
+      "translation" : ""
+   },
+   "f14b2127b6787b7842ed1c74ab4cb8f9" : {
+      "english" : "Open the map browser.",
+      "translation" : ""
+   },
+   "f18f8476570fb09dfcaed24fd0d12d24" : {
+      "english" : "Save and restore match settings for quick reuse when hosting another game.",
+      "translation" : ""
+   },
+   "f196ec91851584c8dcb53220d08d21f7" : {
+      "english" : "Locked Teams",
+      "translation" : "Закључани тимови"
+   },
+   "f19b6293131b90c223bb416eca847c40" : {
+      "english" : "Color of neutral players when diplomacy colors are enabled.",
+      "translation" : ""
+   },
+   "f19dbf2edb3a0bd74b0524d960ff21eb" : {
+      "english" : "Load",
+      "translation" : "Учитај"
+   },
+   "f20fa4011582d9eb652c771272b8809b" : {
+      "english" : "Garrison infantry for extensive vision, and to prevent losing control of the outpost due to territory decay.",
+      "translation" : ""
+   },
+   "f20fde3405f311db9e30729b993e9093" : {
+      "english" : "Show the multiplayer lobby in a dialog window.",
+      "translation" : ""
+   },
+   "f2531f031f59ae859f2606bab8ae2b58" : {
+      "english" : "Fish the seas for a bountiful harvest.",
+      "translation" : ""
+   },
+   "f25fa48ea0c75f8e5000b5a5f84edd4d" : {
+      "english" : "■",
+      "translation" : ""
+   },
+   "f28b790d6b216b5430bbb813e101a020" : {
+      "english" : "%(hotkey)s: Close Template Viewer",
+      "translation" : ""
+   },
+   "f296ba07b6b7bd3ee7c300bfb3871354" : {
+      "english" : "Huge beasts from Africa and India, trained for war.",
+      "translation" : ""
+   },
+   "f2a6c498fb90ee345d997f888fce3b18" : {
+      "english" : "Delete",
+      "translation" : "Обриши"
+   },
+   "f2b291dcbdeedb2b08b5fdbffff938fd" : {
+      "english" : "Players start with a Civic Center.",
+      "translation" : ""
+   },
+   "f2c1786f0a5a091ea6b4da3b45dcf181" : {
+      "english" : "Add sixth unit type to queue.",
+      "translation" : ""
+   },
+   "f34b3a8931ae2af89eac3fa0368e0a19" : {
+      "english" : "Population Bonus:",
+      "translation" : ""
+   },
+   "f34e602b7ce901f785082546c174aaa5" : {
+      "english" : "ROMAN ARMY CAMP",
+      "translation" : "РИМСКИ ВОЈНИ ЛОГОР"
+   },
+   "f355034661ea641c5ad6b164a48f631e" : {
+      "english" : "Modifier to attack instead of another action (e.g. capture).",
+      "translation" : ""
+   },
+   "f355e848c5ccab3cdd6266069d7895c4" : {
+      "english" : "Show civilization info.",
+      "translation" : ""
+   },
+   "f35fa4bb3d16df497f74f8b90070a299" : {
+      "english" : "Add Control Group 6 to the current selection.",
+      "translation" : ""
+   },
+   "f3659d4fa207802a533cf0a057e15488" : {
+      "english" : "Classes:",
+      "translation" : "Врсте:"
+   },
+   "f37b3a905ba2add88e67c4f26dd30946" : {
+      "english" : "Number of backlogged messages to load when joining the lobby.",
+      "translation" : ""
+   },
+   "f39b691680125f512efa41f947e9da46" : {
+      "english" : "You can garrison more infantry inside them to increase the number of arrows they shoot.",
+      "translation" : ""
+   },
+   "f39ed8d2da6514e6242fbdc925c35499" : {
+      "english" : "The foundation of your new colony.",
+      "translation" : ""
+   },
+   "f3b350b739134cb26b57ee8e5d9269b5" : {
+      "english" : "Toggle Fullscreen",
+      "translation" : ""
+   },
+   "f41302f3c14502e54a818c861d036971" : {
+      "english" : "Color of enemies when diplomacy colors are enabled.",
+      "translation" : ""
+   },
+   "f45f481029006e3c6e5e336582b2dc29" : {
+      "english" : "Grain",
+      "translation" : "Жито "
+   },
+   "f4720ee2754d67525fb215550a67fc0f" : {
+      "english" : "Town Phase structure.",
+      "translation" : ""
+   },
+   "f499dcfef9f6b37d1526cd78b652eda0" : {
+      "english" : "Search for Player",
+      "translation" : ""
+   },
+   "f4d1ea475eaa85102e2b4e6d95da84bd" : {
+      "english" : "Confirmation",
+      "translation" : "Потврда"
+   },
+   "f4f70727dc34561dfde1a3c529b6205c" : {
+      "english" : "Settings",
+      "translation" : ""
+   },
+   "f524c346d2e9ef5f23f121bb1a6c369d" : {
+      "english" : "Its aura heals nearby units.",
+      "translation" : ""
+   },
+   "f525b5a5b36b03f9680f3526359f9063" : {
+      "english" : "Add eighth unit type to queue.",
+      "translation" : ""
+   },
+   "f525d0aaf1e6c9bdc02d45f9d3e50bf1" : {
+      "english" : "Persians also have access to a great number of structural and defensive technologies.",
+      "translation" : ""
+   },
+   "f563c680751b67afdc64e901f021c6d4" : {
+      "english" : "The higher the level of a citizen-soldier (advanced, elite), the better he fights, but the less efficient he is at gathering resources.",
+      "translation" : ""
+   },
+   "f577feb0c9d100f42c53ebfba290e2a4" : {
+      "english" : "In Memoriam",
+      "translation" : ""
+   },
+   "f61246e088a52b897d948f470f491adf" : {
+      "english" : "Every map of the chosen maptype.",
+      "translation" : "Све мапе од изабраних типова мапа:"
+   },
+   "f6204d8b6a788f1825fdffbc6d351c73" : {
+      "english" : "Delete the saved game (in the save/load windows).",
+      "translation" : ""
+   },
+   "f64be5eef68442a8f50cf535b92ad3e4" : {
+      "english" : "Country:",
+      "translation" : "Земља:"
+   },
+   "f6652b6ab6a7be712058a7477a3402f7" : {
+      "english" : "%(rangeLabel)s %(maxRange)s %(rangeUnit)s",
+      "translation" : ""
+   },
+   "f681c005eb292c91c923781589d16895" : {
+      "english" : "Select Control Group 1",
+      "translation" : ""
+   },
+   "f68bfd828ac23489068c3f13a909f364" : {
+      "english" : "Trainer Units",
+      "translation" : ""
+   },
+   "f6b2d56a99af8b5590304aa7b8d05184" : {
+      "english" : "Build time lengthened by +20% as a consequence.",
+      "translation" : ""
+   },
+   "f6eaf68ec87ec2443fa6bc59f04cbf1d" : {
+      "english" : "yyyy-MM-dd HH:mm:ss",
+      "translation" : "yyyy-MM-dd HH:mm:ss"
+   },
+   "f70dbbc42068c43704de8356f202e118" : {
+      "english" : "Most factions have access to them in Village Phase.",
+      "translation" : ""
+   },
+   "f7115e4891ab41c009017e95f47eb6e9" : {
+      "english" : "Spoiler",
+      "translation" : ""
+   },
+   "f733d419deba0d052b31993a7aeb38a0" : {
+      "english" : "%(resourceIcon)s %(minimum)s to %(resourceIcon)s %(maximum)s",
+      "translation" : "%(resourceIcon)s %(minimum)s to %(resourceIcon)s %(maximum)s"
+   },
+   "f75d9440de24a51f3a4890d2d0f7797d" : {
+      "english" : "Change the current selection to control group 6.",
+      "translation" : ""
+   },
+   "f77049e109d36b3bf49a6f6faea8bad7" : {
+      "english" : "SPEARMEN",
+      "translation" : "КОПЉОНОША"
+   },
+   "f7a2cb7dbe609245231b45c7c498d4ac" : {
+      "english" : "Your units will now spread out on this line.",
+      "translation" : ""
+   },
+   "f7ce381f3f84bd69c2e8a53304fb7f66" : {
+      "english" : "Show the next tab.",
+      "translation" : ""
+   },
+   "f82dc7fbaa8fa8c0e398fe2f95f0a4e1" : {
+      "english" : "yyyy-MM",
+      "translation" : "yyyy-MM"
+   },
+   "f87de1cb3b4534e5dcc55c2bc433bb93" : {
+      "english" : "Receive audio notification when someone types your nick.",
+      "translation" : ""
+   },
+   "f8f7c4ee50ed835ad7f34e996371c716" : {
+      "english" : "Mine from metal mines or quarries.",
+      "translation" : ""
+   },
+   "f93b12e8e9616eeacccf8bbcad4e6928" : {
+      "english" : "Select Control Group 8",
+      "translation" : ""
+   },
+   "f93bd7ba4570c2b83b075cbc60f97ca2" : {
+      "english" : "No Team",
+      "translation" : "нема тима"
+   },
+   "f93d654082dfdcb2fcdc1d23730bdb88" : {
+      "english" : "Receive audio notification when a new client joins the game setup.",
+      "translation" : ""
+   },
+   "f9ae5e5c44e59f94680af569879f704a" : {
+      "english" : "Everyone",
+      "translation" : "Сви"
+   },
+   "fa0f11c1d4a8554282671bca496fa8d4" : {
+      "english" : "Killed",
+      "translation" : "Убијено"
+   },
+   "fa584fa2438b11960c5c7a8c26dcab7e" : {
+      "english" : "(Observer) Speed up when lagging.",
+      "translation" : ""
+   },
+   "fa8f82c949263119d5338d1ed7de86f0" : {
+      "english" : "Use this feature to let your team know where on the map something important happens.",
+      "translation" : ""
+   },
+   "fad3138ed439dfa0a7db7ed90ed3f304" : {
+      "english" : "Recruit Healers to heal your troops on the battlefield.",
+      "translation" : "Регрутуј исцелитеље да лече твоје јединице на бојном пољу."
+   },
+   "faef8a7ae48511829272ce6cda1deabf" : {
+      "english" : "%(label)s %(icons)s",
+      "translation" : ""
+   },
+   "fb7ee7ca9969b2e17dda203507ffeb1d" : {
+      "english" : "Skirmish",
+      "translation" : ""
+   },
+   "fba2723bbb4a549c6500ac9fa1280e87" : {
+      "english" : "Leave Turret Point",
+      "translation" : ""
+   },
+   "fc1577e643bf629bb92f6be6579070cf" : {
+      "english" : "Mod Selection",
+      "translation" : "Одабир мода"
+   },
+   "fc1fb2b560d1d9142ce726ca0530bb2d" : {
+      "english" : "Prevent further observers from joining if the limit is reached.",
+      "translation" : ""
+   },
+   "fc2bca9c9f13f75f90c6c7a4d2563569" : {
+      "english" : "Toggle barter",
+      "translation" : ""
+   },
+   "fc470dac690ca8faa8337eac6fbc4552" : {
+      "english" : "Modifier to tribute bunch of resources.",
+      "translation" : ""
+   },
+   "fc763cb31e9938f37737394681228f83" : {
+      "english" : ", ",
+      "translation" : ","
+   },
+   "fc8aa8240d3ed5c94a66699fcf02ca84" : {
+      "english" : "Status: %(status)s.",
+      "translation" : "Стање: %(status)s."
+   },
+   "fcc0027d4040e05d51726b4bffa09340" : {
+      "english" : "Observer limit",
+      "translation" : ""
+   },
+   "fcde76147b4278d57262d7609322557f" : {
+      "english" : "Djembe",
+      "translation" : ""
+   },
+   "fd18829bb0125f2a5f43df9d18c0fe94" : {
+      "english" : "Add Control Group 7 to the current selection.",
+      "translation" : ""
+   },
+   "fd3879e779504e55130436cc22ebdb3b" : {
+      "english" : "Script:",
+      "translation" : "Скрипта:"
+   },
+   "fdbaa0a0a9a7b9200d1e674f69178803" : {
+      "english" : "Mods: %(mods)s",
+      "translation" : "Mods: %(mods)s"
+   },
+   "fdc1bfcacc5c75323497a86d38446cff" : {
+      "english" : "Activate auto-queue",
+      "translation" : ""
+   },
+   "fdc96a6245f09baca781d4eb22afb1e2" : {
+      "english" : "Click to view more information.",
+      "translation" : ""
+   },
+   "fdea3a600188f71adeb368a847cab144" : {
+      "english" : "Show this message in the future",
+      "translation" : "Прикажи ову поруку и убудуће"
+   },
+   "fe5a7fc9d9c907efdf6a384a71cd53fc" : {
+      "english" : "Bought",
+      "translation" : "Купио"
+   },
+   "fe81e851b1b27a1796c288dc52918c44" : {
+      "english" : "Mercenaries will not gather resources and cost only metal, but they are experienced and strong.",
+      "translation" : ""
+   },
+   "fee6ba1133b00a75d9c1748071bcdb96" : {
+      "english" : "%(label)s: %(value)s",
+      "translation" : "%(label)s: %(value)s"
+   },
+   "fef46e5063ce3dc78b8ae64fa474241d" : {
+      "english" : "Exit",
+      "translation" : "Излаз"
+   },
+   "ff09480fd1b2fd61e7c643a761f04c29" : {
+      "english" : "Official Forum (web)",
+      "translation" : ""
+   },
+   "ff29c87da6d7d43de711b67945876c58" : {
+      "english" : "Players start with only few units and have to find a suitable place to build their city.",
+      "translation" : ""
+   },
+   "ff7a314b1fa7725e54fc334948c856e0" : {
+      "english" : "Rotate camera to look upwards.",
+      "translation" : ""
+   },
+   "ff7ce304464b2f969fab61dc49086b49" : {
+      "english" : "Move cursor to right word",
+      "translation" : ""
+   },
+   "ff80680a17b9d1231298e606f9f5976a" : {
+      "english" : "Save current selection as Control Group 5.",
+      "translation" : ""
+   },
+   "ff8804741cc70484ab5e0dd35b909dc5" : {
+      "english" : "Military score",
+      "translation" : ""
+   },
+   "ff8bd1115e02f95d48420aa0342c8fd8" : {
+      "english" : "Vegetarian ratio",
+      "translation" : ""
+   },
+   "ff994a1d6cc2510b6210e5d2270e5000" : {
+      "english" : "Build one early to train citizen soldiers while you phase up your settlement.",
+      "translation" : ""
+   },
+   "ffa6a1a84c18716bb737dbb0f3a0e2e0" : {
+      "english" : "Aura range visualization",
+      "translation" : ""
+   },
+   "ffd290bafb3e2148ad58e523ebbb5b86" : {
+      "english" : "Toggle chat window and select the previous private chat partner.",
+      "translation" : ""
+   }
+}

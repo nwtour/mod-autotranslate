@@ -47,6 +47,10 @@
       "english" : "Available",
       "translation" : "Доступан"
    },
+   "7fba6576c6ca4c120fd4aa5e9480865d" : {
+      "english" : null,
+      "translation" : ""
+   },
    "8727cc422927608afd8395caa9d80dcc" : {
       "english" : "This map will give a rough guide for starting the game effectively.  Early in the game the most important thing is to gather resources as fast as possible so you are able to build enough troops later. Warning: This is very fast at the start, be prepared to run through the initial bit several times.",
       "translation" : "Ова мапа ће дати груб водич за ефикасно започињање игре. На почетку игре најважније је прикупити ресурсе што је брже могуће како бисте касније могли изградити довољно трупа. Упозорење: Ово је врло брзо на почетку, будите спремни да неколико пута прођете кроз почетни бит."
@@ -66,6 +70,10 @@
    "9a8e69e81f9afdb1ae7e2adfc1b7cebe" : {
       "english" : "No campaign selected.",
       "translation" : "Није изабрана ниједна кампања."
+   },
+   "b43898a9a8c63c1e66cae04fb88f9771" : {
+      "english" : "%(userDesc)s - %(templateName)s",
+      "translation" : "%(усерДесц) с - %(име шаблона) с"
    },
    "b66d8055865d07a70acac2ef085f8531" : {
       "english" : "Economy Walkthrough",

@@ -1,0 +1,58 @@
+{
+   "2bae1b833ca2420a1f1c9fa658268ca4" : {
+      "english" : "Players chat",
+      "translation" : "Играчи ћаскају"
+   },
+   "3fa94d7031478237aefc6d28a2a8e8bf" : {
+      "english" : "Press %(hotkey)s to pause or resume the game.",
+      "translation" : "Притисните %(интервентни тастер) с да бисте паузирали или наставили игру."
+   },
+   "5f1acae26d43a9c2e8fe27214c55f095" : {
+      "english" : "%(popCount)s/%(popLimit)s (%(popMax)s)",
+      "translation" : "%(попЦоунт) с/%(попЛимит) с (%(попМак) с)"
+   },
+   "64f6c40f669754ab8d9d8d28025477fd" : {
+      "english" : null,
+      "translation" : ""
+   },
+   "67e872659de1b61da1dfe9be75d44979" : {
+      "english" : null,
+      "translation" : ""
+   },
+   "7b246a14e8aea8cce4560807db2cc10f" : {
+      "english" : "Rejoining Multiplayer games with AIs is not supported yet!",
+      "translation" : "Поновно придруживање играма за више играча са вештачким интелигенцијом још није подржано!"
+   },
+   "b3595ce89bb82efaf14b46994e1a2000" : {
+      "english" : "You have sent %(player2)s %(amounts)s.",
+      "translation" : "Послали сте %(плаиер2) с %(износ) с."
+   },
+   "b820a37218bf369c86c0b043a4d6e923" : {
+      "english" : "Population: current/limit (max)",
+      "translation" : "Становништво: тренутно/ограничење (макс.)"
+   },
+   "beca5cc9317059389c479b4f4c12ddbe" : {
+      "english" : "Pathfinder overlay",
+      "translation" : "Патхфиндер прекривач"
+   },
+   "bf672b94f7229b1e03e40f63b8633851" : {
+      "english" : null,
+      "translation" : ""
+   },
+   "cc993e2e260539f47cb4b8e8ffe4f6ce" : {
+      "english" : "%(player)s is starting to rejoin the game.",
+      "translation" : "%(плаиер) с почиње да се поново придружује игри."
+   },
+   "e0b188ed735cd3d33b835dff041b31e8" : {
+      "english" : "Press %(hotkey)s to toggle this menu.",
+      "translation" : "Притисните %(интервентни тастер) с да бисте укључили овај мени."
+   },
+   "e79369e67b047a102146f8ae07e4d390" : {
+      "english" : "Ensure all players use the same mods.",
+      "translation" : "Уверите се да сви играчи користе исте модове."
+   },
+   "fd7f22a8a4342033e49a50e59e01f2c0" : {
+      "english" : "Activate Rejoin Test",
+      "translation" : "Активирајте Рејоин Тест"
+   }
+}

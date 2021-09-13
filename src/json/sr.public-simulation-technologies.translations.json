@@ -1,0 +1,54 @@
+{
+   "0fc59b9bf153d3d0f8bb9b9d7d435de5" : {
+      "english" : "Horse Breeding",
+      "translation" : "Коњогојство"
+   },
+   "26674b09e599ef7289346e257cdb1cfe" : {
+      "english" : "Structures −20% build time, −20% health, and −20% capture points.",
+      "translation" : "Структуре „20% времена изградње,“ 20% здравља и „20% тачака хватања."
+   },
+   "28f408e481fe985cadccb4c2af9146d0" : {
+      "english" : "Silver Mining",
+      "translation" : "Рударство сребра"
+   },
+   "32a18f7355960bcb2657e7e7b4c1b80d" : {
+      "english" : "Superior Cavalry",
+      "translation" : "Врхунска коњица"
+   },
+   "36e39a2dd993bb6c961f1d6545a2984b" : {
+      "english" : "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius. Structures +7 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.",
+      "translation" : "Напредујте у градску фазу, која откључава више ентитета и технологија. Грађански центри +30% територије утичу на радијус. Структуре +7 брзина регенерације тачака хватања по гарнизонској јединици. Радници +10% сакупљања метала."
+   },
+   "6e596b9dd7d52f6aa296d0e4da5f5ce4" : {
+      "english" : "Nyktophylakes",
+      "translation" : "Никтопхилакес"
+   },
+   "7cf8d29c246506e406b3585b3e1fc594" : {
+      "english" : "Civic Structures −25% build time and resources cost",
+      "translation" : "Грађанске структуре 25% изградње и трошкови ресурса"
+   },
+   "7eb491845cf34ffee89b5991b2005712" : {
+      "english" : "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit.",
+      "translation" : "Напредујте у градску фазу, која откључава више ентитета и технологија. Грађански центри +50% територије утичу на радијус. Структуре +9 брзина регенерације тачака хватања по гарнизонској јединици."
+   },
+   "9d5e2d8b9f7573982c759b9929944343" : {
+      "english" : "Unlock Champion Chariots at the Stable.",
+      "translation" : "Откључајте шампионске кочије у штали."
+   },
+   "bb932b549b498a641081fb4fbea41be8" : {
+      "english" : "Increases outpost vision.",
+      "translation" : "Повећава вид предстраже."
+   },
+   "bfa157077b0bf62f907ef7dfe0ecb58a" : {
+      "english" : "Compel serfs to help your workers quarry stone. Increases stone gathering rates.",
+      "translation" : "Присилите кметове да помогну вашим радницима да ваде камен. Повећава стопу сакупљања камена."
+   },
+   "c0dbd9b6e47f8676aa914a150d78ee06" : {
+      "english" : "Soldiers +20% ranged attack damage.",
+      "translation" : "Војници +20% оштећења у нападу."
+   },
+   "c73485213256a554b57acda9b69afbf4" : {
+      "english" : "Commercial Treaty",
+      "translation" : "Трговачки уговор"
+   }
+}

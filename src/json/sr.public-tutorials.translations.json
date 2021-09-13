@@ -1,0 +1,54 @@
+{
+   "02b26c619e3efd989fb599e1b4609abe" : {
+      "english" : "But to minimize the distance between a farm and its corresponding food dropsite, we will first build a Farmstead.",
+      "translation" : "Али да бисмо смањили удаљеност између фарме и одговарајуће локације за храну, прво ћемо изградити сеоско имање."
+   },
+   "37c63a07d0d098f301590d6aea0a7c16" : {
+      "english" : "Invalid (obstructed) positions will show the building preview overlay in red.",
+      "translation" : "Неважећи (блокирани) положаји ће приказати преклапање прегледа зграде црвеном бојом."
+   },
+   "5275c91502a278ac6c05e2891faf0b3e" : {
+      "english" : "This tutorial will teach the basics of developing your economy. Typically, you will start with a Civic Center and a couple units in Village Phase and ultimately, your goal will be to develop and expand your empire, often by evolving to Town Phase and City Phase afterward.\\n",
+      "translation" : "Овај водич ће научити основе развоја ваше економије. Обично ћете започети са грађанским центром и неколико јединица у сеоској фази, а на крају ће вам циљ бити развој и проширење вашег царства, често еволуцијом касније у градску фазу и градску фазу. \\ Н"
+   },
+   "760883e8b9249dde154cad22aac1a621" : {
+      "english" : "The newly trained units automatically go to the trees and start gathering wood.\\n",
+      "translation" : "Новообучене јединице аутоматски одлазе до дрвећа и почињу сакупљати дрва. \\ Н"
+   },
+   "7bfef0f370da49052e1eec195909ea4d" : {
+      "english" : "Citizen Soldiers gather wood faster than Female Citizens. Select the Civic Center and, while holding Shift, click on the second unit icon, the Hoplites (holding Shift trains a batch of five units). You can also train units individually by simply clicking, but training 5 units together takes less time than training 5 units individually.",
+      "translation" : "Грађански војници скупљају дрва брже од грађанки. Одаберите Цивиц Центер и, док држите Схифт, кликните на икону друге јединице, Хоплитес (држањем Схифт тренира серију од пет јединица). Такође можете појединачно тренирати јединице једноставним кликом, али обука 5 јединица заједно траје мање времена него обука 5 јединица појединачно."
+   },
+   "9138fe9a71758bbab5bb0e8f1ce25369" : {
+      "english" : "To do so, we could select three Citizen Soldiers and right-click on the stone quarry on the west of the Civic Center (the cursor changes when hovering the stone quarry while your soldiers are selected). However, these soldiers were gathering wood, so they may still carry some wood which would be lost when starting to gather another resource.",
+      "translation" : "Да бисмо то учинили, могли смо изабрати три грађанска војника и десним тастером миша кликнути на каменолом западно од Грађанског центра (курсор се мења при лебдењу каменог каменолома док су ваши војници одабрани). Међутим, ти су војници скупљали дрва, па ће можда и даље носити нешто дрва које би се изгубило када би почели прикупљати други ресурс."
+   },
+   "9306502f96004646b42a779c3663a410" : {
+      "english" : "Build a Forge and research the Infantry Training technology (sword icon) to improve infantry hack attack.",
+      "translation" : "Изградите ковачницу и истражите технологију пешадијске обуке (икона мача) да бисте побољшали хакерски напад пешадије."
+   },
+   "a4e09e84f931a78d7aeec811a0281359" : {
+      "english" : "Select the Civic Center building and hold %(hotkey)s while clicking on the Hoplite icon once to begin training a batch of Hoplites.",
+      "translation" : "Изаберите зграду Цивиц Центер и држите %(интервентни тастер) с док једном кликнете на икону Хоплите да бисте започели обуку серије Хоплитес."
+   },
+   "a93015e421468f34207b2d3200242a25" : {
+      "english" : "The selected Citizens will automatically start constructing the building once you place the foundation.",
+      "translation" : "Одабрани грађани ће аутоматски почети са изградњом зграде када поставите темељ."
+   },
+   "cee538427a73afd8000b55aaef30485a" : {
+      "english" : "The top row of buttons contains portraits of units that may be trained at the building while the bottom one or two rows will have researchable technologies. Hover the cursor over the II icon. The tooltip will tell us that advancing to Town Phase requires both more constructed structures as well as more food and wood resources.",
+      "translation" : "Горњи ред дугмади садржи портрете јединица које се могу обучавати у згради, док ће доњи један или два реда имати технологије за истраживање. Задржите показивач изнад иконе ИИ. Објашњење ће нам рећи да напредовање до градске фазе захтева и изграђеније структуре, као и више хране и дрвних ресурса."
+   },
+   "d89512802cd9e779e63f155973f6d5be" : {
+      "english" : "But your House builders will only look for something else to build and, if nothing found, become idle. Let's wait for them to build the Houses.",
+      "translation" : "Али ваши градитељи кућа ће тражити само нешто друго за изградњу и, ако ништа не пронађу, постаће беспослени. Сачекајмо да саграде Куће."
+   },
+   "e8f3e25903c4d80185adbe6bbc6a96c4" : {
+      "english" : "Left-click on a Female Citizen and then right-click on a berry bush to make that Female Citizen gather food. Female Citizens gather vegetables faster than other units.",
+      "translation" : "Кликните левим тастером миша на грађанку, а затим десним тастером миша кликните на бобицу да бисте натерали грађанку да сакупи храну. Грађанке сакупљају поврће брже од осталих јединица."
+   },
+   "edcc5cf05eb16d563616dc6291eca56a" : {
+      "english" : "\\nYou may also toggle between showing and hiding this tutorial panel at any moment using %(hotkey)s.\\n",
+      "translation" : "\\ нМожете такође у било ком тренутку да се пребацујете између приказивања и сакривања овог водича помоћу %(интервентног тастера) с. \\ н"
+   }
+}

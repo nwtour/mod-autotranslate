@@ -1,0 +1,2526 @@
+{
+   "002b28eee2003f44ee9ef84413f88799" : {
+      "english" : "Snowflake Searocks",
+      "translation" : ""
+   },
+   "00a13b0079dce82b33549dd2fe54f5c5" : {
+      "english" : "An otherwise wide-open, flat desert map is pierced in the center by two lush oases.\\n\\nThis represents the Libyan Desert, part of the Saharan Desert, West of the Nile River in Egypt.",
+      "translation" : "Широка и отворена, равна пустињска мапа са две бујне оазе у средишту.\\n\\nПредставља Либијску пустињу, која је део Сахаре, западно од реке Нил у Египту."
+   },
+   "00de288e0851f98dbaf050860573bbc1" : {
+      "english" : "Solidifying its grip, the harsh cold has succeeded in freezing up the gulf. The thick ice formed is capable of withstanding any weight.",
+      "translation" : ""
+   },
+   "013141a988b890033e74c1eaffe75a98" : {
+      "english" : "Bahrain, centre of the Dilmun civilization which fell in 800BC, was in turn controlled by Sumerians, Assyrians, Babylonians, Persians and other later peoples. An island strategically placed in the Sinus Persicus (Persian Gulf) and also centre of pearl trading due to its magnificent pearl fisheries, Bahrain is never left unoccupied for long. But now, with the previous occupants gone, the land prepares for war. Will you be the next Ruler of Bahrain?",
+      "translation" : ""
+   },
+   "015560049ee94c671da6c2eabd2a417c" : {
+      "english" : "The high peaks and valleys of the Alps.\\n\\nEach player starts the match nestled in a safe green valley. Between lies the treacherous Alps mountain range.",
+      "translation" : "Планински врхови и долине Алпа.\\n\\nСваки играч почиње угнежђен у безбедној зеленој долини. Између њих лежи подмукао планински венац Алпа."
+   },
+   "02e55f3f5350c2e5a36f79fb6dc7f656" : {
+      "english" : "%(player)s has been defeated (lost all critical units and structures).",
+      "translation" : ""
+   },
+   "02fdbb9417976fb732830ffcd8c17843" : {
+      "english" : "Land shaped like a concrescent moon around a central lake.",
+      "translation" : ""
+   },
+   "0365b27d96f85b118f3b7bff553ef9f2" : {
+      "english" : "A demo map showing the territory effects of each type of structure.",
+      "translation" : "Демо мапа показује територијалне ефекте сваког типа грађевине."
+   },
+   "03727ac48595a24daed975559c944a44" : {
+      "english" : "Day",
+      "translation" : "Дан"
+   },
+   "03a0ccf39684277c0faf92b6ff0b3d90" : {
+      "english" : "Botswanan Haven",
+      "translation" : ""
+   },
+   "03a924bb75e02d79ad2e311daebaf454" : {
+      "english" : "The Nile",
+      "translation" : "Нил"
+   },
+   "0454236a66b299894fc9ee3f5e8fc6b6" : {
+      "english" : "Oasis",
+      "translation" : "оаза"
+   },
+   "049222551b3d156fc878858dd1422d36" : {
+      "english" : "East Player",
+      "translation" : "Источни Играч"
+   },
+   "04c6517ba6720ff29cc50376504e5464" : {
+      "english" : "New RMS Test",
+      "translation" : "Нови RMS тест"
+   },
+   "04ffb3dfb0772a1b0383af541f7309b4" : {
+      "english" : "A sandbox scenario for players to try out the Roman civilisation.",
+      "translation" : "Sandbox сценарио за играче који желе испробати римску цивилизацију."
+   },
+   "0528142472a8eef3d571a95871c33bb0" : {
+      "english" : "Skirmish high in the Atlas mountains, where snowcapped mountains loom over desert oases. A wild landscape awaits; every player will experience different advantages and challenges based on their location.",
+      "translation" : ""
+   },
+   "064979831780a637116a90c17ea2dd32" : {
+      "english" : "Lion's Den",
+      "translation" : "Лавља Јазбина"
+   },
+   "066e1d8b65cd84d61bbce5d15fb5493f" : {
+      "english" : "South of the Sahara, East of the Nile, lies a semi-arid region today known as the Butana Steppe.",
+      "translation" : ""
+   },
+   "06a10a65c30110e9a1ed996e2d257945" : {
+      "english" : "A region in the high snowy mountains. Biting winds sweep through the abundant conifer forests, making even the more resilient deer and mountain goats shiver.",
+      "translation" : ""
+   },
+   "076ed33b39d3ca79cccb406966ac25cf" : {
+      "english" : "The vitalizing waters of the Nile sustain life along its banks, while the long dry season scorches the land.",
+      "translation" : ""
+   },
+   "0777c830342e34060355659a095721ee" : {
+      "english" : "The Celts invade Greece. Fight through the central valley or cut through the rich highlands in order to secure the lands around Delphi!",
+      "translation" : "Келти продиру у Грчку. Бори се дуж средишње долине или пресечи преко богатих висоравни како би обезбедио земље Делфа."
+   },
+   "08440bee0a237e4b7ac1d2efdd9b56d0" : {
+      "english" : "A deep rocky canyon slicing through the desert.\\n\\nEach player starts their colony on a plateau on either side of the ravine.",
+      "translation" : "Дубок стеновит кањон пресеца кроз пустињу.\\n\\nСваки играч започиње колонију на висоравни које се простиру на обема странама јаруге."
+   },
+   "0861134397888c470803c77fb6cd2943" : {
+      "english" : "Samoa",
+      "translation" : "Самоа"
+   },
+   "08c0bd46536da344d29c995cb8d3b46d" : {
+      "english" : "%(_player_)s has captured all relics and will win in %(time)s.",
+      "translation" : ""
+   },
+   "08f9d245957aeba6bdeebfe93a039def" : {
+      "english" : "All Roads Lead To Rome. Via Julia Augusta a Roman road built in 13 BCE.",
+      "translation" : ""
+   },
+   "090e1d4abe6bde5143911092c156781b" : {
+      "english" : "Azure Coast 1",
+      "translation" : "Азурна обала 1"
+   },
+   "0972b0b0fb21c36760adfd96581f0af8" : {
+      "english" : "Rome battles against the Etruscan city of Veii for control of the Tiber River basin.",
+      "translation" : "Рим се бори против етрурског града Веји за контролу басена реке Тибар."
+   },
+   "09a2124a50b653420866bc7426d945c6" : {
+      "english" : "Alpine Mountains (3)",
+      "translation" : "Алпске планине (3)"
+   },
+   "0a79e8b23385dc17f979dedfe256dfc7" : {
+      "english" : "Choose a random land landscape",
+      "translation" : ""
+   },
+   "0bb9e10a3c4b03e6119e6c10b20d6869" : {
+      "english" : "Continent",
+      "translation" : "Континент"
+   },
+   "0bc7a392dcd1787ec1dd509fab8e7055" : {
+      "english" : "Start in a region blessed with the Mediterranean climate, a warm and inviting land. The cypresses are in a perpetual struggle with the dominant fan palms while deer graze in their shadows, blissfully unaware.",
+      "translation" : ""
+   },
+   "0d1c64c4afd376730fec5a6e4cd3c677" : {
+      "english" : "The transition between the dry Sahara to the north and the tropical forests to the south. The sunlight floods through the open canopy and lights the grassland between the trees, where herds of zebras, wildebeest, giraffes and elephants roam.",
+      "translation" : ""
+   },
+   "0d4202ede83d91da6cd4482e1ca91783" : {
+      "english" : "Memphis",
+      "translation" : ""
+   },
+   "0d5a10a44b38fe9ac62bb6c60858162d" : {
+      "english" : "Campaign Map - Test",
+      "translation" : "Мапа кампање - Тест"
+   },
+   "0dee80209a653ea7b81cc073f8f908ff" : {
+      "english" : "Player 3",
+      "translation" : "Играч 3"
+   },
+   "0edc9b073397681dc9f2c479686ea0d9" : {
+      "english" : "Night",
+      "translation" : "Ноћ"
+   },
+   "0f67bf1dc5143da09a53faf429b50094" : {
+      "english" : "Atlas Mountains",
+      "translation" : "Планине Атлас"
+   },
+   "10c23cc23e390387f9c6c2a9445cafd0" : {
+      "english" : "Invader 1",
+      "translation" : ""
+   },
+   "10de6a9206c2309d903ce2f94523eec1" : {
+      "english" : "Central River",
+      "translation" : ""
+   },
+   "12d793b008ac3e6cf49af40a78c90c0c" : {
+      "english" : "Invader 4",
+      "translation" : ""
+   },
+   "1378648b4e07c804b09410451157fcfb" : {
+      "english" : "Players start in the southwestern shores of India between a sea and mountains.",
+      "translation" : "Играчи почињу на југозападној обали Индије између мора и планина."
+   },
+   "141978128efd2ff857849ebbcac9970b" : {
+      "english" : "Dueling Cliffs (3v3)",
+      "translation" : "Сукобљене Клисуре (3v3)"
+   },
+   "1440753734acfdefbc26c81ef2333189" : {
+      "english" : "Nubia, a dry climate in which only the hardy Baobab trees thrive. Solitary gazelles graze the sparse grass, while herds of zebras, wildebeest, giraffes or elephants roam the wild in search of food.",
+      "translation" : ""
+   },
+   "14a16b1bfe4eec571e16ba761caa77b1" : {
+      "english" : "Frontier",
+      "translation" : "Граница"
+   },
+   "14d149d7c9326303168e4206bbcf7796" : {
+      "english" : "Aegean Sea",
+      "translation" : "Егејско море"
+   },
+   "1529c3104e97733423314bdb9a402a6d" : {
+      "english" : "Napata is attacking!",
+      "translation" : ""
+   },
+   "15fe3fe113dad2acca3a233f0ab5f5c3" : {
+      "english" : "Sahara",
+      "translation" : ""
+   },
+   "16d76ab64694a40a6764a72067abd6d9" : {
+      "english" : "A sandbox scenario for one player.",
+      "translation" : "Sandbox сценарио за једног играча."
+   },
+   "1728d316289a8302c0438a42389e8eb0" : {
+      "english" : "Sparta",
+      "translation" : "Спарта"
+   },
+   "180d9912f0879e82cdc41b2f5d7a221b" : {
+      "english" : "Corsica vs Sardinia",
+      "translation" : "Корзика против Сардиније"
+   },
+   "196a1ec436af1f5fb085ecf35fd9a8ba" : {
+      "english" : "Thebes",
+      "translation" : "Теба"
+   },
+   "19854136174140f86f38e233c3ac2558" : {
+      "english" : "Bactriana (2)",
+      "translation" : ""
+   },
+   "19f59b74448f6a27519db281a44e4b12" : {
+      "english" : "Migration",
+      "translation" : "Миграција"
+   },
+   "1a070a7bec20f1c239393252f09642d6" : {
+      "english" : "The Hydaspes, aka Jhelum, River in the Punjab of India. Here was the site of the great battle between the Macedonian forces under Alexander the Great and the Indian forces of the king Porus of Paurava.",
+      "translation" : ""
+   },
+   "1a26c51ad8df1583fb3ef67a21fdefa3" : {
+      "english" : "Every unit in the game.",
+      "translation" : "Свака јединица у игри."
+   },
+   "1aa01d3707b56837f88dd3862b24655a" : {
+      "english" : "Napata Reconstruction",
+      "translation" : ""
+   },
+   "1ac31b546e4beff0bc0818d89eb01c07" : {
+      "english" : "Sandbox - The Carthaginians",
+      "translation" : "Sandbox - Картагињани"
+   },
+   "1ad797be56cb82ce2e30f240d5862730" : {
+      "english" : "Ngorongoro",
+      "translation" : ""
+   },
+   "1bb3afa62833fa249c3cde389099146e" : {
+      "english" : "Naval: Lake and rivers",
+      "translation" : ""
+   },
+   "1c4c84adcd7b2b7514a9b8b8a938e83d" : {
+      "english" : "Alpine Lakes",
+      "translation" : "Алпска језера"
+   },
+   "1d72db4924e31ce7488f6d4280386878" : {
+      "english" : "In the deep Sahara Desert of Africa lies an  area of rocky outcrops and small oases. \\n\\nLarge stone quarries can be found in the cliffs, while wood and animal resources can be found near the oases dotting the landscape. Nearby fruiting Date Palms give an nice initial burst of food.",
+      "translation" : ""
+   },
+   "1d8cac9293cf481bfbfd2ff11cc3f685" : {
+      "english" : "The scenery is illuminated by direct or indirect sunlight.",
+      "translation" : ""
+   },
+   "1deea7c6df5ad032803fe68b23333736" : {
+      "english" : "Scythian Rivulet",
+      "translation" : ""
+   },
+   "1ebd96f8b819fc3e9353f50d824f3495" : {
+      "english" : "Pauravan Position",
+      "translation" : ""
+   },
+   "1ec2194bc14fff614fd23f67b54abe5f" : {
+      "english" : "This map is designed to test some basic unit movement cases. It will involve unitAI, unitMotion and the relevant pathfinders and thus acts as an integrated test map. Look for things such as stuck units, wrong animations, and weird pathing.",
+      "translation" : ""
+   },
+   "1ec9f10cc0b13a5ded8c6b7b63d0e5e1" : {
+      "english" : "A wild and wooded isle, full of forests, gold, and mystery. Mountains, seas, and thick forests make for a very dynamic and fast-paced 3-player map with lots of potential for skirmishing and guerilla warfare as well as tough defensive fighting or aggressive maneuvers.",
+      "translation" : ""
+   },
+   "1f49f770adc6c84629f50ce3ca2a2109" : {
+      "english" : "Rome",
+      "translation" : "Рим"
+   },
+   "1f5c5ce5cdbea723378e6db882a732ec" : {
+      "english" : "Walls",
+      "translation" : "Зидине"
+   },
+   "1fe6402b6b51d0e789db210520c6e2f2" : {
+      "english" : "Wide grasslands stretching to the horizon, without any trees blocking the view. The Steppe is home to large herds of wild horses, which graze peacefully on the empty land, but flee quickly if you try to catch them.",
+      "translation" : ""
+   },
+   "1fefa87b0b8015b250ee3b6e8426318c" : {
+      "english" : "Sandbox - The Ptolemaic Egyptians",
+      "translation" : "Sandbox - птоломејски Египћани"
+   },
+   "202168846776490c3aa47b0a9263ece3" : {
+      "english" : "Northwest India. Nearby rivers swell with monsoon rains, allowing for only a few treacherous crossings.\\n\\nThe rivers are heavily forested, while grasslands carpet the surrounding countryside. Watch out for Tigers in the tall grass! Asian elephants are also a common sight.",
+      "translation" : "Северозападна Индија. Оближње реке су набујале од монсунских киша, а могуће их је прегазити на неколико опасних прелаза.\\n\\nОбале река су начичкане густом шумом, док пашњаци прекривају околни предео. Чувај се тигрова у високој трави. Слонови су такође уобичајен призор. "
+   },
+   "21173a31b054d83dd88c49e6978e46ad" : {
+      "english" : "Sinai",
+      "translation" : "Синај"
+   },
+   "2184c829814b99a6e9ddeda7e26b68e2" : {
+      "english" : "Third Macedonian War",
+      "translation" : "Трећи Македонски рат"
+   },
+   "218a1f1fbe9a7bc8aa0b505eb4315ab6" : {
+      "english" : "Demo map for cinematic camera movements.",
+      "translation" : ""
+   },
+   "21c6d3a6ce1e3d6077a1b2281aafa6c9" : {
+      "english" : "Your enemy's treasury is filled to the brim, you lose!",
+      "translation" : "Непријатељска ризница је препуна, изгубио си!"
+   },
+   "21dab21751c2f504677826d317e460d9" : {
+      "english" : "Forming the traditional frontier between ancient Kush and Egypt, the fortified Island of Elephantine was situated on the Nile River at the first cataract. As the border between Upper Egypt and Lower Nubia, Elephantine became an important way-station for the trade in ivory and other goods. It was considered to be the home of the god Khnum, guardian of the source of the Nile, and boasted an impressive temple complex.",
+      "translation" : ""
+   },
+   "225d4adbd1736201b067fa9beb189067" : {
+      "english" : "Fields of Meroë",
+      "translation" : ""
+   },
+   "22754ab54a59c0369c1bc7f87a5e5820" : {
+      "english" : "The Propontis (Sea of Marmara) connects the Pontus Euxinus (Black Sea) to the Aegean Sea, and seperates Asia Minor from Thrace. To the south-west lies the Hellespont (Dardanelles), at the entrance of which the ancient city of Ilium (Troy) once stood. To the north-east lies the Bosporus Thraciae (Bosporus strait) where in time the Greek city of Byzantium would be founded, later to become the capital of the great Byzantine Empire under the new name of Constantinople. Players start on fertile land with adequate resources.",
+      "translation" : ""
+   },
+   "22ad541d1e321d3690fe1c72598c2920" : {
+      "english" : "Each player starts in a coastal area between forested hills and the Sea. Inspired by the southern regions of the Caspian Sea known in Antiquity as Hyrcania.",
+      "translation" : ""
+   },
+   "22d634109d3bf572e98328c214ad32c2" : {
+      "english" : "An experimental map with its heightmap generated by erosion to look more natural. Not all seeds will be fair though! Tiny maps with 8 players may take a while to generate.",
+      "translation" : ""
+   },
+   "23825d0ab127205edda442ed2807495e" : {
+      "english" : "A map for testing movement costs and terrain properties in the A* pathfinder.",
+      "translation" : ""
+   },
+   "2395f748ba38f19086d8f0a0d557074b" : {
+      "english" : "A map for testing unit movement algorithms.",
+      "translation" : "Мапа за тестирање алгоритма кретања јединице."
+   },
+   "23d95930c493bbc1c7f73f28c4cdfc13" : {
+      "english" : "Corinthian Isthmus",
+      "translation" : "Коринтска превлака"
+   },
+   "24588804102049658490a66b6f67a8df" : {
+      "english" : "Sahel",
+      "translation" : "Сахел"
+   },
+   "248a9c2fc2783dfd8bf8512d5e262967" : {
+      "english" : "Peloponnesian Wars",
+      "translation" : "Пелопонески рат"
+   },
+   "24eb7a19ad4af742cc147c8e4be1c2b9" : {
+      "english" : "West Player",
+      "translation" : "Западни Играч"
+   },
+   "257af5f7bd37917246222adb5596b9bd" : {
+      "english" : "Farmland in Eastern Europe.",
+      "translation" : ""
+   },
+   "263d7b2cf53802c9ed127b718c0bf9fd" : {
+      "english" : "South",
+      "translation" : "Југ"
+   },
+   "2640454951a1c4b67b9871ceb83963c3" : {
+      "english" : "Test map for picking units up, with sea and two islands. Trigger points are placed.",
+      "translation" : ""
+   },
+   "2708f004aa07a919aa585e07b767577b" : {
+      "english" : "Players are scattered across island chains and disconnected islands.",
+      "translation" : ""
+   },
+   "279f944308d645dc05843a92e4a3c9ab" : {
+      "english" : "Libyan Oasis (2)",
+      "translation" : "Либијске оазе (2)"
+   },
+   "27aeac5881f95bfe057e1fccccbdf054" : {
+      "english" : "Celts",
+      "translation" : "Келти"
+   },
+   "28bca9bd5fd6a1374caa80c0976a456b" : {
+      "english" : "A \\\"small island\\\"-style map set in the Aegean Sea.\\n\\nMap size: Very Large",
+      "translation" : "Стил мапе 'малена острва' у Егејском мору.\\n\\nВеличина мапе: Веома велика"
+   },
+   "2904391fc7ace15e52d78049b626ad56" : {
+      "english" : "A wild, unknown landscape awaits rival explorers.",
+      "translation" : "Дивљи, неистражени предео очекује супарничке истраживаче."
+   },
+   "298f8a9c2263d6480f862fe43e6798a6" : {
+      "english" : "Unit Dancing test",
+      "translation" : ""
+   },
+   "29a673ce0a8e68c6cd6b13553bb61539" : {
+      "english" : "Romans",
+      "translation" : "Римљани"
+   },
+   "29d8449fa320b47f5ca5b2dda70b2d58" : {
+      "english" : "Northern Italy near the Alps is called Cisalpine Gaul by the Romans. It's a fertile area contested by the Gauls, Etruscans, and Romans alike. \\n\\nCAUTION: Map has a lot of snow particles that could affect graphics performance on low-end hardware.",
+      "translation" : ""
+   },
+   "29da6601ee9186fe9eff22c8948a90bc" : {
+      "english" : "Trading Demo",
+      "translation" : "Демо - Трговина"
+   },
+   "29f948e6010e100f8830b5132b617bc6" : {
+      "english" : "Spring in the highlands, yet the heat has already begun making itself felt. The short-lived green grasses are on the retreat, paving the way for scorching summer.",
+      "translation" : ""
+   },
+   "2a2da3a68cd170f3299e7d44f9b2e55d" : {
+      "english" : "Stronghold",
+      "translation" : "Тврђава"
+   },
+   "2af4672c997ebbecc0129a47d4ecd158" : {
+      "english" : "Players start around a small oasis in the center of the map which holds much of the available wood on the map.",
+      "translation" : "Играчи почињу надомак малених оаза у средишту мапе где се налази већина расположиве шуме."
+   },
+   "2b2330c249498a294e6e7b1c84b7a430" : {
+      "english" : "The players start on two opposing islands, both with a very jagged relief that will make landing difficult.",
+      "translation" : "Играчи почињу на супротним острвима, оба са неприступачним теренима која чине искрцавање отежаним."
+   },
+   "2c7db80687d1c7a2302c4cb291a828b4" : {
+      "english" : "Explore the Carthaginian Buildings and Units.",
+      "translation" : "Истражи картагинске грађевине и јединице."
+   },
+   "2e1fa71dcbae2286edaa7f36b4fce773" : {
+      "english" : "Ariobarzanes",
+      "translation" : "Ариобарзан"
+   },
+   "2e2805ba2c47f6674f3ed3a2c32dd6a4" : {
+      "english" : "The Persians",
+      "translation" : "Персијанци"
+   },
+   "2e746b01c4fb83269c93acf468139ca9" : {
+      "english" : "A wide-open map with a central rocky region rich in Minerals (Metal Resource). This map may be played if the other more detailed maps cause uncomfortable lag.",
+      "translation" : "Широка мапа са средишњом стеновитом облашћу богатом минералима (ресурс метала). Ова се мапа може играти уколико остале детаљније мапе стварају неприхватљив лаг."
+   },
+   "2ed9b2feabd9a0dc5dc7ce6c077ef909" : {
+      "english" : "Scythian Steppes (4)",
+      "translation" : ""
+   },
+   "2ee5ae1593f29b99e3e8a86a894fb2b3" : {
+      "english" : "Say sure",
+      "translation" : "Кажи наравно"
+   },
+   "2f598cbec6bb5bb372e4036f2faba845" : {
+      "english" : "A demonstration of the new trading feature.",
+      "translation" : "Приказ нове трговинске опције."
+   },
+   "2fe42a8414a76e5dd0a6f83b48a2b1b5" : {
+      "english" : "Invader 2",
+      "translation" : ""
+   },
+   "310f2a3bbe70211a98d7752f0c2e9851" : {
+      "english" : "The Macedonians",
+      "translation" : "Македонци"
+   },
+   "31b27cc7bc47ec6704e760efe511bbb6" : {
+      "english" : "%(_player_)s owns a Wonder and will win in %(time)s.",
+      "translation" : ""
+   },
+   "32561e85fca9af5326dc363b60568339" : {
+      "english" : "Multiplayer Demo",
+      "translation" : "Мултиплејер демо"
+   },
+   "3290321df2d2e6901d538d5a6e12117e" : {
+      "english" : "Hell's Pass",
+      "translation" : "Ђавољи Пролаз"
+   },
+   "32aca60972a2102ec7d6e382562e3870" : {
+      "english" : "Rivers flow between players and join each other in the center of the map.",
+      "translation" : "Реке теку између играча и спајају се у средишту мапе."
+   },
+   "32acb31ab369f11b8dfc830f37b92444" : {
+      "english" : "Obedska Bog (4)",
+      "translation" : ""
+   },
+   "33282e7c756bfdd71aa4290ebd06564b" : {
+      "english" : "The central region of the vast continent of Africa, birthplace of humanity. Players start in a lush area teeming with vegetation and wildlife.",
+      "translation" : "Централни регион пространог континента Африке, колевке човечанства. Играчи почињу у бујном окружењу које врви од вегетације и дивљачи."
+   },
+   "33b47f43c9e77940c6b9e4e290e66547" : {
+      "english" : "Cinema Demo",
+      "translation" : ""
+   },
+   "33ce36ea79821c3e423363bc7123e271" : {
+      "english" : "Resource demo",
+      "translation" : "Демо - Ресурси"
+   },
+   "342dacf2856e664754846ce4c015e73b" : {
+      "english" : "Iberia",
+      "translation" : "Иберија"
+   },
+   "3480c6c48be45513966de72703ee613b" : {
+      "english" : "The mountains buffering the Persian homeland, straddling Persis, Susiana, and Media.\\n\\nPlayers start the match near the Persian Gulf in their own province with 1 free Temple. \\n\\nAccess to untapped resources and territories can be found through the rugged hinterlands.",
+      "translation" : ""
+   },
+   "34be182d6b4bbba79369a055c10531db" : {
+      "english" : "The Spartans",
+      "translation" : "Спартанци"
+   },
+   "3506f9941db6daf3cdc41686d45c5b67" : {
+      "english" : "The Italian peninsula \\n\\n Latium is the region of central western Italy in which the city of Rome was founded and grew to be the capital city of the Roman Empire. Latium was originally a small triangle of fertile, volcanic soil on which resided the tribe of the Latins. It was located on the left bank (east and south) of the Tiber river, extending northward to the Anio river (a left-bank tributary of the Tiber) and southeastward to the Pomptina Palus (Pontine Marshes, now the Pontine Fields) as far south as the Circeian promontory. The right bank of the Tiber was occupied by the Etruscan city of Veii, and the other borders were occupied by Italic tribes. Subsequently Rome defeated Veii and then its Italic neighbors, expanding Latium to the Apennine Mountains in the northeast and to the opposite end of the marsh in the southeast. The modern descendant, the Italian Regione of Lazio, also called Latium in Latin, and occasionally in modern English, is somewhat larger still, but not as much as double the original Latium.",
+      "translation" : ""
+   },
+   "35773274c454444cb19e842c3c25a29e" : {
+      "english" : "A quick battle demo map using Roman legionaries.",
+      "translation" : ""
+   },
+   "35836cbb2b9647fd6a1dbed0c4de2f89" : {
+      "english" : "A real-world map of the Greek homeland.",
+      "translation" : ""
+   },
+   "35a0c9c6888bbe4c32111ecab9c4fa03" : {
+      "english" : "Late Spring",
+      "translation" : "Касно Пролеће"
+   },
+   "363163a204c7d9161329f354f0326366" : {
+      "english" : "Summer has arrived to the cold regions of the north and with it have many animals, profiting from its milder climate. Wolves, ever present, have shed their winter clothes; deer, hares and muskox populate the plains. The last traces of winter are rapidly disappearing, only to reappear very soon.",
+      "translation" : ""
+   },
+   "363c8307e21e4989807991cd94dfe778" : {
+      "english" : "Play with the Ptolemaic Egyptians in a non-threatening sandbox setting.",
+      "translation" : "Играј са Птоломејским Египћанима у безопасном sandbox окружењу."
+   },
+   "368ba127551225d540a70657e5dba0d3" : {
+      "english" : "Samos",
+      "translation" : "Самос"
+   },
+   "37006d8cd4982f5e426522914b532457" : {
+      "english" : "A lake surrounded by hills.",
+      "translation" : ""
+   },
+   "38008dd81c2f4d7985ecf6e0ce8af1d1" : {
+      "english" : "Spring",
+      "translation" : "Пролеће"
+   },
+   "38656090ab1dcf22ea90dafd55ba4b40" : {
+      "english" : "A maze of islands of different sizes and shapes. Players start with more wood than normal.",
+      "translation" : "Лавиринт острва различитих величина и облика. Играчи почињу са више дрва од уобичајеног."
+   },
+   "38c85052f6760f64a41721579f5d6679" : {
+      "english" : "Territory Demo",
+      "translation" : "Демо - Територија"
+   },
+   "38e009681db6ebf082fc274f1923c618" : {
+      "english" : "Scattered sunlight illuminates the scenery in a vivid red tone.",
+      "translation" : ""
+   },
+   "38eb4c8841daf62807ca230d3ca04c54" : {
+      "english" : "Massacre of Delphi",
+      "translation" : "Масакр Делфа"
+   },
+   "38f513252f5e27c0abecad329e7e3b55" : {
+      "english" : "Invader 3",
+      "translation" : ""
+   },
+   "39059168c569e41bd959c426fc473a9d" : {
+      "english" : "Olbia",
+      "translation" : "Олбија"
+   },
+   "3a1a67d3b4f1796e30530807ff3d8f7b" : {
+      "english" : "Multiplayer map. A tropical paradise.",
+      "translation" : "Мултиплејер мапа. Тропски рај."
+   },
+   "3aa49c7d6f6ea704dd89c1212741e762" : {
+      "english" : "Schwarzwald",
+      "translation" : "Шварцвалд"
+   },
+   "3afeb766141487cba219a05ce0d0be3c" : {
+      "english" : "Lorraine Plain (2)",
+      "translation" : "Лоренска равница (2)"
+   },
+   "3b05c6382bc30052a26d85877fc5079e" : {
+      "english" : "Temperate zone map with plentiful resources. Map Size: Small",
+      "translation" : ""
+   },
+   "3b56722400dc59eaad98157d0818f4d1" : {
+      "english" : "Arctic Summer",
+      "translation" : "Арктичко Лето"
+   },
+   "3b80a91fe965eacf27e143114695082b" : {
+      "english" : "Small map with lots of resources and some water, for testing gameplay in non-competitive multiplayer matches.",
+      "translation" : ""
+   },
+   "3c378e3b71d8cb2da42f5073fd96c0d7" : {
+      "english" : "Mainland",
+      "translation" : "Копно"
+   },
+   "3c90e89bd48292067531182a0f0fec60" : {
+      "english" : "Persians",
+      "translation" : "Персијанци"
+   },
+   "3ceaf2d3d00ea6acd029bf49a0029614" : {
+      "english" : "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\\n\\nTo the East lies a large bay with fishing opportunities. To the West is an unclaimed acropolis overlooking the Aegean Sea.",
+      "translation" : ""
+   },
+   "3cfbf3022c9e476ea09ebc7ce6d81a8f" : {
+      "english" : "Fortress",
+      "translation" : "тврђава"
+   },
+   "3d8306f187f51ca58a3ec14c6d23ddaf" : {
+      "english" : "Delian League",
+      "translation" : "Делска лига"
+   },
+   "3dff81bd2a032455f8957a8be2af01d2" : {
+      "english" : "%(player)s has been defeated (lost all civic centres and critical units and structures).",
+      "translation" : ""
+   },
+   "3e477d021e4a6349a137ad79e837d397" : {
+      "english" : "Players start with some light fishing opportunities in the calm waters of a sheltered harbor. A large bounty of seafood lays beyond the protective cliffs in the deep ocean. Small passages at the base of the cliffs make for tight fighting and easy fortification. Will you fight your way through the narrow passageways or take to the sea?",
+      "translation" : ""
+   },
+   "3e828943a6b619b8ede5d2bf1129c156" : {
+      "english" : "Wild Lake",
+      "translation" : "Дивље Језеро"
+   },
+   "3fd97727b8246a330c0fbfe4bf63734b" : {
+      "english" : "Nikaia",
+      "translation" : "Никеја"
+   },
+   "402fcfe60314302258da75d7cf0bd7f5" : {
+      "english" : "Saharan Oases (4)",
+      "translation" : "Сахарске оазе (4)"
+   },
+   "40b11e6e450f6dc9cd3b0c1fc4fb83ef" : {
+      "english" : "A jumbled maze of cliffs, canyons, and rugged terrain with an oasis in the center\\n\\nCappadocia is a historical region in Central Anatolia. In the time of Herodotus, the Cappadocians were reported as occupying the whole region from Mount Taurus to the vicinity of the the Black Sea. Cappadocia, in this sense, was bounded in the south by the chain of the Taurus Mountains that separate it from Cilicia, to the east by the upper Euphrates and the Armenian Highland, to the north by Pontus, and to the west by Lycaonia and eastern Galatia. Cappadocia lies in eastern Anatolia. The relief consists of a high plateau over 1000 m in altitude that is pierced by volcanic peaks. Due to its inland location and high altitude, Cappadocia has a markedly continental climate, with hot dry summers and cold snowy winters. Rainfall is sparse and the region is largely semi-arid.",
+      "translation" : ""
+   },
+   "40f6f8a0646a2406cc1337bf7fbab4d7" : {
+      "english" : "A deep rocky canyon slicing through the desert. Good for multiplayer.\\n\\n2 teams of 2 players. 1 player on each team starts with a base and resources. The other player starts with only a large army to assist their teammate.",
+      "translation" : ""
+   },
+   "40fdf8dcc7c3c094c76aaf1b67a57726" : {
+      "english" : "Anatolian Plateau",
+      "translation" : "Анадолски плато"
+   },
+   "4144f352b153182e2863f1078cf1ad36" : {
+      "english" : "An Egyptian desert map bisected by the broad Nile River. Organic resources cluster near the river, while mineral resources can be found in the desert hinterlands.",
+      "translation" : "Египатска пустињска мапа пресечена надвоје широким Нилом. Органски ресурси груписани су близу реке, док се минерални ресурси могу наћи у пустињском залеђу."
+   },
+   "41be71f3fb2edc9827baaa73a1360511" : {
+      "english" : "Road Decals Demo",
+      "translation" : ""
+   },
+   "428acb03c3391f3bd3a009b86c290e0c" : {
+      "english" : "The steppes of central Asia. A wide open grassland with few trees (about 90% fewer trees than on a temperate or Aegean map). Animal life is plentiful though, so take advantage of the hunting available. ",
+      "translation" : ""
+   },
+   "428fa261f7059c89d9d6cf4090740b78" : {
+      "english" : "Cycladic Archipelago (2)",
+      "translation" : "Кикладски архипелаг (2)"
+   },
+   "42bf39d7eec733c8e323cb1ce6232fd0" : {
+      "english" : "Ships Demo",
+      "translation" : "Демо - Бродови"
+   },
+   "4345f90a3daee6fa1470e815f7e7df86" : {
+      "english" : "Say rather not",
+      "translation" : "Кажи ипак не"
+   },
+   "438a27f24fb04222ada0d86a133c71df" : {
+      "english" : "Players start along the banks of the river Danube in the period following the expansion into Pannonia by the Celtic Boii tribe. Seeking to consolidate their hold on this land, celtic reinforcements have been sent to root out the remaining foreign cultures. Players not only have to vie for power amongst themselves, but also beat back these ruthless invaders. Ultimately, the Boii were defeated by the rising power of the Dacians, hence leading to the reemergence of the Geto-Dacian Confederation under King Burebista.",
+      "translation" : ""
+   },
+   "43c84dce335eedf95d54a9dc4fb12729" : {
+      "english" : "A narrow pass between steep mountains promotes tight, defensive combat. With bountiful resources far from the front lines, teams may choose to support their exposed teammates financially, or retreat to more fertile, but less defensible ground.",
+      "translation" : ""
+   },
+   "443531f5f05df188d6a311cfa1123b73" : {
+      "english" : "Arctic",
+      "translation" : ""
+   },
+   "4559c88e1f743fafcb230670417b905d" : {
+      "english" : "Teams start off with nearly adjacent civic centers, offering easy military and construction cooperation. With slivers of personal territory, teammates must rely on each other to defend their rear.",
+      "translation" : ""
+   },
+   "457ddcd8029e007e63c3cfead8dcc34d" : {
+      "english" : "Passes",
+      "translation" : ""
+   },
+   "459b8729383bb74153f2973e99b784d7" : {
+      "english" : "Players start in a ready-made fortress with piles of resources.",
+      "translation" : "Играчи почињу са изграђеном тврђавом и гомилама ресурса."
+   },
+   "46531ccd0bb93e6ce59bae0a2778e2e1" : {
+      "english" : "Demo map showcasing Temperate Road decals.",
+      "translation" : ""
+   },
+   "465718d0a1bc8363ad01390923fad5d1" : {
+      "english" : "Syria",
+      "translation" : "Сирија"
+   },
+   "4663300781be05b1ee83d4b1c599d2a4" : {
+      "english" : "A large tropic map with two seas to the East and to the West. Good for two teams of three players or three teams of two players.",
+      "translation" : "Велика тропска мапа са два мора на истоку и западу. Пригодна за два тима од по три играча, или три тима са два играча."
+   },
+   "466d68c9e3fbdbb80c8b17f4a2f1b86d" : {
+      "english" : "Kushites",
+      "translation" : "Кушити"
+   },
+   "469b8b088ad1ef03a01fcdc4c5257ce2" : {
+      "english" : "Marmara",
+      "translation" : ""
+   },
+   "46ba48ab02d17a37f08d5ede5b530ced" : {
+      "english" : "Sandbox - The Republican Romans",
+      "translation" : "Sandbox - Римљани републиканци"
+   },
+   "470fcc9577775435650f43f573b78e7b" : {
+      "english" : "Sandbox - The Athenians",
+      "translation" : "Sandbox - Атињани"
+   },
+   "475a5d4a291f795e821234b34dcafdc4" : {
+      "english" : "A demo map of the British Isles, created with the assistance of a height map.",
+      "translation" : "Демо мапа Британских острва, креирана уз помоћ висинске мапе."
+   },
+   "477477e6bca0eccc58966f6cc804d517" : {
+      "english" : "The Highlands of central Gaul.",
+      "translation" : ""
+   },
+   "47e90c3d44f9a66aa32890b9d334700a" : {
+      "english" : "Hellas",
+      "translation" : ""
+   },
+   "48eadfc01f1dc7f33a1bdf392d6514c1" : {
+      "english" : "Tropical Island",
+      "translation" : "Тропско острво"
+   },
+   "498bd277dca7b39952babc54badd4973" : {
+      "english" : "Triggers Demo",
+      "translation" : "Демо - Окидачи"
+   },
+   "4a0655318472cfedb13b6fdecadfb3bb" : {
+      "english" : "Atlas Valleys (8)",
+      "translation" : ""
+   },
+   "4a5f5e36a1464759c27a9098b3e35b39" : {
+      "english" : "Aulus Manlius Capitolinus",
+      "translation" : ""
+   },
+   "4bd1408c3c69a1898e28aaeb4f60a9bb" : {
+      "english" : "Shallow, passable wetlands with little room for building. Represents the lowlands of the Rhine basin in Europe.",
+      "translation" : "Плитке, проходне мочваре са мало простора за изградњу. Представља низију басена Рајне у Европи."
+   },
+   "4bfeb1322c25da68df9f5920e7861fb0" : {
+      "english" : "Serengeti 1",
+      "translation" : "Серенгети 1"
+   },
+   "4c40f93f3a45582597aec89e4af2b2bf" : {
+      "english" : "The players start on two opposing islands, both with a very jagged relief that will make landing difficult.\\n\\nOriginally occupied by the Torreans, then marginally settled by Etruscans, Phocaeans and Syracusans. Rome conquered these two islands from Carthage during the First Punic War and in 238 BC created the \\\"Corsica et Sardinia\\\" province. The Corsicans regularly revolted and over the course of a century, the island lost two thirds of its Corsican population.",
+      "translation" : ""
+   },
+   "4d091c3139a28c131b75656586631457" : {
+      "english" : "Ships",
+      "translation" : "Бродови"
+   },
+   "4d1328c5102367f8e4bdb3ee88247619" : {
+      "english" : "Golden Island (2)",
+      "translation" : "Златно острво (2)"
+   },
+   "4d8f6ccb0e017e1772cd7cc2a61bfd9a" : {
+      "english" : "Chalcis",
+      "translation" : "Халкида"
+   },
+   "4db87781243cf55cd21541bd65c1f66c" : {
+      "english" : "A basic test of the random map generator - not playable.",
+      "translation" : "Основни тест насумичног генератора мапа - неигриво."
+   },
+   "4dbaa310f96f278add15114c9d40a755" : {
+      "english" : "Players start in a tough map to play with scarce wood and dangerous polar animals.",
+      "translation" : "Играчи почињу на тешкој мапи са ретким дрвећем и опасним поларним животињама."
+   },
+   "4dfed97a62d45ef0fa037c81c4d0fe90" : {
+      "english" : "The rolling Thessalian plain is traversed with narrow streams, easily forded. Wide-open spaces allow for massive expansion, while each player starts the match safe atop a large plateau.",
+      "translation" : ""
+   },
+   "4e44c11bd1af722de898316e7fe8dfff" : {
+      "english" : "Sandbox - The Britons",
+      "translation" : "Sandbox - Бритонци"
+   },
+   "4e6924bbb8fb0a418d83d4541d866704" : {
+      "english" : "A small central river.",
+      "translation" : ""
+   },
+   "50683d480e03031fbb3a1b6dc75dd8f9" : {
+      "english" : "No winner yet, prepare for battle!",
+      "translation" : "Победник није одлучен, припреми се за борбу!"
+   },
+   "5097489592a09252a2b8372b157552ac" : {
+      "english" : "Player 4",
+      "translation" : "Играч 4"
+   },
+   "50c706863f6866dfee4a9a4536362c3b" : {
+      "english" : "Play the Kushites faction in a non-threatening sandbox scenario.",
+      "translation" : ""
+   },
+   "50e9d3b498c19ef73836478e66d20cee" : {
+      "english" : "A demo showing water planes.",
+      "translation" : ""
+   },
+   "529a899e9b1c57e55ef28905b0d1a5d6" : {
+      "english" : "Pompeii",
+      "translation" : "Помпеја"
+   },
+   "52f0b760b9ff4f71ac79bac971c3de43" : {
+      "english" : "Saharan Oases",
+      "translation" : "Оазе Сахаре"
+   },
+   "5307a9716853124889f86e20ba013920" : {
+      "english" : "Coele-Syria (2)",
+      "translation" : ""
+   },
+   "5351e020c98d929faae248af1cc89a92" : {
+      "english" : "This map is designed to test the performance & functionality of unit pushing.",
+      "translation" : ""
+   },
+   "53a093c441152d687e3c7ee06412ad7b" : {
+      "english" : "Skirmish as ash lightly falls around this recently erupted volcano. The scorched landscape offers little food, though the blasted forests are still laden with useful wood.",
+      "translation" : ""
+   },
+   "53ad3125d7cbb5358afc5a29b05e5bb8" : {
+      "english" : "An enemy wave is attacking!",
+      "translation" : "Талас непријатеља напада!"
+   },
+   "545af58d06184bb924cd7d11fc951af8" : {
+      "english" : "Belgian Bog Night",
+      "translation" : "Белгијске мочваре - Ноћ"
+   },
+   "546620d691cbd5a3391db3fe6c984b0b" : {
+      "english" : "Players start in a nearly flat Gallic plain divided by a river and its tributaries.",
+      "translation" : "Играчи почињу у галској равници издељеној реком и њеним притокама."
+   },
+   "549f3c5af7f583beb0944c6190059174" : {
+      "english" : "Play with the Athenians faction in a non-threatening sandbox environment.",
+      "translation" : "Играј са Атињанима у безопасном sandbox окружењу."
+   },
+   "550f9eba4fbf29e56d194c047301c81a" : {
+      "english" : "Siwa",
+      "translation" : ""
+   },
+   "55939dc1087468507288f71691aa28e6" : {
+      "english" : "%(lastPlayer)s has been defeated (treasure collected).Search treasures on small islands and on the water. Collect more treasures than your opponent to win.",
+      "translation" : "Трагај за благом на маленим острвима и на води. Прикупи више блага од противника да би победио."
+   },
+   "55cb10b8f8d96c13dfc95f93b6f786ed" : {
+      "english" : "Random Land",
+      "translation" : ""
+   },
+   "56173815ccb8eb3bd61f4c231221c356" : {
+      "english" : "The Peloponnesian valley of Laconia, homeland of the Spartans.\\n\\nThe Macedonians are encroaching into Spartan lands. After losing a pitched battle against the invaders, the Spartans must rebuild their army quickly before the Macedonians overrun the entire valley.",
+      "translation" : "Пелопонеска долина Лаконије, домовина Спартанаца.\\n\\nМакедонци надиру у спартанске земље. Изгубивши битку против завојевача, Спартанци морају убрзано изградити војску пре него што Македонци преплаве читаву долину."
+   },
+   "56bb0fe55a32e7eb7c96c97c2c28452c" : {
+      "english" : "Greek Acropolis (4)",
+      "translation" : "Грчки Акропољи (4)"
+   },
+   "56fc69957cf0ebd0cd7394bf91a80603" : {
+      "english" : "Demo Map. Play with the Persian civilisation in a sandbox setting.",
+      "translation" : "Демо мапа. Играј са персијском цивилизацијом у sandbox поставкама."
+   },
+   "57e945f0aaf72de53f34f45f0058adab" : {
+      "english" : "Players start around a small oasis in the center of the map which holds much of the available wood on the map.\\n\\nElsewhere, in the hinterlands, lies great riches, in the form of large deposits of gold and other metals.",
+      "translation" : ""
+   },
+   "58b3da6b63436237a24fab4b5c1b45a8" : {
+      "english" : "A riparian gorge meanders its way through the South lands of Gaul.",
+      "translation" : ""
+   },
+   "5924e7f4b410a6c1d3d27360434e2d9d" : {
+      "english" : "Test out fishing with a fishing boat. Still in development.",
+      "translation" : "Испробај пецање са бродом за риболов. Још увек у развоју."
+   },
+   "598f91835d6d68e051fdf17c7a6a711f" : {
+      "english" : "Delos",
+      "translation" : "Делос"
+   },
+   "5afcf3e4a20be569e3be66892a80df0d" : {
+      "english" : "Forest Battle (4)",
+      "translation" : "Битка у шуми (4)"
+   },
+   "5b3582baf4b473e98fc067a621f93337" : {
+      "english" : "Sandbox - The Kushites",
+      "translation" : ""
+   },
+   "5b43efa24508f4d73e6db6c5966aafd8" : {
+      "english" : "Frozen Lake",
+      "translation" : "Залеђено Језеро"
+   },
+   "5b755c42cfe36a47959eceeeb61b86b6" : {
+      "english" : "Pathfinding Terrain Demo",
+      "translation" : ""
+   },
+   "5bb705474f308a25318b5d4768774869" : {
+      "english" : "Mediterranean Coves (2)",
+      "translation" : "Медитеранске увале (2)"
+   },
+   "5bd899637a86190a738e92ecdbb7c382" : {
+      "english" : "High mountains separating the enemies.\\n\\nThe Pyrenees is a great mountain range located between modern France and Spain.",
+      "translation" : "Високе планине раздвајају непријатеље.\\n\\nПиринеји су велики планински ланац између данашње Француске и Шпаније."
+   },
+   "5c1f84e785e9784945f9332fe7ffad04" : {
+      "english" : "Cutscene starts after 5 seconds",
+      "translation" : ""
+   },
+   "5c30f3587089b1d3e70042d7cc9f4b54" : {
+      "english" : "Corinthian Isthmus (2)",
+      "translation" : "Коринтска превлака (2)"
+   },
+   "5c6ef6a69aa6af12b10642ceb177e7ba" : {
+      "english" : "Skirmish Demo (2)",
+      "translation" : ""
+   },
+   "5cdb57efb35a73e1ef37a32d71e82ebc" : {
+      "english" : "Team Oasis (2v2)",
+      "translation" : "Оаза - Тим (2v2)"
+   },
+   "5d753e8d1712fc60e3a96f5a2dc68857" : {
+      "english" : "Survival of the Fittest",
+      "translation" : "Преживљавање најјачих"
+   },
+   "5e1c4427215d2fcf850bb32336397d8c" : {
+      "english" : "A small desert map. Each player starts near an oasis spotted about an otherwise bleak and sandy desert that is wide open to assault and depredation.\\n\\nGameplay is tight and fast, with no time to stop and smell the roses.",
+      "translation" : ""
+   },
+   "5e22e727315f0c6017e3cdebdc21ab82" : {
+      "english" : "Battle for the Tiber",
+      "translation" : "Битка за Тибар"
+   },
+   "5f142bdef47898bbc33fb48aa1b875e2" : {
+      "english" : "Two teams face off across a long, very large saltwater lake.\\n\\nFishing can be had in the central lake. The map is also well-endowed with Stone and Metal deposits.",
+      "translation" : "Два тима су сучељена  преко огромног сланог језера.\\n\\nРиболов је могућ у централном језеру. Мапа је богато обдарена    наслагама стена и метала."
+   },
+   "5fba157ccd0dc53a50e991392f933236" : {
+      "english" : "The Ptolemies",
+      "translation" : "Птоломеји"
+   },
+   "601560b94fbb188919dd1d36c8ab70a4" : {
+      "english" : "North",
+      "translation" : "Север"
+   },
+   "60ce5adb4ab69764e6d7a8168c1d07f1" : {
+      "english" : "Four factions find themselves perched safely atop large rocky plateaus.\\n\\nScout the lands to find free treasures and to secure new resources.",
+      "translation" : ""
+   },
+   "6115b2bc622037d65b1b163aa881f2c1" : {
+      "english" : "The large Mediterranean island of Sicily is open for conquest.",
+      "translation" : "Велико медитеранско острво Сицилија је отворено за освајање."
+   },
+   "6171dd54b3eb4c5463f123760b349529" : {
+      "english" : "Sicilia Nomad (2)",
+      "translation" : "Сицилијски номад (2)"
+   },
+   "629a9e05a4223e28b1240dfdb6be0d5b" : {
+      "english" : "Treasures remaining to collect for victory:  %(remainingTreasures)s!",
+      "translation" : "Преостало блага да се прикупи до победе:  %(remainingTreasures)s!"
+   },
+   "6311ae17c1ee52b36e68aaf4ad066387" : {
+      "english" : "Other",
+      "translation" : "остало"
+   },
+   "63486c580e9a4e8215196dfe7ef0f105" : {
+      "english" : "Each player starts on an island surrounded by water.\\n\\nThe Cyclades is an island group in the Aegean Sea, south-east of the mainland of Greece. They are one of the island groups which constitute the Aegean archipelago. The name refers to the islands around  the sacred island of Delos. The Cyclades comprise about 220 islands. The islands are peaks of a submerged mountainous terrain, with the exception of two volcanic islands, Milos and Santorini. The climate is generally dry and mild, but with the exception of Naxos the soil is not very fertile.",
+      "translation" : ""
+   },
+   "63cd713b94dc17fcd18edc0fc172bfac" : {
+      "english" : "The lakes start swallowing the land, we have to find shelter!",
+      "translation" : ""
+   },
+   "64199c79e4cfe2f008841f7790406c92" : {
+      "english" : "The first wave will start in %(time)s!",
+      "translation" : "Први талас почиње за %(time)s!"
+   },
+   "64411ef8d04361b57ad7d759ef4d4d81" : {
+      "english" : "Players start in a plains with slightly rolling highlands.",
+      "translation" : ""
+   },
+   "6465ba9b28563127e815e6e2c5b3f437" : {
+      "english" : "A deep dark forest in Germania.",
+      "translation" : "Дубока мрачна шума у Германији."
+   },
+   "64776c67829904d8e60097c947956be6" : {
+      "english" : "Winter has set in, carpeting the land with its first snow. The still unfrozen gulf offers great fishing opportunities.",
+      "translation" : ""
+   },
+   "64a18cb242769d747487d9a5f34cea39" : {
+      "english" : "Watering Holes (4)",
+      "translation" : "Баре (4)"
+   },
+   "653884e6f7937fb001488584248708db" : {
+      "english" : "Polynesia",
+      "translation" : "Полинезија"
+   },
+   "65756dab00e41291fc4defa85524d29c" : {
+      "english" : "Greeks",
+      "translation" : "Грци"
+   },
+   "6593d0aaf3950a1fdf50f35584657fcd" : {
+      "english" : "Flood",
+      "translation" : "Поплава"
+   },
+   "65c0c59729762308579641b4160a8fcd" : {
+      "english" : "Sudanian Savanna",
+      "translation" : ""
+   },
+   "65f7279b0827b04efff3d2d0b622955b" : {
+      "english" : "An islands map good for intense naval combat.",
+      "translation" : "Острвска мапа погодна за интензивне поморске борбе."
+   },
+   "663d3ea6534cb4af9a5c7f0c8e3087e2" : {
+      "english" : "Players start around the map with lines of water between them\\n\\nThe African savanna is chocked full of animal life for hunting, while the nearby mineral deposits are plentiful. The dry season is approaching and the watering holes are drying up.",
+      "translation" : "Играчи почињу на ободу мапе са воденим токовима који их раздвајају.\\n\\nАфричка савана је препуна животиња за лов, а доступне су и богате наслаге минерала.. Са доласком сушне сезоне баруштине полако пресушују."
+   },
+   "673e3346b440e50bf064ae0ccf0f42aa" : {
+      "english" : "Players start around the map in deep canyons.",
+      "translation" : "Играчи почињу на ободу мапе у дубоким кањонима."
+   },
+   "686310dc9bc3500ea523200d250a0527" : {
+      "english" : "The 'Cappadocia' region of Central-Eastern Anatolia.\\n\\nAll players start on the Western end of the map, with a vast unclaimed wilderness lying open before them ripe for conquest and depredation.\\n\\nStone and Metal resources are in abundance, especially Stone, but Wood is somewhat scarce.",
+      "translation" : "Кападокија, област централно - источне Анадолије.\\n\\nСви играчи почињу на западном крају мапе, са огромном дивљином која се простире пред њима, зрела за освајање и пљачку.\\n\\nКамен и метал су присутни у великој мери, посебно камен, док је шуме мање."
+   },
+   "68692283d8cd9b8e2ed65a3b987e1657" : {
+      "english" : "Random Naval",
+      "translation" : ""
+   },
+   "68bfefe8c7e930680fba981af7edeadd" : {
+      "english" : "Creeps",
+      "translation" : "Страшила"
+   },
+   "696ede0942ebdaa706959337271fc246" : {
+      "english" : "Sicilia (2)",
+      "translation" : "Сицилија (2)"
+   },
+   "6a1912e593257385cac064ef89ad787d" : {
+      "english" : "Players start in small islands in the eastern part of the map. There is a big continent in the west ready for expansion.",
+      "translation" : "Играчи почињу на маленим острвима у источном делу мапе. На западу се простире велики континент спреман за експанзију."
+   },
+   "6a43d7cdfc69e2f10b7729c900739cd5" : {
+      "english" : "A combat demonstration between a small number of ranged and melee infantry units.",
+      "translation" : ""
+   },
+   "6b616d5cc0e29fed940841e854c78591" : {
+      "english" : "Carthage",
+      "translation" : "Картагина"
+   },
+   "6b718641741f992e68ec3712718561b8" : {
+      "english" : "Greece",
+      "translation" : "Грчка"
+   },
+   "6b9102e495c254bf17738d63b2b69970" : {
+      "english" : "Daylight",
+      "translation" : ""
+   },
+   "6bdeab543c9b04e178d577c95b5b4dcd" : {
+      "english" : "We have to find dry ground, our lands will drown soon!",
+      "translation" : ""
+   },
+   "6c19f4b7c965d8a3add313a3d5a4e740" : {
+      "english" : "Libyans",
+      "translation" : "Либијци"
+   },
+   "6c359cd106e290a9b5bc4e44f69bd35f" : {
+      "english" : "A neighboring province has pledged alegiance to your rule. It's up to you to command them to victory.",
+      "translation" : ""
+   },
+   "6d3a328f0695891aa73770a819de8701" : {
+      "english" : "Testing the yes-no dialog. Do you want to say sure or rather not?",
+      "translation" : "Тестирање да - не дијалога. Желиш ли рећи наравно или ипак не?"
+   },
+   "6dbd92c4672775d7f4b3bbe0e04cdb1c" : {
+      "english" : "A calm wide river, representing the Nile River in Egypt, divides the map into western and eastern parts.",
+      "translation" : "Мирна широка река, која представља реку Нил у Египту, дели мапу на западне и источне делове."
+   },
+   "6ddecd8ccd9f648d19dc02c7a566cb4f" : {
+      "english" : "Bahrain",
+      "translation" : "Бахреин"
+   },
+   "6ea1d53a34b69c6b63a7bb2137030fc9" : {
+      "english" : "Achaemenids",
+      "translation" : "Ахемениди"
+   },
+   "6f1a0f02868894ad5c3b8f50d18d6912" : {
+      "english" : "Pathfinding Demo",
+      "translation" : ""
+   },
+   "6f7f90028b648c3ce9103fc4157ad313" : {
+      "english" : "Farmland (2)",
+      "translation" : ""
+   },
+   "6fb1553feb43b5db8f1ecaa4a34a9640" : {
+      "english" : "Persian Highlands (4)",
+      "translation" : ""
+   },
+   "6fb1c5e214abba08ffb124a58d9f900e" : {
+      "english" : "Nubia",
+      "translation" : ""
+   },
+   "6ff19ec44d797219a6d80c419a1a8514" : {
+      "english" : "Alpine Valley",
+      "translation" : "Алпска долина"
+   },
+   "705a8383a196b25c3c8a028374908489" : {
+      "english" : "Unit Pushing test",
+      "translation" : ""
+   },
+   "71924bd5bb4c91c1f37fecf88c87ecdb" : {
+      "english" : "Players start on the banks of the River Sequana (Seine) in Northern Gaul near the settlement of Ratumacos. Destined to become one of the largest and most prosperous cities of Medieval Europe and one of the Anglo-Norman dynasty capitals under the new name of Rouen, Ratumacos is still a peaceful land - but not for long.",
+      "translation" : ""
+   },
+   "71b56c8b62c2f3dc3807937adeb7f6c3" : {
+      "english" : "Hellas, home to the Greeks and through them birthplace to the foundation of western civilization. Yet the land lacks unity, countless city-states vie for dominance. Will you lead your polis to glory and greatness or see it fall into oblivion, erased from the histories?",
+      "translation" : ""
+   },
+   "71bfecc0186a63f847e99757ce5a891c" : {
+      "english" : "%(player)s has been defeated (lost all structures).",
+      "translation" : ""
+   },
+   "71cb3460bb08ad2cb2c2b863ffa55092" : {
+      "english" : "A large hill encompasses the map and leaves players only a small passage to the two neighboring players.",
+      "translation" : ""
+   },
+   "73171004b611a402084774132e4475e0" : {
+      "english" : "Botswanan Africa during the wet season, a land which was arid and inhospitable just weeks before has come to life totally transformed. Herds of zebras graze amid the tall, lush grasses in which lions lie waiting, while in the shallow pools lurk fearsome crocodiles.",
+      "translation" : ""
+   },
+   "731e49b4cec90e35e13d917ba06254bd" : {
+      "english" : "Gold Rush",
+      "translation" : "Златна грозница"
+   },
+   "7459c9bf5a6f5581e3e3f19d7e4cdc5e" : {
+      "english" : "Barcania (3)",
+      "translation" : "Барканија (3)"
+   },
+   "74f472c9bebd09abf2f768ae049e077d" : {
+      "english" : "%(_player_)s owns a Wonder and %(_player_)s and their allies will win in %(time)s.",
+      "translation" : ""
+   },
+   "752c8feef63b86566d81d9f9624fbdc2" : {
+      "english" : "Mauryan Indian faction showcase map.",
+      "translation" : ""
+   },
+   "7581fa8a3458500307aa7fd32c9dea80" : {
+      "english" : "Situated Southside of the Atlas mountain range in North Africa.\\n\\nA somewhat open map with an abundance of animals and mineral resources, while wood is scarce.",
+      "translation" : "Смештена на јужним обронцима Атлас планине у северној Африци.\\n\\nМапа је углавном отворена, са обиљем животиња и минерала, док је шума ретка."
+   },
+   "76a886363240af4e097d82accf4a69b0" : {
+      "english" : "Lower Nubia",
+      "translation" : ""
+   },
+   "770795e218eccb66e8c3426a04d4fecc" : {
+      "english" : "Invasion Force",
+      "translation" : "Инвазионе снаге"
+   },
+   "7737b595ff376c8784a3dee466030f6d" : {
+      "english" : "Two land masses connected by a narrow spit of land, called an 'Isthmus', inspired by the eponymous area in Greece. Most of the stone on the map is in the isthmus itself, making it vital to fight for its control.",
+      "translation" : ""
+   },
+   "7762e2260c5a807de391d408ed60638b" : {
+      "english" : "Foreigners are invading Britannia. The native Britons must fight against a massive enemy invasion force to secure their homeland for the next generation!\\n\\nPlayer 1 is the Britons. Players 2-5 are the invasion force, garrisoned aboard their stout ships in the channel off the White Cliffs of Dover. \\n\\nTeams are set by the map script, but can be altered by the players in setup if they wish to play the map contrary to the scenario defined by the designer. In that case, the game host should set a ceasefire so that the players in the boats can land peacefully and attempt to find a suitable place to plant their first settlements.\\n\\nAssigned civilizations are merely suggestions, and the host should set starting resources to 1000 so that Civic Centers can be built at the start.",
+      "translation" : ""
+   },
+   "77f2a5496bacfa76d6d4c8d02a5889be" : {
+      "english" : "You and your allies have captured all relics and will win in %(time)s.",
+      "translation" : ""
+   },
+   "7821a35bb5df086306e27f434b3641a6" : {
+      "english" : "Fertile lands surrounded by harsh terrain.\\nRemains of recent snowfalls still haunt the forests, and torrential rivers from the snowmelt have barely died away.\\nAiming at a realistic terrain, this map might not always be balanced.",
+      "translation" : ""
+   },
+   "785ab3885584a6707c819e905c999a8c" : {
+      "english" : "Teams start off with nearly adjacent civic centers on a small island, offering a fortified base from which to expand.",
+      "translation" : "Тимови почињу на малом острву, са цивилним центрима на малом растојању и утврђеном базом из које се могу ширити."
+   },
+   "787361a21177eca71edccb08daf48589" : {
+      "english" : "Sure",
+      "translation" : "Наравно"
+   },
+   "78b921722f44885a5bd0eb2f40b8e47b" : {
+      "english" : "Egyptians",
+      "translation" : "Египћани"
+   },
+   "78d2313d1479f094d6e6c33a3cb5e83a" : {
+      "english" : "Mainland style with some small random lakes.",
+      "translation" : ""
+   },
+   "79313848ceb6b2f0db6226af25fdfa61" : {
+      "english" : "Dawn",
+      "translation" : ""
+   },
+   "793f9981f5fdf610d8f30edc72b973da" : {
+      "english" : "Alexandros Megas",
+      "translation" : "Alexandros Megas"
+   },
+   "79c29617fcd6954414a1c9b9797636a2" : {
+      "english" : "Island of Meroë (2)",
+      "translation" : ""
+   },
+   "79c73f0e231711591403fa888d63bfa3" : {
+      "english" : "Edge Seas",
+      "translation" : ""
+   },
+   "7a1f311be09571b2b31490582496ea6a" : {
+      "english" : "Lesbos",
+      "translation" : "Лезбос"
+   },
+   "7adb90412ddc23101dc00abe8be2107e" : {
+      "english" : "You have collected a treasure!",
+      "translation" : "Прикупио си благо!"
+   },
+   "7b2d9a44147ff720fdef2d4160c85bbe" : {
+      "english" : "A desert biome map where each player has founded their colony at their own lush oasis. The rest of the map is generally wide-open and barren.",
+      "translation" : ""
+   },
+   "7c591502c2e426ed812937ad4585adb9" : {
+      "english" : "Two Mediterranean land masses connected by a narrow spit of land, called an 'Isthmus'.",
+      "translation" : "Две медитеранске копнене масе повезане узаном траком земље, названим 'Превлака'."
+   },
+   "7d31e0da1ab99fe8b08a22118e2f402b" : {
+      "english" : "India",
+      "translation" : "Индија"
+   },
+   "7d47f578b9da5067ccfb7195ec43c3c8" : {
+      "english" : "Player 2",
+      "translation" : "Играч 2"
+   },
+   "7da22fa5202ea85cc614e0e68a940907" : {
+      "english" : "Players start in either northern France or southern Britain while the English channel separates them.",
+      "translation" : "Играчи почињу у северној Француској или јужној Британији a раздваја их Енглески Канал."
+   },
+   "7dc50f50016b28404bc6853851ff4b1b" : {
+      "english" : "Ratumacos",
+      "translation" : ""
+   },
+   "7dd247e861605d8a531d4f2480262b4f" : {
+      "english" : "Nubian Frontier (2)",
+      "translation" : ""
+   },
+   "7df030706271eefad1379c939222b2fa" : {
+      "english" : "Pickup test map",
+      "translation" : ""
+   },
+   "7e487cd15e08f733b7449528aaaa9c68" : {
+      "english" : "The Mediterranean, home to the Phoenicians, Greeks, Egyptians and later on Romans. They took the rudimentary knowledge and principles of organisation from Mesopotamia and forged it into something more, thereby shifting the centre of learning and knowledge to the Mediterranean Coast, thus laying the foundations of civilization as we know it today. The Mediterranean Sea is almost completely enclosed by land: on the north by Gallia Transalpina (Transalpine Gaul), Italia, Greece (Graecia) and Anatolia, on the east by Syria, on the south by Libya and Mauritania, and on the west by Iberia. The name Mediterranean is derived from Latin, but the Romans themselves preferred the term 'Mare Internum' or even 'Mare Nostrum'.",
+      "translation" : ""
+   },
+   "7e6765a7b685c620be55556edafb0914" : {
+      "english" : "A rugged land with small room for buildings with scarce wood. Represents the mountain range in the Northwest Africa.",
+      "translation" : ""
+   },
+   "7eed3741cb5332018a7059535a8e81ff" : {
+      "english" : "%(_player_)s owns a Wonder and you will win in %(time)s.",
+      "translation" : ""
+   },
+   "7f0d6849b39e5c30d3560cc48ca0063d" : {
+      "english" : "Bright daylight illuminates the scene.",
+      "translation" : ""
+   },
+   "7feeae6009baef28a3c20f3929ac46d8" : {
+      "english" : "Each player starts on a hill surrounded by steep cliffs. Inspired by Cantabria, a mountainous region in the north of the Iberian peninsula.",
+      "translation" : ""
+   },
+   "80150d09100abb8a34c6233d7bec11e7" : {
+      "english" : "Rivers",
+      "translation" : "реке"
+   },
+   "802b080b5ba3e2612a42d6122e4b2832" : {
+      "english" : "Corinth",
+      "translation" : "Коринт"
+   },
+   "8033d4061fdf3a29d19839625f9637dc" : {
+      "english" : "%(player)s has been defeated (lost all civic centres).",
+      "translation" : ""
+   },
+   "804226e8156ed4422ffd56ce82ddc4c7" : {
+      "english" : "Combat Demo",
+      "translation" : "Демо - Битка"
+   },
+   "80516a5e730189b25817e75b76b4497d" : {
+      "english" : "Carpeted in snow, the land slumbers in repose, but this fragile peace is destined to be shattered - and not by spring. Large packs of wolves lurk in the wild searching for prey, a lone arctic fox scurries away to hide. Starting in this seemingly hostile terrain, players must conquer - or be conquered.",
+      "translation" : ""
+   },
+   "80ef94c17ad219d79f3f72db85e9388d" : {
+      "english" : "Sandbox - The Iberians",
+      "translation" : "Sandbox - Иберци"
+   },
+   "81689baa06ff459ff4894ac0f700364e" : {
+      "english" : "Death Canyon - Invasion Force",
+      "translation" : "Кањон Смрти - Инвазионе снаге"
+   },
+   "8168e82e85c45dccd33a0f7c921b49ed" : {
+      "english" : "Units Demo",
+      "translation" : "Демо - Јединице"
+   },
+   "81e271c0609b755a9f4b460150f4fc01" : {
+      "english" : "Islands",
+      "translation" : "острва"
+   },
+   "8213cce59eb2631b293f5cf55b5853ac" : {
+      "english" : "Demo map listening to various triggers and printing warning messages about them",
+      "translation" : "Демо мапа која ослушкује различите окидаче и шаље упозоравајуће поруке о њима."
+   },
+   "82618c6bb7c140c631a9a394965cf840" : {
+      "english" : "Strategic Campaign Proof of Concept",
+      "translation" : "Стратешка кампања - Потврда концепта"
+   },
+   "82721fca8ffb276f6fc0326c0c2f3aac" : {
+      "english" : "A ring of land borders a resource-rich island in the Mediterranean. Players can access the center via a narrow strip of shallow water or via boat.",
+      "translation" : ""
+   },
+   "83366f27cad82d2972b8f0994d6e05b2" : {
+      "english" : "A large savanna is bisected by a narrow jungle stream.",
+      "translation" : "Пространа савана пресечена уским појасом џунгле."
+   },
+   "838fb7dc72220346e8ea350604a5bc0e" : {
+      "english" : "Choose a random naval landscape",
+      "translation" : ""
+   },
+   "846ccb43e9a6f3b75a7b165ab4cbc522" : {
+      "english" : "Naval: Central Sea",
+      "translation" : ""
+   },
+   "84f33da1de0ae958d8b7fbf93187e388" : {
+      "english" : "Temperate Roadway (2)",
+      "translation" : ""
+   },
+   "855e3f888ab2af2ab35eecb1e0623342" : {
+      "english" : "The ancient lake of Moeris near the Nile River in the Libyan Desert has been settled and used by the Egyptians since prehistoric times. \\n\\nThe surrounding lands are dotted with ancient and new monuments and temples, while the lake itself is stocked full of Tilapia, ready for fishing.  ",
+      "translation" : ""
+   },
+   "859a321e670795effa78c38a43153fcb" : {
+      "english" : "Antipolis",
+      "translation" : "Антипољ"
+   },
+   "85d140a5e2a0186e3d735420f8455911" : {
+      "english" : "The African savanna is chocked full of animal life for hunting, while the nearby mineral deposits are plentiful. The dry season is approaching and the watering holes are drying up.\\n\\nNote: This is a very small \\\"fast and furious\\\" map. Iberians do not start with their custom circuit walls.",
+      "translation" : "Афричка савана је препуна дивљих животиња за лов, док су и оближњи ресурси минерала богати. Сезона без кише се приближава и баре се исушују.\\n\\nНапомена: Ово је веома мала \\\"брза и бесна\\\" мапа. Иберијци не почињу са уобичајеним кружним зидинама."
+   },
+   "86cde14284141fb99950935cc5a2cc7e" : {
+      "english" : "Tuscan Acropolis (4)",
+      "translation" : "Тоскански Акропољи (4)"
+   },
+   "87056235b37e8c0066ae034dddaadafa" : {
+      "english" : "Greek Allies",
+      "translation" : "Грчки савезници"
+   },
+   "876828423728481093b06c1c27aa784d" : {
+      "english" : "The Gauls",
+      "translation" : "Гали"
+   },
+   "88183b946cc5f0e8c96b2e66e1c74a7e" : {
+      "english" : "Unknown",
+      "translation" : "Непознато"
+   },
+   "88ae3b6cec1bb5f7e69480b1690f3386" : {
+      "english" : "The Seleucids",
+      "translation" : "Селеукиди"
+   },
+   "89b8e76f658b992e354813d6e3c48196" : {
+      "english" : "Alpine Valleys (2)",
+      "translation" : "Алпске долине (2)"
+   },
+   "89f84dc41d3684049697442818a786c1" : {
+      "english" : "Unnamed map",
+      "translation" : "неименована мапа"
+   },
+   "8a1d550121ed37bd7312723ea2b9742f" : {
+      "english" : "Veii",
+      "translation" : "Веји"
+   },
+   "8a85f1d0b2aa8b392f0062c39e336ab4" : {
+      "english" : "A charred dead land where players start around a smoking volcano.",
+      "translation" : "Спржена мртва земља са играчима који почињу око активног вулкана."
+   },
+   "8a98138801310f5db34a6d21b0ee6a43" : {
+      "english" : "Gallic Fields (3)",
+      "translation" : "Галска поља (3)"
+   },
+   "8ac59aa4dc96d8349a087af124a9e684" : {
+      "english" : "Players start in the shores of the Mediterranean Sea with a river flowing between them.\\n\\nThe Guadalquivir is the fifth longest river in the Iberian peninsula and the second longest river with its entire length in Spain. The Guadalquivir river is the only great navigable river in Spain. Currently it is navigable to Seville, but in Roman times it was navigable to Cordoba. The ancient city of Tartessos was said to have been located at the mouth of the Guadalquivir, although its site has not yet been found.",
+      "translation" : "Играчи почињу на обали медитеранског мора са реком која их раздваја.\\n\\nГвадалкивир је пета по дужини река на Иберијском полуострву, али је друга гледано по њеном целокупном току у Шпанији. То је једина велика пловна река у Шпанији. Данас је њом могуће пловити до Севиље, али се у римска времена стизало и до Кордобе. Сматра се да се на ушћу ове реке налазио древни град Тартес, иако његов положај није утврђен."
+   },
+   "8af97e6bf4d287d2f7dd938b8a1a4e39" : {
+      "english" : "%(_player_)s and their allies have captured all relics and will win in %(time)s.",
+      "translation" : ""
+   },
+   "8b2dbca462e6b4afa60b4e3feaf3ed97" : {
+      "english" : "Savanna Ravine",
+      "translation" : "Вододерине саване"
+   },
+   "8b2f99bd52057e53ee4e7e6bdbd587d9" : {
+      "english" : "The large Mediterranean island of Sicily is open for conquest.\\n[color=\\\"orange\\\"]Tip: docks are useful dropsite when you have no territory yet.[/color]",
+      "translation" : "Велико медитеранско острво Сицилија је отворено за освајање.\\n[color=\\\"orange\\\"]Савет: Пристаништа су погодна места за складиштење ресурса на неосвојеним подручјима.[/color]"
+   },
+   "8b938b9b4eee1cde79af418c6547d287" : {
+      "english" : "Neareastern Badlands",
+      "translation" : "Пустаре Блиског Истока"
+   },
+   "8b9bda71368928332d9e910b5795a6a7" : {
+      "english" : "Harbor",
+      "translation" : "Лука"
+   },
+   "8c6d21187fb58b7a079d70030686b33e" : {
+      "english" : "Enemy",
+      "translation" : "Непријатељ"
+   },
+   "8c7c345ce2a67662e02244778dae2f59" : {
+      "english" : "Mediterranean",
+      "translation" : "Медитеран"
+   },
+   "8cc93bc204042c0592c19cc00156963f" : {
+      "english" : "Azure Coast 3",
+      "translation" : "Азурна обала 3"
+   },
+   "8d3b5dac4ff5986f56bcd8242f402b4e" : {
+      "english" : "Median Oasis (2)",
+      "translation" : "Оазе у Медији (2)"
+   },
+   "8dbbfbb668c56521c90c988b1790a2f9" : {
+      "english" : "Four players duke it out over the vast Nile Delta. Each city starts out nestled atop a large plateau, but resources are scarce, forcing each player to expand their resource operations into the surrounding lands.\\n\\nScouts say the nearby branches of the Nile River are shallow and fordable in multiple locations, so should only serve as a minor barrier between enemy factions.",
+      "translation" : ""
+   },
+   "8ff0d1c7dee486a8dfa9beaeb30ddf20" : {
+      "english" : "A somewhat open map with an abundance of food and mineral resources, while wood is somewhat scarce.",
+      "translation" : "Понешто отворена мапа са обиљем хране и минерала, али мањом количином дрвета."
+   },
+   "90290d32b4deae8703b07bfcd17af5a4" : {
+      "english" : "Gorge",
+      "translation" : "Јаруга"
+   },
+   "90dca7a5c8209fb3d672ca1fad4f971c" : {
+      "english" : "Verguni",
+      "translation" : "Вергуни"
+   },
+   "912b4d7bca39f2807e333ab2d590a0bc" : {
+      "english" : "Stranded in the cold North, 2 players fight for supremacy over the Island. One player starts in the Mountains to the West, the other player starts near the Bay in the East.",
+      "translation" : "Насукани на хладном Северу, 2 играча се боре за доминацију над острвом. Један играч почиње на  планинама на западу, други код залива на истоку."
+   },
+   "9174c3688a208f10c3395ec91520892c" : {
+      "english" : "Massalia",
+      "translation" : "Масалија"
+   },
+   "91bbf27e11ed54d73f4992e41291d403" : {
+      "english" : "Latium",
+      "translation" : "Лацијум"
+   },
+   "91bd5b262c0fdc8c5b8d470778f288bc" : {
+      "english" : "Players are aligned on a strip of land with seas bordering on one or both sides that may hold islands.",
+      "translation" : ""
+   },
+   "91dc2671ff18ead82154ed20e7e26213" : {
+      "english" : "Kautilya",
+      "translation" : ""
+   },
+   "92249aa12a4b00c81f05c3aad031fcd9" : {
+      "english" : "Caspian Sea (2v2)",
+      "translation" : "Каспијско море (2v2)"
+   },
+   "92544d7a994bd6841cccd9f6e42e3dea" : {
+      "english" : "Canyon",
+      "translation" : "Кањон"
+   },
+   "92b2725d5a35dd69a3161ca889a3907a" : {
+      "english" : "An indefensible open land with little wood and stone, representing the central basin of Asia Minor.",
+      "translation" : "Незаштићена отворена земља  са мало дрвећа и камена, представља централни басен Азије Минор."
+   },
+   "92bc4d3677043c40659ea81a88c14db6" : {
+      "english" : "Belgian Bog (2)",
+      "translation" : "Белгијска мочвара (2)"
+   },
+   "93d2a5c0bd6b4498a3436d437e308a7a" : {
+      "english" : "This map is designed to help artists and modders find the adequate foundation for a specific building. This map is not meant to be playable.",
+      "translation" : ""
+   },
+   "93f2b7423e3be749faab9e98d490674e" : {
+      "english" : "A land with waterways decorated in a manner similar to spider web.",
+      "translation" : ""
+   },
+   "941ebabbdd4750e5dc35d85f8666864f" : {
+      "english" : "Zagros Mountains (2)",
+      "translation" : "Планине Загрос (2)"
+   },
+   "9498ff5e7c6604973f90717f0f587813" : {
+      "english" : "Miletus Peninsula (2)",
+      "translation" : ""
+   },
+   "94dcd76c58780db8910da43c03c2f8b6" : {
+      "english" : "Two factions find themselves perched safely atop large rocky plateaus.\\n\\nScout the lands to find free treasures and to secure new resources.",
+      "translation" : ""
+   },
+   "950dcfbbe9a0130403aa89067fa628f2" : {
+      "english" : "Bridge demo",
+      "translation" : "Демо - Мост"
+   },
+   "951502f93cd38307fe2f4172733f07f7" : {
+      "english" : "Fight for the remains of ancient Egypt!\\n\\nPlayers start with full grown cities and small armies, each having distinct advantages and drawbacks. Take care, there are 7 mighty forts and marauding bandids!\\n\\nIt is the last century before 0 A.D. Egypt is internally divided between hellenistic (Alexandria, represented by Seleucids) and traditional influences (Memphis, represented by Ptolemies). Thebes in the southern clime of river Nile has already been taken over by the Kush. In the north western Al-Dschabal al-Achdar, where the mediterranean city of Cyrene is located the Romans are preparing their invasion. From the eastern desert at-Tih and mount Sinai enemies (represented by Persians) are pushing forward and the oasis Siwa. Charga (represented by Carthage) in the south western desert are trying to get a share of the pie as well.\\nLocations:\\n- Alexandria: library, harbor\\n- Memphis: Necropolis, pyramids, Apis shrine\\n- Thebes: temple district, Valley of the Kings \\n- Cyrene: mediterranean Macchie, olive groves\\n",
+      "translation" : ""
+   },
+   "95884b5232ea01d055768613fc84f242" : {
+      "english" : "Summer",
+      "translation" : "Лето"
+   },
+   "95d6d2262396ee349513943059c882d3" : {
+      "english" : "High cliffs protect each player's main base. Venturing into the unknown can be risky, but necessary.",
+      "translation" : "Високе литице штите главну базу сваког играча. Одлазак у непознато може бити ризично, али је неминовно."
+   },
+   "96b3ea306e5efa31914546a0158e167d" : {
+      "english" : "The rivers are standing high, we need to find a safe place!",
+      "translation" : ""
+   },
+   "96c8d5dc8b1a29e729afbf4d304dea61" : {
+      "english" : "A barren land with little wood and few animals. Treasures dot the landscape and will be essential to early growth.\\n\\nThe player who sets up a profitable trade caravan earliest may gain a decisive advantage.",
+      "translation" : "Јалова земља са нешто шуме и мало животиња. Блага су расута по околини и биће неопходна за рани развој.\\n\\nИграч који најраније успостави трговачки караван може тиме добити одлучујућу предност."
+   },
+   "96de55b3e06e6d61141cbf34ede3d938" : {
+      "english" : "Peloponnesian League",
+      "translation" : "Пелопонеска лига"
+   },
+   "96f485e4c7a541fcc0b725efd9bb73c6" : {
+      "english" : "Corsica and Sardinia (4)",
+      "translation" : "Корзика и Сардинија (4)"
+   },
+   "97c51e883c8ef965397b07d867e86106" : {
+      "english" : "Player 1",
+      "translation" : "Играч 1"
+   },
+   "985b359d15bcadc65e91d0e7555cd5ae" : {
+      "english" : "Danubius",
+      "translation" : "Дунав"
+   },
+   "987a18fd0645a7a4cc957a0061004d0b" : {
+      "english" : "Two of India's greatest empires, the Maurya Empire and Gupta Empire, originated in Magadha, a region in Northern India near the sacred River Ganges.\\n\\nThis map was designed as a 1v1 map suitable for rated and tournament play.",
+      "translation" : ""
+   },
+   "99b201806bb53e0a321f4c25ca837e38" : {
+      "english" : "Volcanic Lands",
+      "translation" : "вулканске земље"
+   },
+   "99cc5920cce226f1f9cb563c2e3ac08d" : {
+      "english" : "Xerxes I",
+      "translation" : ""
+   },
+   "99ea201a4c10c4c0353b53835eceeff5" : {
+      "english" : "Lowlands",
+      "translation" : ""
+   },
+   "9a237e45424de7ed29480117875ef566" : {
+      "english" : "River Archipelago",
+      "translation" : "Речни Архипелаг"
+   },
+   "9a99acd0f3fcac89b2335119e80e128c" : {
+      "english" : "Laconia",
+      "translation" : "Лаконија"
+   },
+   "9ad55eb78d9ff91947e3663e84dee6dc" : {
+      "english" : "High Alpine mountains bordering deep valleys.",
+      "translation" : "Високе алпске планине ограничавају дубоке долине."
+   },
+   "9b4b0b3194b251a136928c9f1f70dada" : {
+      "english" : "Jebel Barkal",
+      "translation" : ""
+   },
+   "9b66540e885ee39f4a8b8b04c264c423" : {
+      "english" : "Libyan Oases (4)",
+      "translation" : "Либијске оазе (4)"
+   },
+   "9bc1ad918aeeb91d07f30e6bf34e54bd" : {
+      "english" : "Revelling in the much awaited rain, the baked land transforms into a lush haven for both man and beast.",
+      "translation" : ""
+   },
+   "9bd3d1e28c1203c0c5aaf2adc727c606" : {
+      "english" : "The “Island of Meroë”, a vast peninsula flanked by the Nile and Atbarah rivers, formed the heartland of ancient Kush. Where the harsh deserts start making way for the semi-arid savannahs and small acacia forests dot the landscape. The area is rich in resources and the ever-present Nile brings life, but grave threats loom on the opposite riverbank.",
+      "translation" : ""
+   },
+   "9c38de51fc2d3c5edd803a836330ce3d" : {
+      "english" : "Two Celtic tribes face off across a large bog at night.",
+      "translation" : "Два келтска племена сучељена преко велике мочваре у ноћи."
+   },
+   "9c667cf5b32387a9ff9b44c1b3c88849" : {
+      "english" : "Persia",
+      "translation" : "Персија"
+   },
+   "9c67707acda3be8f88904edad751e192" : {
+      "english" : "Carthage vs. Macedon vs. Persia vs. Iberia! A large oasis acts as the hub of mountainous spokes that divide the home territories of each player.",
+      "translation" : ""
+   },
+   "9c6a1f1074ab32da8cf75a60a0b3e152" : {
+      "english" : "An oasis surrounded by mountains and desert. Farmlands near the water's edge provide much-needed boost in farming, but foraging and hunting are in short supply.",
+      "translation" : "Оаза која је опкољена планинама и пустињом. Пашњаци близу воде обезбеђују крајње неопходан бонус у пољопривреди, јер су прикупљање и лов присутни у мањој мери."
+   },
+   "9c8bd62ec235d03890228db47cb37c24" : {
+      "english" : "Base Temperate Map",
+      "translation" : ""
+   },
+   "9d58df754fbb9c45417ad659db8932eb" : {
+      "english" : "Necropolis",
+      "translation" : "Некропољ"
+   },
+   "9d8a2a8fe20d784c1c9abeb551c322c4" : {
+      "english" : "%(player)s has been defeated (lost all units).",
+      "translation" : ""
+   },
+   "9d8d2b6b392bdb0a64d26de854bbec9c" : {
+      "english" : "Gulf",
+      "translation" : ""
+   },
+   "9fc0940a5d8d9e25f07a6e4b385822d1" : {
+      "english" : "A typical map without any water.",
+      "translation" : "Типична мапа без воде."
+   },
+   "a09b39d8a49fe35356010e3628a63c07" : {
+      "english" : "Give an interesting description of your map.",
+      "translation" : "Дај нам занимљив опис своје мапе."
+   },
+   "a0e4338ced50ab4db596fdbbd89405c5" : {
+      "english" : "Players start in small islands while there are many others around.",
+      "translation" : "Играчи почињу на маленим острвима са многим другим около."
+   },
+   "a146a2a57d561420a14ecbc482858811" : {
+      "english" : "Controlling access to the Aegean Sea from the east, the Dodecanese have been subject to numerous yet short-lived invasions. Ultimately consolidating power with Rhodes at their lead, these islands developed into great maritime, commercial and cultural centers. Will you achieve the same?",
+      "translation" : ""
+   },
+   "a164baaea801afcd3719e8bf4b2f9f2d" : {
+      "english" : "Isthmus",
+      "translation" : ""
+   },
+   "a166549f4e40e0466b03391cf04e1c28" : {
+      "english" : "A demo Skirmish map.",
+      "translation" : ""
+   },
+   "a21a24dd87e7c8f056aef3126221aa65" : {
+      "english" : "Punjab (2)",
+      "translation" : "Пенџаб (2)"
+   },
+   "a2549ce7b236f082c76adf9c7563520e" : {
+      "english" : "Sahel Watering Holes",
+      "translation" : "Сахелске баре"
+   },
+   "a260502e562f636391b967956252a96e" : {
+      "english" : "Two players square off across the heavily forested Deccan Plateau of central India.\\n\\nEach player starts the match with a free farmstead and free storehouse.\\n\\nVirgin resources lie to the lowlands on either side of the plateau. The lowlands also offer opportunity for expansion and strategic maneuvering.",
+      "translation" : ""
+   },
+   "a26fec46adc909bf43a61eeb4388ef55" : {
+      "english" : "Cycladic Archipelago",
+      "translation" : "Кикладски архипелаг"
+   },
+   "a29c865ad2e6fac34d6ccd38e96120a5" : {
+      "english" : "A map filled with impassable mountains and a great number of natural resources.",
+      "translation" : "Мапа са непроходним планинама препуна природних ресурса."
+   },
+   "a375f587c728fe928248409a3c552801" : {
+      "english" : "Players start in the eastern part of the map while a great sea is located to the west.",
+      "translation" : "Играчи почињу на источном делу мапе са огромним морем које се простире на западу."
+   },
+   "a384452ce18e25eda2b8b4bb0399af49" : {
+      "english" : "A dry central plateau rich in minerals surrounded by rocky hills\\n\\nThe southern parts of Zagros Mountains were the heart of the Persian empires and population. Although the altitude is high, the southern parts are drier that the northern Zagros, leading to a semi-arid climate. Still there are some sparse oak forests in the higher grounds.",
+      "translation" : ""
+   },
+   "a3d668b8cf8c6334e47adc857f751fcc" : {
+      "english" : "Fly some Mustangs.",
+      "translation" : "Летећи Мустанг"
+   },
+   "a3e269a456687b6c57ef41b8dcd3a9aa" : {
+      "english" : "Historically, the Red Sea was a sea of many nations. Ideally situated for trade with the Far East, it was coveted by all. Although dry, this land is by no means inhospitable, and is amply provided with all resources.",
+      "translation" : ""
+   },
+   "a3f71aa89396c803e0731073cac5874c" : {
+      "english" : "Crocodilopolis (4)",
+      "translation" : ""
+   },
+   "a4a5400616eb350ca113dbb5975c1c98" : {
+      "english" : "The land is enclosed by a hill that leaves a small area per player connected to the large central place.",
+      "translation" : ""
+   },
+   "a4aa718a32e45c0606518e7b2698c602" : {
+      "english" : "Sandbox - The Persians",
+      "translation" : "Sandbox - Персијанци"
+   },
+   "a6bc8f85a33112c5beea4d357caad4cd" : {
+      "english" : "Alexandria",
+      "translation" : "Александрија"
+   },
+   "a76a5c697d5935603b53d074fa879c8f" : {
+      "english" : "Each players starts near a lush oasis in a large, desolate desert.",
+      "translation" : "Сваки играч почиње близу бујне оазе у огромној ненасељеној пустињи."
+   },
+   "a7dd3cefda457db19d8ca70bf6f69309" : {
+      "english" : "Many small islands connected to each other by narrow passages.",
+      "translation" : "Многобројна мала острва повезана уским пролазима."
+   },
+   "a7f6871e222a5b97f2324b6f3b9540e0" : {
+      "english" : "The Romans encroach upon Macedonian lands for the third and final time. Can the once-proud Macedonians prevail against the Roman juggernaut?",
+      "translation" : "Римљани продиру у македонске земље трећи и последњи пут. Могу ли некада поносни Македонци надвладати римску ратну машинерију?"
+   },
+   "a826b374895e6a1606582386a9ba9e3c" : {
+      "english" : "Ptolemy \\\"Savior\\\"",
+      "translation" : "Проломеј 'Спасиоц'"
+   },
+   "a871155d5e373b198f7709e70fba7e96" : {
+      "english" : "Neareastern Badlands (4)",
+      "translation" : "Блискоисточне пустаре (4)"
+   },
+   "a875ae38fc3eaaea0132b9df4a7b48c6" : {
+      "english" : "A semi-desert area that boasts numerous clumps of date palms and acacia trees. Herds of camels roam the wild and the occasional gazelle jumps up in fright at being disturbed.",
+      "translation" : ""
+   },
+   "a97cddd9e6ab1a051a21dc74abae1d67" : {
+      "english" : "Acropolis Bay (2)",
+      "translation" : "Залив Акропоља (2)"
+   },
+   "a9819c684bd1f3fe54509eb0239533cd" : {
+      "english" : "Players start around a gulf dotted with small islands.\\n\\nThe Gulf of Bothnia is the northernmost arm of the Baltic Sea.",
+      "translation" : "Играчи почињу на ободу залива начичканом острвцима. Ботнијски залив представља најсевернији део Балтичког мора."
+   },
+   "a99dc62d017d04cf67266593f9c3761e" : {
+      "english" : "East",
+      "translation" : "Исток"
+   },
+   "a9c91bb308f65ead2a4566bc82e0854d" : {
+      "english" : "You have captured all relics and will win in %(time)s.",
+      "translation" : ""
+   },
+   "aa9620faf3df242e19e304dfe3dbdfb0" : {
+      "english" : "Dodecanese",
+      "translation" : "Додекански"
+   },
+   "aab8c919d571dc3195733c4fbde6582d" : {
+      "english" : "Pompeii was an ancient Roman coastal city, in the Campania region of Italy. Pompeii, along with much of the surrounding area, was mostly destroyed and buried under 4 to 6 meters of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79.",
+      "translation" : ""
+   },
+   "abeb3dada48cc0dce04edfbbdefc27db" : {
+      "english" : "Sahyadri Buttes (5)",
+      "translation" : ""
+   },
+   "abf9ed08a64e8b23d275d1e9403f951e" : {
+      "english" : "Ambush",
+      "translation" : "Заседа"
+   },
+   "ac6e42f7d60a11298ca89aa2c513daa0" : {
+      "english" : "Lush grasslands carpet the land, in places giving way to magnificent and diverse broadleaf forests. Poplars, pines, beeches and oaks all vie for supremacy but this root-war is a neverending struggle. Numerous apple trees dot the land, deer and sheep gorge themselves on this years fallen fruit.",
+      "translation" : ""
+   },
+   "ac700219b101e647d2478bd054e2fe3e" : {
+      "english" : "Help the young Massilia to settle or expel the Greeks from Gaul.",
+      "translation" : "Помози младом Масилију да насели или избаци Грке из Галије."
+   },
+   "acee3161e5a4180a06acf6e7494414c1" : {
+      "english" : "Saharan Oases (2)",
+      "translation" : ""
+   },
+   "ad1ba40ee3cf4ea7d19862bd5b4e4eab" : {
+      "english" : "Sandbox - The Mauryas",
+      "translation" : ""
+   },
+   "ad6a48adf319925e28ede7f65db5ae72" : {
+      "english" : "Flight Demo",
+      "translation" : "Демо - Летење"
+   },
+   "adf9b4df0574fbc746c5d098488802f9" : {
+      "english" : "Sandbox - The Macedonians",
+      "translation" : "Sandbox - Македонци"
+   },
+   "adfb8c77555d43ad9af04e9454f1ee2c" : {
+      "english" : "Perseus of Macedon",
+      "translation" : "Персеј Македонски"
+   },
+   "ae5a246599033ec6de49f33e871418de" : {
+      "english" : "Polar Sea",
+      "translation" : "Поларно Море"
+   },
+   "aed3b2509b3ff0eb668ecd9ddeda33c9" : {
+      "english" : "Elis",
+      "translation" : "Елида"
+   },
+   "aeec4926d63e4dbe217d294cf21802ec" : {
+      "english" : "It keeps on raining, we will have to evacuate soon!",
+      "translation" : ""
+   },
+   "b00d594f2b32270b601fef9c73125c54" : {
+      "english" : "A large oasis acts as the hub of mountainous spokes that divide the home territories of each player.",
+      "translation" : ""
+   },
+   "b08b3215c1751b377b4ff0975fbd85fb" : {
+      "english" : "1296 units. Extremely slow (we need more optimisation).",
+      "translation" : "1296 јединица. Екстремно споро (потребна додатна оптимизација)."
+   },
+   "b0a761a948025a2bf59587eaab5bbd98" : {
+      "english" : "Lucius Aemilius Paullus",
+      "translation" : "Луције Емилије Паул"
+   },
+   "b0db2b57abb920cc49f8668581d9e4f5" : {
+      "english" : "Mauryan Indians",
+      "translation" : "Мауријски Индијци"
+   },
+   "b18e66b41efd9a3df1a7bc8758da1883" : {
+      "english" : "Winter",
+      "translation" : "Зима"
+   },
+   "b1c0298dc3645a18c7c1be5ebb28e124" : {
+      "english" : "Salluvii",
+      "translation" : "Салуви"
+   },
+   "b1dceb6eeacff844cd7b4aa972522452" : {
+      "english" : "Ardennes Forest",
+      "translation" : "Арденска шума"
+   },
+   "b1e60615347e3755316e9decd33a48b6" : {
+      "english" : "In the Eastern land of Bactria lies the rich valley carved by the Oxus River.\\n\\nSouth of the river are rich arable lands and plentiful wood and forage. North of the river lie a mountain range pierced by wide mountain passes and guarded by natural defensive positions.\\n\\nWithin the mountains can be found riches as well as danger. The player who can exploit the mountainous area the best will have a significant advantage over their adversary.",
+      "translation" : ""
+   },
+   "b2034d91b13b6cf862cec64f81197a9c" : {
+      "english" : "Foundation Testing Map",
+      "translation" : ""
+   },
+   "b2117ffdf94763b861b115a42e7ab7cd" : {
+      "english" : "Gallic Highlands (2)",
+      "translation" : ""
+   },
+   "b21e74b940270025eac60c54a2e79331" : {
+      "english" : "A demo map for the Iberians.",
+      "translation" : "Демо мапа за Иберијце."
+   },
+   "b22ddadec6532cb8f3d116156e361ec1" : {
+      "english" : "Macedonian Position",
+      "translation" : ""
+   },
+   "b272de12f72af56feeed3127d676d0e9" : {
+      "english" : "Multiplayer map. Each player starts out on a small island with minimal resources situated off the coast of a large land mass.\\n\\nThis is a WFG community-designed map by: SMST, NOXAS1, and Yodaspirine.",
+      "translation" : "Мултиплејер мапа Сваки играч почиње на малом острву са минималним ресурсима присутним на обали велике копнене масе.\\n\\nОво је мапа WFG заједнице, дизајнирана од стране: SMST, NOXAS1, and Yodaspirine."
+   },
+   "b2a0308cb5f84ff8d28f5ba84e0b7e8b" : {
+      "english" : "Rhine Marshlands",
+      "translation" : "Рајна - Мочварне земље"
+   },
+   "b3cafa0c5c00f2716425731c7175b294" : {
+      "english" : "Azure Coast 2",
+      "translation" : "Азурна обала 2"
+   },
+   "b46042a9e00992029edce6e8857e29ee" : {
+      "english" : "Cantabrian Highlands",
+      "translation" : "Кантабријске висоравни"
+   },
+   "b630b5841c6082cd939495cfa32a2843" : {
+      "english" : "Hasdrubal the Fair",
+      "translation" : "Хаздрубал Лепи"
+   },
+   "b682cbd51cbe66582ff549d9337ea58c" : {
+      "english" : "A forest heavy map with a lake in the middle and plenty of resources.",
+      "translation" : "Мапа са пространим шумама, језером у средишту и мноштвом ресурса."
+   },
+   "b6dcbd49a71df24fc57731e680f14269" : {
+      "english" : "Rhine Valley (Fall)",
+      "translation" : ""
+   },
+   "b75e79a73ccaeb2922d25400f7478e15" : {
+      "english" : "A demonstration of wall placement methods/code in random maps. Giant map size is recommended!",
+      "translation" : ""
+   },
+   "b7d3f9332e9b710d5675ec80285c6baa" : {
+      "english" : "Rainy Season",
+      "translation" : "Кишни Период"
+   },
+   "b8d5d72e267392ab120b9d75c35cff09" : {
+      "english" : "You own a Wonder and you and your allies will win in %(time)s.",
+      "translation" : ""
+   },
+   "b98e8a5179f73c215cc0d93d84b88d4d" : {
+      "english" : "Between the high summits of the Alps, the valleys are filled with fog in the early morning. The ground is full of gravel and rocks, but silver fir and spruce trees grow between them and provide shelter for deer and mountain goats.",
+      "translation" : ""
+   },
+   "b9affb8e8dfcbe1e78c22735fef2001b" : {
+      "english" : "Megara",
+      "translation" : "Мегара"
+   },
+   "ba108096acaf7fbee828fe181a9be971" : {
+      "english" : "Gallic Invaders",
+      "translation" : "Галски освајачи"
+   },
+   "ba595ec320a851d6b0a362c54feb7e41" : {
+      "english" : "Hurry up! Your enemy is close to victory!",
+      "translation" : "Пожури! Непријатељ се ближи победи!"
+   },
+   "ba7d8823912482548940809b2f16cf27" : {
+      "english" : "A test map for potential Strategic Campaigns.",
+      "translation" : "Тест мапа за могуће стратешке кампање."
+   },
+   "bad44a9eed85203396ed3eaa72cb5d26" : {
+      "english" : "Egypt (3v3)",
+      "translation" : ""
+   },
+   "bbbd36530c9d1ba63435a9a11405b67c" : {
+      "english" : "The Persian Gates",
+      "translation" : "Персијске Капије"
+   },
+   "bbc7e3fd923ea7c4067e1f1c0c825770" : {
+      "english" : "African Plains",
+      "translation" : "Афричке Равнице"
+   },
+   "bc03219e367d3a4b7b1758c8af598174" : {
+      "english" : "Lake",
+      "translation" : "језеро"
+   },
+   "bc3ec8e72505736e7ef874c741f1436e" : {
+      "english" : "A lazy river meanders through these Serbian wetlands. Stone is scarce, but many lumps of bog iron sit waiting to be found.\\n\\n*This map makes heavy use of grass actors which may adversely affect performance.",
+      "translation" : ""
+   },
+   "bcba02239313848e1a17b6ffe2435d8a" : {
+      "english" : "[color=\\\"red\\\"]IMPORTANT NOTE: AI PLAYERS DO NOT WORK WITH THIS MAP[/color]\\n\\nProtect your base against endless waves of enemies. Use your woman citizen to collect the treasures at the center of the map before others do, and try to build your base up. The last player remaining will be the winner!",
+      "translation" : "[color=\\\"red\\\"]ВАЖНА НАПОМЕНА: AI ИГРАЧИ НЕ ФУНКЦИОНИШУ НА ОВОЈ МАПИ [/color]\\n\\nЗаштити бази од непресушних таласа непријатеља. Искористи грађанке како би прикупио блага у средишту мапе пре других, и покушај изградити базу. Последњи играч који опстане побеђује."
+   },
+   "bd4ea518a93eeedef13a7a12f6f2c0f9" : {
+      "english" : "Two players face off across a large bog somewhere in the Rhine lowlands.\\n\\nWood is abundant, but Metal and Stone are hard to find and extract. Hunting and foraging is plentiful.",
+      "translation" : "Два играча сучељена су преко велике мочваре негде у рајнским низијама.\\n\\nДрва има у изобиљу, али је метал и камен тешко пронаћи. Прикупљање и лов су могући у великом обиму."
+   },
+   "bd60460e4603d3b88e297feea0a85878" : {
+      "english" : "A huge sea is dividing the map into two halves.",
+      "translation" : ""
+   },
+   "bd6353565da86049d0c89ded8ee54693" : {
+      "english" : "The Athenians",
+      "translation" : "Атињани"
+   },
+   "bde04c65ebc8e0185d9103c3968fb4c4" : {
+      "english" : "%(lastPlayer)s has been defeated (wonder victory).Each player starts the match atop a large flat plateau.\\n\\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed plateau commanding the valley below.",
+      "translation" : ""
+   },
+   "be1f804ab759b60a700eadb3216b6bc9" : {
+      "english" : "Wall Demo",
+      "translation" : "Зидине - демо"
+   },
+   "be37ec86e08334e8c85af6490a8ea0cc" : {
+      "english" : "Lorraine Plain",
+      "translation" : "Лоренска равница"
+   },
+   "be6052eda97b26c30e496472ac803e88" : {
+      "english" : "Cavares",
+      "translation" : "Кавари"
+   },
+   "be8929d70aa8b528a967e2b035eaddc9" : {
+      "english" : "Attackers are covered by the darkness of the night.",
+      "translation" : ""
+   },
+   "beb80c431f85262a81408c1eb7706dee" : {
+      "english" : "Caledonian Meadows",
+      "translation" : ""
+   },
+   "bedf7c8171e946c3c137c8900041a727" : {
+      "english" : "Players start in a cold polar region barren of vegetation. In the sea fish and whales abound, while the fragile icy land teems with huntable walruses and deadly wolves. These wolves, made ravenous by the harsh and forbidding climate, drawn by the scent of prey, have started appearing in terrifying numbers. A wise and strong ruler will not only achieve victory over his enemies, but also keep the number of these beasts at bay, lest they undermine his economy and cause his downfall. [color=\\\"red\\\"]Warning: It is inadvisable to disable treasures, since there is no gatherable wood. Not recommended for inexperienced players.[/color]",
+      "translation" : ""
+   },
+   "bf495fc048d8d44b7f32536df5cf3930" : {
+      "english" : "West",
+      "translation" : "Запад"
+   },
+   "bfd9dcc18baf688f0aa8ec059c100391" : {
+      "english" : "Hyrcanian Shores",
+      "translation" : "Хирканијске обале"
+   },
+   "bfe6a12e480fb65cdbf87c5971f191ed" : {
+      "english" : "Thessaly",
+      "translation" : "Тесалија"
+   },
+   "c06ddf4bf96f28849b793fc5c170d3c2" : {
+      "english" : "%(player)s has been defeated (lost all units and critical structures).",
+      "translation" : ""
+   },
+   "c07ae5734c15074cf1873934c78083a1" : {
+      "english" : "WallTest",
+      "translation" : "Тест зидина"
+   },
+   "c100a65c7e0cd5a7d1c61af663f56d01" : {
+      "english" : "Dry Season",
+      "translation" : "Сув период"
+   },
+   "c192347585c87bd2fb5d5bb998f35758" : {
+      "english" : "Subalpine",
+      "translation" : ""
+   },
+   "c198cd9590bcfdf999cb279381d7d2e2" : {
+      "english" : "Walls.",
+      "translation" : "Зидине."
+   },
+   "c1f84b53c45dd69c10570110110d1560" : {
+      "english" : "Play around with the Gallic faction in an idyllic sandbox setting.",
+      "translation" : "Играј се са галском фракцијом у идиличним sandbox поставкама."
+   },
+   "c255c795834774db03a10a84a2421a22" : {
+      "english" : "Aegean-Anatolian",
+      "translation" : ""
+   },
+   "c3121313fc190ff72ad8d1e8cd3b16fb" : {
+      "english" : "A wide-open Savanna map with a small ravine running down the center, which is easily forded.",
+      "translation" : ""
+   },
+   "c3b037e1ae1d0bdf7110d5fab2465698" : {
+      "english" : "Religious Institutions",
+      "translation" : "Религијске институције"
+   },
+   "c43d895c945c84dc052eb01ceb888636" : {
+      "english" : "%(player)s has been defeated (lost hero).",
+      "translation" : ""
+   },
+   "c4413a005ff3ab4a96b5865d119a51ba" : {
+      "english" : "Deciates",
+      "translation" : "Дециати"
+   },
+   "c527ef6ba425415d880c7a2a674ce05f" : {
+      "english" : "Three factions find themselves perched safely atop large rocky plateaus, whereas the fourth one is separated from their foes by a river branch.\\n\\nScout the lands to find free treasures and to secure new resources..",
+      "translation" : ""
+   },
+   "c5ae0f5cff271ce970db17b0b4b0764c" : {
+      "english" : "Extinct Volcano",
+      "translation" : ""
+   },
+   "c5b062ecf9c03c8b50f0c492ada51ca2" : {
+      "english" : "Magadha (2)",
+      "translation" : ""
+   },
+   "c61b2d7e03db2ecc982770102391961f" : {
+      "english" : "Situated Southside of the Atlas mountain range in North Africa.\\n\\nA somewhat open map with an abundance of food and mineral resources, while wood is somewhat scarce.",
+      "translation" : "Ситуирано на јужној страни планиског венца Атлас у северној Африци.\\n\\nУглавном отворена мапа са обиљем хране и наслагама минерала, док је шума присутна у мањем обиму."
+   },
+   "c6376301e4c7ff8fd9b40bad1d227efb" : {
+      "english" : "Sandbox - The Seleucids",
+      "translation" : "Sandbox - Селеукиди"
+   },
+   "c69f5278fd907149ad4e2e489ca34c53" : {
+      "english" : "All players starts on a continent surrounded by water.",
+      "translation" : "Сви играчи почињу на континенту окруженим водом."
+   },
+   "c782959c509441622ad0e473e2110af0" : {
+      "english" : "Miletus",
+      "translation" : "Милет"
+   },
+   "c7949829d1a4260b6273bbfaf1a3a271" : {
+      "english" : "The Hindu Kush mountains separate India from Bactria (modern day Afghanistan) and form a frontier between the Seleucid and Mauryan realms. This area was later under the control of the Greco-Bactrian and Indo-Greek kingdoms of the later Hellenistic period. \\n\\nThe area is low on wood resources, but high on stone and metal. A trade route runs through the center of the map with Trade Depots that can be captured and used to gather resources via trade. ",
+      "translation" : ""
+   },
+   "c79f7a034eca687f6ba06bc74bd51ca4" : {
+      "english" : "Reservoir",
+      "translation" : "Резервоар"
+   },
+   "c7acd8e36d1026c54e52811dbe4ca1eb" : {
+      "english" : "Eire and Albion (British Isles)",
+      "translation" : "Ајр и Албион (Британска острва)"
+   },
+   "c9171ad598de7d5d3eca0db46322f322" : {
+      "english" : "Sahel (4)",
+      "translation" : "Сахел (4)"
+   },
+   "c9ba28405a75c6a27afd2c9e98bc7738" : {
+      "english" : "Bridge Demo",
+      "translation" : "Демо - Мост"
+   },
+   "c9cd4af1e1f15877ea3857bcede32a0d" : {
+      "english" : "Siwa Oasis",
+      "translation" : "Оаза Сива"
+   },
+   "ca8e96f265bdbfad0f0234b38c7e7abb" : {
+      "english" : "Greek Acropolis (2)",
+      "translation" : "Грчки Акропољи (2)"
+   },
+   "cac1076b458e4ee7c6ad1ebf0b6e1d9e" : {
+      "english" : "Naval: Archipelago",
+      "translation" : ""
+   },
+   "cae8d14edd025e72c59dbab6f378c95a" : {
+      "english" : "You",
+      "translation" : "Ти"
+   },
+   "cb41c65f2e3df012bd8250d37ba3ed24" : {
+      "english" : "Sandbox - The Ptolemaic Egyptians 2",
+      "translation" : "Sandbox - птоломејски Египћани 2"
+   },
+   "cb8af36c0a33b30fbe358d1a6c9e054b" : {
+      "english" : "The arid and treacherous frontier between Nubia and Egypt.",
+      "translation" : ""
+   },
+   "cc808158501a6e4a0cfc7a6cb5ae2c55" : {
+      "english" : "Eurasian Steppe",
+      "translation" : ""
+   },
+   "cc8aef8d52d20b19dd6e1e5f35a5e84f" : {
+      "english" : "Hydaspes River (4)",
+      "translation" : ""
+   },
+   "cfbdd443ba127fb591e361f71cfd889d" : {
+      "english" : "Death Canyon (2)",
+      "translation" : "Кањон Смрти (2)"
+   },
+   "d0412c090d73b564ee8da763909dc50e" : {
+      "english" : "%(player)s has been defeated (lost all structures and critical units).",
+      "translation" : ""
+   },
+   "d0bfd13ff61a0ee8899c3a38942418ed" : {
+      "english" : "Collect the treasures before your enemy does! May the better win!",
+      "translation" : "Прикупи блага пре непријатеља! Нека бољи победи!"
+   },
+   "d260facdec9ee3d6b2d8670ac1b0c3ee" : {
+      "english" : "Sporades Islands (2)",
+      "translation" : "Споради (2)"
+   },
+   "d3423e532969b123d6be419496b06ebc" : {
+      "english" : "A sheltered natural harbour on the Mediterranean coast provides the resources for battle.",
+      "translation" : "Природна лука на медитеранској обали са ресурсима за битку."
+   },
+   "d372c15f3e1b48c57718fee32f31ee58" : {
+      "english" : "A forest battle map where all players fight for supremacy and control over the middle.",
+      "translation" : "Шумска борбена мапа где се играчи боре за доминацију и контролу над средиштем."
+   },
+   "d4207c6ccd829dfd01cdae5932b02957" : {
+      "english" : "Median Oasis (4)",
+      "translation" : "Оазе у Медији (4)"
+   },
+   "d443e9273c41ec6d54c62e887e11f101" : {
+      "english" : "Lakes",
+      "translation" : ""
+   },
+   "d4f04f6aeb0cc4b2ca1513b103172c17" : {
+      "english" : "Red Sea",
+      "translation" : "Црвено Море"
+   },
+   "d6d93c8a32c3a53dd23886a3b40abe6f" : {
+      "english" : "Seleucids",
+      "translation" : "Селеукиди"
+   },
+   "d6f249639f0fe03f6d6d02cd9f1b382e" : {
+      "english" : "A great flood has moved across the valley enabling ships and troops to battle in chest deep waters.",
+      "translation" : ""
+   },
+   "d82121f5292482a1aab9069f2acce1b2" : {
+      "english" : "Roman Interlopers",
+      "translation" : "Римски уљези"
+   },
+   "d924d7c6c97e6a2ba329eb0f4cbb406f" : {
+      "english" : "All players start on one bank of the river, with minimal harvestable metal. Across the Gambia River is a savanna with many deposits of metal to be claimed. \\n\\n(Warning: Large map. Good computer specs recommended)",
+      "translation" : ""
+   },
+   "d937186cf2e2dcc1cf9dddc79855629d" : {
+      "english" : "Sandbox - The Gauls",
+      "translation" : "Sandbox - Гали"
+   },
+   "d9db51e7ce4f3d1ccaead759226fa1de" : {
+      "english" : "Demo map for new fancy water effects.",
+      "translation" : "Демо мапа за нове китњасте водене ефекте."
+   },
+   "da349994e5bad78afc7de41d965551c1" : {
+      "english" : "[color=\\\"red\\\"]IMPORTANT NOTE: AI PLAYERS DO NOT WORK WITH THIS MAP[/color]\\n\\nA once fertile valley, desolated by the eruption of the long-dormant volcano in the heart of the region. Following years of empty, scorched deadness, signs of life started reappearing and spreading. Now the land is half-way to the full lushness of its former era. Alas, it is not to be: following a long stretch of drought, interminable rains have set in in the higher regions to the north. Water levels are rising at drastic levels, slowly forcing players to seek the high ground of the lesser, extinct volcanoes or the now again dormant great cone.",
+      "translation" : ""
+   },
+   "da4111e3e97f2e64c33e7090c4d39025" : {
+      "english" : "Move ships around. Attack other ships.",
+      "translation" : "Покрећи бродове. Нападни друге бродове."
+   },
+   "da944d61a9e845303365b41be501e84a" : {
+      "english" : "Corinthian Isthmus (4)",
+      "translation" : "Коринтска превлака (4)"
+   },
+   "db5215206e9ee8209235071f6c8aba23" : {
+      "english" : "Belgian Uplands",
+      "translation" : ""
+   },
+   "db5ffd1f7d66f407d7b2218a0d35d14e" : {
+      "english" : "Your treasury is filled to the brim, you are victorious!",
+      "translation" : "Твоје ризнице су препуне, победио си!"
+   },
+   "db757eef2607aae1d59b6f64b0ede7d0" : {
+      "english" : "A late spring breeze ripples through the conifer forests of the Gulf of Bothnia. Herds of deer dot the landscape and playful rabbits frolick in the undergrowth.",
+      "translation" : ""
+   },
+   "db93c204442bc58fc30f3279077595d2" : {
+      "english" : "Island Stronghold",
+      "translation" : "Острвска Тврђава"
+   },
+   "dbc272118d3360cebddb1516ae6dd2cc" : {
+      "english" : "Fast Oasis",
+      "translation" : "Оаза - брзинска"
+   },
+   "dc514f90c804203f67675988400ad852" : {
+      "english" : "This map displays a reconstruction of the ancient city Napata. [color=\\\"red\\\"]Note:[/color] The map is not intended to be playable.",
+      "translation" : ""
+   },
+   "dc92951d95ce2b479ff0fa2a68522a07" : {
+      "english" : "A central lake with rivers possibly separating neighboring players.",
+      "translation" : ""
+   },
+   "dcf9dc65d0e438dc037c44b2bc6fe537" : {
+      "english" : "%(player)s has been defeated (lost civic center).",
+      "translation" : ""
+   },
+   "dd6c9e6e0aa978a3d2e00fe1649b4a65" : {
+      "english" : "Demo map for resource gathering.",
+      "translation" : "Демо мапа за прикупљање ресурса."
+   },
+   "ddd03d9e809cd9b5e6eb4a813878991c" : {
+      "english" : "Combat Demo (Huge)",
+      "translation" : "Демо битке (Огроман)"
+   },
+   "de37f2920f643aac8527b4f76798c94b" : {
+      "english" : "The diverse rainforests nestled in the Sahyadri mountain range of the west coast of India. It goes without saying, wood is abundant.\\n\\nIberian players do not get full circuit walls, but 5 strategically placed wall towers.\\n\\nWARNING: This map uses a lot of floral actors on account of being a rainforest. Expect a drop in framerate, this is taxing on most mid range computers.",
+      "translation" : ""
+   },
+   "de9eeaa49e392778816e69f0ee973f6b" : {
+      "english" : "A sandbox scenario for players to try out the Seleucid civilisation.",
+      "translation" : "Sandbox сценарио за играче који желе испробати селеукидску цивилизацију."
+   },
+   "e010ec318016613ab1fdc94de15b3257" : {
+      "english" : "Nile River (4)",
+      "translation" : "Река Нил (4)"
+   },
+   "e045f9e5595a67ecc477e8710a208d41" : {
+      "english" : "This map is designed to test a few different cases of units chasing each other.",
+      "translation" : ""
+   },
+   "e0a3d4248c1c60b5c9bd9b03d5752f25" : {
+      "english" : "An old favorite. An otherwise wide-open, flat desert map is pierced in the center by a lush oasis.\\n\\nThis represents the Libyan Desert, part of the Saharan Desert, West of the Nile River in Egypt.\\n\\nIberians do not receive their circuit walls here. Instead, all factions receive four free Stone Towers.",
+      "translation" : ""
+   },
+   "e0dbb22700c1af2b29dc6c9e36eafe72" : {
+      "english" : "Persian Highlands",
+      "translation" : "Персијске Висоравни"
+   },
+   "e14045c6b4fe1e65d04aade91b1f8c1b" : {
+      "english" : "Athens",
+      "translation" : "Атина"
+   },
+   "e260531adee8b5edb48d3093cb141bb4" : {
+      "english" : "Play with the Macedonians faction in a non-threatening sandbox environment.",
+      "translation" : "Играј са Македонцима у безопасном sandbox окружењу."
+   },
+   "e2e4cd524fce59dfba9f40b753954ef7" : {
+      "english" : "A \\\"small island\\\"-style map set in the Aegean Sea.",
+      "translation" : "Стил мапе 'малена острва' у Егејском мору."
+   },
+   "e369d9fd2ab54455129816db19e37fd4" : {
+      "english" : "Kerala",
+      "translation" : "Керала"
+   },
+   "e37947d13e68906c07bba7b9c408492e" : {
+      "english" : "Northern Lights",
+      "translation" : "Поларна светлост"
+   },
+   "e3d854045e56939d81e213c6f4f4a039" : {
+      "english" : "Treasure Islands",
+      "translation" : "Острва са благом"
+   },
+   "e456a1590d9ad987c7c325e8783fe74e" : {
+      "english" : "Springtime in Arcadia, Greece. Spring rains have gorged what would otherwise be dry creek beds throughout the rest of the year, dividing the lands between two warring tribes. \\n\\nPlayers start on either side of a mountainous region rich in resources. Extra starting buildings help players jumpstart building their new colonies.",
+      "translation" : ""
+   },
+   "e49ceb89e975256e16c98e87d9655c79" : {
+      "english" : "Phoenician Levant",
+      "translation" : "Феничански Левант"
+   },
+   "e4ae304ab32ad2e296bc406f6e99eba2" : {
+      "english" : "Narrow strips of lands are separated by waterways, leaving few and shallow landbridges between them. Tropical wetlands provide plenty of game, but beware of Mauryan tribesmen when exploring the outermost islands.",
+      "translation" : ""
+   },
+   "e4ec94b680303fcdd25f95450f9ff840" : {
+      "english" : "Ship Formations",
+      "translation" : "Формације бродова"
+   },
+   "e55112633e5971033160a005cd5c6d67" : {
+      "english" : "Napata will attack in %(time)s!",
+      "translation" : ""
+   },
+   "e55c6d4e74cb48e5d46e1c61f7a078b0" : {
+      "english" : "Eretria",
+      "translation" : "Еритреја"
+   },
+   "e6fd0762b686cefce1fab11982c1e4bd" : {
+      "english" : "The unknown.",
+      "translation" : "Непознат."
+   },
+   "e75534217dcb6293bed569ca4d3835f0" : {
+      "english" : "Gambia River (3)",
+      "translation" : "Река Гамбија (3)"
+   },
+   "e83280629ee0ad3886e8921fb8927ced" : {
+      "english" : "Temperate",
+      "translation" : ""
+   },
+   "e86be915d921d95f79565b78c7e582d9" : {
+      "english" : "Gold Oasis (2)",
+      "translation" : "Златне оазе (2)"
+   },
+   "e8a3f9f66c3d61ba1651dff292bf2cad" : {
+      "english" : "We Are Legion",
+      "translation" : "Ми смо легија"
+   },
+   "e8d27c9683d17afb78e6f166ae7eafd5" : {
+      "english" : "Ngorongoro Crater is the world's largest intact volcanic caldera and is one of the Seven Natural Wonders of Africa. Due to it's climate, biodiversity and history, Ngorongoro is believed by some to be Africa's Garden of Eden and the birthplace of mankind.",
+      "translation" : ""
+   },
+   "e8ffe9e801c8478a61f803021b1d1b73" : {
+      "english" : "Each player starts deep in the forest.\\n\\nThe Ardennes is a region of extensive forests, rolling hills and ridges formed within the Givetian Ardennes mountain range, primarily in modern day Belgium and Luxembourg. The region took its name from the ancient Silva, a vast forest in Roman times called Arduenna Silva.",
+      "translation" : ""
+   },
+   "e93ddaac003de7faee8ab0867f092136" : {
+      "english" : "Unit Chasing test",
+      "translation" : ""
+   },
+   "e99e22ab9d6c984b3c871d1ad2b01526" : {
+      "english" : "An arid, hostile land. The blistering heat has baked the ground to a sickly brown and the remaining trees struggle for survival.",
+      "translation" : ""
+   },
+   "e9c0f9e0a9eb565daba703bff1613bf6" : {
+      "english" : "Elephantine",
+      "translation" : ""
+   },
+   "eadf1e47adae32c29aedd538246a3287" : {
+      "english" : "Thessalian Plains (4)",
+      "translation" : "Тесалске равнице (4)"
+   },
+   "eb365c2e5210ba655dfd103c8cd322c9" : {
+      "english" : "\\\"It has always been the Greek Dream to go East.\\\"\\n\\n\\\"Beware such pride. The East has a way of swallowing men and their dreams.\\\"\\n\\nWill Alexander push his way through The Persian Gates and fulfill his destiny, or will Ariobarzanes defend the rugged ancient land of Persis against a foreign invader?",
+      "translation" : "'Грци су одувек сањали да крену на Исток.'\\n\\n'Чувај се те гордости. Исток уме да прогута људе и њихове снове.'\\n\\nХоће ли Александар пробити Персијске капије и испунити своју судбину, или ће Ариобарзан одбранити сурове древне земље Персије од страног завојевача?"
+   },
+   "ebb0d459db74553d49c675e44ea535d0" : {
+      "english" : "Northern Island (2)",
+      "translation" : "Северна острва (2)"
+   },
+   "ebd2512c7424ef89c29885567c3236c1" : {
+      "english" : "A Lush temperate biome along an ocean. ",
+      "translation" : ""
+   },
+   "ec07296ad1fc7854b43f40f43818a440" : {
+      "english" : "Neareastern Badlands (2)",
+      "translation" : "Блискоисточне пустаре (2)"
+   },
+   "ec26b88c01cd9220b7393cb94390f61e" : {
+      "english" : "Artaxshacha II",
+      "translation" : ""
+   },
+   "ec6d832537d8f1ac8405abc03e12c871" : {
+      "english" : "Deep Forest",
+      "translation" : "дубока шума"
+   },
+   "ecdb68639c56ad1710f68760cfca2081" : {
+      "english" : "Defeat your enemy to win!",
+      "translation" : "Порази непријатеља да би победио!"
+   },
+   "eceb54c6a05192f16b97ba167feba68d" : {
+      "english" : "Deccan Plateau (2)",
+      "translation" : "Деканска висораван (2)"
+   },
+   "ee4d2b10293d178c99b56dcf285b43ef" : {
+      "english" : "The African serengeti has herds of animals criss crossing the plain. Mineral wealth is bountiful and wood is in full supply.",
+      "translation" : ""
+   },
+   "ee4fe82f20fa14d76418fb39d749f9d1" : {
+      "english" : "This map is designed to test a few different cases of 'Dancing'.",
+      "translation" : ""
+   },
+   "eecb6314d680be2b9a9ceacae6b96fb9" : {
+      "english" : "Arcadia",
+      "translation" : "Аркадија"
+   },
+   "eff03bcaba45450cd50f51f20f4c0acc" : {
+      "english" : "Oceanside (2)",
+      "translation" : ""
+   },
+   "f028d8b906e1c6542178b667b7a679b4" : {
+      "english" : "Greek Acropolis Night (2)",
+      "translation" : "Грчки Акропољ - Ноћ (2)"
+   },
+   "f02fbf9574e41dc9a386eb159e569c95" : {
+      "english" : "Krateros",
+      "translation" : "Кратер"
+   },
+   "f09f9a4a83c5f0ae71ac45004ef3a07d" : {
+      "english" : "English Channel",
+      "translation" : "Енглески канал"
+   },
+   "f0f9e19996a252f41cd57eab7de3ff0b" : {
+      "english" : "Archipelago",
+      "translation" : "Архипелаг"
+   },
+   "f1737ba64e9ad803edcb8cb961713e6f" : {
+      "english" : "Empire",
+      "translation" : "Царство"
+   },
+   "f1849402f9b51a5952ed5083baf8df4c" : {
+      "english" : "Tautalus",
+      "translation" : ""
+   },
+   "f21b3642967349c7c60661e155c4741d" : {
+      "english" : "Explore the mysterious tropics. An extremely green, but also extremely humid environment awaits. The tall Toona trees look on disapprovingly at this invasion of their privacy and ferocious tigers are determined to defend their territory at all costs.",
+      "translation" : ""
+   },
+   "f2239e953be9d14cd1f8e882adf39bd0" : {
+      "english" : "Demo map showing how to simulate bridges in the Atlas map editor.",
+      "translation" : "Демо мапа која приказује начин симулације мостова у Атлас едитору мапа."
+   },
+   "f2bf92bc52b3105101e482159bfe25d3" : {
+      "english" : "Cycladic Archipelago (3)",
+      "translation" : "Кикладски архипелаг (3)"
+   },
+   "f2e8be4ceca8720898bfa14ee2612357" : {
+      "english" : "Ptolemaios A' Soter",
+      "translation" : "Ptolemaios A' Soter"
+   },
+   "f313d48d4d63959e3db2f8d5de80c555" : {
+      "english" : "White Cliffs of Dover (5)",
+      "translation" : ""
+   },
+   "f3410431c5bebfc42ee308ef37e80e93" : {
+      "english" : "Fishing Demo",
+      "translation" : "Демо - Риболов"
+   },
+   "f36b3ce106c40f454f14976163d2f237" : {
+      "english" : "Players start around a lake in the center of the map.",
+      "translation" : "Играчи почињу око језера у центру мапе."
+   },
+   "f3a00fe6f3555458fff63a0630240d31" : {
+      "english" : "Unit Motion Integration Test",
+      "translation" : ""
+   },
+   "f3a589f0addf351aec62dcc5bfca74d6" : {
+      "english" : "High bluffs overlook the terrain below. Bountiful resources await on the cliffs, but beware of enemies planning an ambush.",
+      "translation" : "Високе стрмине надгледају терен испод њих.  Богати ресурси се простиру на литицама, али чувај се заседе непријатеља. "
+   },
+   "f3cd3d552fc430a3a1c87dc7c6cac336" : {
+      "english" : "Savanna River (2)",
+      "translation" : "Река у савани (2)"
+   },
+   "f3d957ae2b84ddae134311eeb0bc0348" : {
+      "english" : "Hindu Kush (2)",
+      "translation" : ""
+   },
+   "f4361aeea2730ac80683f069edef63c2" : {
+      "english" : "You own a Wonder and will win in %(time)s.",
+      "translation" : ""
+   },
+   "f43f81574803e6732e38e55e169d0467" : {
+      "english" : "Vesuvius (6)",
+      "translation" : ""
+   },
+   "f4b507c5a0eacd3dfa8dafe136e0a50e" : {
+      "english" : "A dry central basin rich in minerals surrounded by rocky hills and highlands.",
+      "translation" : ""
+   },
+   "f5ca3fd48c92216cc2a5a5c795a8c5a5" : {
+      "english" : "Obedska Bog Night (4)",
+      "translation" : ""
+   },
+   "f5f52c04652ec007fdc6f9a03214fe57" : {
+      "english" : "Cisalpine Winter (2)",
+      "translation" : ""
+   },
+   "f6e5865cf28e93265a2fb0a24a76b917" : {
+      "english" : "Players start on two sides of a sea with scattered islands.",
+      "translation" : "Играчи почињу на две стране мора са раштрканим острвима."
+   },
+   "f754fe767666c5c0c5d7aa71b26f25ec" : {
+      "english" : "Starting near the fertile banks of the Nile, the players besiege the heavily defended city Napata, which lies at the foot of the hill Jebel Barkal, the “Pure Mountain”. It is the southern home of Amun and, according to Kushites and Egyptians alike, the birthplace of man. Known as the “Throne of the Two Lands”, the ancient religious capital of Napata lay in its shadow. This is where kings were made – and unmade! Abutting a rich floodplain downstream from the Fourth Cataract, this area became the breadbasket of ancient Kush.",
+      "translation" : ""
+   },
+   "f759562bf7329543b3f15a42d46c71ef" : {
+      "english" : "Cyrene",
+      "translation" : ""
+   },
+   "f78eff8032621039d70772bab376ac86" : {
+      "english" : "Two Seas (6)",
+      "translation" : "Два мора (6)"
+   },
+   "f8802922d67f85d68d19dd63827fe8fc" : {
+      "english" : "High Alpine mountains surrounding deep valleys strung with mountain streams and finger-like lakes.",
+      "translation" : "Високе алпске планине опкољавају дубоке долине низ коју се протежу планински потоци и прстолика језера."
+   },
+   "f890eb2df268a330fadeace5224ff904" : {
+      "english" : "The map is cut through the center by a river traversing east-west with some shallows.\\n\\nFairly open-wooded and basically flat. Plenty of building room. Well balanced resources.\\n\\nCiv Territories are divided by main river and tributaries (with necessary shallows for crossings).",
+      "translation" : "Мапа је пресечена током реке од истока ка западу.\\n\\nРаштркана шума и углавном равна. Доста простора за изградњу. Добро балансирани ресусри.\\n\\nТериторије су подељене главном реком и притокама (са неопходним плићацима за прелаз)."
+   },
+   "f8967009979990b027b6b320a8e1b68f" : {
+      "english" : "Sandbox - The Spartans",
+      "translation" : "Sandbox - Спартанци"
+   },
+   "f89dc0e2a4cced460ea7462dc48ef4af" : {
+      "english" : "Play with the Spartans faction in a non-threatening sandbox environment.",
+      "translation" : "Играј са Спартанцима у безопасном sandbox окружењу."
+   },
+   "f8f951bf52c7c93cc9bf082e96f7fdef" : {
+      "english" : "Via Augusta (4)",
+      "translation" : ""
+   },
+   "f970de7da0cdaf1aee48ccc783ccf976" : {
+      "english" : "Gulf of Bothnia",
+      "translation" : "Ботнијски залив"
+   },
+   "f9795fe937a027c135311bf0fb0c29d9" : {
+      "english" : "Defend your Gallic outpost against attacks from your treacherous neighbors!\\n\\nEach player begins the match with a wooden palisade and some guard towers atop a low embankment.\\n\\nWatch out for Romans passing by!",
+      "translation" : ""
+   },
+   "fa2483d4493ef09dfbc39a764acef8df" : {
+      "english" : "The first leaves have fallen. The landscape is a dazzling dash of colors irrevocably intertwined. The native beech and oak trees of this temperate zone display a multi-colored foliage while animals try to prepare for the approaching winter.",
+      "translation" : ""
+   },
+   "fb56a9ec65b2893b3c614230cae6f6ec" : {
+      "english" : "Guadalquivir River",
+      "translation" : "Река Гвадалкивир"
+   },
+   "fb845762a66c26782f477febab5344dc" : {
+      "english" : "Gear",
+      "translation" : ""
+   },
+   "fc03604529a5700bb5f0f3f9ad9287ed" : {
+      "english" : "Known in the Greco-Roman world as the Triakontaschoinos, Lower Nubia was the area between the first and second cataracts of the Nile and formed the traditional border region between Kush and Egypt. The scorching desert, steep valleys and towering cliffs of the area make this an inhospitable place to live, but the control of this ancient corridor was vital for any power seeking to control the lucrative trade routes on the Nile and affords access to the rich goldfields of the Nubian desert.",
+      "translation" : ""
+   },
+   "fc435bf6df42406e7ad44e782041f06e" : {
+      "english" : "Rather not",
+      "translation" : "Ипак не"
+   },
+   "fc643f4d07915c01ff8fbe3e362c2cf0" : {
+      "english" : "Pyrenean Sierra",
+      "translation" : ""
+   },
+   "fc75fa2c9b6b01c59b5df8e0ff94e3a8" : {
+      "english" : "Britons",
+      "translation" : "Брити"
+   },
+   "fe07e488fe56260f45240c1c8a8882a8" : {
+      "english" : "Vanuatu",
+      "translation" : "Вануату"
+   },
+   "fefbeef515d8a4dcc301dff0ffb8f317" : {
+      "english" : "A foggy alpine landscape becomes a battleground as each team has an ally squashed precariously between two enemies. Two forest cliffs overlook the center lake, accessible from the sides of the map.",
+      "translation" : ""
+   },
+   "ff9c524278de2bb542d66c442a528ea5" : {
+      "english" : "Central India just before the monsoon season - a parched land awaits the life-bringing rain which is already two months late. Due to the extended dryness and scorching heat, only the largest lake remains. The hardy trees which have survived the climate are spread out, yet not too scarce.",
+      "translation" : ""
+   },
+   "ffb33dd067f2773b807a95f96d364aa1" : {
+      "english" : "Ship formations mockup.",
+      "translation" : ""
+   }
+}

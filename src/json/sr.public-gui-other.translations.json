@@ -1,0 +1,54 @@
+{
+   "0196fb040851adac7d8dd9e8746f70dc" : {
+      "english" : "Civilization Overview",
+      "translation" : "Преглед цивилизације"
+   },
+   "180c87f94cd4283802656e44f79bb3b4" : {
+      "english" : "Increase camera rotation speed.",
+      "translation" : "Повећајте брзину ротације камере."
+   },
+   "1c14375aca24b022908e8e073f09eb9f" : {
+      "english" : "General hotkeys.",
+      "translation" : "Општи интервентни тастери."
+   },
+   "86fd1fc315495df8b8015537f47b6d3c" : {
+      "english" : "Use a real water refraction map and not transparency.",
+      "translation" : "Користите праву карту лома воде, а не транспарентност."
+   },
+   "8881d8b9c2efb6028968c11d95d85296" : {
+      "english" : " (hold to register)",
+      "translation" : "(задржите за регистрацију)"
+   },
+   "b63148f54c8e3d3cfd0603baae351208" : {
+      "english" : "∞",
+      "translation" : "аˆж"
+   },
+   "c77149b6d7fc9f952848ad44a4da38a4" : {
+      "english" : "Publications",
+      "translation" : "Публикације"
+   },
+   "cf86b4649849e5805ed41dbc2c632b4e" : {
+      "english" : "CAVALRY STABLE",
+      "translation" : "КОЊАЧКА СТАБИЛНА"
+   },
+   "da98f67ec23e5c135ce4ead016bbe36a" : {
+      "english" : "Interval:",
+      "translation" : "Интервал:"
+   },
+   "e298c05f88cc29539c0e93ff425df05b" : {
+      "english" : "%(splashShape)s Splash",
+      "translation" : "%(спласхСхапе) с Спласх"
+   },
+   "f2531f031f59ae859f2606bab8ae2b58" : {
+      "english" : "Fish the seas for a bountiful harvest.",
+      "translation" : "Уловите мора за обилну жетву."
+   },
+   "f457fdc26f87e3e497bc4a3ab2cabe0d" : {
+      "english" : null,
+      "translation" : ""
+   },
+   "f7115e4891ab41c009017e95f47eb6e9" : {
+      "english" : "Spoiler",
+      "translation" : "Споилер"
+   }
+}

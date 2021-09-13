@@ -1,0 +1,638 @@
+{
+   "012a0aaeb6ff3f13286dd270193dacb9" : {
+      "english" : "Leisurely (0.5×)",
+      "translation" : ""
+   },
+   "02f24836b37850671b5469ae2b8d8555" : {
+      "english" : "Be the first to build or capture a Wonder and keep it for a certain time to win the game. The timer will be reset when the Wonder is destroyed or captured. If the allied victory mode is enabled, the timer will also be reset when the alliances of the owner change.",
+      "translation" : ""
+   },
+   "04df7b06d223f3f518f9b46b3f4151f9" : {
+      "english" : "Defeat opponents by killing their hero.",
+      "translation" : ""
+   },
+   "059cb868b7756b681b0f9c85083ff130" : {
+      "english" : "%(_player_)s and I are now allies.",
+      "translation" : "%(_player_)s и ја смо сада савезници."
+   },
+   "07415401dca1387b99c7fdce4f45cb2b" : {
+      "english" : "%(_player_)s, you must send me a tribute of %(_amount_)s %(_resource_)s before I accept an alliance with you.",
+      "translation" : ""
+   },
+   "09292db8a866cec96b27047c107f3c48" : {
+      "english" : "Choose this difficulty if you do not like being knocked down.",
+      "translation" : ""
+   },
+   "0a684fc176aa73cf4aeb85e6f029d9d3" : {
+      "english" : "Regicide",
+      "translation" : ""
+   },
+   "0cf954a12f9fe57316b3d3a8f80a7e68" : {
+      "english" : "Your request for peace means nothing to me anymore, %(_player_)s!",
+      "translation" : "Твој захтев за миром ми ништа више на значи, %(_player_)s!"
+   },
+   "0d20dde6d169ce9eae61cfdab577f081" : {
+      "english" : "%(category)s build limit of %(limit)s reached",
+      "translation" : ""
+   },
+   "0dee80209a653ea7b81cc073f8f908ff" : {
+      "english" : "Player 3",
+      "translation" : ""
+   },
+   "0e635bf95dcb87f0eea5566e942e9da8" : {
+      "english" : "Entity is producing. Cannot start upgrading.",
+      "translation" : ""
+   },
+   "1073ee026d919872dbae17f51d0590df" : {
+      "english" : "%(_player_)s and I are now enemies.",
+      "translation" : "%(_player_)s смо сада непријатељи."
+   },
+   "110788a4e1bbeb261d2563bdabe4104a" : {
+      "english" : "%(_player_)s, if you send me %(_amount_)s %(_resource_)s, I will accept a neutrality pact.",
+      "translation" : ""
+   },
+   "11f542449dcfad5145de23b3b16da176" : {
+      "english" : "I welcome your request for peace between our civilizations, %(_player_)s. I will accept.",
+      "translation" : ""
+   },
+   "129790c35e058275b16ec24aab376271" : {
+      "english" : "Sorry, I still need to strengthen my army. However, I will attack %(_player_)s next.",
+      "translation" : "Опрости, треба ми још времена за оснаживање војске. Чим будем спреман, напашћу %(_player_)s ."
+   },
+   "1358463d4196753e637ac4971baf4a92" : {
+      "english" : "Normal (1×)",
+      "translation" : ""
+   },
+   "16ae992566229f56da5b6b1bcaacffc9" : {
+      "english" : "Attack against %(_player_)s requested.",
+      "translation" : ""
+   },
+   "18ee2dd8f661dec96d6d19edf79db39e" : {
+      "english" : "Relaxed (0.75×)",
+      "translation" : ""
+   },
+   "1a64fc5fb1d848f188b1c0a7d673c473" : {
+      "english" : "Fast Forward (20×)",
+      "translation" : ""
+   },
+   "1e677704def572ccf3ee5e2fc5e4a31b" : {
+      "english" : "Player 7",
+      "translation" : ""
+   },
+   "20bcb7080c05bda113a0c0626261e3c9" : {
+      "english" : "%(category)s limit of %(limit)s reached",
+      "translation" : ""
+   },
+   "20e88379499081fe8a230168efcf5c9d" : {
+      "english" : "Conquest Civic Centres",
+      "translation" : ""
+   },
+   "233277a28d645166893ad51e25dc7ccc" : {
+      "english" : "Cannot upgrade as distance requirements are not verified or terrain is obstructed.",
+      "translation" : ""
+   },
+   "24f86e9f2e5ab0594afc6d35e0fa7f11" : {
+      "english" : "This map size provides plenty of space for two players, but even eight players fit.",
+      "translation" : ""
+   },
+   "261db8ed3ed8fab6530af6364cc9bcfd" : {
+      "english" : "I am starting a massive military campaign against %(_player_)s, come and join me.",
+      "translation" : "Покрећем масиван војни поход на %(_player_)s, дођи и придружи ми се."
+   },
+   "2660064e68655415da2628c2ae2f7592" : {
+      "english" : "Small",
+      "translation" : "мала"
+   },
+   "28d0edd045e05cf5af64e35ae0c4c6ef" : {
+      "english" : "Low",
+      "translation" : "Ниско"
+   },
+   "2ad733df56aaafa5650bafc9c98c6ffb" : {
+      "english" : "ally",
+      "translation" : "савезник"
+   },
+   "2e492217964a7692612bc5744c339eab" : {
+      "english" : "Turtle (0.1×)",
+      "translation" : ""
+   },
+   "2ff37d96e680d08ec539c39bdde56d54" : {
+      "english" : "I won’t ally you again, %(_player_)s!",
+      "translation" : "Нећу поново бити твој савезник, %(_player_)s!"
+   },
+   "302c9f143953fa9aa2a3cf8b4cd77c32" : {
+      "english" : "%(_player_)s, my offer for an alliance has expired.",
+      "translation" : ""
+   },
+   "30cd271b4e21197bb37a6d3cef64c65f" : {
+      "english" : "%(_player_)s and I are now neutral.",
+      "translation" : "%(_player_)s смо сада неутрални."
+   },
+   "30e81df27c4f3f5e1b412c825d787741" : {
+      "english" : "An alliance between us is a good idea, %(_player_)s.",
+      "translation" : "Савез међу нама је добра идеја, %(_player_)s."
+   },
+   "311951d2b7f1e01b321ba733f8565f20" : {
+      "english" : "Insane (2×)",
+      "translation" : ""
+   },
+   "312790fa9742a46fefe38573a0cdd9e8" : {
+      "english" : "Our previous alliance did not work out, %(_player_)s. I must decline your offer.",
+      "translation" : "Наше предходно савезништво није најбоље испало, %(_player_)s. Морам одбити твој предлог."
+   },
+   "357fd7caa4ef86e23f354163756c4f09" : {
+      "english" : "%(_player_)s, it would help both of our civilizations if we formed an alliance. If you become allies with me, I will respond in kind.",
+      "translation" : ""
+   },
+   "364c5f5af100f36bd55109f50ab99c2a" : {
+      "english" : "I have set up a new route with %(_player_)s. Trading will be profitable for all of us.",
+      "translation" : "Успоставио сам нову руту са %(_player_)s. Трговина ће нам обома бити од користи."
+   },
+   "3656183169810334a96b91129dc9d881" : {
+      "english" : "Hard",
+      "translation" : "Тешко"
+   },
+   "37167efa29e0914b3e62bf9e4b7847cf" : {
+      "english" : "Petra is the default 0 A.D. AI bot. Please report issues to Wildfire Games (see the link in the main menu).\\n\\nThe AI's resource gathering rate and trade gain depend on the difficulty level (Sandbox −58%, Very Easy −44%, Easy −25%, Medium ±0%, Hard +25%, Very Hard +56%). The easiest levels also have a slower research, training, and building rate. In addition, the Sandbox level does not expand nor attack.",
+      "translation" : ""
+   },
+   "379b26c7292a0f5922271b86ae205ab4" : {
+      "english" : "%(name)s cannot be built on another building or resource",
+      "translation" : ""
+   },
+   "383c05bda6f030a44990d354b24f3338" : {
+      "english" : "Tiny",
+      "translation" : "сићушна"
+   },
+   "385fe4be470e81e2887e6a41d3cf66f0" : {
+      "english" : "Choose this difficulty if you do not mind being swept out.",
+      "translation" : ""
+   },
+   "39f05d89d951c87d9027499fcd61b5f2" : {
+      "english" : "Could not auto-queue unit, de-activating.",
+      "translation" : ""
+   },
+   "3a69b34ce86dacb205936a8094f6c743" : {
+      "english" : "Large",
+      "translation" : "велика"
+   },
+   "3a8a09f26bde182c8d960d8e1975a42c" : {
+      "english" : "Here is a gift for you, %(_player_)s. Make good use of it.",
+      "translation" : "Прими овај поклон, %(_player_)s. Употреби га корисно."
+   },
+   "3b074c9b71397d57a23b90f0f1d4c7a5" : {
+      "english" : "The large mapsize is recommended when great portions of the map are covered with water or inaccessible mountains.",
+      "translation" : ""
+   },
+   "3eb56fdf556fb5199f7d9821558e81e1" : {
+      "english" : "You need to select a building that trains units.",
+      "translation" : ""
+   },
+   "40b269d35bdeb58aae1dfaa06d50e2fd" : {
+      "english" : "I will ally with you, %(_player_)s, but only if you send me a tribute of %(_amount_)s %(_resource_)s.",
+      "translation" : ""
+   },
+   "4241cf2eb89a3f273d195175f442e316" : {
+      "english" : "If you send me a tribute of %(_amount_)s %(_resource_)s, I will accept your neutrality request, %(_player_)s.",
+      "translation" : ""
+   },
+   "44621bd614329b14f5c2eb687ed968db" : {
+      "english" : "%(name)s cannot be built in %(territoryType)s territory. Valid territories: %(validTerritories)s",
+      "translation" : ""
+   },
+   "4526b90327b299e0952ed49c2f0eb77d" : {
+      "english" : "unconnected own",
+      "translation" : ""
+   },
+   "4984db24ff557973ed3985a78bc3ae40" : {
+      "english" : "Last remaining player wins.",
+      "translation" : ""
+   },
+   "4a402308381edc05448a07907faf9cd0" : {
+      "english" : "I cannot accept your offer to become allies, %(_player_)s.",
+      "translation" : "Не могу прихватити твоју понуду за  савезништвом, %(_player_)s."
+   },
+   "4b6e0824f3ca5e0154738ba424cf3594" : {
+      "english" : "I’m still waiting for %(_amount_)s %(_resource_)s before accepting your alliance, %(_player_)s.",
+      "translation" : "Још увек очекујем %(_amount_)s %(_resource_)s пре него што прихватим савез, %(_player_)s."
+   },
+   "4c62fcae49c8c7432401b6f1b3bda953" : {
+      "english" : "Fast Forward (5×)",
+      "translation" : ""
+   },
+   "4d6217347b89e5b9e2d31326fe49d84c" : {
+      "english" : "%(_player_)s, as you have failed to respond to my request for peace between us, I have abrogated my offer.",
+      "translation" : ""
+   },
+   "5097489592a09252a2b8372b157552ac" : {
+      "english" : "Player 4",
+      "translation" : ""
+   },
+   "50b7882e2ca58dd7d964e4cc01cb51d3" : {
+      "english" : "Defeat opponents by killing all their units.",
+      "translation" : ""
+   },
+   "51c98c1ee9953bb131b8d35c350426f6" : {
+      "english" : "Choose this difficulty if you have already a good experience with 0 A.D.",
+      "translation" : ""
+   },
+   "51e342760c196bed11f3adda03d9ae37" : {
+      "english" : "I am launching an attack against %(_player_)s.",
+      "translation" : "Нападам %(_player_)s."
+   },
+   "547d8c0f21cb954056b57f96d5a13bb9" : {
+      "english" : "Conquest Structures",
+      "translation" : ""
+   },
+   "55583ec0d2fefe207037fd83bd6e57e0" : {
+      "english" : "Player 5",
+      "translation" : ""
+   },
+   "56ffb2634a65e1ea82a30b8d8edfc5cb" : {
+      "english" : "I am in need of %(resource)s, can you help? I will make it up to you.",
+      "translation" : "Потребан ми је %(resource)s, можеш ли помоћи? Одужићу ти се."
+   },
+   "5c5a4882e9d8d85b666c6a158b1efd2d" : {
+      "english" : "Entity is being upgraded. Cannot start production.",
+      "translation" : ""
+   },
+   "5c775c34fcfdde46d3c531dba5dca87d" : {
+      "english" : "%(_player_)s, consider us allies from now on.",
+      "translation" : "%(_player_)s, гледај на нас као на савезнике од сада па надаље."
+   },
+   "5da248ea6840aca1ae2b417b17982a89" : {
+      "english" : "neutral",
+      "translation" : "неутралан"
+   },
+   "5efbfaf6a4fb4834052d150f7745e66d" : {
+      "english" : "I will accept your offer to become allies, %(_player_)s. We will both benefit from this partnership.",
+      "translation" : ""
+   },
+   "5f1ad7385d872116bbe24b5411462dec" : {
+      "english" : "I have set up a huge army to crush %(_player_)s. Join me and you will have your share of the loot.",
+      "translation" : "Припремио сам огромну армију да бих срушио %(_player_)s. Придружи ми се и добићеш део плена."
+   },
+   "5f8769345632bb51e64af4b1ce07d606" : {
+      "english" : "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s %(resourceType2)s, %(resourceAmount3)s %(resourceType3)s",
+      "translation" : ""
+   },
+   "60c5b56008c92ecdf44dd0dfae661cea" : {
+      "english" : "Very Fast (1.5×)",
+      "translation" : ""
+   },
+   "655d20c1ca69519ca647684edbb2db35" : {
+      "english" : "High",
+      "translation" : "Високо"
+   },
+   "67493faa632dc20a1b3560af884989bf" : {
+      "english" : "%(name)s must be built on a valid shoreline",
+      "translation" : ""
+   },
+   "6872dcfb8d7b6e807626a6b6af301c9b" : {
+      "english" : "I reject your request for alliance, %(_player_)s, but we could become neutral.",
+      "translation" : "Одбијам твој захтев за савезништвом, %(_player_)s, али бисмо могли постати неутрални."
+   },
+   "6fe420a3fc13dd036a4fe21c10f03ea5" : {
+      "english" : "Capture all relics spread across the map and keep them for a certain time to win the game.",
+      "translation" : ""
+   },
+   "6ff015f9a4c7dc3387263aa1a819131f" : {
+      "english" : "Giant",
+      "translation" : "огромна"
+   },
+   "759be10544b3ab8dadd08b0d05abe859" : {
+      "english" : "Very large maps are not recommended as it takes very long to reach the enemy and the game performance can be reduced.",
+      "translation" : ""
+   },
+   "77f6da5b53c24c1c539124863fa7035d" : {
+      "english" : "If you can spare me some %(resource)s, I will be able to strengthen my army.",
+      "translation" : "Ако би ми могао дати нешто %(resource)s, ја бих могао ојачати војску."
+   },
+   "782cb285ee4e0286a859c90ff5878ee7" : {
+      "english" : "%(_player_)s, I will not accept your neutrality request unless you tribute me %(_amount_)s %(_resource_)s soon.",
+      "translation" : ""
+   },
+   "79d377a11c5a583cef5467d7d2a08084" : {
+      "english" : "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s %(resourceType2)s, %(resourceAmount3)s %(resourceType3)s, %(resourceAmount4)s %(resourceType4)s",
+      "translation" : ""
+   },
+   "7bb60c66031e8e2d88ab4234bbc981d9" : {
+      "english" : "Very Large",
+      "translation" : "веома велика"
+   },
+   "7ce65416184ed7980827bcc7882bddc5" : {
+      "english" : "unconnected allied",
+      "translation" : ""
+   },
+   "7d47f578b9da5067ccfb7195ec43c3c8" : {
+      "english" : "Player 2",
+      "translation" : "Играч 2"
+   },
+   "7e4fa92f99d1558bcb34bafca658b15b" : {
+      "english" : "%(_player_)s, if you do not send me part of the %(_amount_)s %(_resource_)s tribute soon, I will break off our negotiations.",
+      "translation" : ""
+   },
+   "7f943921724d63dc0ac9c6febf99fa88" : {
+      "english" : "Easy",
+      "translation" : "Лако"
+   },
+   "82b48a2cf5105ba6125b57f6b764f819" : {
+      "english" : "I can help you this time, %(_player_)s, but you should manage your resources more carefully in the future.",
+      "translation" : "Могу ти помоћи овог пута, %(_player_)s, али би требао пажљивије руковати ресурсима у будућности."
+   },
+   "833cf015559a888faf2460040f5f3ca7" : {
+      "english" : "I have just sent an army against %(_player_)s.",
+      "translation" : "Управо сам послао војску на %(_player_)s."
+   },
+   "84229037c6dd991c41408951e4126577" : {
+      "english" : "Can't find free space to spawn trained units",
+      "translation" : ""
+   },
+   "847b55161c08644a20a6b9530e9da9fa" : {
+      "english" : "%(_player_)s, it would be both to our benefit if we negotiated a neutrality pact. I will become neutral with you if you do the same.",
+      "translation" : ""
+   },
+   "87f8a6ab85c9ced3702b4ea641ad4bb5" : {
+      "english" : "Medium",
+      "translation" : "средња"
+   },
+   "8c831af1bb277784d1265d0186e9c385" : {
+      "english" : "%(_player_)s, only a neutrality agreement is conceivable to me.",
+      "translation" : "%(_player_)s, само је договор о неутралности за мене прихватљив."
+   },
+   "8ebc1a7da86e8e9c3937dadc29cf8eb6" : {
+      "english" : "The building's technology requirements are not met.",
+      "translation" : ""
+   },
+   "9055b27d1f6ac3646c5a839d31134140" : {
+      "english" : "Very High",
+      "translation" : "Веома Високо"
+   },
+   "905b58ee28fd586c8870ce6c8af1f6cc" : {
+      "english" : "Wonder",
+      "translation" : ""
+   },
+   "94f6de7889942defb2fe2fe8ecdcb7a6" : {
+      "english" : "Deathmatch",
+      "translation" : ""
+   },
+   "960b44c579bc2f6818d2daaf9e4c16f0" : {
+      "english" : "Normal",
+      "translation" : "нормална"
+   },
+   "97c51e883c8ef965397b07d867e86106" : {
+      "english" : "Player 1",
+      "translation" : ""
+   },
+   "9bc9cc5b77585d541b04af4c6124fc34" : {
+      "english" : "Player 8",
+      "translation" : ""
+   },
+   "9bf823cc0c5e9f502467bd73c2f4d0f5" : {
+      "english" : "The production queue is full.",
+      "translation" : ""
+   },
+   "9f2c09adf393051cc946a84f4ab1dbed" : {
+      "english" : "%(_player_)s, I would like to request a neutrality pact between our civilizations. If you become neutral with me, I will respond in kind.",
+      "translation" : ""
+   },
+   "9fa8e0334f03248f3a0a2f304c5c12a5" : {
+      "english" : "Conquest",
+      "translation" : ""
+   },
+   "a40f3b1fbbd2caceb3ef1b8fe5fd7eb3" : {
+      "english" : "%(_player_)s, I must decline your request for a neutrality pact.",
+      "translation" : "%(_player_)s, морам одбити твој захтев за неутралношћу."
+   },
+   "a572f88b4196da9e3528deda3e687f09" : {
+      "english" : "I am finishing preparations to attack %(_player_)s.",
+      "translation" : "Завршавам припреме за напад на %(_player_)s."
+   },
+   "a6245f64601dffef5299f36cb9dcfb72" : {
+      "english" : "%(_player_)s, I have decided to revoke my offer for a neutrality pact.",
+      "translation" : ""
+   },
+   "a6888dbd58b0cd9af5e45f81793c4382" : {
+      "english" : "My answer to your repeated peace proposal will remain war, %(_player_)s!",
+      "translation" : ""
+   },
+   "a6f78e5cb673f51021d69d15c5d0fe41" : {
+      "english" : "Slow (0.25×)",
+      "translation" : ""
+   },
+   "a8a39787fb76d09b0cbd0acd31f5f955" : {
+      "english" : "I will not become neutral with you, %(_player_)s.",
+      "translation" : "Нећу постати неутралан према теби, %(_player_)s."
+   },
+   "a96d2b69ef2df57d9d7b93462109c34c" : {
+      "english" : "Very Low",
+      "translation" : "Веома Ниско"
+   },
+   "a9ce59d383cabbe66ab62411c41b0b9a" : {
+      "english" : "There are no bribable units",
+      "translation" : ""
+   },
+   "acbedb91c17a2247d6334c4521be7ec3" : {
+      "english" : "You can attack now!",
+      "translation" : ""
+   },
+   "adde01781ce9a6817268b7a911655f71" : {
+      "english" : "This is the ideal mapsize for 4 to 8 players, because there is plenty of space to expand while the neighbors are quickly reachable.",
+      "translation" : ""
+   },
+   "af6fa6fb454d217189eb2ae28d96a394" : {
+      "english" : "%(name)s cannot be built due to unknown error",
+      "translation" : ""
+   },
+   "b04a1d2abcf4725a6fedf6ec6c96e2fe" : {
+      "english" : "I see you are in a bad situation, %(_player_)s. I hope this helps.",
+      "translation" : "Видим да си у лошем положају, %(_player_)s. Надам се да ће ово помоћи."
+   },
+   "b164bcae00737ee30414286ba9954a89" : {
+      "english" : "%(name)s cannot be built on invalid terrain",
+      "translation" : ""
+   },
+   "b2ba1361a8e7377da05a0543f0dca0ac" : {
+      "english" : "No more alliances between us, %(_player_)s!",
+      "translation" : "Не може поново бити савеза међу нама, %(_player_)s!"
+   },
+   "b366f2acb18ee9067f733e5da8ec8935" : {
+      "english" : "Insufficient resources - %(resourceAmount1)s %(resourceType1)s",
+      "translation" : ""
+   },
+   "b515e18aa3fbe7d264d7ca5a95ef73e1" : {
+      "english" : "own",
+      "translation" : "сопствени"
+   },
+   "b5fdbeea0a10c50e5e8511d910941e0e" : {
+      "english" : "You can attack in %(time)s",
+      "translation" : ""
+   },
+   "b85a43e8be2fed904e3bc1bd67da5c0f" : {
+      "english" : "(Cheat - promoted units)",
+      "translation" : ""
+   },
+   "bc86e6ffead4d002044c58a6a2a31951" : {
+      "english" : "Unless you send me %(_amount_)s %(_resource_)s, an alliance won’t be formed, %(_player_)s.",
+      "translation" : ""
+   },
+   "c07d9841d005151f23cc2b907aa6e15b" : {
+      "english" : "Sorry, I do not have enough soldiers currently; but my next attack will target %(_player_)s.",
+      "translation" : "Опрости, тренутно немам довољно војника, али мој следећи напад биће усмерен против %(_player_)s."
+   },
+   "c1b3a229915f1c191ee743e6f176fcf2" : {
+      "english" : "Let both of our people prosper from a peaceful association, %(_player_)s.",
+      "translation" : ""
+   },
+   "c30e86eb05a30e2ce700d4df0656dc38" : {
+      "english" : "Gaia",
+      "translation" : ""
+   },
+   "c31333d76aa043447317e14019fe860f" : {
+      "english" : "%(player)s has been defeated (cheat).",
+      "translation" : ""
+   },
+   "c3474a02ab47080bf2edf1604adb53b1" : {
+      "english" : "Fast Forward (10×)",
+      "translation" : ""
+   },
+   "c38f716031ce8cd2aa1a0469e33c6cc1" : {
+      "english" : "Defeat opponents by destroying all their structures.",
+      "translation" : ""
+   },
+   "c60132c6236e92b782d73f6cb1f2efda" : {
+      "english" : "allied",
+      "translation" : ""
+   },
+   "c61cd533922513a76b30554591ec6b96" : {
+      "english" : "(Cheat - reveal map)",
+      "translation" : ""
+   },
+   "c8c01d17dfd4e3149797cd7c9e18c007" : {
+      "english" : "%(unit)s can't be controlled.",
+      "translation" : ""
+   },
+   "ca18a723ac92dbcdc26575edc12929d7" : {
+      "english" : "A new trade route is set up with %(_player_)s. Take your share of the profits.",
+      "translation" : "Нова трговачка рута је успостављена са %(_player_)s. Узми свој део профита."
+   },
+   "caf25a097575da7b7ee6aa13af929fec" : {
+      "english" : "Player 6",
+      "translation" : ""
+   },
+   "cbe74da101ea5464db6e48fe326c53d5" : {
+      "english" : "We have found common ground, %(_player_)s. I accept the alliance.",
+      "translation" : ""
+   },
+   "cde2fde1fa1551a704d775ce2315915d" : {
+      "english" : "enemy",
+      "translation" : "непријатељ"
+   },
+   "ceea0899057158c97da7636101e387db" : {
+      "english" : "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s %(resourceType2)s",
+      "translation" : ""
+   },
+   "d005a5323c6af199f0192851354ea718" : {
+      "english" : "Very Hard",
+      "translation" : "Веома тешко"
+   },
+   "d0d7808abc4886c60a77b0861bb5cc41" : {
+      "english" : "I will not be your ally, %(_player_)s. However, I will consider a neutrality pact.",
+      "translation" : "Ја нећу бити твој савезник, %(_player_)s. Ипак, могу размотрити договор о неутралности."
+   },
+   "d1abf918a7924fbef9c72de6944e2556" : {
+      "english" : "Very Easy",
+      "translation" : "Веома лако"
+   },
+   "d1d2926a81303a1c2730832315591bfc" : {
+      "english" : "I cannot help you against %(_player_)s for the time being, I am planning to attack %(_player_2)s first.",
+      "translation" : ""
+   },
+   "d2e1309edb52d3496a27da036a1d9148" : {
+      "english" : "Some unit(s) can't go back to work",
+      "translation" : ""
+   },
+   "d56f91d6d0bcf2adb716e16aeb05deb1" : {
+      "english" : "Conquest Units",
+      "translation" : ""
+   },
+   "d5f702d7f63be0f5f11db9ae471cc343" : {
+      "english" : "Our previous neutrality agreement ended in failure, %(_player_)s; I will not consider another one.",
+      "translation" : "Наше предходно савезништво се завршило неуспешно, %(_player_)s; нећу ни размотрати понуду за новим."
+   },
+   "db586dfb34f1a58d3705bd1e48d12bd2" : {
+      "english" : "Let me regroup my army and I will then join you against %(_player_)s.",
+      "translation" : "Обновићу војску и онда ти се  придружити против %(_player_)s."
+   },
+   "de23bba92a3b8f0ec601718265ed03b1" : {
+      "english" : "Choose this difficulty if you want to be really challenged.",
+      "translation" : ""
+   },
+   "deef3658c538bdae38dabf03577cdbf0" : {
+      "english" : "Capture the Relic",
+      "translation" : ""
+   },
+   "df8d14a3cf059edd268eef083af5c0cf" : {
+      "english" : "Defeat opponents by destroying all their fully build civic centres.",
+      "translation" : ""
+   },
+   "e0dad14e666c58b3737da1fdfd0b7e92" : {
+      "english" : "%(player)s has resigned.",
+      "translation" : ""
+   },
+   "e439a73ab5471eea98bb000572f93292" : {
+      "english" : "Choose this difficulty if you are discovering 0 A.D.",
+      "translation" : ""
+   },
+   "e4f083ba3cf133716201a92af913bd7d" : {
+      "english" : "This map size has barely any room for even the most basic resources.",
+      "translation" : ""
+   },
+   "eb0eb8fe4da8858e544b205c71760cfb" : {
+      "english" : "%(_player_)s, my offer still stands. I will ally with you only if you send me a tribute of %(_amount_)s %(_resource_)s.",
+      "translation" : ""
+   },
+   "f2f36b3bee5b9ad02e673c5a9c3b1ad0" : {
+      "english" : "%(name)s cannot be built in unexplored area",
+      "translation" : ""
+   },
+   "f39b8aa55ccea2f89c7451d0777afa30" : {
+      "english" : "Unable to unload unit(s).",
+      "translation" : ""
+   },
+   "f3b19a9578500bab2cae9798e76e62d1" : {
+      "english" : "Petra Bot",
+      "translation" : ""
+   },
+   "f3c7be3e3f165ed9bdc46493c10ef8f9" : {
+      "english" : "Fast (1.25×)",
+      "translation" : ""
+   },
+   "f477211c4a6f3262768d8601b7c93a4d" : {
+      "english" : "%(category)s training limit of %(limit)s reached",
+      "translation" : ""
+   },
+   "f5a6000e0bdf9241934361fe498cc5e9" : {
+      "english" : "I would participate more efficiently in our common war effort if you could provide me some %(resource)s.",
+      "translation" : "Био бих ефикаснији у ратним напорима, ако би ми могао пружити нешто %(resource)s."
+   },
+   "f64a346f5a65f1df3cd818e02f77751e" : {
+      "english" : "%(_player_)s, I have rescinded my previous offer for an alliance between us.",
+      "translation" : ""
+   },
+   "fb705104b3e0e97c7dce5b308163e153" : {
+      "english" : "(Cheat - control all units)",
+      "translation" : ""
+   },
+   "fe52113afd9ae8b79a4a968aaee548e3" : {
+      "english" : "%(_player_)s, I will accept your neutrality request. May both our civilizations benefit.",
+      "translation" : ""
+   },
+   "fe969b2a3a218c28bd09ec98b021b813" : {
+      "english" : "Small maps are suitable for 1v1 matches, as players can reach the enemy quickly while still having some room to expand.",
+      "translation" : ""
+   },
+   "fffbcf362d8587efe2e28fb77c229e9c" : {
+      "english" : "Defeat opponents by killing all their units and destroying all their structures.",
+      "translation" : ""
+   }
+}

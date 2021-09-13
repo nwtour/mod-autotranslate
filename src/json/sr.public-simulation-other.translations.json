@@ -1,0 +1,54 @@
+{
+   "1358463d4196753e637ac4971baf4a92" : {
+      "english" : "Normal (1×)",
+      "translation" : "Нормално (1А—)"
+   },
+   "311951d2b7f1e01b321ba733f8565f20" : {
+      "english" : "Insane (2×)",
+      "translation" : "Луда (2А—)"
+   },
+   "4526b90327b299e0952ed49c2f0eb77d" : {
+      "english" : "unconnected own",
+      "translation" : "неповезани сопствени"
+   },
+   "4984db24ff557973ed3985a78bc3ae40" : {
+      "english" : "Last remaining player wins.",
+      "translation" : "Последњи преостали играч побеђује."
+   },
+   "5efbfaf6a4fb4834052d150f7745e66d" : {
+      "english" : "I will accept your offer to become allies, %(_player_)s. We will both benefit from this partnership.",
+      "translation" : "Прихватићу вашу понуду да постанете савезници, %(_ плаиер_) с. Обоје ћемо имати користи од овог партнерства."
+   },
+   "7e4fa92f99d1558bcb34bafca658b15b" : {
+      "english" : "%(_player_)s, if you do not send me part of the %(_amount_)s %(_resource_)s tribute soon, I will break off our negotiations.",
+      "translation" : "%(_ плаиер_) с, ако ми ускоро не пошаљете део %(_ амоунт_) с %(_ ресоурце_) с трибута, прекинућу наше преговоре."
+   },
+   "acbedb91c17a2247d6334c4521be7ec3" : {
+      "english" : "You can attack now!",
+      "translation" : "Сада можете да нападнете!"
+   },
+   "b366f2acb18ee9067f733e5da8ec8935" : {
+      "english" : "Insufficient resources - %(resourceAmount1)s %(resourceType1)s",
+      "translation" : "Недовољно ресурса - %(ресоурцеАмоунт1) с %(ресоурцеТипе1) с"
+   },
+   "c1b3a229915f1c191ee743e6f176fcf2" : {
+      "english" : "Let both of our people prosper from a peaceful association, %(_player_)s.",
+      "translation" : "Нека обоје наших људи напредују из мирног удружења, %(_ плаиер_) с."
+   },
+   "caf25a097575da7b7ee6aa13af929fec" : {
+      "english" : "Player 6",
+      "translation" : "Играч 6"
+   },
+   "cbe74da101ea5464db6e48fe326c53d5" : {
+      "english" : "We have found common ground, %(_player_)s. I accept the alliance.",
+      "translation" : "Нашли смо заједнички језик, %(_ плаиер_) с. Прихватам савез."
+   },
+   "e439a73ab5471eea98bb000572f93292" : {
+      "english" : "Choose this difficulty if you are discovering 0 A.D.",
+      "translation" : "Одаберите ову потешкоћу ако откријете 0 А.Д."
+   },
+   "f2f36b3bee5b9ad02e673c5a9c3b1ad0" : {
+      "english" : "%(name)s cannot be built in unexplored area",
+      "translation" : "%(наме) с не може бити уграђено у неистражено подручје"
+   }
+}

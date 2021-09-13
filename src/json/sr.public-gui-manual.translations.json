@@ -1,0 +1,54 @@
+{
+   "0eb88a24bd6a21dca9c6c422c1aef6d5" : {
+      "english" : "  hotkey.camera.up – Pan screen up",
+      "translation" : "хоткеи.цамера.уп - Померајте екран нагоре"
+   },
+   "11a364e29ff0ec06c518a9294b4ee41f" : {
+      "english" : "  hotkey.cancel – Close all dialogs (chat, menu)",
+      "translation" : "хоткеи.цанцел - Затворите све дијалоге (ћаскање, мени)"
+   },
+   "193dd2f16f28815d538fa69136ff8490" : {
+      "english" : "  hotkey.session.rotate.cw – Rotate structure 15 degrees clockwise",
+      "translation" : "хоткеи.сессион.ротате.цв - Ротирајте структуру за 15 степени у смеру казаљке на сату"
+   },
+   "28d944ebf2b8867cd85ce12882830032" : {
+      "english" : "  hotkey.session.attackmoveUnit + Right Click with unit(s) selected – Attack move, only units along the way are targeted",
+      "translation" : "хоткеи.сессион.аттацкмовеУнит + Десни клик са изабраним јединицама / јединицама - Напад се креће, циљају се само јединице успут"
+   },
+   "2c7c3ebbddbd546a95326367f682b960" : {
+      "english" : "  hotkey.session.diplomacycolors – Toggle diplomacy colors",
+      "translation" : "хоткеи.сессион.дипломацицолорс - Укључивање / искључивање боја дипломатије"
+   },
+   "68f5d3da29ae386e2aa51eba466894ab" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]When loading a saved game[font=\\\"sans-14\\\"]",
+      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Приликом учитавања сачуване игре [фонт u003d \\ \"санс-14 \\\"]"
+   },
+   "69327de14c6d5ec1102fe57bdc01b42d" : {
+      "english" : "  hotkey.session.gui.menu.toggle – Toggle menu",
+      "translation" : "хоткеи.сессион.гуи.мену.тоггле - Пребацивање менија"
+   },
+   "8fdfa3696f7e1c10d372f80fd7465c34" : {
+      "english" : "  hotkey.selection.remove + Left Click or Left Drag over unit on map – Remove unit from selection",
+      "translation" : "хоткеи.селецтион.ремове + Леви клик или лево Превуците јединицу на мапи - Уклоните јединицу из избора"
+   },
+   "b6c2d53ef0d50c485a312a20c1f922d5" : {
+      "english" : "  hotkey.camera.follow – Follow the selected unit (move the camera to stop following the unit)",
+      "translation" : "хоткеи.цамера.фоллов - Пратите изабрану јединицу (померите камеру да престане да прати јединицу)"
+   },
+   "e471664ada74219bf32410318d0d67a2" : {
+      "english" : "  hotkey.camera.pan – Keep pressed and move the mouse to pan",
+      "translation" : "хоткеи.цамера.пан - Држите притиснутим и померите миш за померање"
+   },
+   "e919d5f3e8a1b35f88ba59d557b79bcc" : {
+      "english" : "  hotkey.session.attackmove + Right Click with unit(s) selected – Attack move (by default all enemy units and structures along the way are targeted)",
+      "translation" : "хоткеи.сессион.аттацкмове + Десни клик са одабраним јединицама - потез напада (подразумевано се циљају све непријатељске јединице и структуре на путу)"
+   },
+   "f16fadb3dc4627b57c451ddea71b7366" : {
+      "english" : "Then the maps can be further filtered. The default maps are generally playable maps. Naval maps are maps where not all opponents can be reached over land and demo maps are maps used for testing purposes (generally not useful to play on). The “All Maps” filter shows all maps together in one list.",
+      "translation" : "Затим се карте могу додатно филтрирати. Подразумеване мапе су генерално мапе за репродукцију. Поморске карте су карте на којима није могуће доћи до свих противника са копна, а демо карте су карте које се користе за тестирање (опћенито није корисно за игру). Филтер „Све мапе“ приказује све карте заједно на једној листи."
+   },
+   "fb961edf3bdb3a95caf77390906ae190" : {
+      "english" : "  hotkey.camera.rotate.wheel.cw – Rotate camera clockwise around terrain",
+      "translation" : "хоткеи.цамера.ротате.вхеел.цв - Ротирајте камеру у смеру казаљке на сату око терена"
+   }
+}

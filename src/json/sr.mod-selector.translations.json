@@ -1,0 +1,18 @@
+{
+   "1aced5421e9b5155078f19dca6dbb9d0" : {
+      "english" : "Change the order in which mods are launched. This should match the mods dependencies.",
+      "translation" : "Промените редослед покретања модова. Ово би требало да одговара зависностима модова."
+   },
+   "7e6ee6d35d0e74099238dee112805d20" : {
+      "english" : "By using the service, you understand that mod.io's Terms of Use and Privacy Policy apply and that Wildfire Games is not liable for any damages resulting from this service.",
+      "translation" : "Коришћењем услуге разумете да се примењују Услови коришћења и политика приватности мод.ио -а и да Вилдфире игре нису одговорне за било какву штету насталу овом услугом."
+   },
+   "f6471e01cc01715f9814ba5589ec87cb" : {
+      "english" : "Cancel Download",
+      "translation" : "Откажи преузимање"
+   },
+   "ff754705ebed686986e8a123d98673d6" : {
+      "english" : "Save and Restart",
+      "translation" : "Сачувај и поново покрени"
+   }
+}

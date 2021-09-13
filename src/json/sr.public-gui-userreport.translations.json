@@ -1,0 +1,54 @@
+{
+   "10dba2897e1fd7b489844eb287154c7a" : {
+      "english" : " 8. Wildfire Games secures personal data processing to prevent unauthorised or unlawful processing and accidental loss (GDPR 5.1.f. \\\"integrity and confidentiality\\\").",
+      "translation" : "8. Вилдфире Гамес штити обраду личних података како би се спречила неовлашћена или незаконита обрада и случајни губитак (ГДПР 5.1.ф. \\ \"интегритет и поверљивост \\\")."
+   },
+   "1529f0e09ab580ddaac261b1e5ea39b7" : {
+      "english" : " 7. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, GDPR 77).",
+      "translation" : "7. Право на подношење жалбе надзорном органу (ГДПР 13.2.д, ГДПР 77)."
+   },
+   "323935f04a6243f2d1a22202f95c565e" : {
+      "english" : "[font=\\\"sans-bold-18\\\"]0 A.D. Empires Ascendant UserReporter Terms and Conditions[/font]",
+      "translation" : "[фонт u003d \\ \"санс-болд-18 \\\"] 0 А.П. Емпирес Асцендант УсерРепортер Услови и одредбе [/фонт]"
+   },
+   "437ae92f71d8ad3e050e5828ed92e7a9" : {
+      "english" : " 4. Right to erasure of your UserReports if they are not relevant to the development of 0 A.D., if the data was processed unlawfully or if the user objects to the processing and has overriding legitimate grounds (GDPR 17).",
+      "translation" : "4. Право на брисање ваших корисничких извјештаја ако нису релевантни за развој 0 А.Д., ако су подаци обрађени незаконито или ако се корисник противи обради и има надмоћне легитимне основе (ГДПР 17)."
+   },
+   "56e96bcd4ef5a5b0771c9d155da94b71" : {
+      "english" : " 9. Wildfire Games informs users of their right to access, to rectify, to erase personal data and the right to restrict, to withdraw consent to, to object to personal data processing and to complain at a supervisory authority (GDPR 13.2.b, GDPR 13.2.c, GDPR 13.2.d).",
+      "translation" : "9. Вилдфире Гамес обавештава кориснике о њиховом праву на приступ, исправци, брисању личних података и праву на ограничавање, повлачење пристанка, приговарање обради личних података и жалбу надзорном органу (ГДПР 13.2.б, ГДПР 13.2.ц, ГДПР 13.2.д)."
+   },
+   "6ab22436ac4bd4836f50d3ba6bd1be75" : {
+      "english" : "    The current logfolder is %(logPath)s.",
+      "translation" : "Тренутна фасцикла евиденције је %(логПатх) с."
+   },
+   "8d88887074f9425b46a10bfc97d52a28" : {
+      "english" : " 2. Erase any UserReports for any reason, except where a user has objected to the erasure of his or her data for one of the reasons specified by the GDPR (GDPR 18, GDPR 21).",
+      "translation" : "2. Избришите све корисничке извештаје из било ког разлога, осим ако се корисник успротивио брисању његових или њених података из једног од разлога наведених у ГДПР -у (ГДПР 18, ГДПР 21)."
+   },
+   "8ee498154118f11c5aefc6d594e11241" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]You agree to:[/font]",
+      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Слажете се са: [/фонт]"
+   },
+   "b20302356a03358c337dc1e002ff5e2c" : {
+      "english" : " 1. Publish UserReport data, excluding the UserID pseudonym, so that community developers may help contribute to 0 A.D. development using this data (GDPR 4.5).",
+      "translation" : "1. Објавите податке УсерРепорт -а, искључујући псеудоним УсерИД, тако да програмери заједнице могу помоћи у доприносу развоју 0 А.Д. користећи ове податке (ГДПР 4.5)."
+   },
+   "cb7e1d073f37c50e134f80e89fbd1148" : {
+      "english" : "    The current configuration folder is %(configPath)s.",
+      "translation" : "Тренутна фасцикла за конфигурацију је %(цонфигПатх) с."
+   },
+   "f85d11a0a014cb150cac7261faa129a2" : {
+      "english" : "The transmission is secured with SSL. Data is protected against unintentional loss in encrypted backups for additional time (GDPR 30.1.g, GDPR 32).",
+      "translation" : "Пренос је осигуран ССЛ -ом. Подаци су заштићени од ненамерног губитка у шифрованим резервним копијама на додатно време (ГДПР 30.1.г, ГДПР 32)."
+   },
+   "fd67e39a1b8c877525939f5999d44ace" : {
+      "english" : " 4. Change this document. The document date indicates the version of the Terms and Conditions.",
+      "translation" : "4. Промените овај документ. Датум документа означава верзију Услова и одредби."
+   },
+   "fe69a04da542cc8272b715f110f36de9" : {
+      "english" : "    The data can be reviewed before the UserReporter is enabled.",
+      "translation" : "Подаци се могу прегледати пре него што се омогући УсерРепортер."
+   }
+}

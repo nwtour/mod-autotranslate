@@ -1,0 +1,54 @@
+{
+   "029eb59c4714a5bf431859bf65802fd5" : {
+      "english" : "Citizen Infantry Spearmen +10% health.",
+      "translation" : "Грађански пешадијски копљаници +10% здравља."
+   },
+   "281abec20fa206311c45c6ad74b6e79d" : {
+      "english" : "Builders +10% build rate.",
+      "translation" : "Градитељи +10% стопе изградње."
+   },
+   "36760c8bdb6ea26e1979697d8525aed5" : {
+      "english" : "+10% international trade bonus.",
+      "translation" : "+10% бонуса за међународну трговину."
+   },
+   "3c685f2dc4722bf78dbb8c312dd8454a" : {
+      "english" : "Temples −50% resource costs and building time; Temple technologies −50% resource costs and research time.",
+      "translation" : "Храмови - 50% трошкова ресурса и времена изградње; Технологије храмова - 50% трошкова ресурса и времена за истраживање."
+   },
+   "51a19bc754a90b2aa7a9732aeb48aec9" : {
+      "english" : "Elephants −20% resource costs and training time.",
+      "translation" : "Слонови имају 20% трошкова ресурса и времена за обуку."
+   },
+   "5ba2660e84107d1b1048530a759f106a" : {
+      "english" : "Citizen Javelineers −10% resource costs.",
+      "translation" : "Цитизен Јавелинеерс - 10% трошкова ресурса."
+   },
+   "63b5ac0ab9aa7e1fb533466b763a0803" : {
+      "english" : "Units gain experience while garrisoned inside the building.",
+      "translation" : "Јединице стичу искуство док су у згради у гарнизону."
+   },
+   "64bd0ab68592050be84765b7239280c3" : {
+      "english" : "+20% barter sell prices.",
+      "translation" : "+20% бартер продајне цене."
+   },
+   "9f9a3b68f518a2ee43e08edb7f5a5e9d" : {
+      "english" : "Citizen Infantry −10% training time.",
+      "translation" : "Грађанска пешадија има 10% времена обуке."
+   },
+   "b7eb737bb0480bbd41101b4e5fe0f00f" : {
+      "english" : "Healers −20% resource costs.",
+      "translation" : "Исцелитељи имају 20% трошкова ресурса."
+   },
+   "bcdc613d6d36928f58db4100c6a88cfc" : {
+      "english" : "Land Traders +15% trade gain.",
+      "translation" : "Трговци земљиштем +15% трговинске добити."
+   },
+   "d8e1c5425c99256cad6bafd0b0b386c8" : {
+      "english" : "Turreted Soldiers +3 crush, hack, pierce resistance and +20 vision range.",
+      "translation" : "Војници са куполом +3 слом, хаковање, отпор пробијања и +20 домет видљивости."
+   },
+   "e39a27be208cc9db22946bd5fc07cc6f" : {
+      "english" : "Warships −25% construction time.",
+      "translation" : "Ратни бродови имају 25% времена изградње."
+   }
+}

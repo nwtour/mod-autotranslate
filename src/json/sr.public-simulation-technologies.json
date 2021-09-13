@@ -1,0 +1,1354 @@
+{
+   "00c1b8ddae47b4a4ffb8f4d8ded712ca" : {
+      "english" : "Mercenaries start at Advanced rank.",
+      "translation" : ""
+   },
+   "01732033d01f53899cf67c90867ad250" : {
+      "english" : "Advanced Siege",
+      "translation" : "Напредна окупација"
+   },
+   "01ac5ed6ad12f29c7ae0ff423f3d3973" : {
+      "english" : "Hoplite Tradition",
+      "translation" : ""
+   },
+   "01dbf761a553fe4e9f3f0fc666508976" : {
+      "english" : "Workers use horse-drawn carts. Increases shuttling capacity for all resources.",
+      "translation" : ""
+   },
+   "024aa95311740a6dc9aea7ea0430d5ea" : {
+      "english" : "Sentries",
+      "translation" : ""
+   },
+   "02db77c0a1d7c06497c733d36f8ba021" : {
+      "english" : "The science or craft of laying or carrying out sieges.",
+      "translation" : ""
+   },
+   "036e0ca242abe36403f124ebaa8bb047" : {
+      "english" : "Units regain health over time while garrisoned.",
+      "translation" : ""
+   },
+   "0455071eb7c975cc69ec5468f709df60" : {
+      "english" : "Increases the healing rate of all healers.",
+      "translation" : ""
+   },
+   "045b54be365ce201e4ede281c8eedd80" : {
+      "english" : "Improved Fletching",
+      "translation" : ""
+   },
+   "04c063d7510d680785b01f0b38d425c5" : {
+      "english" : "Sentry and Stone Towers +40% more arrows per garrisoned Soldier.",
+      "translation" : ""
+   },
+   "058fb3ab9550a050a7bdfa9ae1acc04b" : {
+      "english" : "Merchants' first goal was trading, but they also gathered information about the countries they crossed.",
+      "translation" : ""
+   },
+   "066d8c9d8502104c2f01327b56d642b1" : {
+      "english" : "Battering Rams and Siege Towers +25% health.",
+      "translation" : ""
+   },
+   "0d552783a5f9c9cf11abb6d1b67dd4e2" : {
+      "english" : "Home gardens ranged from simple fenced-in areas to large manicured and colonnaded enclosures.",
+      "translation" : ""
+   },
+   "0d7c067994b6fa734877a499fa391fe7" : {
+      "english" : "Sphagia",
+      "translation" : ""
+   },
+   "0dc26f112dfe42cbc7c02d24d880c193" : {
+      "english" : "Bolt Shooters −20% ranged attack spread.",
+      "translation" : ""
+   },
+   "0de9cfd368722548425c3adb63889035" : {
+      "english" : "Workers use baskets. Increases shuttling capacity for all resources.",
+      "translation" : ""
+   },
+   "0e470afef46ca89c8385f30c3263c1d5" : {
+      "english" : "Unlock Champion Cavalry at the Stable.",
+      "translation" : ""
+   },
+   "0efa98ef1c55c9c144dbbb6961b37ef1" : {
+      "english" : "Servi",
+      "translation" : ""
+   },
+   "0fc59b9bf153d3d0f8bb9b9d7d435de5" : {
+      "english" : "Horse Breeding",
+      "translation" : ""
+   },
+   "102f1b8134520fd76b098af9ab4a1444" : {
+      "english" : "Pugio",
+      "translation" : "Pugio"
+   },
+   "12ca014212e5d43153609ea6d6d3dc5d" : {
+      "english" : "Experienced Crews",
+      "translation" : ""
+   },
+   "12e027d9dfb8da7cb587067c3819a73a" : {
+      "english" : "The Achaemenids maintained a 10,000-strong elite corps, referred to as Athanatoi (“Immortals”) by Greek authors.",
+      "translation" : ""
+   },
+   "13184baa9375a542ab2a7e836e1157d4" : {
+      "english" : "Using iron instead of bronze gave weapons additional power.",
+      "translation" : "Кориштење жељеза уместо бронзе оружју даје додатну снагу."
+   },
+   "14e28c9372d1cff586b00516bab36459" : {
+      "english" : "Advanced technologies improve siege efficiency.",
+      "translation" : ""
+   },
+   "1557cc92e32718fb2bc8ab4a3d712c91" : {
+      "english" : "A festival attended by women-only, to celebrate female fertility.",
+      "translation" : ""
+   },
+   "16b793b3bccbab03704c7ad214eafd7d" : {
+      "english" : "Guard units (Champions) are professionals who wield the best weapons and have the best training.",
+      "translation" : ""
+   },
+   "17bea29cc3c491c2a669fdbb22386dd0" : {
+      "english" : "The Mauryas built their city walls out of wood, an abundant natural resource in India.",
+      "translation" : ""
+   },
+   "18185b11b7c5465e31f852c63e697c8d" : {
+      "english" : "Workers +25% wood gather rate.",
+      "translation" : ""
+   },
+   "184626e631d657508512a2c6a18555fd" : {
+      "english" : "Unlock Champion Chariots",
+      "translation" : ""
+   },
+   "18c0d18807ff05fb58c1ff1f5da8283d" : {
+      "english" : "Increases wood gathering rates for trees.",
+      "translation" : ""
+   },
+   "1ad81f66ac42ec2b7ca0a361d63b8602" : {
+      "english" : "Iphicratean Reforms",
+      "translation" : "Ификратове реформе"
+   },
+   "1dc0c36d3be7989e67fa628d1ece9c93" : {
+      "english" : "Build Walls in own or neutral territory.",
+      "translation" : ""
+   },
+   "1dcd922fcfdfc8c20fd23654961c9e18" : {
+      "english" : "Hire servants to help quarry stone. Increases stone gathering rates.",
+      "translation" : ""
+   },
+   "1dd520ff10a5c3d76c82ccfd105a577e" : {
+      "english" : "Murder Holes",
+      "translation" : ""
+   },
+   "1e0dc683f05230467603181139b67ded" : {
+      "english" : "Wootz Steel",
+      "translation" : "Wootz челик"
+   },
+   "1ef4ec11118bdd44e4fcded23268af59" : {
+      "english" : "Hippocratic Oath",
+      "translation" : "Хипократова заклетва"
+   },
+   "1eff71ffbb7e6c01b6a633e9152dae95" : {
+      "english" : "Archers −20% ranged attack spread.",
+      "translation" : ""
+   },
+   "2025ec5dd886d5067a487e2a03f7cbae" : {
+      "english" : "Soldiers +20% melee attack damage.",
+      "translation" : ""
+   },
+   "209722c9e2e89a8b5fe9864aa4674106" : {
+      "english" : "Thesmophoria",
+      "translation" : ""
+   },
+   "21dd3e8376a96e3ae19107c297c9e7fd" : {
+      "english" : "Expertise In War",
+      "translation" : "Ратни Стручњаци"
+   },
+   "2281ed009e7726645f9b1800268167b6" : {
+      "english" : "Requires three Traders",
+      "translation" : ""
+   },
+   "22ac273a010954c45c76dda38e05b71d" : {
+      "english" : "Crenellations",
+      "translation" : ""
+   },
+   "2300f3954128294bd2bb1325b6da8cf6" : {
+      "english" : "Equip your workers with helpful tools. Increases metal gathering rates.",
+      "translation" : ""
+   },
+   "238908f3990770d6958bb92b95b64492" : {
+      "english" : "Peristylium",
+      "translation" : ""
+   },
+   "23a35ff0a7b5d9855d3613112b51154a" : {
+      "english" : "Enable the “Glorious Expansion” aura: +20% maximum population limit per Wonder owned.",
+      "translation" : ""
+   },
+   "23d91639ecdc3d9ed6b1d145923e40d8" : {
+      "english" : "Wheelbarrow",
+      "translation" : "Колица"
+   },
+   "2589b8f4c09652eaf23aff64db0c4a04" : {
+      "english" : "Train your horses to move faster.",
+      "translation" : ""
+   },
+   "25bf9b943e3029b095b22d7771982ffe" : {
+      "english" : "Cover the exterior with iron plates to protect against fire and projectiles.",
+      "translation" : ""
+   },
+   "26674b09e599ef7289346e257cdb1cfe" : {
+      "english" : "Structures −20% build time, −20% health, and −20% capture points.",
+      "translation" : ""
+   },
+   "2717d64eff92cf5c005677da66e9e7a2" : {
+      "english" : "Increases the healing and vision range of all healers.",
+      "translation" : "Увећава домет лечења и вида свих исцелитеља."
+   },
+   "27acd1213f75e88b3ab99d0a95898b23" : {
+      "english" : "Buy slaves to help your workers quarry stone. Increases stone gathering rates.",
+      "translation" : ""
+   },
+   "27ec583a9cdf184497ec4a85bfeb1026" : {
+      "english" : "Equine Transports",
+      "translation" : ""
+   },
+   "2824c2a002111b95d10be3eee2e73253" : {
+      "english" : "Dummy technology for use in templates requirements, replaced by phase_town_generic or phase_town_{civ}.",
+      "translation" : ""
+   },
+   "284326306cf6d65880ac998872b40e9e" : {
+      "english" : "Stronger Axe",
+      "translation" : ""
+   },
+   "28f408e481fe985cadccb4c2af9146d0" : {
+      "english" : "Silver Mining",
+      "translation" : ""
+   },
+   "29a721ce385055e2f37d6b960a1e11b8" : {
+      "english" : "Counterintelligence",
+      "translation" : ""
+   },
+   "2a54433cd52757231014c3ff7207a9fe" : {
+      "english" : "Douloi",
+      "translation" : ""
+   },
+   "2a7824fc5030364c05b235ed2c5211a7" : {
+      "english" : "The Agoge",
+      "translation" : "Агоге"
+   },
+   "2b53ac358792479b4de18e19bbb777d0" : {
+      "english" : "Side Arms",
+      "translation" : ""
+   },
+   "2b6e0d057aff1ab898c0a846ba2aa11e" : {
+      "english" : "Breed livestock to slaughter for meat.",
+      "translation" : ""
+   },
+   "2bc0be2af2504600412e846719e1966a" : {
+      "english" : "Use nets to improve the productivity of fishing boats.",
+      "translation" : ""
+   },
+   "2c555cac3d979fbde0b78600703f8fbe" : {
+      "english" : "Naval Architects",
+      "translation" : ""
+   },
+   "2d9f91dfe2bdfa2e92976d2698ba43d1" : {
+      "english" : "Elephants −30% training time.",
+      "translation" : ""
+   },
+   "2e2a3782299deffd01cc39a94c9411a7" : {
+      "english" : "Recruit a network of informants to watch over your people.",
+      "translation" : ""
+   },
+   "2e9a9fa5f89db6484169382ee74129f0" : {
+      "english" : "Wooden Walls",
+      "translation" : "Дрвена ограда"
+   },
+   "2ef3c66079ac2eda776ed9d47a93de3a" : {
+      "english" : "Linothōrax",
+      "translation" : ""
+   },
+   "309333afe346d474f86dfa8872657779" : {
+      "english" : "Mail Body Armor",
+      "translation" : ""
+   },
+   "31514abb812678ed929edc8ec842beb9" : {
+      "english" : "Workers +50% fruit gather rate.",
+      "translation" : ""
+   },
+   "3156ac1b258da5d65b3538733644bc53" : {
+      "english" : "Carthaginians established many trading centers as colonies and ultimately held dominion over 300 cities and towns in North Africa alone.",
+      "translation" : "Картагињани су основали многе трговачке центре као колоније и на успону моћи су контролисали преко 300 градова и насеља  само у Северној Африци."
+   },
+   "318da83884a00a7f4663d62409872542" : {
+      "english" : "Traders +15% trade gain.",
+      "translation" : ""
+   },
+   "3191a13563c8e2543fbf2ec10eb035cb" : {
+      "english" : "Iron Plow",
+      "translation" : "Гвоздени плуг"
+   },
+   "31dfd27dd0657b5ab9e76c4fbe8f864b" : {
+      "english" : "The now-extinct Nisian breed of horse was one of the largest and robust horses of ancient times. They were highly sought after by the Seleucids and Persians as both rider and mount gained heavier armor as time progressed.",
+      "translation" : ""
+   },
+   "32197bc54a7b6ed0a37c654b56d35633" : {
+      "english" : "Barracks −10% batch training time.",
+      "translation" : ""
+   },
+   "32a18f7355960bcb2657e7e7b4c1b80d" : {
+      "english" : "Superior Cavalry",
+      "translation" : ""
+   },
+   "33a8b257966aa77cefc1689cbe549f7c" : {
+      "english" : "Dummy technology for use in templates requirements, replaced by phase_city_generic or phase_city_{civ}.",
+      "translation" : ""
+   },
+   "33d4ca2bc15efbe0eb438d021cb15596" : {
+      "english" : "Wedge and Mallet",
+      "translation" : "Клин и маљ"
+   },
+   "34f3754363bc50c12c161c786f661dfc" : {
+      "english" : "City Walls −20% build time and −20% health.",
+      "translation" : ""
+   },
+   "36148795a4ddc7e2199f91ef9b6c0c8d" : {
+      "english" : "Trade Caravan",
+      "translation" : ""
+   },
+   "36760c8bdb6ea26e1979697d8525aed5" : {
+      "english" : "+10% international trade bonus.",
+      "translation" : ""
+   },
+   "36e39a2dd993bb6c961f1d6545a2984b" : {
+      "english" : "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius. Structures +7 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.",
+      "translation" : ""
+   },
+   "377e54239812895527920a2ae320dd68" : {
+      "english" : "Significantly increase training speed of infantry by training them in large batches or companies.",
+      "translation" : ""
+   },
+   "3857be88206e3c3484e0f0c4cf93f8e0" : {
+      "english" : "Heilōtes",
+      "translation" : ""
+   },
+   "386f213c66b900d46102319f444763e7" : {
+      "english" : "By means of trading and travelling people explored beyond the boundaries of their lands and drew maps of it in order to share and memorize their discoveries.",
+      "translation" : ""
+   },
+   "394a35b084c2ae35dc63088766fe4590" : {
+      "english" : "Outposts +33% vision range.",
+      "translation" : ""
+   },
+   "3c6a6bac6d9bfe0fce59ac1db83e3aed" : {
+      "english" : "The Long Walls of Athens were constructed under the auspices of the wily Themistocles and extended 6 km from the city to the port of Piraeus. This secured the city's sea supply routes and prevented an enemy from starving out the city during a siege.",
+      "translation" : "Атински дуги зидови су изграђени под надзором лукавог Темистокла и простирали су се 6 км од града до луке Пиреј. Они су осигуравали линије снабдевања града и онемогућавале су непријатељу да изгладни град током опсаде."
+   },
+   "3d09f0f8b532a75b63d29f0e385e4ee8" : {
+      "english" : "Houses and Economic Structures −40% wood cost and health.",
+      "translation" : ""
+   },
+   "3d5d4a351385a1b123d22d20d0dd9ce5" : {
+      "english" : "By adding a small amount of carbon during the iron smelting process, a stronger material, steel, can be forged.",
+      "translation" : ""
+   },
+   "3d62c41e3fc31e431abd064b63ba805d" : {
+      "english" : "Ships −20% construction time.",
+      "translation" : ""
+   },
+   "402715aab6df184211666bd865811ba9" : {
+      "english" : "Organic units will slowly regenerate health over time when idle.",
+      "translation" : ""
+   },
+   "40389fcb4d0149aedc0c4b4c9a567e03" : {
+      "english" : "Athenian triremes can train Marines (Epibates Athenaikos) and Cretan Mercenary Archers (Toxotes Kretikos).",
+      "translation" : ""
+   },
+   "40cd7451827ec0ef25ff2e57836c7ec9" : {
+      "english" : "Strengthen shields further with stronger metal alloys.",
+      "translation" : ""
+   },
+   "41405b28f9124c64c8ffdd0cc5fccb2c" : {
+      "english" : "Healers +5 healing range.",
+      "translation" : ""
+   },
+   "421e286f1621356318cd06c93335dd2a" : {
+      "english" : "Sturdy Foundations",
+      "translation" : ""
+   },
+   "437154ddc0a9a4d6ea8bf23105695d89" : {
+      "english" : "Stables −10% batch training time.",
+      "translation" : ""
+   },
+   "43e201ff333c87c8c7c088e217273d47" : {
+      "english" : "Quilted Body Armor",
+      "translation" : "прошивени оклоп за тело"
+   },
+   "44b13472672128c6c0aabe9edfc2a83f" : {
+      "english" : "Persian Architecture",
+      "translation" : "Персијска архитектура"
+   },
+   "45252e7abbf4750dda67787af87563ec" : {
+      "english" : "Structures +10% health and +10% capture points.",
+      "translation" : ""
+   },
+   "45816c560916105ec53d7ee0cf8c2725" : {
+      "english" : "Wooden shields are heavier but much better able to resist projectiles and blows than wicker-frame shields.",
+      "translation" : ""
+   },
+   "45874a2a8455c599997ce8a11b79462e" : {
+      "english" : "Soldiers, Siege Engines, and Ships +25% attack damage.",
+      "translation" : ""
+   },
+   "4688ac9cb8bf6feefb6a6bbc62779cfa" : {
+      "english" : "Domestic Animals −25% breeding time.",
+      "translation" : ""
+   },
+   "475a68e10e3b6ab01cd451cf73806663" : {
+      "english" : "Iron Weapons",
+      "translation" : "Гвоздена оружја"
+   },
+   "47e128fc23af6afcbb05ead561562580" : {
+      "english" : "Strike a vein of precious silver. Increases metal gathering rates.",
+      "translation" : ""
+   },
+   "485d537652e0f461ab6f8a2ae42b0988" : {
+      "english" : "The Persians could and did levy a large number of infantry during wartime due to the sheer size of the Achaemenid Empire and the way in which it was set-up. In general the Persian infantry was well trained and fought with great tenacity. However while this was true the infantry were poor hand-to-hand, close combat fighters. Also, with the exception of the elite regiments, the Persian infantry was not a standing professional force.",
+      "translation" : ""
+   },
+   "486e47bc06ef28cfa6f1e48861c7d269" : {
+      "english" : "Glorious Expansion",
+      "translation" : "Славно Проширење"
+   },
+   "49e9bc407b02f8204205bf58d2318550" : {
+      "english" : "The Gauls invented an harvesting machine, making it much easier to harvest grain.",
+      "translation" : ""
+   },
+   "4a74a63e2384e9b82f4b025c6162ba8d" : {
+      "english" : "Unlock the ability to train women from houses.",
+      "translation" : ""
+   },
+   "4a836d7405b8ee425c8c434d0fc38050" : {
+      "english" : "Military engineers are responsible for improvements in siege engines.",
+      "translation" : ""
+   },
+   "4aa6a7a3180b323f58dad5ff8e9b950f" : {
+      "english" : "Idle Organic units +0.5 health regeneration rate.",
+      "translation" : ""
+   },
+   "4aae7c54b5daed955dfaac5dc0afa7b8" : {
+      "english" : "Siege Engines –40% pack and unpack time.",
+      "translation" : ""
+   },
+   "4b036755653371a7deba61a9775144c6" : {
+      "english" : "Fishing Net",
+      "translation" : "Мрежа за хватање риба"
+   },
+   "4b0d3540c18e380ef52e9aa5677c6301" : {
+      "english" : "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.",
+      "translation" : ""
+   },
+   "4b8f89bc59a69ebed79e5405127f833b" : {
+      "english" : "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius. Structures +7 capture points regeneration rate per garrisoned unit.",
+      "translation" : ""
+   },
+   "4c370deac6af30836d93f62aa9d0b8ae" : {
+      "english" : "Crenellations on the battlements allow soldiers wider range of fire in defending a keep.",
+      "translation" : ""
+   },
+   "4c5f3ad36383b57a91b4a500cadf0b7b" : {
+      "english" : "Elite units +20% training time, +25% health, +0.8 capture attack strength, +20% loot, and −30% gather speed; Healers +5 healing strength and +3 healing range; Melee units +1 resistance and +20% attack damage; Ranged units −20% spread.",
+      "translation" : ""
+   },
+   "4c61f474105c6a37f64ac7c14b74380b" : {
+      "english" : "Serfs",
+      "translation" : "Кметови"
+   },
+   "4cb596dea8444fc9fa238e6209180ade" : {
+      "english" : "Armor Plating",
+      "translation" : ""
+   },
+   "4d98c30f4f07f8a90eb03e973b9fd775" : {
+      "english" : "Parade of Daphne",
+      "translation" : ""
+   },
+   "4f56f14b2146f1c93dce176d09072d5a" : {
+      "english" : "Hire professional mercenaries to fight in your army.",
+      "translation" : ""
+   },
+   "502024fbd62f3bd4da8e25df812f6466" : {
+      "english" : "Wooden Construction",
+      "translation" : "Дрвена контрукција"
+   },
+   "5254c0dde4289c53f664a22ccdc0d16d" : {
+      "english" : "The Silver Shields, or Argyraspidai, were the elite heavy infantry arm of the Macedonian army.",
+      "translation" : ""
+   },
+   "5288f22eedce8026d4e74e12b040c0e6" : {
+      "english" : "Encouraging soldiers to practice archery improves their accuracy.",
+      "translation" : ""
+   },
+   "53de0e129f11f7e2aa8d96ad13bf75af" : {
+      "english" : "Workers +25% stone gather rate.",
+      "translation" : ""
+   },
+   "5423de8385210198dd944e5bf5bbb59b" : {
+      "english" : "Soldiers +2 hack resistance.",
+      "translation" : ""
+   },
+   "55b0ad7999b877b4082c43b3a815bf06" : {
+      "english" : "Traditional Army",
+      "translation" : "Традиционална војска"
+   },
+   "5846c25242170e22e4e5bb509f9987a8" : {
+      "english" : "Unlock Champions Infantry at the Barracks.",
+      "translation" : ""
+   },
+   "593de1e7fe47b41ee6e8f3a08cd94bd3" : {
+      "english" : "Nisioi",
+      "translation" : ""
+   },
+   "5a20705058209d8b526ff65479acc394" : {
+      "english" : "Toledo Steel",
+      "translation" : "Толедо челик"
+   },
+   "5a2535d6336aca2f41e03d841f785d9d" : {
+      "english" : "Advances from a small village to a bustling town, ready to expand rapidly.",
+      "translation" : ""
+   },
+   "5ac4d036bf292a8d7947db008b0a1809" : {
+      "english" : "Archery Tradition",
+      "translation" : "Стрељачка Традиција"
+   },
+   "5d69802b030489d62c4ee59bbe0781ed" : {
+      "english" : "Make your units 50% more expensive to bribe.",
+      "translation" : ""
+   },
+   "5e6d07674db10ae10c470b685410881d" : {
+      "english" : "Improving the fletching of arrows increases their stability and speed, and thus their penetration.",
+      "translation" : ""
+   },
+   "5f6d79ef660e40f6f6cf1ccb6a96c10a" : {
+      "english" : "Calling up cavalry levies in time of war helps bolster the ranks of a king's army.",
+      "translation" : ""
+   },
+   "5fa26cbb2c96f998e01ef8fd3308a3eb" : {
+      "english" : "The Macedonian-style core of the Seleucid army.",
+      "translation" : ""
+   },
+   "5fd08decef20d1e56dcac36162005818" : {
+      "english" : "Employ skilled shipwrights with specialized tools to speed up ship construction.",
+      "translation" : ""
+   },
+   "60f49416698e3b7c82b50bc06203d254" : {
+      "english" : "Healing Rate",
+      "translation" : ""
+   },
+   "62fda7841a4588832faa6a7a542ae980" : {
+      "english" : "Kōmopolis",
+      "translation" : ""
+   },
+   "635b1271afc43ece9769fc86ca590215" : {
+      "english" : "Hoplite soldiers constituted most of the armies of Greece.",
+      "translation" : ""
+   },
+   "63b93f658926c0185e35260970fc2eb9" : {
+      "english" : "Iron Arrowheads",
+      "translation" : ""
+   },
+   "641820058f9f0473e9d4dc7bce8a1e7b" : {
+      "english" : "Reform Army",
+      "translation" : "Реформисана војска"
+   },
+   "646606d2a65d8c81ecb0a497ab7847d4" : {
+      "english" : "Soldiers +1 hack resistance.",
+      "translation" : ""
+   },
+   "6541ffe924dc8fa0c2012c2223726111" : {
+      "english" : "Body armor made from laminated linen.",
+      "translation" : ""
+   },
+   "65a7d5a654462a159bef999f9bed7e41" : {
+      "english" : "Often, a soldier would carry a secondary weapon in addition to his primary weapon of choice, to be drawn when the primary weapon has failed or been broken.",
+      "translation" : ""
+   },
+   "675a80b1a9ea28ad9a3e9e9d6cad76ef" : {
+      "english" : "Living Conditions",
+      "translation" : "Здравље"
+   },
+   "68a9e99f1691ab2bd69b4b695fe453c7" : {
+      "english" : "Spartans were housed and trained from a young age to be superlative warriors and to endure any hardship a military life can give them.",
+      "translation" : ""
+   },
+   "6902f725f640c8b64c8b74260c25dc51" : {
+      "english" : "Murder holes allow hitting enemies at the foot of the tower.",
+      "translation" : ""
+   },
+   "69b08d1f419bee89888984231001a5ba" : {
+      "english" : "Siege Engines +25% attack crush damage.",
+      "translation" : ""
+   },
+   "6a7fc300c911c4024e01db2a185fe1d2" : {
+      "english" : "Significantly increase training speed of cavalry by training them in large batches or squadrons.",
+      "translation" : ""
+   },
+   "6add34dd6af5b58cdb6538252fc582d1" : {
+      "english" : "The Greeks used stone construction from early Mycenaean times.",
+      "translation" : ""
+   },
+   "6e596b9dd7d52f6aa296d0e4da5f5ce4" : {
+      "english" : "Nyktophylakes",
+      "translation" : ""
+   },
+   "6e88e7b9f1ed0179a33274c5c9c47894" : {
+      "english" : "Champion Infantry Spearmen +25% health, but +5% training time.",
+      "translation" : ""
+   },
+   "6eb136b4790c5aefc300bfa0431ec9d1" : {
+      "english" : "The will to fight is crucial to victory. Inspire your troops with higher pay.",
+      "translation" : ""
+   },
+   "6ebb33e739cde23b2d44508838ef60c2" : {
+      "english" : "Reinforced hull",
+      "translation" : "Ојачани труп"
+   },
+   "6ecc9da8be6e2129023d017cae43f1ce" : {
+      "english" : "The Indian, Iranian, and Kushite peoples had a tradition of fine archery and a penchant for using massed archers in battle.",
+      "translation" : ""
+   },
+   "6f9e3b51beb15abb612f7a7cfcde2bf3" : {
+      "english" : "Carthaginians built their city walls in three concentric circuits. These walls were never breached. Even when the city was taken by the Romans, it was via the city's harbor, not by storming its walls.",
+      "translation" : ""
+   },
+   "705630fd495f7e60a5d3400054abb30b" : {
+      "english" : "Unlock the Champion Infantry Pikeman.",
+      "translation" : ""
+   },
+   "705ce27222dd0f326eba82c1fe64a2c5" : {
+      "english" : "Cavalry +10% health.",
+      "translation" : ""
+   },
+   "72114fc328dd5ea5c3300dfd2587abd8" : {
+      "english" : "Homes tended to expand as the wealth and population of a settlement grew.",
+      "translation" : ""
+   },
+   "72a82363f4bfbc64f3b0cefb2d5503f3" : {
+      "english" : "Arrow shooters increase the maximum range of the fire arrows.",
+      "translation" : ""
+   },
+   "72d0eced91864bc197a5b9fc8131854f" : {
+      "english" : "Trilobate Arrowheads",
+      "translation" : ""
+   },
+   "73b7e7d0e12af13e9f4b1fb1173144d2" : {
+      "english" : "Espionage",
+      "translation" : "Шпијунажа"
+   },
+   "7425ea86d522c74e27535dc2513a2a63" : {
+      "english" : "Iron Axe Heads",
+      "translation" : ""
+   },
+   "7536ca38c3f814ce2957549f086f1da1" : {
+      "english" : "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology.",
+      "translation" : ""
+   },
+   "753f0ce8aac3a9c6e67efe29b800165d" : {
+      "english" : "Phoenician Triremes gain the ability to train Cavalry.",
+      "translation" : ""
+   },
+   "7655dc500a3fd1aab72e8339b3e34770" : {
+      "english" : "Soldiers +15% melee attack damage.",
+      "translation" : ""
+   },
+   "76f9857539d2ddba1f8abeda642c1bbf" : {
+      "english" : "Cavalry +10% melee attack damage.",
+      "translation" : ""
+   },
+   "770da4d3bb8084042b6d688baff74c51" : {
+      "english" : "Levy Infantry",
+      "translation" : ""
+   },
+   "77206143b7429c6a8a3a7092ee096ef9" : {
+      "english" : "Ships +10% movement speed.",
+      "translation" : ""
+   },
+   "780397fa8238c81f831ee21cc967cd1f" : {
+      "english" : "Workers +5 resource capacity.",
+      "translation" : ""
+   },
+   "796b29a577c59e475b3a3081c27c5fcc" : {
+      "english" : "Improvement to projectile accuracy.",
+      "translation" : ""
+   },
+   "797ee1878c646fc17d1d52701e1c847a" : {
+      "english" : "Calling up infantry levies in time of war helps bolster the ranks of a king's army.",
+      "translation" : ""
+   },
+   "798d2de9fe624f3dee7ee7165d388e16" : {
+      "english" : "Structures +25% health and capture points, but also +20% build time.",
+      "translation" : ""
+   },
+   "7a8df7cd4d8542ad996b5158f8868ec0" : {
+      "english" : "Spolas",
+      "translation" : "Spolas"
+   },
+   "7c45997093207516970ba816e2b4041d" : {
+      "english" : "Harvesting Machine",
+      "translation" : ""
+   },
+   "7cf8d29c246506e406b3585b3e1fc594" : {
+      "english" : "Civic Structures −25% build time and resources cost",
+      "translation" : ""
+   },
+   "7d153ffe8565195273d62f4bc9b66791" : {
+      "english" : "Olympic Pantheon",
+      "translation" : "Олимпијски пантеон"
+   },
+   "7d2051dbbe930e6e23c96620405bcb72" : {
+      "english" : "Chakravarti Samrāt",
+      "translation" : "Chakravarti Samrāt"
+   },
+   "7eb491845cf34ffee89b5991b2005712" : {
+      "english" : "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit.",
+      "translation" : ""
+   },
+   "7f2647668a30d81727351981a7ffcbcb" : {
+      "english" : "Hoplites −25% training time and −50% promotion experience.",
+      "translation" : ""
+   },
+   "7f33a07363a9803f5c641956a2ce49b1" : {
+      "english" : "Requires three Town Structures.",
+      "translation" : ""
+   },
+   "80671e095a2edf07934d89b924df386a" : {
+      "english" : "Stockbreeding",
+      "translation" : ""
+   },
+   "80cb633a0d93f132c26b6c410f969c77" : {
+      "english" : "The wonder attracts many more people to your civilization.",
+      "translation" : ""
+   },
+   "82671ced879e1a1e4401d0d78b2da15d" : {
+      "english" : "Baskets",
+      "translation" : "Кошаре"
+   },
+   "83e6b197f670be0e1e7f35eb0fdf8bf6" : {
+      "english" : "Infantry −10% training time.",
+      "translation" : ""
+   },
+   "84ff66e606dd663405486a69586818b2" : {
+      "english" : "Fishing Boats +30% fish gather rate.",
+      "translation" : ""
+   },
+   "85cb9cdaa1657d5df93d79568d22453e" : {
+      "english" : "Civic Centers +100% health and capture points, double default arrows.",
+      "translation" : ""
+   },
+   "874a26b0cec61e739f2229ef1e9f79c3" : {
+      "english" : "Ships +25% health.",
+      "translation" : ""
+   },
+   "87b3cc41daf8ad93ffd90f064f5a3b15" : {
+      "english" : "Athenian Triremes can train Marines and Cretan Mercenary Archers.",
+      "translation" : ""
+   },
+   "87d0ae59ed525301c4e5486c5f789b11" : {
+      "english" : "Traditional Army vs Reform Army",
+      "translation" : ""
+   },
+   "87dacd9d50b5c841e7a11fa16918be06" : {
+      "english" : "Paradaidām",
+      "translation" : ""
+   },
+   "87f4002b6e0056d885635d33995c1064" : {
+      "english" : "Improve the international trading profit.",
+      "translation" : ""
+   },
+   "895a9d879f773e5868b81abfa7fac357" : {
+      "english" : "Early Achaemenid rulers acted towards making Persia the first great Asian empire to rule the seas. The Great King behaved favourably towards the various sea peoples in order to secure their services, but also carried out various marine initiatives. During the reign of Darius the Great, for example, a canal was built in Egypt and a Persian navy was sent exploring the Indus river. According to Herodotus, some 300 ships in the Persian navy were retrofitted to carry horses and their riders.",
+      "translation" : ""
+   },
+   "89ffaacebc568372f89eef379a82e996" : {
+      "english" : "Body armor made of small metal rings linked together.",
+      "translation" : ""
+   },
+   "8ac2ec1d3fcbbaae0cfd7f2e89ba915a" : {
+      "english" : "Advanced Handicraft",
+      "translation" : ""
+   },
+   "8b9bfa8bae35347ccdb8fafd3ab334d8" : {
+      "english" : "Wooden reinforcement beams for ship hulls.",
+      "translation" : "Дрвене греде за ојачање бродског трупа."
+   },
+   "8c28d6e1f61edade3959cb64b49aeb3b" : {
+      "english" : "Structures +1 garrison heal rate.",
+      "translation" : ""
+   },
+   "8d1f5ffbbfaa1ac1955f9078f2375580" : {
+      "english" : "Emperor of Emperors",
+      "translation" : "Император ипмератора"
+   },
+   "8d6711317c34f40bff89e336e71cfd37" : {
+      "english" : "Wooden Shield",
+      "translation" : ""
+   },
+   "8f9cec2c45e7c9175bf9eb6f69669c79" : {
+      "english" : "The Persians built the wonderful 1677 mile-long Royal Highway from Sardis to Susa; Darius the Great and Xerxes also built the magnificent Persepolis; Cyrus the Great greatly improved Ecbatana and virtually 'rebuilt' the old Elamite capital of Susa.",
+      "translation" : ""
+   },
+   "9021a8d5355b14fa0b2cdc9275afb24d" : {
+      "english" : "Peristasis",
+      "translation" : ""
+   },
+   "90caf643aa095aa98035005fad6b1386" : {
+      "english" : "Levy Cavalry",
+      "translation" : ""
+   },
+   "948a7c51536debc92953e8bf44dcbafe" : {
+      "english" : "Unlocked in Village Phase.",
+      "translation" : "Откључава се у фази села."
+   },
+   "956f3795ebf6cedf33859ada152a0a18" : {
+      "english" : "Great King's Levy",
+      "translation" : ""
+   },
+   "9644c2b7ccb2456dd937c4e75c0a2884" : {
+      "english" : "Unlock Champion Cavalry",
+      "translation" : ""
+   },
+   "966fa6a2098a4bf37a3a2b18772f1382" : {
+      "english" : "Beginning with Alexander, the Hellenistic monarchs founded many cities throughout their empires, where Greek culture and art blended with local customs to create the motley Hellenistic civilization.",
+      "translation" : ""
+   },
+   "97a979ccd7a05a3781152fe180f512e5" : {
+      "english" : "Military Engineers",
+      "translation" : "Војни инжињери"
+   },
+   "97f42360d0400396948d11b7c44c9107" : {
+      "english" : "The Mauryan Empire encompassed dozens of formerly independent kingdoms over an area of 5 million square kilometers, with a population of close to 60 million people. The Mauryan regents held the title Emperor of Emperors and commanded a standing army of 600,000 infantry, 9000 elephants, 8000 chariots, and 30,000 cavalry, making it arguably the largest army of its time.",
+      "translation" : ""
+   },
+   "9854cdf888a2fb157ff8908e0443da93" : {
+      "english" : "Shaft Mining",
+      "translation" : ""
+   },
+   "99096cae5d55840ae09850916bbe2192" : {
+      "english" : "Siege Engines −20% construction time.",
+      "translation" : ""
+   },
+   "9929781b5ba9fa705e0491bcdf1514f0" : {
+      "english" : "Cartography",
+      "translation" : "Картографија"
+   },
+   "99434d332c6d9d6963fa94c6b4911201" : {
+      "english" : "Home Garden",
+      "translation" : "Кућна башта"
+   },
+   "9a8678de6c11598250f01f7125383deb" : {
+      "english" : "Fertility Festival",
+      "translation" : ""
+   },
+   "9acbc40bb0e0a9537397f80912d21de8" : {
+      "english" : "Slaves",
+      "translation" : "Робови"
+   },
+   "9bf4a42d8d4eab8d679b9e39b12f7dff" : {
+      "english" : "Strengthen shields with a metal rim or spine.",
+      "translation" : ""
+   },
+   "9d5e2d8b9f7573982c759b9929944343" : {
+      "english" : "Unlock Champion Chariots at the Stable.",
+      "translation" : ""
+   },
+   "9e8455b327874411196d34e06a25cf28" : {
+      "english" : "Female Citizens +100% health.",
+      "translation" : ""
+   },
+   "9e91cf149b10783bfac4298c7b4fc631" : {
+      "english" : "Akadēmeia",
+      "translation" : ""
+   },
+   "9eda5cc11f42a96492436f668749ab47" : {
+      "english" : "Andrapoda",
+      "translation" : ""
+   },
+   "9f19a81198cc255c44741d7adb199786" : {
+      "english" : "Sentry and Stone Towers +8 attack range.",
+      "translation" : ""
+   },
+   "a038ff4d26948097c267fb0171b66ec5" : {
+      "english" : "Healing Rate 2",
+      "translation" : ""
+   },
+   "a0390d3956bf4119f107a4ccf629982f" : {
+      "english" : "Siegecraft",
+      "translation" : ""
+   },
+   "a0b3524dbd90518d4ebabe74ac963f54" : {
+      "english" : "Manors",
+      "translation" : ""
+   },
+   "a15b3d638ef464f80c7e990cbb59d106" : {
+      "english" : "Reinforce the foundations in preparation of an attack.",
+      "translation" : ""
+   },
+   "a1bd80a3b21882f03aa40282cc440094" : {
+      "english" : "Ranged Soldiers +25% promotion experience.",
+      "translation" : ""
+   },
+   "a28216b7df44f225a18651309f5e72f9" : {
+      "english" : "Horse-drawn Carts",
+      "translation" : ""
+   },
+   "a4945323da13a842d70fe7d9a5be0233" : {
+      "english" : "The extension of trade leads to the permanent establishment of storekeepers and their families in foreign countries, allowing them to exploit the wealth of these countries.",
+      "translation" : ""
+   },
+   "a60d80eff1f808a9b8165f0abcf70f76" : {
+      "english" : "Sentry and Stone Towers +1 default arrow count.",
+      "translation" : ""
+   },
+   "a65973b93bdd04a2df3b49b9ba76d451" : {
+      "english" : "Athenian Long Walls",
+      "translation" : "Атински Дуги зидови"
+   },
+   "a68e1b7a117ad9c7db3db9c02d374b89" : {
+      "english" : "Champion Cavalry Spearmen +20% health, but +10% training time.",
+      "translation" : ""
+   },
+   "a769cafd926bbfbba77b5e707d639792" : {
+      "english" : "Agēma",
+      "translation" : ""
+   },
+   "a830620be2e936a53da4379fa391f6c0" : {
+      "english" : "Metal Rim",
+      "translation" : ""
+   },
+   "a8ab99cc521913b8ee80e77e0290e5b7" : {
+      "english" : "Colonization",
+      "translation" : "Колонизација"
+   },
+   "a9e3f8b0b4bf159fd9d59e79a42ab805" : {
+      "english" : "Arrow Shooters",
+      "translation" : ""
+   },
+   "aa27e08eea0c5338b482241814e49249" : {
+      "english" : "Healers −20% healing time.",
+      "translation" : ""
+   },
+   "aa70d012e64ca4777fb0fbf99d8545df" : {
+      "english" : "Mines of Krenides",
+      "translation" : ""
+   },
+   "b00947b6c5b6f96d1a13f4827d1140cb" : {
+      "english" : "Unlock Champion Infantry",
+      "translation" : ""
+   },
+   "b00db0768d1a54612b83ce00edf7d4db" : {
+      "english" : "Regio Cohors",
+      "translation" : ""
+   },
+   "b0fbeb937367c7313ebd4d4823b45b33" : {
+      "english" : "Unlock the Champion Infantry Swordsman.",
+      "translation" : ""
+   },
+   "b1f43ccf4a63919e9aaa5de42b56861a" : {
+      "english" : "The Roman-style core of the Seleucid army.",
+      "translation" : ""
+   },
+   "b2126ec5b2e31ce78f822876995d6959" : {
+      "english" : "Archery Training",
+      "translation" : ""
+   },
+   "b39998704adb4dd0bf925d1056592a45" : {
+      "english" : "The progress in handicraft improves the trading profit.",
+      "translation" : ""
+   },
+   "b4386c3bf2328b96b183331ce70debcc" : {
+      "english" : "Allows using allied dropsites.",
+      "translation" : ""
+   },
+   "b46de1eb3431fc50b7cfaaee52b989f8" : {
+      "english" : "The Gauls were well-known for their effective cavalry. Celtic mercenaries were in demand throughout the Mediterranean.",
+      "translation" : ""
+   },
+   "b4b6ccbd9da772435ecf90e1b1757dbd" : {
+      "english" : "Mines of Laureion",
+      "translation" : "Лауријски рудници"
+   },
+   "b5fbf97b4252ce1fceeabb925845c22e" : {
+      "english" : "Soldiers +15% ranged attack damage.",
+      "translation" : ""
+   },
+   "b66d821e922cee5609873452e2274e48" : {
+      "english" : "Workers +10% grain gather rate.",
+      "translation" : ""
+   },
+   "b67f7660fda3648c9e100c972c903d75" : {
+      "english" : "The loom allowed the creation of finer clothing for settlers. Women of the household were taught from a young age how to weave on the loom, and subsequently spent a large share of their lives working with it.",
+      "translation" : ""
+   },
+   "b6bae45d4e016adfac85a10ed9ce4779" : {
+      "english" : "Sentry and Stone Towers have 0 minimum attack range.",
+      "translation" : ""
+   },
+   "b7e33e8f3a4f834a348c70819223cc90" : {
+      "english" : "Dynamis",
+      "translation" : "Dynamis"
+   },
+   "b87bac374c6de9ccdc75a76a634c3be2" : {
+      "english" : "Silver Shields Regiment",
+      "translation" : ""
+   },
+   "b945c0cb6ca5146423696a67e1b07117" : {
+      "english" : "Unlocked in City Phase.",
+      "translation" : "Откључава се у фази градова."
+   },
+   "b95b918d23ca73ecee8c3e58d9c5d99d" : {
+      "english" : "Secret steel working techniques give sword blades distinctive and beautiful markings. Not only that, but the steel's hardness is unparalleled.",
+      "translation" : "Тајне технике обраде челика дају сечивима карактеристичне и лепе ознаке. И не само то, већ је чврстина челика без премца."
+   },
+   "ba055ca5586b3ae50c82b4dd2b540e72" : {
+      "english" : "Horse Racing",
+      "translation" : ""
+   },
+   "bb4cb157f0b595141076c6867afb83c0" : {
+      "english" : "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Athenian city phase, where metal gathering rates are boosted because of the 'Silver Owls' bonus.",
+      "translation" : ""
+   },
+   "bb932b549b498a641081fb4fbea41be8" : {
+      "english" : "Increases outpost vision.",
+      "translation" : ""
+   },
+   "bc783812f3766dea7b6aa9373d5128c4" : {
+      "english" : "Celtic structures were mostly made of wood with rubble foundations.",
+      "translation" : ""
+   },
+   "bd7a20360adfb01dc46609f5be83cceb" : {
+      "english" : "Healing Range",
+      "translation" : ""
+   },
+   "bda113d1f299c10aae4d53668bb10969" : {
+      "english" : "Workers use wheelbarrows. Increases shuttling capacity for all resources.",
+      "translation" : ""
+   },
+   "bde1ac1d2cac868f4e3743b44c38d02c" : {
+      "english" : "Champions −20% training time.",
+      "translation" : ""
+   },
+   "be4ce81541c187d2a54c11678f9bbb7c" : {
+      "english" : "Advances from a small village to a bustling town, ready to expand rapidly. This is the Athenian town phase, where metal gathering rates are boosted because of the 'Silver Owls' bonus.",
+      "translation" : ""
+   },
+   "be589f4396c469433fa85f8dcb2bdba4" : {
+      "english" : "The festival at Daphne was a major event of the Seleucid Empire: tens of thousands of well-equipped troops participated in the opening procession.",
+      "translation" : ""
+   },
+   "bed5af4f34debd518ca605801b6584ff" : {
+      "english" : "Hellenistic Metropolis",
+      "translation" : "Хеленистичка метропола"
+   },
+   "bfa157077b0bf62f907ef7dfe0ecb58a" : {
+      "english" : "Compel serfs to help your workers quarry stone. Increases stone gathering rates.",
+      "translation" : ""
+   },
+   "c087b6c3273cc285a2be3f53795cbcb7" : {
+      "english" : "Selectively breed better war horses.",
+      "translation" : ""
+   },
+   "c0bb0029d1c24926235de8944335944e" : {
+      "english" : "Sharp Axe Heads",
+      "translation" : ""
+   },
+   "c0dbd9b6e47f8676aa914a150d78ee06" : {
+      "english" : "Soldiers +20% ranged attack damage.",
+      "translation" : ""
+   },
+   "c0f15f9fda9f95e0aa204d5d83df056f" : {
+      "english" : "India is the land of the elephants. Elephant warfare originated in India and continued for millennia. It was also the source of elephants for the eastern Mediterranean. Indian kings were able to field large numbers of war elephants.",
+      "translation" : ""
+   },
+   "c1b48118bc82f7d425e17a04a7e09085" : {
+      "english" : "Sun-dried Mud Bricks",
+      "translation" : ""
+   },
+   "c25ec7e07fe5216e8e1d0bc804de3444" : {
+      "english" : "Peristylon",
+      "translation" : ""
+   },
+   "c334c629fea759876e9e04afbe4aee7a" : {
+      "english" : "Immortals",
+      "translation" : "Бесмртници"
+   },
+   "c34ae2931467f5d28e2063b2fd6d204e" : {
+      "english" : "Projectile points made of iron enable missiles to penetrate deeper.",
+      "translation" : ""
+   },
+   "c3dbcccd51cae3b362d345b8a2f48a81" : {
+      "english" : "Workers +20% grain gather rate.",
+      "translation" : ""
+   },
+   "c4ec7960a460453532ce51f6b43daa2d" : {
+      "english" : "Houses +20% population bonus.",
+      "translation" : ""
+   },
+   "c73485213256a554b57acda9b69afbf4" : {
+      "english" : "Commercial Treaty",
+      "translation" : ""
+   },
+   "c896ec53cc463120fc445fffa2c9b203" : {
+      "english" : "Cavalry +10% walk speed.",
+      "translation" : ""
+   },
+   "c968ad2deb73f13e879965e1d22237b3" : {
+      "english" : "Bolt Accuracy",
+      "translation" : ""
+   },
+   "c9a185da52161fe59ae74f024607bbab" : {
+      "english" : "Unlocked in Town Phase.",
+      "translation" : "Откључава се у фази насеља."
+   },
+   "c9c1c41d19d49745ede6cff2444de80e" : {
+      "english" : "African Elephants −10% resource costs, training time, health, attack damage, and loot.",
+      "translation" : ""
+   },
+   "cafe32959ebebce83c3696e6b7b552ac" : {
+      "english" : "Archers +10 attack range.",
+      "translation" : ""
+   },
+   "cb752a829a07ef8ae29490cb8778a9bf" : {
+      "english" : "Hellenic Architecture",
+      "translation" : "Грчка архитектура"
+   },
+   "cd24882902a3d5da6e5783027a0ae3d0" : {
+      "english" : "Fertilizer",
+      "translation" : ""
+   },
+   "cd46fd43a90a3ab48adc4cc37cd13712" : {
+      "english" : "Laminated Linen Body Armor",
+      "translation" : "Ламинирани ланени оклоп за тело"
+   },
+   "cda518e10fa1a988e4a19a0d4d854238" : {
+      "english" : "Salting Fish",
+      "translation" : ""
+   },
+   "ceefaa737a987a6e1e528c49a62319ee" : {
+      "english" : "Conscription",
+      "translation" : "Војна Обавеза"
+   },
+   "cf2a963d6661b9b0b63378a75d5cec9b" : {
+      "english" : "Town Phase",
+      "translation" : "Општинска фаза"
+   },
+   "cf72f17176efa8ab8cc75676a05cbc73" : {
+      "english" : "Vigiles",
+      "translation" : ""
+   },
+   "d012d16e0b3d3f0c608698f01bb8f9b3" : {
+      "english" : "Soldiers +2 pierce resistance.",
+      "translation" : ""
+   },
+   "d063a377d382d89d1978c248b34c06b6" : {
+      "english" : "Equip your foragers with wicker baskets for foraging.",
+      "translation" : ""
+   },
+   "d0b83f648ef085118800a6f22d7ea822" : {
+      "english" : "City Walls +100% build time, +100% stone cost, and +200% health.",
+      "translation" : ""
+   },
+   "d1a20d6e11e9e1b3b39586610d5d5eff" : {
+      "english" : "Soldiers +20% melee attack damage. Swordsmen get an additional +20% bonus.",
+      "translation" : ""
+   },
+   "d212bbd104d05d38c71f988508ca4a53" : {
+      "english" : "Carrier Pigeons",
+      "translation" : "Голубови писмоноше"
+   },
+   "d37fc00fe3343d617ed3226a990ada70" : {
+      "english" : "City Phase",
+      "translation" : "Градска фаза"
+   },
+   "d4bded43d5c3170daed10958696b85f9" : {
+      "english" : "Triple Walls",
+      "translation" : "Троструки зидови"
+   },
+   "d6215fee67cfc48e13604905a6e81277" : {
+      "english" : "Nisean War Horses",
+      "translation" : ""
+   },
+   "d7ad70a699198b57ca61116026144cd0" : {
+      "english" : "Body armor made from quilted wool, linen, cotton, or leather.",
+      "translation" : ""
+   },
+   "d7cf6d19015134b490531995d5a5bda5" : {
+      "english" : "Upgrade Shield Bearer Champion Infantry to Silver Shields, with more health and attack damage.",
+      "translation" : ""
+   },
+   "d91ca2ada15dc0d0bf2f21bf68378127" : {
+      "english" : "Handicraft",
+      "translation" : "Ручни рад"
+   },
+   "da2634c4517d56ed0d1b63da072363f4" : {
+      "english" : "Fishing Boats +20 food capacity.",
+      "translation" : ""
+   },
+   "da3efff8383a60a001d4d6c9fd0b5dd2" : {
+      "english" : "A night's watch increases vigilance.",
+      "translation" : ""
+   },
+   "da469d49c9d8802183b866696ccc5878" : {
+      "english" : "Battlefield Medicine",
+      "translation" : ""
+   },
+   "da73b7b22f77a20ed3d80e313ee67ced" : {
+      "english" : "Indian Elephants +10% resource costs, training time, health, attack damage, and loot.",
+      "translation" : ""
+   },
+   "db3822acfdfb466fd7a4012105339d96" : {
+      "english" : "Xiphos",
+      "translation" : ""
+   },
+   "dbfd58bc84e93de98fc338221f225505" : {
+      "english" : "Healing Range 2",
+      "translation" : ""
+   },
+   "dd3c2c9653166af3f91314265856193b" : {
+      "english" : "Wicker Baskets",
+      "translation" : "Корпе од прућа"
+   },
+   "dd9650c1828f175d1324f5b08056c31e" : {
+      "english" : "Gather Training",
+      "translation" : ""
+   },
+   "de01c4a587a8cc4c9cfe09cc9f478e0d" : {
+      "english" : "Carburization",
+      "translation" : ""
+   },
+   "e2de73523585fc14cef3cc19be50b984" : {
+      "english" : "Bona Dea",
+      "translation" : ""
+   },
+   "e5e30e09c40672af32afbced1d5eee5d" : {
+      "english" : "Training for workers to increase farm gathering speed.",
+      "translation" : ""
+   },
+   "e6e6321130d1220b14b8155e04fb467e" : {
+      "english" : "Traders traveling together in caravans are less vulnerable.",
+      "translation" : ""
+   },
+   "e771e2fb4c9ca63849ddee8839bae4ae" : {
+      "english" : "Insulae",
+      "translation" : ""
+   },
+   "e87ba06f62ef5fab51bd79dc1b376607" : {
+      "english" : "See what your allies see, browse their summary and check their resources and population count in the top panel.",
+      "translation" : ""
+   },
+   "e8ce6c2ac53add5b19509d7599d90358" : {
+      "english" : "Cavalry −10% training time.",
+      "translation" : ""
+   },
+   "e8de6004c836d9c06f1b3ed2d8da3202" : {
+      "english" : "Civic Structures +20% build time, +20% health, and +20% capture points.",
+      "translation" : ""
+   },
+   "ea1df9b773f01d7d67cde47a7fccd044" : {
+      "english" : "Soldiers +1 pierce resistance.",
+      "translation" : ""
+   },
+   "ec8d42e213b678800d03ffc0e42d06a1" : {
+      "english" : "Advanced and Elite units +20% training time, +25% health, +0.7 capture attack strength, +20% loot, and −30% gather speed; Healers +5 healing strength and +3 healing range; Melee units +1 resistance and +20% attack damage; Ranged units −20% spread.",
+      "translation" : ""
+   },
+   "ed60a477f9d3bfcbf7db2f506cfa6348" : {
+      "english" : "Will to Fight",
+      "translation" : ""
+   },
+   "ed6f7534771f4dbfb1638aee5b27e543" : {
+      "english" : "Requires five Village Structures.",
+      "translation" : ""
+   },
+   "ee50814c637ac993a657bd9a39d9596f" : {
+      "english" : "Towers +25% health.",
+      "translation" : ""
+   },
+   "ef728ee16d07f68e6afbfd2f54ba94ba" : {
+      "english" : "Salting allows to preserve fish longer.",
+      "translation" : ""
+   },
+   "f22a257b8b9f096b219aaa68813ecde8" : {
+      "english" : "Improved Shield Alloys",
+      "translation" : ""
+   },
+   "f4a3cb1857b38985bb66410dd304bc99" : {
+      "english" : "Sun-dried mud bricks were a common building material in hot and dry areas, especially where wood was scarce. Although not as strong and durable as fired bricks or natural stone and vulnerable to constant rains and heavy floods, mud bricks have the advantage they are cheap and easy to produce.",
+      "translation" : ""
+   },
+   "f4e41efa9a8314d698564eecd7fd2866" : {
+      "english" : "Servants",
+      "translation" : "Слуге"
+   },
+   "f5fae527947a0ec1f174d2b23703dda9" : {
+      "english" : "Extra nutrients for farms.",
+      "translation" : ""
+   },
+   "f6105799d9149750d60337ee9d363679" : {
+      "english" : "Train your oarsmen and sailors to move more efficiently and speed up your ships.",
+      "translation" : ""
+   },
+   "f671b69167ce2fb3cdbfe03e80f362b6" : {
+      "english" : "Allows bribing the units of other players in order to share their vision.",
+      "translation" : ""
+   },
+   "f682179bb9a6a610d3eae6b6d8bf9940" : {
+      "english" : "Megalopolis",
+      "translation" : "Мегалополис"
+   },
+   "f6f62db2e5c77c4fcc548b29837c0028" : {
+      "english" : "Workers +25% metal gather rate.",
+      "translation" : ""
+   },
+   "f7d057a31aea8f1dd8fcdd68885ae744" : {
+      "english" : "Elephant Tradition",
+      "translation" : ""
+   },
+   "f8572d4e878b8f730090a2f3d13767db" : {
+      "english" : "Arrowheads with three lobes instead of two inflict larger wounds.",
+      "translation" : ""
+   },
+   "f87ac871d2c0d312efaab132b16d6e29" : {
+      "english" : "The Loom",
+      "translation" : "Разбојник"
+   },
+   "f939a4683976da8f5a866fef60f63ff3" : {
+      "english" : "Immortals −50% training time, but −10% health.",
+      "translation" : ""
+   },
+   "f9c8b657951981ae127e01bc57aa828c" : {
+      "english" : "+10% maximum population limit.",
+      "translation" : ""
+   },
+   "fa1351238dbc8d837ae90b65c2293a14" : {
+      "english" : "Monumental Architecture",
+      "translation" : "Монументална архитектура"
+   },
+   "fb21d873077bdb0c62b7d41fb11d3946" : {
+      "english" : "Land Traders +50% health.",
+      "translation" : ""
+   },
+   "fbc59d9b22e4491de241ec05b16b077f" : {
+      "english" : "Develop shaft mining. Increases metal gathering rates.",
+      "translation" : ""
+   },
+   "fd91dca055d1f8d4f3cbe22aa38d3fcf" : {
+      "english" : "Steel Working",
+      "translation" : "обрада челика"
+   },
+   "fe2edd6db8e1dd158b2e85c1147847fd" : {
+      "english" : "Village Phase",
+      "translation" : "Сеоска фаза"
+   },
+   "fe4cf2a8b158be84a1906c1babef44de" : {
+      "english" : "Equip your workers with iron plows, animal-drawn instruments to turn the sod.",
+      "translation" : ""
+   },
+   "ff3d2026010e42cabb8ac40e3b14bb2f" : {
+      "english" : "Diaspora",
+      "translation" : ""
+   }
+}

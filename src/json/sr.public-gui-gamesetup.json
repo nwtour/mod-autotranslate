@@ -1,0 +1,1562 @@
+{
+   "001472b6447d35285a370f7a58adea3f" : {
+      "english" : "“Let us now end the anxiety of the Romans, who can't wait for the death of an old man.” \\\\n— Hannibal's last words before his suicide, in exile with Flaminius pressuring the local ruler to hand him over (Livy, “History of Rome”, XXXIX. 51)",
+      "translation" : ""
+   },
+   "00190af4f1614b0413de9c910db36060" : {
+      "english" : "Leave blank to not require it.",
+      "translation" : "Остави празно да не би било потребно."
+   },
+   "00747cf5764dee1f1f6a403ccc311ca2" : {
+      "english" : "Press %(hotkey)s to view the list of available maps.",
+      "translation" : "Стисни%(hotkey)s за приказ листе доступних мапа."
+   },
+   "01141f0e0ef4f1e828aa0da2948bfd31" : {
+      "english" : "Allied players are grouped and placed with opposing players on one circle spanning the map.",
+      "translation" : "Савезнички играчи су груписани и постављени са противничкимм играчима на једном кругу који се протеже по целој мапи."
+   },
+   "016b98c3eef7eb80e62e3224cc0aecea" : {
+      "english" : "“The Ethiopians make their gods black and snub-nosed, the Thracians say theirs have blue eyes and red hair.” \\\\n— Xenophanes (fragment 16)",
+      "translation" : ""
+   },
+   "01d4e727cafc856931b6a45b253481c2" : {
+      "english" : "“Wait for the wisest of all counsellors, time.” \\\\n— Pericles, a cautious politician who avoided war (Plutarch, “Parallel Lives”, “Pericles”, sec. 18)",
+      "translation" : ""
+   },
+   "01f9b85e8f7e880fde7a9b4893ea2c85" : {
+      "english" : "Registering with server...",
+      "translation" : "Пријављивање на сервер..."
+   },
+   "01feb9439d1dfd5453308fe50eb44c10" : {
+      "english" : "“A war is never undertaken by the ideal State, except in defense of its honor or its safety.” \\\\n— Cicero (“De Re Publica”, III., 23)",
+      "translation" : ""
+   },
+   "02720dd69bc86cdac5483f51bc9b3283" : {
+      "english" : "Select a map filter.",
+      "translation" : "Изабери филтер мапе."
+   },
+   "02fe4ba856702352c3fa3f624f6b3e7e" : {
+      "english" : "* %(username)s is not ready.",
+      "translation" : "* %(username)s није спреман!"
+   },
+   "0327c3c4aa5a3c7b70ab2e45ce2274d0" : {
+      "english" : "“Instead of looking on discussion as a stumbling block in the way of action, we think it an indispensable preliminary to any wise action at all.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 40.2)",
+      "translation" : ""
+   },
+   "044ec90eabafb5e7f150eaaaba47b11e" : {
+      "english" : "Sea Level Rise Time",
+      "translation" : "Време до подизања нивоа мора"
+   },
+   "0464feb0fe7f648b05537a1d3a29a05d" : {
+      "english" : "“It is thrifty to prepare today for the wants of tomorrow.” \\\\n— Aesop (“The Ant and the Grasshopper”)",
+      "translation" : ""
+   },
+   "047563a5195c6852fadd14732d423ea0" : {
+      "english" : "“The agora is an established place for men to cheat one another, and behave covetously.” \\\\n— Anacharsis, a Scythian philosopher who traveled to Greece (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Anacharsis”, sec. 5)",
+      "translation" : ""
+   },
+   "048ba918887b3d9ba9ee6c41ac6d3b90" : {
+      "english" : "Civilization",
+      "translation" : "Цивилизација"
+   },
+   "04c5fe5fa220cab27c46cce260c4a2e1" : {
+      "english" : "Toggle explored map (see initial map).",
+      "translation" : "Омогући истражену мапу (види почетну мапу)."
+   },
+   "0557fa923dcee4d0f86b1409f5c2167f" : {
+      "english" : "Back",
+      "translation" : "Назад"
+   },
+   "05d8c69ca690ba2ea082466d59f522f8" : {
+      "english" : "Press %(hotkey)s to autocomplete player names or settings.",
+      "translation" : "Претисните %(hotkey)s за насумични одабир имена играча или подешаванја."
+   },
+   "0781d311f86c79dec2ee2bb034a26f85" : {
+      "english" : "“Marry a good man, and bear good children.” \\\\n— Leonidas, to his wife who asked what to do if he died, before he left for Thermopylae (Plutarch, “Moralia”, “Sayings of Spartans”, 225a)",
+      "translation" : ""
+   },
+   "0822c8f24cfcbee6353f78350f38cb48" : {
+      "english" : "Server Port:",
+      "translation" : "Порт сервера:"
+   },
+   "0a12410a34ff97f2fe1ae247c518bcdc" : {
+      "english" : "“He has not acquired a fortune; the fortune has acquired him.” \\\\n— Bion of Borysthenes, referring to a wealthy miser (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Bion”, sec. 50)",
+      "translation" : ""
+   },
+   "0aa026cbe831f438d8aef29bbd8e241a" : {
+      "english" : "“Most of the Romans were trampled to death by the enormous weight of the elephants; the rest were shot down in their ranks by the numerous cavalry: and there were only a very few who attempted to save themselves by flight.” \\\\n— Polybius on the Battle of Bagradas where a Roman army was annihilated during the First Punic War (“Histories”, I. 34)",
+      "translation" : ""
+   },
+   "0b14fac4d27b25c9f9672ffa54ea5169" : {
+      "english" : "“Thrusting his spear into Mithridates' face, he \\\\[Alexander] hurled him to the ground. Then Rhoesaces \\\\[a Persian] \\\\[…] struck him on the head with his sword. \\\\[…] Alexander hurled him too to the ground, piercing with his lance through his breastplate into his chest. Sphithridates \\\\[a Persian] had already raised his sword against Alexander from behind when Clitus \\\\[…] cut his arm off.” \\\\n— Arrian about the Battle of the Granicus (“The Anabasis of Alexander”, 1.15)",
+      "translation" : ""
+   },
+   "0b29cc6233265b9ea28ec4fdfc8cc8cd" : {
+      "english" : "<%(username)s>",
+      "translation" : "<%(username)s>"
+   },
+   "0d6f4fb042758db358a2a620a4ff2158" : {
+      "english" : "“Spartans do not ask how many, only where the enemy are.” \\\\n— Agis II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215d)",
+      "translation" : ""
+   },
+   "0dc6c86454681fcca82d9a314f38d825" : {
+      "english" : "Player Name:",
+      "translation" : "Име играча:"
+   },
+   "0ddf5b47c39563356a5c44be9be6a433" : {
+      "english" : "“He did not even stand up to review his fleet when the ships were already at their fighting stations, but lay on his back and gazed up at the sky, never rising to show that he was alive until Marcus Agrippa had routed the enemy.” \\\\n— Mark Antony, taunting Augustus who delegated his duties as naval commander (Suetonius, “Divus Augustus”, sec. 16)",
+      "translation" : ""
+   },
+   "0eadfe0ca6bbd0b0b470a962d4006e32" : {
+      "english" : "%(username)s has been banned",
+      "translation" : "%(username)s је био банован"
+   },
+   "0f7d1a8d07072a0d53485d6ed539f7a4" : {
+      "english" : "Population Cap",
+      "translation" : "Максимум становништва"
+   },
+   "100251fc4d816fc89a976fcc52ca44ee" : {
+      "english" : "“Give me a place to stand, and I shall move the world.” \\\\n— Archimedes, on his usage of the lever (Diodorus Siculus, “The Library of History”, fragments of book XXVI, sec. 18)",
+      "translation" : ""
+   },
+   "1152cd6356e69832c2717ea4def0b10c" : {
+      "english" : "“War is sweet to those who have no experience of it, but the experienced man fears its approach in his heart.” \\\\n— Pindar (fragment 110)",
+      "translation" : ""
+   },
+   "118b4669463d51f51140055dbfc9b25d" : {
+      "english" : "Pick a biome at random.",
+      "translation" : "Изабери биом насумично."
+   },
+   "127f92b20fbca3febd58f037277819c7" : {
+      "english" : "Select population limit.",
+      "translation" : "Одабери популациони лимит."
+   },
+   "12a6cca95485f973288b5e01a3c43a42" : {
+      "english" : "“The victor is not victorious if the vanquished does not consider himself so.” \\\\n— Ennius (“Annales”, fragment 31.493)",
+      "translation" : ""
+   },
+   "13b4955a39fedf363d1f021dfe117995" : {
+      "english" : "“Man is by nature a political animal.” \\\\n— Aristotle (“Politics”, I. 1253a.2)",
+      "translation" : ""
+   },
+   "143b6594327b87cab7b1919ec2e6c142" : {
+      "english" : "“Never trust advice from a man in the throes of his own difficulty.” \\\\n— Aesop (“The Fox and the Goat”)",
+      "translation" : ""
+   },
+   "14889f18dd511d3c85dd99896d88b926" : {
+      "english" : "• %(tiptext)s",
+      "translation" : "%(tiptext)s"
+   },
+   "14c2f93dbfaf0cf7c5128a7f679a197b" : {
+      "english" : "\\\\[%(time)s]",
+      "translation" : "\\\\[%(time)s]"
+   },
+   "1510646368f2009f3ce68366eec0c2e7" : {
+      "english" : "Cannot host game: %(message)s.",
+      "translation" : "Не можете хостовати(креирати) игру:%(message)s"
+   },
+   "160931b22a064fabe3ef459aeafc409a" : {
+      "english" : "“Physical strength is only noble in cattle, it is strength of character that is noble in men.” \\\\n— Democritus (fragment)",
+      "translation" : ""
+   },
+   "16bfbf9c462762cf1cba4134ec53c504" : {
+      "english" : "Loading",
+      "translation" : "Учитавање"
+   },
+   "16e1f00f8bdebe9c637684897a5cf318" : {
+      "english" : "“Men willingly believe what they wish.” \\\\n— Caesar (“De Bello Gallico”, III. 18)",
+      "translation" : ""
+   },
+   "175b8edf784f68cf968dfa9660cea82b" : {
+      "english" : "“It is your concern when your neighbor's wall is on fire.” \\\\n— Horace (“Epistles”, epistle XVIII., 84)",
+      "translation" : ""
+   },
+   "17919d7c3235196c002c92fd72b8c913" : {
+      "english" : "Explored Map",
+      "translation" : "Истражена мапа"
+   },
+   "18753a5469c8b8c63dfc3de5ae49ccbb" : {
+      "english" : "“I am Cyrus, who won for the Persians their empire. Therefore do not begrudge me this bit of earth that covers my bones.” \\\\n— Cyrus the Great's epitaph (Plutarch, “Parallel Lives”, “Alexander”, sec. 69)",
+      "translation" : ""
+   },
+   "190fad9e39e171089147904503279d25" : {
+      "english" : "“Set a thief to catch a thief.” \\\\n— Callimachus (“Epigrams”, 44)",
+      "translation" : ""
+   },
+   "19879fc1d1fa07f458b2b2225bfc96d2" : {
+      "english" : "“It is a general rule of human nature that people despise those who treat them well, and look up to those who make no concessions.” \\\\n— Thucydides (“History of the Peloponnesian War”, III. 39.5)",
+      "translation" : ""
+   },
+   "19fd549b007e67efb08017e1f3a5ac84" : {
+      "english" : "“We alone do not think that a man ignorant of politics interferes with nothing, we think he is good for nothing.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 40.2)",
+      "translation" : ""
+   },
+   "1ab27cbb7d016379c8c5ce9ca29e2ee5" : {
+      "english" : "“Sex and sleep alone make me conscious that I am mortal.” \\\\n— Alexander the Great (Plutarch, “Parallel Lives”, “Alexander”, sec. 22)",
+      "translation" : ""
+   },
+   "1be415f041c0d8f2e10093a7b4236694" : {
+      "english" : "Connection failed",
+      "translation" : "Неуспешно успостављање везе"
+   },
+   "1c1caac1185deb9c973da5450c557f8b" : {
+      "english" : "Rated Game",
+      "translation" : "Оцењена игра"
+   },
+   "1ca12bd0dd26dab3315d6d02b2d11f5a" : {
+      "english" : "“But the enemy \\\\[…] displayed such great courage, that when the front rank had fallen the men behind them stood on them and continue the fight from on top of the corpses; when these were killed the pile of bodies grew higher, while the survivors used the heap as a vantage point for throwing missiles at our men, or catching our spears and throwing them back.” \\\\n— Caesar about the Battle of the Sabis (“De Bello Gallico”, II. 27)",
+      "translation" : ""
+   },
+   "1d7e9e235452f45b6b5058dcd0caee2c" : {
+      "english" : "Select a map to play on.",
+      "translation" : "Изабери мапу на којој ће се играти."
+   },
+   "1e6c1a3efb725eed04127288793b2cfc" : {
+      "english" : "“All the centurions of the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself.” \\\\n— Caesar about the Battle of the Sabis (“De Bello Gallico”, II. 25)",
+      "translation" : ""
+   },
+   "1eb3ee42a846f47e7cae23b10307c3f0" : {
+      "english" : "Select a map type.",
+      "translation" : "Изабери тип мапе."
+   },
+   "1ed424b12d4ec4172c471f7a690d456d" : {
+      "english" : "“Familiarity breeds contempt; acquaintance softens prejudices.” \\\\n— Aesop (“The Fox and the Lion”)",
+      "translation" : ""
+   },
+   "1f9b2ecadb88499f0637cb04bf69ea9d" : {
+      "english" : "“To the strongest!” \\\\n— Alexander the Great, on his death bed, when asked who should succeed him as king (Arrian, “The Anabasis of Alexander”, 7.26)",
+      "translation" : ""
+   },
+   "1fbd01b4e938f4693766a7440f8f70a8" : {
+      "english" : "“This is the bitterest pain among men, to have much knowledge but no power.” \\\\n— Herodotus (“The Histories”, IX. 16)",
+      "translation" : ""
+   },
+   "22bbca58c26e9a101ab8340e977ae490" : {
+      "english" : "Loading “%(map)s”",
+      "translation" : "Учитавање “%(map)s”"
+   },
+   "2301bda2cedca962dcfb35ad19f80c5f" : {
+      "english" : "“This was the greatest action that happened in all this war, and all others that we have heard of amongst the Greeks, being to the victors most glorious and most calamitous to the vanquished. For they were utterly and at all points defeated, and their sufferings were many. Army and fleet and all they ever had perished, nothing was saved and few of so many ever returned home. Thus ended the Sicilian expedition.” \\\\n— Thucydides (“History of the Peloponnesian War”, VII. 87.6–7)",
+      "translation" : ""
+   },
+   "2324af7698a2ba8dd0595ff3512b20ca" : {
+      "english" : "“I for one think that to a brave man there is no end to labors except the labors themselves, provided they lead to glorious achievements.” \\\\n— Alexander the Great, addressing his troops (Arrian, “The Anabasis of Alexander”, 5.26)",
+      "translation" : ""
+   },
+   "2356a02681c70b0bf690ebc6806ce9f9" : {
+      "english" : "“It is hard to be governed by one's inferior.” \\\\n— Democritus (fragment)",
+      "translation" : ""
+   },
+   "2373e504a1e46459a004a4925f6b3dd9" : {
+      "english" : "Browse Maps",
+      "translation" : "Разгледај мапе"
+   },
+   "239eb13838fb4e44782073077bff61c0" : {
+      "english" : "“If I have done anything noble, that is a sufficient memorial; if I have not, all the statues in the world will not preserve my memory.” \\\\n— Agesilaus II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215a)",
+      "translation" : ""
+   },
+   "23b046dd07c5df042da6e43a38d46dc4" : {
+      "english" : "“I am a citizen of the world.” \\\\n— Diogenes of Sinope (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Diogenes”, sec. 63)",
+      "translation" : ""
+   },
+   "24a5586bfd12016594272ec049e87886" : {
+      "english" : "“War is a matter not so much of arms as of money.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 83.2)",
+      "translation" : ""
+   },
+   "24ab2bf7a53cabb60fb5542b24c4b019" : {
+      "english" : "“That, Senators, is what a favour from gangs amounts to. They refrain from murdering someone; then they boast that they have spared him!” \\\\n— Cicero, condemning Mark Anthony who had not killed him (yet) (“Philippics”, II., sec. 5)",
+      "translation" : ""
+   },
+   "258425bc3ddd1100aa615cbec1a7abcd" : {
+      "english" : "“Do not say few things in many words, but many things in few words.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 24)",
+      "translation" : ""
+   },
+   "25bfca9f5d9438b4c8cbc66642b10e8b" : {
+      "english" : "“No guest is so welcome in a friend's house that he will not become a nuisance after three days.” \\\\n— Plautus (“The Swaggering Soldier”, Act III, scene 1, 146)",
+      "translation" : ""
+   },
+   "25eef3715b740e537148ddaf5bdfc253" : {
+      "english" : "“There lay thousands upon thousands of Romans \\\\[…]. Here and there amidst the slain rose a gory figure whose wounds had begun to throb with the chill of dawn, and was cut down by his enemies.” \\\\n— Livy, describing the aftermath of the Battle of Cannae, where Hannibal inflicted the greatest defeat on the Romans in all their history (“History of Rome”, XXII. 51)",
+      "translation" : ""
+   },
+   "26096b78e5b7dc07b264251cd75295b9" : {
+      "english" : "Relic Count",
+      "translation" : "Број реликвија"
+   },
+   "26f0871d97916fca0ed1080a23be6dd2" : {
+      "english" : "“Delivery, delivery, delivery.” \\\\n— Demosthenes, when asked what were the three most important elements of rhetoric (Cicero, “De Oratore”, 3.213)",
+      "translation" : ""
+   },
+   "273f36ff35da73000b5c7ca854e5909b" : {
+      "english" : "“War is the father and king of all things: some he has made gods, and some men; some slaves and some free.” \\\\n— Heraclitus (Hippolytus, “The Refutation of all Heresies”, IX. 4)",
+      "translation" : ""
+   },
+   "284bebb9bcdd0839bc6039a443c829df" : {
+      "english" : "Select world population limit.",
+      "translation" : "Изаберите ограничење светског становништва."
+   },
+   "29254f27c0974b39b9d5b142eef4baaf" : {
+      "english" : "Start Game!",
+      "translation" : "Започните игру!"
+   },
+   "2a10b1871cd758e4e1d91ed5dcc78192" : {
+      "english" : "“Self-conceit may lead to self-destruction.” \\\\n— Aesop (“The Frog and the Ox”)",
+      "translation" : ""
+   },
+   "2a2da3a68cd170f3299e7d44f9b2e55d" : {
+      "english" : "Stronghold",
+      "translation" : "Тврђава"
+   },
+   "2a54aaf9e2574a0ff81a78278a8e00d3" : {
+      "english" : "Select one of the landscapes of this map.",
+      "translation" : "Изаберите један од терена за ову мапу."
+   },
+   "2ae10d040e97f7da80faebf62abd978d" : {
+      "english" : "“He \\\\[Alexander] thought nothing invincible for the courageous, and nothing secure for the cowardly.” \\\\n— Plutarch (“Parallel Lives”, “Alexander”, sec. 58)",
+      "translation" : ""
+   },
+   "2aebf3ded14ea401e87abc70e3fd1bed" : {
+      "english" : "“Some were discovered lying there alive, with thighs and tendons slashed, baring their necks and throats and bidding their conquerors drain the remnant of their blood. Others were found with their heads buried in holes dug in the ground. They had apparently made these pits for themselves.” \\\\n— Livy, describing the aftermath of the Battle of Cannae, where Hannibal inflicted the greatest defeat on the Romans in all their history (“History of Rome”, XXII. 51)",
+      "translation" : ""
+   },
+   "2d20bbaa961907e0070b95afdc521e3f" : {
+      "english" : "“Phraortes was captured and brought before me. I cut off his nose, his ears, and his tongue, and I put out one eye, and he was kept in chains at my palace entrance, and all the people saw him. Then I crucified him in Ecbatana; and the men who were his foremost followers \\\\[…] I flayed and hung out their skins, stuffed with straw.” \\\\n— Darius I (Behistun inscription, column II, 32)",
+      "translation" : ""
+   },
+   "2ebb8eda350a2fad09bb784613409657" : {
+      "english" : "“Strike, if you will, but listen.” \\\\n— Themistocles, in a heated discussion with the Spartan fleet commander who threatened to beat him with his staff, before the Battle of Salamis (Plutarch, “Parallel Lives”, “Themistocles”, sec. 11)",
+      "translation" : ""
+   },
+   "2f526f08962fca83e90ccddaac13880e" : {
+      "english" : "HH:mm",
+      "translation" : "HH:mm"
+   },
+   "30954d90085f6eaaf5817917fc5fecb3" : {
+      "english" : "Circle",
+      "translation" : "Круг"
+   },
+   "3119a75c2a9acceef78cc938010a11b5" : {
+      "english" : "Toggle if this game will be rated for the leaderboard.",
+      "translation" : "Омогућити да ли ће се ова партија бодовати за листу."
+   },
+   "32309c6456562bf6dc6f8cacd2d93b52" : {
+      "english" : "No selected map",
+      "translation" : ""
+   },
+   "32b254725e43445c20ffac05eca437c1" : {
+      "english" : "“When you realize the power of Athens, consider it was won by valiant men who knew their duty, had a sense of dishonor in fight and, if their enterprises failed, would rather give their lives than lack in civic virtue.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.2)",
+      "translation" : ""
+   },
+   "333e40e66690016315669512462a0e3b" : {
+      "english" : "Initial amount of each resource: %(resources)s.",
+      "translation" : "Почетна количина сваког ресурса:%(resources)s"
+   },
+   "33b2414c17c1355aca870538b4b03080" : {
+      "english" : "“His resolve is not to seem, but to be, the best.” \\\\n— Aeschylus (“Seven Against Thebes”, 592)",
+      "translation" : ""
+   },
+   "33dc0228650c0792f0cc1f9c5f3b39ab" : {
+      "english" : "“We did not flinch but gave our lives to save Greece when her fate hung on a razor's edge.” \\\\n— Corinthian epitaph to their fallen of the Persian Wars (Plutarch, “Moralia”, “On the Malice of Herodotus”, 870e)",
+      "translation" : ""
+   },
+   "3476bf9c3af766198bfbd4f065a51e69" : {
+      "english" : "Unassigned",
+      "translation" : "Нераспоређени"
+   },
+   "34c4528cc66367d484c7b006237e15d5" : {
+      "english" : "Cheats enabled.",
+      "translation" : "Варања активирана."
+   },
+   "34f337c0df30e85c92e3fbcf262dc4a4" : {
+      "english" : "“My men have turned into women, and my women into men!” \\\\n— Xerxes, watching Artemisia ram a ship while most of his fleet suffered the reverse, not knowing that the sunk vessel was his own (Herodotus, “The Histories”, VIII. 88)",
+      "translation" : ""
+   },
+   "365d3683592464340eee53f7425d0c7c" : {
+      "english" : "Player Name",
+      "translation" : "Име играча"
+   },
+   "366f4d8293b3ae90f9464e10f4ccf52d" : {
+      "english" : "“Yes, stand a little out of my sunshine.” \\\\n— Diogenes of Sinope to Alexander the Great, who asked if he could help in in any way (Plutarch, “Parallel Lives”, “Alexander”, sec. 14)",
+      "translation" : ""
+   },
+   "36f5b4388bf7eb0500912e5f22a611f1" : {
+      "english" : "Password is invalid.",
+      "translation" : "Погрешна шифра."
+   },
+   "36fdf32ba7a8c9445b57eab0ed465216" : {
+      "english" : "Wonder Duration",
+      "translation" : "Трајање Чуда"
+   },
+   "3759c3b5a0c0ec41fb9bf42f6d6bcba9" : {
+      "english" : "“The Roman order on the other hand is flexible: for every Roman, once armed and on the field, is equally well equipped for every place, time, or appearance of the enemy. He is, moreover, quite ready and needs to make no change, whether he is required to fight in the main body, or in a detachment, or in a single maniple, or even by himself.” \\\\n— Polybius, explaining how the Romans can defeat the Macedonian phalanx (“Histories”, XVIII. 32)",
+      "translation" : ""
+   },
+   "388da303ba758078ff3cf699d3e58ee0" : {
+      "english" : "“Union gives strength.” \\\\n— Aesop (“The Bundle of Sticks”)",
+      "translation" : ""
+   },
+   "3894a3b05f95bfb81bfd863f3d2881b6" : {
+      "english" : "AI: %(ai)s",
+      "translation" : "AI: %(ai)s"
+   },
+   "39b3205695e72340323b13d006abded9" : {
+      "english" : "“A prosperous fool is a grievous burden.” \\\\n— Aeschylus (fragment 383)",
+      "translation" : ""
+   },
+   "39ecaa4a646d4b75e3d1fd7b1d7cc8e7" : {
+      "english" : "Game has already started, rejoining...",
+      "translation" : "Партија је већ почела, поновно приступање..."
+   },
+   "3b8cce93c4d3b168a3d51a2d90df709f" : {
+      "english" : "“One \\\\[…] shot an arrow at him with such accuracy and force that it pierced his breastplate and got stuck in his ribs. \\\\[…] Alexander recoiled and sank to his knees. \\\\[…] At last Alexander killed the barbarian. But he received many wounds, at last was struck on the neck with a mace, and leaned against the city wall, his eyes still fixed upon his foes.” \\\\n— Plutarch about the Mallian Campaign (“Parallel Lives”, “Alexander”, sec. 63)",
+      "translation" : ""
+   },
+   "3bf7e81f5620a98f1e4d35143e6becce" : {
+      "english" : "Cheats",
+      "translation" : "Преваре"
+   },
+   "3d6cff0bb0bfe15a391ae6e164f92d68" : {
+      "english" : "“I do not steal victory.” \\\\n— Alexander the Great, when suggested to raid the Persians at night (Plutarch, “Parallel Lives”, “Alexander”, sec. 31)",
+      "translation" : ""
+   },
+   "3e279df56b58fb787b6f94b126d60285" : {
+      "english" : "Select one of the starting position patterns of this map.",
+      "translation" : "Изаберите један од шаблона за почетне положаје за ову мапу."
+   },
+   "3e51aef01ecbd537730138e48a7ffdab" : {
+      "english" : "“In peace the sons bury their fathers, but in war the fathers bury their sons.” \\\\n— Croesus, king of Lydia (Herodotus, “The Histories”, I. 87)",
+      "translation" : ""
+   },
+   "3e98b7688c2a266779a7efe016793bb7" : {
+      "english" : "Relic Duration",
+      "translation" : "Трајање реликвије"
+   },
+   "3e9fb5605855657d0f6bb6cff02c036c" : {
+      "english" : "Select a random team placement pattern when starting the game.",
+      "translation" : "Изаберите шаблон за наизменичан размештај тимова на почетку игре."
+   },
+   "411b51bd45b162a1fadf49d5005ed3b3" : {
+      "english" : "“I'd rather be the first man here than the second man in Rome.” \\\\n— Caesar, when passing through a barbarian village in the Alps (Plutarch, “Parallel Lives”, “Caesar”, sec. 11)",
+      "translation" : ""
+   },
+   "437b5ffc0de41019ce3af481ab58e017" : {
+      "english" : "“I do not know how to tune the lyre or play the harp, but I do know how to raise a city that was small and unimportant to glory and greatness.” \\\\n— Themistocles, defending his lack of cultural sophistication (Plutarch, “Parallel Lives”, “Themistocles”, sec. 2)",
+      "translation" : ""
+   },
+   "4394d8c754d06a6e064c63e7b3639ae8" : {
+      "english" : "“For a thinking man is where Wisdom is at home.” \\\\n— Zoroaster, founder of the Zoroastrian religion (“Ahunuvaiti Gatha”, yasna 30.9)",
+      "translation" : ""
+   },
+   "4397f0cf0a3688fa5a733f08ab8d49c7" : {
+      "english" : "State that you are ready to play.",
+      "translation" : "Означи да си спреман/а за игру."
+   },
+   "4401f3ec5af5d88d94f2f096ad5d9e0a" : {
+      "english" : "“Both oligarch and tyrant mistrust the people, and therefore deprive them of their arms.” \\\\n— Aristotle (“Politics, V. 1311a.11)",
+      "translation" : ""
+   },
+   "44a6cafedf1a94d5c30a0461e2873ef9" : {
+      "english" : "Toggle whether heroes can be garrisoned.",
+      "translation" : ""
+   },
+   "450e9d4cf034dcf0faddf3ba4200d0c8" : {
+      "english" : "“It is very servile to live in luxury, but very royal to toil. \\\\[…] Don't you know that the end and object of conquest is to avoid the vices and infirmities of the subdued?” \\\\n— Alexander the Great (Plutarch, “Parallel Lives”, “Alexander”, sec. 40)",
+      "translation" : ""
+   },
+   "46f3ea056caa3126b91f3f70beea068c" : {
+      "english" : "Map",
+      "translation" : "Мапа"
+   },
+   "4803e6b9e63dabf04de980788d6a13c4" : {
+      "english" : "Line",
+      "translation" : "Линија"
+   },
+   "480f8c374036f1e355664eac5706ace8" : {
+      "english" : "Teams Locked",
+      "translation" : "Закључај тимове"
+   },
+   "48da83cd0da152d642496f8ac4e9cfb4" : {
+      "english" : "“It is from their foes, not their friends, that cities learn the lesson of building high walls and ships of war.” \\\\n— Aristophanes (“Birds”)",
+      "translation" : ""
+   },
+   "4959147161c528d602cd59bca97daedc" : {
+      "english" : "Game settings have been changed",
+      "translation" : "Подешавања игре су промењена."
+   },
+   "49efe0cad63b8cf5dd79784907b65b26" : {
+      "english" : "“Whoever imposes severe punishment becomes repulsive to the people; while he who awards mild punishment becomes contemptible. But whoever imposes punishment as deserved becomes respectable.”\\\\n— Kauṭilya (“Arthashastra”, I.4.8–10)",
+      "translation" : ""
+   },
+   "4a337e7fbccdaf138e55dfdefe665fc6" : {
+      "english" : "Map Filter",
+      "translation" : "Филтер мапе"
+   },
+   "4ab2368b728bc30879fdbc8ff53c62f4" : {
+      "english" : "Toggle allied view (see what your allies see).",
+      "translation" : ""
+   },
+   "4c3bacabd7f20f13a3cb9f1211b663ac" : {
+      "english" : "“Fortune favors the bold.” \\\\n— Terence in a play about a great Athenian admiral (“Phormio”, 203)",
+      "translation" : ""
+   },
+   "4c8b3de869bfa4ea32f92c25f053eddd" : {
+      "english" : "“Walls and ships are nothing without men living together inside them.” \\\\n— Sophocles (“Oedipus Rex”)",
+      "translation" : ""
+   },
+   "4d967b14cc50ae79c62eb69367feb585" : {
+      "english" : "Immediate Victory.",
+      "translation" : "Тренутна победа."
+   },
+   "4e4848deba45f95379489e1b7fb7b80b" : {
+      "english" : "When checked the Population Cap will be evenly distributed over all living players.",
+      "translation" : "Када је означено, ограничење становништва биће равномерно расподељено између свих активних играча."
+   },
+   "4ee39c61e61144ae8f1ee166e43cb48c" : {
+      "english" : "Game Type",
+      "translation" : "Тип игре"
+   },
+   "4f0262bb7066abb1788739c98e066c11" : {
+      "english" : "“The unexamined life is not worth living.” Socrates, in his defense when trialled for corrupting the youth and not worshipping the proper gods (he later drank hemlock after the death sentence) \\\\n— Plato (“Apology”, 38a)",
+      "translation" : ""
+   },
+   "4f02dee334295301a347bb34155fc799" : {
+      "english" : "Click to view the list of available maps.",
+      "translation" : "Кликни за приказ листе доступних мапа."
+   },
+   "4f9baa1e6a39aef012c4faed2758c8c8" : {
+      "english" : "Select Map",
+      "translation" : "Одабери мапу"
+   },
+   "4f9be91c87e341ff927a88c2f649ae2e" : {
+      "english" : "Loading map data. Please wait…",
+      "translation" : "Мапа се учитава. Молимо вас сачекајте..."
+   },
+   "5049bd8304b2e2d126f15a77292f2687" : {
+      "english" : "“It is not that I am mad, it is only that my head is different from yours.” \\\\n— Diogenes of Sinope (Stobaeus, “Florilegium”, 51)",
+      "translation" : ""
+   },
+   "51cdccf36c2b30017317d5fb74e0f766" : {
+      "english" : "I'm ready",
+      "translation" : "Спреман сам!"
+   },
+   "52b97708ac70cf597438292dfdacdccd" : {
+      "english" : "Leave blank to use the default port.",
+      "translation" : "Оставите празно поље како би сте користили подразумевани порт."
+   },
+   "53a8f934bddd9536c291af1c7f519c95" : {
+      "english" : "Show this message in the future.",
+      "translation" : "Прикажи ову поруку у будућности."
+   },
+   "53f047b60db302d9fdb2f7be80cfa881" : {
+      "english" : "“Whom the Gods love dies young.” \\\\n— Menander (“The Double Deceiver”, fragment 4)",
+      "translation" : ""
+   },
+   "5489c2f7dc9cc27c32b7ea0e0f6cebc9" : {
+      "english" : "“But tactical science is only one part of generalship. A general must be capable of equipping his forces and providing for his men. He must also be inventive, hardworking, and watchful, bullheaded and brilliant, friendly and fierce, straightforward and subtle.” \\\\n— Socrates (Xenophon, “Memorabilia”, 3.1.6)",
+      "translation" : ""
+   },
+   "54bc9427184f50c5b74354d16029a1ca" : {
+      "english" : "“A prudent commander will never take risks unnecessarily, except when it is clear beforehand that he will have the advantage.” \\\\n— Xenophon (“The Cavalry General”, 4.13)",
+      "translation" : ""
+   },
+   "54eefc9acabbea969d97823e2580418f" : {
+      "english" : "“It is sweet and honorable to die for one's country.” \\\\n— Horace (“Odes”, III., ode II., 13)",
+      "translation" : ""
+   },
+   "5515af32ed3d43ed7c88205544da159e" : {
+      "english" : "“In my nineteenth year, on my own initiative and at my own expense, I raised an army with which I liberated the state, which was oppressed by the tyranny of a faction.” \\\\n— Augustus, in his autobiography (“Res Gestae Divi Augusti”, sec. 1)",
+      "translation" : ""
+   },
+   "5616b640464effd30306793bd88e8ce3" : {
+      "english" : "Select number of players.",
+      "translation" : "Изабери број играча."
+   },
+   "56e4818a2343f4a426668d589475ba59" : {
+      "english" : "“Quintilius Varus, give me back my legions!” \\\\n— Augustus, after three legions were annihilated in the Battle of the Teutoburg Forest (Suetonius, “Divus Augustus”, sec. 23)",
+      "translation" : ""
+   },
+   "579062553a6bf89d3f52924bca03be27" : {
+      "english" : "“She \\\\[Helen] brought to Ilium her dowry, destruction.” \\\\n— Aeschylus (“Agamemnon”, 406)",
+      "translation" : ""
+   },
+   "585d42230ee7c54c6fcf832b39d9e125" : {
+      "english" : "%(number)s relicTotal number of relics spawned on the map. Relic victory is most realistic with only one or two relics. With greater numbers, the relics are important to capture to receive aura bonuses.",
+      "translation" : ""
+   },
+   "59289feaac0856a1b6f9f50f86a13355" : {
+      "english" : "“He \\\\[King Darius] asked one of his servants every day, when his dinner was spread, three times to repeat to him: Master, remember the Athenians!” \\\\n— Herodotus, narrating how the Athenian support for the Ionian revolt lead to the Persian Wars (“The Histories”, V. 105)",
+      "translation" : ""
+   },
+   "5a0bfb24d0a12aa584b42e9841a3be63" : {
+      "english" : "World population",
+      "translation" : "Светско становништво"
+   },
+   "5a1918be2f7cc66e422fb29bf7902d7f" : {
+      "english" : "Last Man Standing",
+      "translation" : "Последњи живи играч"
+   },
+   "5a7701fbb015b5445f642dac805a51e1" : {
+      "english" : "“I suppose you understand, men, that pursuing, dealing blows and death, plunder, fame, freedom, power – all these are prizes for the winners; the cowardly, of course, suffer the reverse.” \\\\n— Xenophon (“The Education of Cyrus”, 7.1.13)",
+      "translation" : ""
+   },
+   "5acaafb7db12bef2ed5d1da65d8d991a" : {
+      "english" : "Toggle whether the last remaining player or the last remaining set of allies wins.",
+      "translation" : "Одабери да ли побеђује последњи живи играч или савез"
+   },
+   "5accb59337f7535d92a8334fc6928f0f" : {
+      "english" : "== %(message)s",
+      "translation" : "== %(message)s"
+   },
+   "5dbb5a04cfb1eb6c7d8e1837a1db953f" : {
+      "english" : "“Cowards do not count in battle; they are there, but not in it.” \\\\n— Euripides (“Meleager”)",
+      "translation" : ""
+   },
+   "5e3dce2e99bfe4cc41dd774ae11acc25" : {
+      "english" : "Pick a color.",
+      "translation" : "Изаберите боју."
+   },
+   "5e53c0c08f802351c42338b59b4f19b7" : {
+      "english" : "Per Player",
+      "translation" : "По играчу"
+   },
+   "5ed227c2d862a3be36539bc49baa3fd5" : {
+      "english" : "“Robbery, slaughter, plunder, they \\\\[the Romans] deceivingly name empire; they make a wasteland and call it peace.” \\\\n— Calgacus, Caledonian chieftain in a speech before the Battle of Mons Graupius (Tacitus, “Agricola”, 30)",
+      "translation" : ""
+   },
+   "5ff18a24fdb53a49fc365f1b365e138c" : {
+      "english" : "“Let's not give them enough time to arrange a defense, or to even recognize that we are human beings! We've got to appear to them like an uncontrollable nightmare of shields, swords, battle-axes and spears!” \\\\n— Xenophon (“The Education of Cyrus”, 4.2.22)",
+      "translation" : ""
+   },
+   "636da1d35e805b00eae0fcd8333f9234" : {
+      "english" : "Player",
+      "translation" : "Играч"
+   },
+   "637956836bc385557b12ad3583c7dc79" : {
+      "english" : "Cannot join game: %(message)s.",
+      "translation" : "Не можете се прикључити игри: %(message)s"
+   },
+   "64663f4646781c9c0110838b905daa23" : {
+      "english" : "Random",
+      "translation" : "Насумично"
+   },
+   "65471e2d52ccd5b1ab99d9b943935dd4" : {
+      "english" : "“Prepare for war, since you have been unable to endure a peace.” \\\\n— Scipio Africanus, replying to Hannibal's offer of peace terms before the Battle of Zama (Livy, “History of Rome”, XXX. 31)",
+      "translation" : ""
+   },
+   "65a2e68418ea11e1c413ca43db9e9350" : {
+      "english" : "Allied players are placed in a linear pattern.",
+      "translation" : "Савезнички играчи су постављени по линијском шаблону."
+   },
+   "66e99c063381135d51843eb50ed09d31" : {
+      "english" : "“If a king is energetic, his subjects will be equally energetic.”\\\\n— Kauṭilya (“Arthashastra” I.19.1)",
+      "translation" : ""
+   },
+   "66fefa6ecf248e6223bc6e228d9f0900" : {
+      "english" : "“Weep not for me, as I suffer unjustly, I am in a happier situation than my murderers.” \\\\n— Agis IV of Sparta upon seeing one of his executioners cry (Plutarch, “Parallel Lives”, “Agis”, sec. 20)",
+      "translation" : ""
+   },
+   "67193670308a83e70aee3a5b9fa90c9d" : {
+      "english" : "%(time)s %(message)s",
+      "translation" : "%(time)s %(message)s"
+   },
+   "67b7c6fe0d31749793fce5c37b8ce1f8" : {
+      "english" : "“Although he \\\\[Xerxes] had plenty of troops he had few men.” \\\\n— Herodotus (“The Histories”, VII. 210)",
+      "translation" : ""
+   },
+   "68d2e3524e8f8fa9bb7061b6a7383232" : {
+      "english" : "“All mankind rules its women, and we rule all mankind, but our women rule us.” \\\\n— Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198e)",
+      "translation" : ""
+   },
+   "6946b4beb525d6a729ef165d6968ed4e" : {
+      "english" : "“Being informed \\\\[…] that when the Barbarians discharged their arrows they obscured the light of the sun by the multitude of the arrows, he \\\\[Dieneces] \\\\[…] said that their guest \\\\[…] brought them very good news, for if the Medes obscured the light of the sun, the battle against them would be in the shade and not in the sun.” \\\\n— Herodotus describing Dieneces, reputedly the bravest Spartan soldier at Thermopylae (Polybius, “Histories”, VII. 226)",
+      "translation" : ""
+   },
+   "69ddf30ca4eb965a4b24e214151e1656" : {
+      "english" : "“It is better to be envied than to be pitied.” \\\\n— Herodotus (“The Histories”, III. 52)",
+      "translation" : ""
+   },
+   "6adf97f83acf6453d4a6a4b1070f3754" : {
+      "english" : "None",
+      "translation" : "Ништа"
+   },
+   "6b84fd3848bc984ae2a2c5adc5beaa83" : {
+      "english" : "“Slow and steady wins the race.” \\\\n— Aesop (“The Hare and the Tortoise”)",
+      "translation" : ""
+   },
+   "6bd08d7d42aecd62bad4aed3730059b0" : {
+      "english" : "“None can be free who is a slave to, and ruled by, his passions.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 18)",
+      "translation" : ""
+   },
+   "6c0c3946c62cb7ad0ab5679710d0786b" : {
+      "english" : "“If I were not Alexander, I should wish to be Diogenes \\\\[of Sinope].” \\\\n— Alexander the Great, impressed by the simplicity of the philosopher he had met (Plutarch, “Moralia”, “On the Fortunes of Alexander the Great”, 332a–b)",
+      "translation" : ""
+   },
+   "6c44781ace44b690dcf1e787f79fe297" : {
+      "english" : "Toggle revealed map (see everything).",
+      "translation" : "Омогући откривену мапу (све се види)."
+   },
+   "6cabae7e59bbbadd3f3fd0aa6001f520" : {
+      "english" : "“Do not trust the horse, Trojans! I fear the Greeks even when they bring gifts.” \\\\n— Virgil (“Aeneid”, II. 48–49)",
+      "translation" : ""
+   },
+   "6d0d2deb8f2abcd308508f55dc23f621" : {
+      "english" : "“The die is cast.” \\\\n— Caesar, when crossing the Rubicon river with his legion into Italy, a capital offense that led to his civil war against Pompey (Suetonius, “The Lives of the Twelve Caesars”, 32)",
+      "translation" : ""
+   },
+   "6e0eb3b418b35aa35a6386c1c8c5db27" : {
+      "english" : "No ceasefire",
+      "translation" : "Нема примирја"
+   },
+   "70d13e9c534470f9bb3110e22c3074a8" : {
+      "english" : "Allied View",
+      "translation" : ""
+   },
+   "70d9be9b139893aa6c69b5e77e614311" : {
+      "english" : "Confirm",
+      "translation" : "Потврди"
+   },
+   "715446f580d3dc13a8c22320c01ddb1f" : {
+      "english" : "“Let your speech be better than silence, or be silent.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 24)",
+      "translation" : ""
+   },
+   "72471655328e905ac8e2424c6e05a993" : {
+      "english" : "Randomly pick a time of the day.",
+      "translation" : "Насумично изабери део дана."
+   },
+   "73fe968817f1934cecd36bc42f91145f" : {
+      "english" : "World Population Cap",
+      "translation" : "Ограничење светског становништва"
+   },
+   "745141443338fafb700c220a5dbddb20" : {
+      "english" : "“Endless money forms the sinews of war.” \\\\n— Cicero (“Philippics”, V., sec. 5)",
+      "translation" : ""
+   },
+   "74c5b4b16722163dc0a17ff15c29d3b8" : {
+      "english" : "“Understand that happiness depends on freedom, and freedom depends on courage.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.4)",
+      "translation" : ""
+   },
+   "74e47a75f233674892e3d3d0ff7d78d4" : {
+      "english" : "Warning: There might be performance issues if all %(players)s players reach %(popCap)s population.",
+      "translation" : "Упозорење: Може доћи до губитка преформанси уколико сви %(players)s играчи достигну %(popCap)sпопулацију."
+   },
+   "78901a5f046bd329c47a2f2ea6bbc210" : {
+      "english" : "“We live, not as we wish to, but as we can.” \\\\n— Menander (“Lady of Andros”, fragment 50)",
+      "translation" : ""
+   },
+   "78c41dd9eed1871270771650921ff73b" : {
+      "english" : "%(username)s has joined",
+      "translation" : "%(username)s се прикључио"
+   },
+   "79c133bda74e2c8099f76ebdf5028e29" : {
+      "english" : "“Homer and Hesiod ascribed to their Gods all things that are a disgrace among mortals: stealing, adultery, deceiving one another.” \\\\n— Xenophanes (fragment 11)",
+      "translation" : ""
+   },
+   "7af766076452e1eb7e68ad127cafa8d0" : {
+      "english" : "\\\\[Invalid value %(reason)s]",
+      "translation" : "\\\\[Недозвољена вредност %(reason)s]"
+   },
+   "7b29ca96ada2afa3aadbcf55cd61a1ed" : {
+      "english" : "Difficulty",
+      "translation" : "Тежина"
+   },
+   "7be8ab329f85c711df2f18fc6b26b86c" : {
+      "english" : "“As the world goes, justice is only a matter between equals, while the strong do what they can and the weak suffer what they must.” \\\\n— Thucydides, describing Athenians addressing the defeated Melians who are unwilling to surrender (“History of the Peloponnesian War”, V. 89.1)",
+      "translation" : ""
+   },
+   "7e792d8259e9dc0082e18c37668b5463" : {
+      "english" : "“I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over the self.” \\\\n— Aristotle (Stobaeus, “Florilegium”, 223)",
+      "translation" : ""
+   },
+   "7e889c8c53e407c68bf00901ebeeb46c" : {
+      "english" : "“So little pains does the mob take in finding out the truth, accepting readily the first story at hand.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 21.3)",
+      "translation" : ""
+   },
+   "7f26554e84e4d177df2b5895ffde9989" : {
+      "english" : "Minutes until the player has achieved Relic Victory.",
+      "translation" : "Број минута до играчеве победе реликвијама."
+   },
+   "7f3f3a8274ff511f4001f5c75e882dc9" : {
+      "english" : "“You could not step twice into the same river.” \\\\n— Heraclitus (Plato, “Cratylus”, 402a)",
+      "translation" : ""
+   },
+   "815dff01257e5ef182b25d4c1ef0a7a0" : {
+      "english" : "Landscape",
+      "translation" : "Tерен"
+   },
+   "81b4bb906019d9c3a8ae7ac8880e5b94" : {
+      "english" : "Set time where no attacks are possible.",
+      "translation" : "Подеси време када напади нису могући"
+   },
+   "81e324b840673789dd1bcf0ddd1d02c3" : {
+      "english" : "Number of Players",
+      "translation" : "Број играча"
+   },
+   "82b29c675281840b9f1c43783e4988d5" : {
+      "english" : "Allied players are grouped, but otherwise placed randomly on the map.",
+      "translation" : "Савезнички играчи су груписани али иначе насумично постављени на мапи."
+   },
+   "8374316dbc01399d94c7cf44e40ec764" : {
+      "english" : "“Conquered Greece took captive her savage conqueror and brought her arts into rustic Latium.” \\\\n— Horace (“Epistles”, epistle I., 156–157)",
+      "translation" : ""
+   },
+   "83d5c417430b13876e0e8c8cfc71ce2c" : {
+      "english" : "“It is not possible to found a lasting power upon injustice, perjury, and treachery.” \\\\n— Demosthenes, in one of his many speeches against the rising Philip II of Macedon (“Olynthiac II”, 10)",
+      "translation" : ""
+   },
+   "83fa7f9711469e93a70a1170dc53f3a3" : {
+      "english" : "“The worst ruler is one who cannot rule himself.” \\\\n— Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198f)",
+      "translation" : ""
+   },
+   "84275d20799aa4510272d08572ee7812" : {
+      "english" : "“The judgment given to Croesus by each of the two oracles \\\\[Delphi and Thebes] was the same: If he sent an army against the Persians, he would destroy a great empire.” \\\\n— Herodotus, later mentioning that the empire Croesus destroyed was his own (“The Histories”, I. 53)",
+      "translation" : ""
+   },
+   "860856bc499c432f6cc7d35ba6242b2e" : {
+      "english" : "Map Size",
+      "translation" : "Величина мапе"
+   },
+   "861ca527b78aaedc1583fdbcf917d7ce" : {
+      "english" : "“Battles are decided more by the morale of men than their physical strength.” \\\\n— Xenophon (“The Education of Cyrus”, 3.3.20)",
+      "translation" : ""
+   },
+   "86295a4a83f7909aabebab4bd3ef6952" : {
+      "english" : "“In his campaigns during summer the general must show that he can endure the sun better than the soldiers, in winter he must show he can endure cold better; and throughout all difficulties that he can endure hardships better. This will help to make him loved by his men.” \\\\n— Xenophon (“The Education of Cyrus”, 1.6.25)",
+      "translation" : ""
+   },
+   "86dc153ff2e5a038b06619d7be99894c" : {
+      "english" : "Player Placement",
+      "translation" : "Позиционирање играча"
+   },
+   "872a1cc5c2f0ce2e76eb7c566d5d1497" : {
+      "english" : "Do not add treasures to the map.",
+      "translation" : "Не додавати блага на мапи"
+   },
+   "87a56052ff940013c7fa98c3b31747e1" : {
+      "english" : "“One more such victory and the cause is lost!” \\\\n— Pyrrhus of Epirus after the Battle of Asculum, in which the Romans lost twice as many men but he lost a greater share of his armed forces (Plutarch, “Parallel Lives”, “Pyrrhus”, sec. 21)",
+      "translation" : ""
+   },
+   "88183b946cc5f0e8c96b2e66e1c74a7e" : {
+      "english" : "Unknown",
+      "translation" : "Непознато"
+   },
+   "888478cc3d89bc90155a5043a3263a21" : {
+      "english" : "Reset all teams to the default.",
+      "translation" : "Ресетуј све екипе на подразумевано."
+   },
+   "88c5cb98d557080f24cbfa51c5d8fba3" : {
+      "english" : "“These are the right questions to ask, in winter around the fire \\\\[…]: Who are you, friend? What is your land? And how old were you when the Medes \\\\[Persians] came?” \\\\n— Xenophanes, likely referring to a punitive expedition against Greek cities in Ionia (fragment 17)",
+      "translation" : ""
+   },
+   "88cd8ce021f049952338de55a3ba9003" : {
+      "english" : "“Glorious are the deeds of those who undergo labor and run the risk of danger; and it is delightful to live a life of valor and to die leaving behind immortal glory.” \\\\n— Alexander the Great, addressing his troops (Arrian, “The Anabasis of Alexander”, 5.26)",
+      "translation" : ""
+   },
+   "8910eec92a75617990fb963b3a6090ee" : {
+      "english" : "“Themistocles robbed his fellow citizens of spear and shield, and degraded the people of Athens to the rowing-pad and the oar.” \\\\n— Plato, no friend of the Athenian navy (Plutarch, “Parallel Lives”, “Themistocles”, sec. 3)",
+      "translation" : ""
+   },
+   "8912a4a322c8e2855327a5ae72ed132d" : {
+      "english" : "“Time in the long run teaches all things.” \\\\n— Aeschylus (“Prometheus Bound”, 981)",
+      "translation" : ""
+   },
+   "893156f5d50a7bb3f6c4a1777de94ff8" : {
+      "english" : "Select whether the match takes place at daylight or night.",
+      "translation" : "Изабери да ли се сусрет одвија дању или ноћу."
+   },
+   "8b3fc622a762eb126f7b4616502a67ed" : {
+      "english" : "“Plato had defined man as an animal, biped and featherless, and was applauded. Diogenes \\\\[of Sinope] plucked a fowl and brought it into the lecture-room with the words: Here is Plato's man. In consequence of which there was added to the definition: having broad nails.” \\\\n— Diogenes Laertius (“The Lives and Opinions of Eminent Philosophers”, “Diogenes”, sec. 40)",
+      "translation" : ""
+   },
+   "8b629b95a4a9707320e967b6a6699c95" : {
+      "english" : "“Unity strengthens even small states, while discord undermines the mightiest empires.” \\\\n— Sallust (“The Jugurthine War”, 10.6)",
+      "translation" : ""
+   },
+   "8d6e1c4d49c3c6bf0f402402c11bb8dd" : {
+      "english" : "“The first duty of a man is the seeking after and the investigation of truth.” \\\\n— Cicero (“On Duties”, I., 13)",
+      "translation" : ""
+   },
+   "8e0859f69d9e38bddeeff7f79db8bccb" : {
+      "english" : "“People are glad to obey the man whom they believe to be wiser than themselves in pursuing their interests.” \\\\n— Xenophon (“The Education of Cyrus”, 1.6.22)",
+      "translation" : ""
+   },
+   "8e2c2a7597b35b0103407efe9e113a86" : {
+      "english" : "Choose the civilization for this player.",
+      "translation" : "Изаберите цивилизацију за овог играча"
+   },
+   "901a7320e77e54c4794bd577399eb0a6" : {
+      "english" : "Multiplayer",
+      "translation" : "Игра за више играча"
+   },
+   "902b0d55fddef6f8d651fe1035b7d4bd" : {
+      "english" : "Error",
+      "translation" : "Грешка"
+   },
+   "9051e31b8db11a42d0e17b4d775afea7" : {
+      "english" : "“In the phalanx, the men cannot turn around singly and defend themselves: this tribune, therefore, charged them \\\\[from behind] and killed all he could get at; until, unable to resist, they were forced to throw away their shields and flee.” \\\\n— Polybius, describing the defeat of Philip V. of Macedon by Flaminius in the Battle of Cynoscephalae (“Histories”, XVIII. 26)",
+      "translation" : ""
+   },
+   "9126712a9fc90c6915dd17e0365c8262" : {
+      "english" : "Random Group",
+      "translation" : "Насумична група"
+   },
+   "91e43ac160b05b56e2a9db77959c547b" : {
+      "english" : "“To heroes all earth is their tomb, and their virtues are remembered far from home where an epitaph declares them, in an unwritten record of the mind that will outlast any monument.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.3)",
+      "translation" : ""
+   },
+   "9279d956d92115be9974d21708e03a3f" : {
+      "english" : "AI Behavior",
+      "translation" : "Понашање АI"
+   },
+   "92f7ff3d28483016e416c5a599671ab4" : {
+      "english" : "“Alexander himself, plagued by thirst, with great pain and difficulty nevertheless led the army on foot \\\\[…]. At this time a few of the light-armed soldiers \\\\[…] found some water \\\\[…], poured the water into a helmet and carried it to him. He took it, and commending the men who brought it, immediately poured it upon the ground in the sight of all.” \\\\n— Arrian about Alexander's march through the Gedrosian desert (“The Anabasis of Alexander”, 6.26)",
+      "translation" : ""
+   },
+   "92fbfddfc10a61db133548ce55bd684f" : {
+      "english" : "Failed to connect to the server.",
+      "translation" : "Неуспешно повезивање на сервер."
+   },
+   "9355012c662523f875599eb7fd2ac576" : {
+      "english" : "Daytime",
+      "translation" : "Oбданица"
+   },
+   "9356bbf84f5be0164591cdba5e8c6eb7" : {
+      "english" : "“Attack the enemy where he is weakest, even if that is a long way off, since hard work is less dangerous than a struggle against superior forces.” \\\\n— Xenophon (“The Cavalry General”, sec. 4.14)",
+      "translation" : ""
+   },
+   "93cad7855213e697d066bbb97876b41a" : {
+      "english" : "Ceasefire",
+      "translation" : "Примирје"
+   },
+   "93cba07454f06a4a960172bbd6e2a435" : {
+      "english" : "Yes",
+      "translation" : "Да"
+   },
+   "94421f24e97962578b8ca325054eef6a" : {
+      "english" : "“If oxen and horses and lions had hands, and could paint, and produce works of art as men do, horses would paint the forms of the gods like horses, and oxen like oxen, and make their God's bodies each in their own image.” \\\\n— Xenophanes (fragment 15)",
+      "translation" : ""
+   },
+   "94966d90747b97d1f0f206c98a8b1ac3" : {
+      "english" : "Send",
+      "translation" : "Пошаљи"
+   },
+   "9502ef5167e487174723a897682ba470" : {
+      "english" : "State that you are not ready to play.",
+      "translation" : "Изјавите да нисте спремни за игру."
+   },
+   "95dc51ac89af23a0cce41bcc0aa7393a" : {
+      "english" : "“Moderation in all things.” \\\\n— Terence (“The Girl from Andros”, 61)",
+      "translation" : ""
+   },
+   "96c25175cb60f37ef1631937d9a5a35d" : {
+      "english" : "“Scipio \\\\[Aemilianus], when he looked upon the city \\\\[Carthage] as it was utterly perishing and in the last throes of its complete destruction, is said to have shed tears and wept openly for his enemies. And realized that all cities, nations, and authorities must, like men, meet their doom.” \\\\n— Polybius, eyewitness to the destruction of Carthage (“Histories”, XXXVIII. 22)",
+      "translation" : ""
+   },
+   "96dcdc173d7037b42ef91e276db94c56" : {
+      "english" : "“By desiring little, a poor man makes himself rich.” \\\\n— Democritus (fragment)",
+      "translation" : ""
+   },
+   "9739ac288ec0ad789d06b37b1a09a131" : {
+      "english" : "“Zeus \\\\[…] established his law: wisdom comes through suffering. \\\\[…] So men against their will learn to practice moderation. \\\\[…] Such grace is harsh and violent.” \\\\n— Aeschylus (“Agamemnon”, 176–183)",
+      "translation" : "“Зевс \\\\[…] успостави његов закон: мудрост долази кроз патњу. \\\\[…] Тако ће људи противно њиховој вољи научити да буду умерени. \\\\[…] Таква милост је окрутна и насилна.” \\\\n— Есхил (“Агамемнон”, 176–183)"
+   },
+   "97a73287526506dd9c317f8491a8ab25" : {
+      "english" : "Select player.",
+      "translation" : "Изабери играча."
+   },
+   "97e88016204a63bc365ee82791facfc2" : {
+      "english" : "In Nomad mode, players start with only few units and have to find a suitable place to build their city. Ceasefire is recommended.",
+      "translation" : "У номадском моду, играчи почињу само са неколико јединица и морају да надђу погодно место за изградњу њиховог града. Препоручен је привремени прекид ватре."
+   },
+   "9841582a61388ba8f1fca6bb01bcf3f9" : {
+      "english" : "“Escape, yes, but this time with my hands, not my feet.” \\\\n— Brutus, before committing suicide after losing a battle against Caesar's avengers (Plutarch, “Parallel Lives”, “Brutus”, sec. 52)",
+      "translation" : ""
+   },
+   "984e6b0efaf27005da2a395d5accb03b" : {
+      "english" : "Warning: There might be performance issues if %(popCap)s population is reached.",
+      "translation" : "Упозорење: може доћи до проблема са перформансама ако број становника досегне%(popCap)s."
+   },
+   "9915e5bcf2d34a54c9a11bafffe5a54a" : {
+      "english" : "“Then the blood really flowed, for the two lines were so close that shield struck against shield, and they drove their swords into each other's faces. It was impossible for the weak or cowardly to retreat; man to man they fought like in single combat.” \\\\n— Curtius Rufus about the Battle of Issus (“Histories of Alexander the Great”, III. 11.5)",
+      "translation" : ""
+   },
+   "9b408fa6ff8697fbe3c4feff92a9dde0" : {
+      "english" : "“The hour of departure has arrived, and we go our ways – I to die, and you to live. Which is better God only knows.” Socrates, in his defense when trialled for corrupting the youth and not worshipping the proper gods (he later drank hemlock after the death sentence) \\\\n— Plato (“Apology”, 42a)",
+      "translation" : ""
+   },
+   "9b5e604ee7b5c857aa1fe20550f63e5f" : {
+      "english" : "“I have gained this by philosophy: that I do without being commanded what others do only from fear of the law.” \\\\n— Aristotle (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Aristotle”, sec. 20)",
+      "translation" : ""
+   },
+   "9c7a395e9ca0e13b5c536a742604a394" : {
+      "english" : "Unknown Player",
+      "translation" : "Непознат играч"
+   },
+   "9ca68b9b4241deaa09659ccde2f070fb" : {
+      "english" : "“In soft regions are born soft men.” \\\\n— Herodotus (“The Histories”, IX. 122)",
+      "translation" : ""
+   },
+   "9cb59b5e238f0db29eebd38c7e19230f" : {
+      "english" : "Start a new game with the current settings (disabled until all players are ready).",
+      "translation" : "Започните нову игру са тренутним подешавањима (онеспособити док сви играчи нису спремни)."
+   },
+   "9cef15181e77a620f49c5c50f34dbe5d" : {
+      "english" : "AI will be disabled for this player.",
+      "translation" : "AI ће бити онемогућена за овог играча"
+   },
+   "9dbdb4f3d6dcad4eeec8614f6ccd20c4" : {
+      "english" : "Please enter a valid server name.",
+      "translation" : "Молимо вас унесите исправно име сервера."
+   },
+   "9defff3be0f25767275d9a7c15cb606b" : {
+      "english" : "“A coward turns away, but a brave man's choice is danger.” \\\\n— Euripides (“Iphigenia in Tauris”)",
+      "translation" : ""
+   },
+   "9e5d27ae82fc18266bdd1cade54c8cd6" : {
+      "english" : "“When the Lacedaemonians were no longer able to run after them, the skirmishers \\\\[…] all charged them at once, casting stones, arrows, and darts to the closest man at hand.” \\\\n— Thucydides, describing the Spartan disaster at the Battle of Sphacteria (“History of the Peloponnesian War”, IV. 34.2)",
+      "translation" : ""
+   },
+   "9ec154d3804edc12d75c3b409d34d0a8" : {
+      "english" : "“Laws are silent in time of war.” \\\\n— Cicero (“Pro Milone”, IV., sec. 11)",
+      "translation" : ""
+   },
+   "9f20bbca97cc7afe128c4ce5bb85a166" : {
+      "english" : "%(name)s's game",
+      "translation" : "%(name)s's партија"
+   },
+   "9fd50a6baf47d627bd376aa8cd240096" : {
+      "english" : "Toggle locked teams.",
+      "translation" : "Омогући закључане тимове."
+   },
+   "a0bfb8e59e6c13fc8d990781f77694fe" : {
+      "english" : "Continue",
+      "translation" : "настави"
+   },
+   "a109ac806bd45e232419f4fa069fbb1d" : {
+      "english" : "“Most inhuman and most arrogant of nations, they \\\\[the Romans] reckon the world as theirs and subject to their pleasure. With whom we are to be at war, with whom at peace, they think it right that they should determine.” \\\\n— Hannibal, addressing his troops (Livy, “History of Rome”, XXI. 44)",
+      "translation" : ""
+   },
+   "a119d15e291197f411497369b7b9dad6" : {
+      "english" : "“The Macedonians first raised an unearthly shout followed by the Persians answering, so that the whole hillside bordering the battlefield echoed back the sound, and that second roar was louder than the Macedonian war cry as five hundred thousand men shouted with one voice.” \\\\n— Diodorus Siculus about the Battle of Issus (“The Library of History”, XVII., sec. 33)",
+      "translation" : ""
+   },
+   "a21c4b36d880f905fb7715f175b63dca" : {
+      "english" : "%(hotkey_civinfo)s / %(hotkey_structree)s: View Civilization Overview / Structure Tree\\nLast opened will be reopened on click.",
+      "translation" : "%(hotkey_civinfo)s/ %(hotkey_structree)s: Приказ прегледа / дрвета структуре цивилизације\\nПоследње отворено биће опет отворено на клик."
+   },
+   "a29ab867a2c66e7d027e5ab170ed680d" : {
+      "english" : "Set the time when the water will start to rise.",
+      "translation" : "Подеси време када ће ниво воде почети да расте."
+   },
+   "a2bea1a5173132ed44adcebafe53767b" : {
+      "english" : "“Come and get them!” \\\\n— Leonidas, to the Persian messenger who demanded that he and his men lay down their arms (Plutarch, “Moralia”, “Sayings of Spartans”, 225c)",
+      "translation" : ""
+   },
+   "a3f37ebe1622293b39953825b344776b" : {
+      "english" : "Server Password:",
+      "translation" : "Шифра сервера:"
+   },
+   "a42c13cf39c90ea390e9d9633d8d7c03" : {
+      "english" : "Click to toggle the %(name)s settings tab.",
+      "translation" : ""
+   },
+   "a431e12d552446438342a2d168b81e2e" : {
+      "english" : "“Wars, both civil and foreign, I waged throughout the world, on sea and land, and when victorious I spared all citizens who sued for pardon. The foreign nations which could with safety be pardoned I preferred to save rather than to destroy.” \\\\n— Augustus, in his autobiography (“Res Gestae Divi Augusti”, sec. 3)",
+      "translation" : ""
+   },
+   "a4956c1e3d55f81126702ed524015e67" : {
+      "english" : "Connecting to server...",
+      "translation" : "Повезивање са сервером..."
+   },
+   "a50369cbd164f6d81e7d1769ef8f9f76" : {
+      "english" : "%(playerName)s %(romanNumber)s",
+      "translation" : "%(playerName)s %(romanNumber)s"
+   },
+   "a52a410c85d37e86f564bc5fd0c758ad" : {
+      "english" : "“The soldiers fight and die to support others in wealth and luxury and they are called masters of the world without owning a single piece of farmland of their own.”\\\\n— Tiberius Gracchus, advocating for land reform to the benefit of homeless and unemployed veterans whose lands had often been bought up while they were on campaign. (Plutarch, “Parallel Lives”, “Tiberius Gracchus”, 9.5)",
+      "translation" : ""
+   },
+   "a572a98e5742de5a0906657e5f74dabe" : {
+      "english" : "Rated game.",
+      "translation" : "Игра за поене."
+   },
+   "a7fa8697d288b0e94d1f9566146a2c91" : {
+      "english" : "Select map size. (Larger sizes may reduce performance.)",
+      "translation" : "Изабери величину мапе. (Веће величине могу смањити перформансе.)"
+   },
+   "a872f389948878e083f1710d644560ce" : {
+      "english" : "“Stop quoting laws, we carry weapons!” \\\\n— Pompey (Plutarch, “Parallel Lives”, “Pompey”, sec. 10)",
+      "translation" : ""
+   },
+   "a8dd4e7c9a00d41dbebb15fbe1db158f" : {
+      "english" : "%(setting)s:",
+      "translation" : "%(setting)s"
+   },
+   "a997fdc7fe006d23f4541a666769f49e" : {
+      "english" : "“Let every man remind their descendants that they also are soldiers who must not desert the ranks of their ancestors, or retreat out of cowardice.” \\\\n— Aspasia (Plato, “Menexenus”, 246b)",
+      "translation" : ""
+   },
+   "aa12bf534ff652c22a003abae855b7b2" : {
+      "english" : "“Written laws are like spiders' webs; they will catch, it is true, the weak and poor, but will be torn in pieces by the rich and powerful.” \\\\n— Anacharsis (Plutarch, “Parallel Lives”, “Solon”, sec. 5)",
+      "translation" : ""
+   },
+   "ac848fa228f49ba2b8a5fbd76596817d" : {
+      "english" : "Team",
+      "translation" : "Тим"
+   },
+   "ad0758b3464113f3af88cbc4c81bd527" : {
+      "english" : "Map Type",
+      "translation" : "Врста мапе"
+   },
+   "adb29971618b8c2cb53efa6f2ea8b2db" : {
+      "english" : "Reset any civilizations that have been selected to the default (random).",
+      "translation" : "Ресетуј означене цивилизације на подразумевано (насумично)."
+   },
+   "aef878e6f44bed61b63c5c91bfdd756c" : {
+      "english" : "Nomad",
+      "translation" : "Номад"
+   },
+   "af5441a3420a38812aad05ea65904be2" : {
+      "english" : "Return to the main menu.",
+      "translation" : "Повратак у главни мени."
+   },
+   "b03b10355f9aec76292b83a4b9f8e235" : {
+      "english" : "“The wild beasts of Italy have their caves to retire to, but the brave veterans who spilled their blood in her cause have nothing left but air and light. They wander around homeless with their wives and children.”\\\\n— Tiberius Gracchus, advocating for land reform to the benefit of homeless and unemployed veterans whose lands had often been bought up while they were on campaign. (Plutarch, “Parallel Lives”, “Tiberius Gracchus”, 9.4–5)",
+      "translation" : ""
+   },
+   "b09d2aee2fb14bb95c6222066a7a3dc5" : {
+      "english" : "“States are doomed when they are unable to distinguish good men from bad.” \\\\n— Antisthenes (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Antisthenes”, sec. 5)",
+      "translation" : ""
+   },
+   "b205998e9cf67cb2bf251275512f896e" : {
+      "english" : "“Wise men learn more from fools than fools from the wise.” \\\\n— Cato the Elder (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 9)",
+      "translation" : ""
+   },
+   "b263a6521d70f697d54c31b78e2e2ee5" : {
+      "english" : "Select the game's starting resources.",
+      "translation" : "Изабери почетне ресурсе у партији."
+   },
+   "b341a59d5636ed3d6a819137495b08a0" : {
+      "english" : "Password:",
+      "translation" : "Шифра:"
+   },
+   "b37cb1117af47aaba661b431d4eaefd9" : {
+      "english" : "“The fox knows many tricks; the hedgehog one good one.” \\\\n— Archilochus (fragment 201)",
+      "translation" : ""
+   },
+   "b3d04b567300660a039b72d493e17315" : {
+      "english" : "“In every tyrant's heart there springs in the end this poison, that he cannot trust a friend.” \\\\n— Aeschylus (“Prometheus Bound”, 224–225)",
+      "translation" : ""
+   },
+   "b5f2f1a319cda78331eeb0f0f1e1332b" : {
+      "english" : "Pick any of the given maps at random.",
+      "translation" : "Насумичан одабир мапа."
+   },
+   "b6f1cc939446a8278533637afbbf9fdf" : {
+      "english" : "“No one is so old as to think that he cannot live one more year.” \\\\n— Cicero (“On Old Age”, sec. 24)",
+      "translation" : ""
+   },
+   "b7d3b564c222afad74784c9e3ab227a0" : {
+      "english" : "“Ungrateful fatherland, you will not even have my bones!” \\\\n— Scipio Africanus in his epitaph, after he who defeated Hannibal was repeatedly accused of crimes by the Roman Senate (Valerius Maximus, “Nine books on memorable deeds and sayings”, 5.3.2)",
+      "translation" : ""
+   },
+   "b82c395e3e64c7614eced85dc790c2ad" : {
+      "english" : "Allied players are grouped in one random place of the map.",
+      "translation" : "Савезнички играчи су груписани на једном насумичном месту на мапи."
+   },
+   "b897df0839a5441bca6952b97778c10e" : {
+      "english" : "Minutes until the player has achieved Wonder Victory",
+      "translation" : "Број минута до играчеве победе чудима"
+   },
+   "b8982480d97bcc2e73a45f1655456a5f" : {
+      "english" : "“I am Cyrus, king of the world…” \\\\n— Inscription (Cyrus Cylinder)",
+      "translation" : ""
+   },
+   "b9fbe7e1fb672ff5540c6c8ef3f720b7" : {
+      "english" : "Start a new game with the current settings.",
+      "translation" : "Покрени нову игру са тренутним подешавањима."
+   },
+   "ba10cac67e8f146a3665999d1ad97aa9" : {
+      "english" : "“Any excuse will serve a tyrant.” \\\\n— Aesop (“The Wolf and the Lamb”)",
+      "translation" : ""
+   },
+   "bafd7322c6e97d25b6299b5d6fe8920b" : {
+      "english" : "No",
+      "translation" : "Не"
+   },
+   "bc0ab9285371460583f1a6a74a6fafc7" : {
+      "english" : "“The gods help those that help themselves.” \\\\n— Aesop (“Hercules and the Wagoner”)",
+      "translation" : ""
+   },
+   "be7110e07ac73309fecfb75a0cf6a47c" : {
+      "english" : "AI Difficulty",
+      "translation" : ""
+   },
+   "be838b68589a33fdb5a589f2087a926c" : {
+      "english" : "%(username)s %(message)s",
+      "translation" : "%(username)s %(message)s"
+   },
+   "bfa28526ee0a34be0eb9fb2bf2108552" : {
+      "english" : "“The Athenian people are always in the position of a ship without a commander. Fear of the enemy or a storm make the crew be of one mind and obey the helmsman, everything goes well; but if they recover \\\\[…] they quarrel with each other \\\\[…], and the result has often been that, after escaping the dangers of the widest seas and the most violent storms, they wreck their ship in harbor and close to shore.” \\\\n— Polybius on the Athenian constitution (“Histories”, VI. 44)",
+      "translation" : ""
+   },
+   "c09c9cd437b2e98e3584a114d20b801a" : {
+      "english" : "“I have come not to make war on the Italians, but to aid the Italians against Rome.” \\\\n— Hannibal (Polybius, “Histories”, III. 85)",
+      "translation" : ""
+   },
+   "c1b77b57990db9129833ada35a754b55" : {
+      "english" : "%(percentage)s%%",
+      "translation" : "%(percentage)s%%"
+   },
+   "c1cab7bfc5a9c6802082d8c8a45873dd" : {
+      "english" : "Failed to get local IP of the server (it was assumed to be on the same network).",
+      "translation" : ""
+   },
+   "c1f63c057d1859328417f6c3b1c678c3" : {
+      "english" : "“It is necessary to know the strength of the city and of the enemy, so that, if the city is stronger, one may recommend her to go to war, but if weaker than the enemy, may persuade her to beware.” \\\\n— Socrates (Xenophon, “Memorabilia”, 3.6.9)",
+      "translation" : ""
+   },
+   "c25aed4fa74840ff799f0641f0eb57ce" : {
+      "english" : "Biome",
+      "translation" : "Биом"
+   },
+   "c31cc10b610cd915d16f1ca775088047" : {
+      "english" : "“It is obligatory, especially for a philosopher, to sacrifice even one's closest personal ties in defense of the truth.” \\\\n— Aristotle (“Nicomachean Ethics”, I. 1096a.11)",
+      "translation" : ""
+   },
+   "c345a378c6f4223d9a672871a34fb244" : {
+      "english" : "%(playername)s's game",
+      "translation" : "%(playername)s's партија"
+   },
+   "c41127c47992451ed67ee6f0b90ffb12" : {
+      "english" : "“The Lacedaemonians \\\\[Spartans] fought a memorable battle; they made it quite clear that they were the experts, and that they were fighting against amateurs.” \\\\n— Herodotus (“The Histories”, VII. 211)",
+      "translation" : ""
+   },
+   "c4ca969b6fc7ccd309e92a528cef2728" : {
+      "english" : "You have been banned.",
+      "translation" : "Забрањен Вам је приступ."
+   },
+   "c5494d5a5717511a8f9b6140eab1f0d4" : {
+      "english" : "“Choose the course which you adopt with deliberation; but when you have adopted it, then persevere in it with firmness.” \\\\n— Bias of Priene (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Bias”, sec. 5)",
+      "translation" : ""
+   },
+   "c6e23e6815cd5326e84ad127971210db" : {
+      "english" : "Configure AI: %(description)s.",
+      "translation" : "Подеси AI подешавања."
+   },
+   "c8e0f0396175c8d51e5c2908236fa384" : {
+      "english" : "“Moreover, I consider that Carthage should be destroyed.” \\\\n— Cato the Elder, who ended all speeches in his later life with this statement (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 27)",
+      "translation" : ""
+   },
+   "c993fff7cf9944ab7fa209c8c965d400" : {
+      "english" : "Server port number must be between %(min)s and %(max)s.",
+      "translation" : "Број порта сервера мора бити између %(min)s и %(max)s"
+   },
+   "c9b6c06674d946ce9cd5beb1ff4da817" : {
+      "english" : "“A city is well-fortified which has a wall of men instead of brick.” \\\\n— Lycurgus of Sparta (Plutarch, “Parallel Lives”, “Lycurgus”, sec. 19)",
+      "translation" : ""
+   },
+   "c9d4a56d2d8e3bef61a1d168cd53e693" : {
+      "english" : "Starting Resources",
+      "translation" : "Почетни ресурси"
+   },
+   "cb5feb1b7314637725a2e73bdc9f7295" : {
+      "english" : "Color",
+      "translation" : "Боја"
+   },
+   "cb70be31be2430288becd7b9dbc11765" : {
+      "english" : "Disable Spies",
+      "translation" : "Онемогући Шпијуне"
+   },
+   "ce9b8eefccb309e26dd18c7ac6411315" : {
+      "english" : "“Better be wise by the misfortunes of others than by your own.” \\\\n— Aesop (“The Lion, the Ass, and the Fox Hunting”)",
+      "translation" : ""
+   },
+   "cfbaf9cae0bd65acd9161aa34c07b001" : {
+      "english" : "“Woe to the Defeated!” \\\\n— Brennus, Gaulish chieftain who had seized Rome (with the exception of a garrison on Capitoline Hill). When Camillus arrived from Veii and besieged him, he negotiated his withdrawal for 1000 pounds of gold, but not without using false weights and adding the weight of his sword on the scale when the Romans complained (Polybius, “Histories”, II. 18)",
+      "translation" : ""
+   },
+   "d05b1ac2e398d1d29d0687a569238f7a" : {
+      "english" : "“The growth of the power of Athens, and the alarm which this caused in Sparta, made war inevitable.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 23.6)",
+      "translation" : ""
+   },
+   "d08013387df3b3af8f6d4c2e7bdf5f9b" : {
+      "english" : "“You cannot eat your cake and have it too, unless you think your money is immortal.”\\\\n— Plautus (“Trinummus”, Act II, scene 4, 13–14)",
+      "translation" : ""
+   },
+   "d0fea32385eb4834b46385b901fd45a5" : {
+      "english" : "“Chance fights ever on the side of the prudent.” \\\\n— Euripides (“Pirithous”)",
+      "translation" : ""
+   },
+   "d10b054ee0a5437298e9a815ef9386fd" : {
+      "english" : "Stay ready",
+      "translation" : "Остани спреман/а"
+   },
+   "d2d59b1b412b93ca213b8c64ffcaebdd" : {
+      "english" : "Select game speed.",
+      "translation" : "Изабери брзину игре."
+   },
+   "d390b3907a22f65ef4d5bb82c726104a" : {
+      "english" : "Match Setup",
+      "translation" : "Поставка партије"
+   },
+   "d50a79e8875dcbada53010f5903ca24c" : {
+      "english" : "“Enemies' promises were made to be broken.” \\\\n— Aesop (“The Nurse and the Wolf”)",
+      "translation" : ""
+   },
+   "d62c5622141003cd6a5c5dacdfebd76d" : {
+      "english" : "Server Name:",
+      "translation" : "Име сервера:"
+   },
+   "d62e70d51efb05174c450381c4a51d11" : {
+      "english" : "Picks one civilization at random when the game starts.",
+      "translation" : "Изабери насумичну цивилизацију на почетку игре."
+   },
+   "d63da4850c5ec8a8b2379e698e10cc99" : {
+      "english" : "“O, the times, O, the customs!” \\\\n— Cicero (“Against Catiline”, I.)",
+      "translation" : ""
+   },
+   "d68745fa9e1501462f8c56c4878d0e3f" : {
+      "english" : "“It is not the well-fed long-haired man I fear, but the pale and the hungry looking.” \\\\n— Caesar (Plutarch, “Parallel Lives”, “Antony”, sec. 11)",
+      "translation" : ""
+   },
+   "d7157bb04710160f1a173e9a6c1626b7" : {
+      "english" : "Disable Treasures",
+      "translation" : "Онемогући благо"
+   },
+   "d8d6577c7adb83027cd989f7d943ae89" : {
+      "english" : "“When the pirates demanded a ransom of twenty talents for him, Caesar burst out laughing. They did not know, he said, who it was that they had captured, and he volunteered to pay fifty.” \\\\n— Plutarch, who mentions later that Caesar got his money back and had his captors crucified (“Parallel Lives”, “Caesar”, sec. 2)",
+      "translation" : ""
+   },
+   "d9e9f602aa2bf682ccc500d043762f33" : {
+      "english" : "“The Athenians command the rest of Greece, I command the Athenians; your mother commands me, and you command your mother.” \\\\n— Themistocles, jokingly to his infant son (Plutarch, “Parallel Lives”, “Themistocles”, sec. 18)",
+      "translation" : ""
+   },
+   "daacdd53c945e6087339668305bf0717" : {
+      "english" : "“He could boast that he found a city of brick and left it a city of marble.”\\\\n— Suetonius, commenting on the many building projects of Augustus in Rome (“Divus Augustus”, 28.3)",
+      "translation" : ""
+   },
+   "daf251f35c688aeb8dfbadfcc997afec" : {
+      "english" : "%(username)s has left",
+      "translation" : "%(username)s је напустио"
+   },
+   "db5dece0738c5e8550abb58e45ac0c50" : {
+      "english" : "“I am Darius, the great king, king of kings, the king of Persia, the king of countries, \\\\[…] 23 lands in total.” \\\\n— Darius I (Behistun inscription, column I, 1–6)",
+      "translation" : ""
+   },
+   "dbc0752f64201a3e576cb846523a047b" : {
+      "english" : "Server is not running.",
+      "translation" : "Сервер не ради."
+   },
+   "dc021c87cb31a765a564b3c5749aedc1" : {
+      "english" : "“If a man put out the eye of another man, his eye shall be put out.” \\\\n— Hammurabi (Hammurabi's Code, sec. 196)",
+      "translation" : ""
+   },
+   "dc470e377ee804994aaaceceedee4972" : {
+      "english" : "“How stupid it was for the king to tear out his hair in grief, as if baldness were a cure for sorrow.” \\\\n— Bion of Borysthenes (Cicero, “Tusculan Disputations”, III. 26)",
+      "translation" : ""
+   },
+   "dc5f67e5df1c3c5552a084bcbed9adb3" : {
+      "english" : "Use STUN to work around firewalls",
+      "translation" : "Користи STUN за заобилажење заштитних зидова"
+   },
+   "dca9a09f4c6fa50193e66a37df36b276" : {
+      "english" : "“Stranger, go tell the Spartans that we lie here, obedient to their laws.” \\\\n— Epitaph at Thermopylae for Leonidas and his men (Herodotus, “The Histories”, VII. 228)",
+      "translation" : ""
+   },
+   "dda6db62c6f39f1a3c74d4b3e3879121" : {
+      "english" : "Revealed Map",
+      "translation" : "Откривена мапа"
+   },
+   "ded39c6205863f9c1edf8ee58be5ee1c" : {
+      "english" : "“The man who runs may fight again.” \\\\n— Menander (“Monosticha”)",
+      "translation" : ""
+   },
+   "def109e89ff31768eeff2df6b4c7c6f1" : {
+      "english" : "“Future ages will wonder at us, as the present age wonders at us now.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 41.5)",
+      "translation" : ""
+   },
+   "e0073d2c2f6d50b0b14c2280c34dfe47" : {
+      "english" : "Hero Garrison",
+      "translation" : "Гарнизон за хероје"
+   },
+   "e03ffd46b8316367800b79ce2787faeb" : {
+      "english" : "“It was not by taking care of the fields, but of ourselves, that we acquired those fields.” \\\\n— Anaxandridas II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 217a)",
+      "translation" : ""
+   },
+   "e0aa021e21dddbd6d8cecec71e9cf564" : {
+      "english" : "OK",
+      "translation" : "ОК"
+   },
+   "e0c6a4f6bb01abf40af0c3ff94d59898" : {
+      "english" : "“He \\\\[King Darius] asked who the Athenians were, and, being informed, called for his bow, and placing an arrow on the string, shot upward into the sky, saying, as he let fly the shaft: Grant me, Zeus, to revenge myself on the Athenians!” \\\\n— Herodotus, narrating how the Athenian support for the Ionian revolt caught the wrath of Darius I, the Persian king (“The Histories”, V. 105)",
+      "translation" : ""
+   },
+   "e11f6eb705119e91725e9c246fab277d" : {
+      "english" : "AI Player",
+      "translation" : "AI играч"
+   },
+   "e1899827a4c93e5689d6b0022d35a316" : {
+      "english" : "“Brasidas, taking his stand on the gangway, fought off from there the multitude of Athenians who converged upon him. And at the outset he slew many as they came at him, but after a while, as numerous missiles assailed him, he suffered many wounds on the front of his body.” \\\\n— Diodorus Siculus, on a brave Spartan at the Battle of Pylos (“The Library of History”, XXII., sec. 62)",
+      "translation" : ""
+   },
+   "e2722ba6015ce35de269d83535ec63af" : {
+      "english" : "“Return with your shield, or on it.” \\\\n— Farewell of Spartan women to their warriors, implying that cowards would throw away their shield in battle to flee (Plutarch, “Moralia”, “Sayings of Spartan Women”, 241f)",
+      "translation" : ""
+   },
+   "e28bf6be06c40f2a995571efa012698c" : {
+      "english" : "“Your empire is now like a tyranny: it may have been wrong to take it; it is certainly dangerous to let it go.” \\\\n— Pericles, addressing the Athenian assembly after a plague had weakened the city (Thucydides, “History of the Peloponnesian War”, II. 63.3)",
+      "translation" : ""
+   },
+   "e2e292701e981619f6e540b7a60f4076" : {
+      "english" : "Game Speed",
+      "translation" : "Брзина игре"
+   },
+   "e3ddc54d8d311e9d42ca8cb0084bff08" : {
+      "english" : "“He should be inventive, ready to exploit all circumstances, to make a small force appear large and a large one small, to appear absent when close at hand, and within striking distance when a long way off.” \\\\n— Xenophon (“The Cavalry General”, sec. 5)",
+      "translation" : ""
+   },
+   "e410baabe28a790ee360a088c0bf2c3e" : {
+      "english" : "%(username)s has been kicked",
+      "translation" : "%(username)s је био избачен"
+   },
+   "e56c7347787346ed6eefde37cae8a76e" : {
+      "english" : "“The Roman battle line is hard to break, since it allows every man to fight both individually and collectively; so that a formation can fight in any direction, with the maniples nearest to the point of danger wheeling around to face it.” \\\\n— Polybius (“Histories”, XV. 15)",
+      "translation" : ""
+   },
+   "e5dca662836aab47912b0cc12f8af19f" : {
+      "english" : "Disable spies during the game.",
+      "translation" : "Онемогући шпијуне у току игре"
+   },
+   "e76e6828f8d62ae2e05bf700a71f0b52" : {
+      "english" : "Toggle the usability of cheats.",
+      "translation" : "Омогући коришћење шифара."
+   },
+   "ea4788705e6873b424c65e91c2846b19" : {
+      "english" : "Cancel",
+      "translation" : "Обустави"
+   },
+   "ea83b5ccaa6f0fa507cd97ee3d7dc242" : {
+      "english" : "“Hannibal gave the signal for attack; and at the same time sent orders to the troops lying in ambush on the hills to do the same, and thus delivered an assault upon the enemy at every point at once.” \\\\n— Polybius on the beginning of a Roman disaster at the Trasymene Lake (“Histories”, III. 84)",
+      "translation" : ""
+   },
+   "eaaab1b55dc7818994c0e2f734c14e84" : {
+      "english" : "Stay ready even when the game settings change.",
+      "translation" : "Остани спреман/а иако се подешавања игре промене"
+   },
+   "eabb1af4b2bc093ce8294e80680b7f99" : {
+      "english" : "Net message: %(message)s",
+      "translation" : "Net порука: %(message)s"
+   },
+   "eadcf9cee4531441d69b032939d17b5c" : {
+      "english" : "“After fighting from noon almost to sunset, with victory doubtful, the Germans, on one side charged the enemy in a compact body, and drove them back; and, when they were put to flight, the archers were surrounded and cut to pieces.” \\\\n— Caesar about the Battle of Alesia (“De Bello Gallico”, VII. 80)",
+      "translation" : ""
+   },
+   "ec56bc4c586744e1362c608dddc05dcc" : {
+      "english" : "Select a random landscape.",
+      "translation" : ""
+   },
+   "ecaf8d8c833b1c30ba8ece4f67a073b0" : {
+      "english" : "Select the flora and fauna.",
+      "translation" : "Одабери флору и фауну."
+   },
+   "ef301f2cc76d824de1b5da121a8286e9" : {
+      "english" : "“You must be brave and discard all hopes of anything but victory or death.” \\\\n— Hannibal, addressing his troops (Livy, “History of Rome”, XXI. 44)",
+      "translation" : ""
+   },
+   "efe898af3423c1ccfa7afeb444e4fd02" : {
+      "english" : "“The greatest glory is won from the greatest dangers. When our fathers faced the Persians their resources could not compare to ours. In fact, they gave up even what they had. Then by wise counsels and daring deeds, not fortune and material advantages, they drove out the invaders and made our city what it is now.” \\\\n— Pericles (Thucydides, “History of the Peloponnesian War”, I. 144.3–4)",
+      "translation" : ""
+   },
+   "f02371c7598f05ee426ae32f3d681f3f" : {
+      "english" : "“They \\\\[the Romans] want the centurions not so much to be adventurous and daredevils, as to be natural leaders, of a steady and reliable spirit. They do not so much want men who will initiate attacks and open the battle, but men who will hold their ground when beaten and hard-pressed, and will be ready to die at their posts.” \\\\n— Polybius (“Histories”, VI. 24)",
+      "translation" : ""
+   },
+   "f0dcfc41e79516d4bd0cc6ee554100b1" : {
+      "english" : "Joining an existing game.",
+      "translation" : "Прикључивање постојећој партији"
+   },
+   "f17595c29d429ecd2c60429760fc1e9d" : {
+      "english" : "“Let the welfare of the people be the ultimate law.” \\\\n— Cicero (“On the Laws”, III., sec. 3)",
+      "translation" : ""
+   },
+   "f20fde3405f311db9e30729b993e9093" : {
+      "english" : "Show the multiplayer lobby in a dialog window.",
+      "translation" : ""
+   },
+   "f2b9db21d02e50cdb18b09c906e2079a" : {
+      "english" : "Server Hostname or IP:",
+      "translation" : "Име домаћина сервера или IP:"
+   },
+   "f356a48c516ec39c20c5edb739d3cb1e" : {
+      "english" : "“I call a fig a fig, a spade a spade.” \\\\n— Menander (fragment 545 K)",
+      "translation" : ""
+   },
+   "f3ebb2479103efbd1e0b6327ce7fbaca" : {
+      "english" : "“I came, I saw, I conquered.” \\\\n— Caesar, after routing Pharnaces II of Pontus in the first assault (Plutarch, “Parallel Lives”, “Caesar”, sec. 50)",
+      "translation" : ""
+   },
+   "f43f282e51ac9d7f865ebf02489a0908" : {
+      "english" : "“Happiness depends on leisure; for we are busy to have leisure, and make war to live in peace.” \\\\n— Aristotle (“Nicomachean Ethics”, X. 1177b.4)",
+      "translation" : ""
+   },
+   "f4a149ea33eefeb9d02b764c752e10a8" : {
+      "english" : "Game name already in use.",
+      "translation" : "Име партије се већ користи."
+   },
+   "f5ae5129ef9693ad5ebe821b8d76edbe" : {
+      "english" : "Team Placement",
+      "translation" : "Постављање тимова"
+   },
+   "f7703f3c6bb843d4d0dd744dd129925d" : {
+      "english" : "AI Configuration",
+      "translation" : "AI подешавања"
+   },
+   "f7756044cf821d294f2be723ccf9e37f" : {
+      "english" : "“Prepared for either alternative.” \\\\n— Virgil (“Aeneid”, II. 61)",
+      "translation" : ""
+   },
+   "f78ee5463605789b054692741e72b272" : {
+      "english" : "“The man who wants that must be scheming and cunning, wily and deceitful, a thief and a robber, overreaching the enemy at every point.” \\\\n— Xenophon on how best to gain advantage over the enemy (“The Education of Cyrus”, 1.6.26)",
+      "translation" : ""
+   },
+   "f794827ee83443e18adf17fc04e9571f" : {
+      "english" : "“Anger is a momentary madness, so control your passion or it will control you.” \\\\n— Horace (“Epistles”, epistle II., 62)",
+      "translation" : ""
+   },
+   "f924e9c20662be8a661f47d6d5a161a0" : {
+      "english" : "“We accepted an empire that was offered to us and refused to give it up under the pressure of three of the strongest motives: fear, honor and interest. It was not we who set the example, for it has always been the law that the weak should be subject to the strong.” \\\\n— Speech of an Athenian embassy in Sparta (Thucydides, “History of the Peloponnesian War”, I. 76.2)",
+      "translation" : ""
+   },
+   "f99235fa9a5ce9c7639b205b346b57f1" : {
+      "english" : "Select the difficulty of this scenario.",
+      "translation" : "Изаберите тежину сценарија"
+   },
+   "fad5620efbf2910c8cdcdd5085561412" : {
+      "english" : "Set up your server to host.",
+      "translation" : "Постави свој сервер да би био домаћин игре."
+   },
+   "fbfeea429760224f9cf730aeab973377" : {
+      "english" : "“Brave men are made bolder by ordeals, but cowards achieve nothing.” \\\\n— Euripides (“Iphigenia in Tauris”)",
+      "translation" : ""
+   },
+   "fc9ce1bf5362015ebed7e86c86979597" : {
+      "english" : "Generating “%(map)s”",
+      "translation" : "Генерисање “%(map)s”"
+   },
+   "fcda1d4a3a3494afd0f2798ac9b5e5fe" : {
+      "english" : "I'm not ready!",
+      "translation" : "Нисам спреман!"
+   },
+   "fd2b5a25efac237200282ad6f4fd1ee1" : {
+      "english" : "Return to the lobby.",
+      "translation" : "Повратак у припремну собу"
+   },
+   "fe72ba1e6e20263b37d171658bffdddc" : {
+      "english" : "* %(username)s is ready!",
+      "translation" : "* %(username)s је спреман!"
+   },
+   "ffe822d86c59c1052f9a51ee1922be6f" : {
+      "english" : "Select player's team.",
+      "translation" : "Изабери играчев тим"
+   }
+}
