@@ -43,6 +43,10 @@
       "english" : "Unit Dancing test",
       "translation" : "Јединствени плесни тест"
    },
+   "31b27cc7bc47ec6704e760efe511bbb6" : {
+      "english" : "%(_player_)s owns a Wonder and will win in %(time)s.",
+      "translation" : " %(_player_)s поседује чудо и победиће %(time)s ."
+   },
    "33b47f43c9e77940c6b9e4e290e66547" : {
       "english" : "Cinema Demo",
       "translation" : "Цинема Демо"
@@ -62,6 +66,10 @@
    "41be71f3fb2edc9827baaa73a1360511" : {
       "english" : "Road Decals Demo",
       "translation" : "Роад Децалс Демо"
+   },
+   "428acb03c3391f3bd3a009b86c290e0c" : {
+      "english" : "The steppes of central Asia. A wide open grassland with few trees (about 90% fewer trees than on a temperate or Aegean map). Animal life is plentiful though, so take advantage of the hunting available. ",
+      "translation" : "Степе средње Азије. Широко отворен травњак са мало дрвећа (око 90% мање дрвећа него на умереној или егејској карти). Животињски свијет је ипак у изобиљу, па искористите расположиви лов."
    },
    "477477e6bca0eccc58966f6cc804d517" : {
       "english" : "The Highlands of central Gaul.",
@@ -99,6 +107,10 @@
       "english" : "Sudanian Savanna",
       "translation" : "Суданска савана"
    },
+   "68692283d8cd9b8e2ed65a3b987e1657" : {
+      "english" : "Random Naval",
+      "translation" : "Рандом Навал"
+   },
    "6a43d7cdfc69e2f10b7729c900739cd5" : {
       "english" : "A combat demonstration between a small number of ranged and melee infantry units.",
       "translation" : "Борбена демонстрација између малог броја пешадијских јединица са стрељаштвом и гужве."
@@ -118,6 +130,10 @@
    "6fb1c5e214abba08ffb124a58d9f900e" : {
       "english" : "Nubia",
       "translation" : "Нубиа"
+   },
+   "71924bd5bb4c91c1f37fecf88c87ecdb" : {
+      "english" : "Players start on the banks of the River Sequana (Seine) in Northern Gaul near the settlement of Ratumacos. Destined to become one of the largest and most prosperous cities of Medieval Europe and one of the Anglo-Norman dynasty capitals under the new name of Rouen, Ratumacos is still a peaceful land - but not for long.",
+      "translation" : "Играчи почињу на обали реке Секуана (Сеине) у Северној Галији у близини насеља Ратумацос. Предвиђено да постане један од највећих и најпросперитетнијих градова средњевековне Европе и једна од престоница англо -норманске династије под новим именом Роуен, Ратумацос је и даље мирна земља - али не задуго."
    },
    "71b56c8b62c2f3dc3807937adeb7f6c3" : {
       "english" : "Hellas, home to the Greeks and through them birthplace to the foundation of western civilization. Yet the land lacks unity, countless city-states vie for dominance. Will you lead your polis to glory and greatness or see it fall into oblivion, erased from the histories?",
@@ -195,6 +211,10 @@
       "english" : "It keeps on raining, we will have to evacuate soon!",
       "translation" : "Киша и даље пада, ускоро ћемо се морати евакуисати!"
    },
+   "b1e60615347e3755316e9decd33a48b6" : {
+      "english" : "In the Eastern land of Bactria lies the rich valley carved by the Oxus River.\\n\\nSouth of the river are rich arable lands and plentiful wood and forage. North of the river lie a mountain range pierced by wide mountain passes and guarded by natural defensive positions.\\n\\nWithin the mountains can be found riches as well as danger. The player who can exploit the mountainous area the best will have a significant advantage over their adversary.",
+      "translation" : "У источној земљи Бактрији налази се богата долина исклесана реком Оксус.\\n\\nЈужно од реке богате су обрадиве површине и доста дрвета и сточне хране. Северно од реке лежи планински ланац прободен широким планинским превојима и заштићен природним одбрамбеним положајима.\\n\\nУнутар планина могу се пронаћи богатства и опасности. Играч који најбоље искористи планинско подручје имаће значајну предност у односу на свог противника."
+   },
    "b22ddadec6532cb8f3d116156e361ec1" : {
       "english" : "Macedonian Position",
       "translation" : "Македонски положај"
@@ -202,6 +222,10 @@
    "b75e79a73ccaeb2922d25400f7478e15" : {
       "english" : "A demonstration of wall placement methods/code in random maps. Giant map size is recommended!",
       "translation" : "Приказ метода постављања зидова/кода у случајним мапама. Препоручује се велика величина карте!"
+   },
+   "b8d5d72e267392ab120b9d75c35cff09" : {
+      "english" : "You own a Wonder and you and your allies will win in %(time)s.",
+      "translation" : "Ви поседујете чудо и ви и ваши савезници ћете победити %(time)s ."
    },
    "be8929d70aa8b528a967e2b035eaddc9" : {
       "english" : "Attackers are covered by the darkness of the night.",
@@ -223,9 +247,25 @@
       "english" : "Magadha (2)",
       "translation" : "Магадха (2)"
    },
+   "cc808158501a6e4a0cfc7a6cb5ae2c55" : {
+      "english" : "Eurasian Steppe",
+      "translation" : "Евроазијска степа"
+   },
+   "d0412c090d73b564ee8da763909dc50e" : {
+      "english" : "%(player)s has been defeated (lost all structures and critical units).",
+      "translation" : " %(player)s је поражен (изгубио све структуре и критичне јединице)."
+   },
    "d6f249639f0fe03f6d6d02cd9f1b382e" : {
       "english" : "A great flood has moved across the valley enabling ships and troops to battle in chest deep waters.",
       "translation" : "Велика поплава се преселила долином омогућивши бродовима и трупама да се боре у дубоким водама прса."
+   },
+   "db757eef2607aae1d59b6f64b0ede7d0" : {
+      "english" : "A late spring breeze ripples through the conifer forests of the Gulf of Bothnia. Herds of deer dot the landscape and playful rabbits frolick in the undergrowth.",
+      "translation" : "Касни пролећни поветарац таласа кроз четинарске шуме у Ботнијском заливу. Стада јелена прошарају пејзаж, а разиграни зечеви брчкају по шипражју."
+   },
+   "dc514f90c804203f67675988400ad852" : {
+      "english" : "This map displays a reconstruction of the ancient city Napata. [color=\\\"red\\\"]Note:[/color] The map is not intended to be playable.",
+      "translation" : "Ова мапа приказује реконструкцију древног града Напата. [цолор u003d \\ \"ред \\\"] Напомена: [/цолор] Мапа није намењена за игру."
    },
    "dcf9dc65d0e438dc037c44b2bc6fe537" : {
       "english" : "%(player)s has been defeated (lost civic center).",
@@ -278,5 +318,9 @@
    "fc643f4d07915c01ff8fbe3e362c2cf0" : {
       "english" : "Pyrenean Sierra",
       "translation" : "Пиренејска Сијера"
+   },
+   "fefbeef515d8a4dcc301dff0ffb8f317" : {
+      "english" : "A foggy alpine landscape becomes a battleground as each team has an ally squashed precariously between two enemies. Two forest cliffs overlook the center lake, accessible from the sides of the map.",
+      "translation" : "Магловити алпски пејзаж постаје бојно поље јер сваки тим има савезника несигурно згњеченог између два непријатеља. Две шумске литице гледају на централно језеро, приступачно са стране карте."
    }
 }

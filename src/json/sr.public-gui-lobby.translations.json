@@ -1,7 +1,11 @@
 {
-   "4037f4a4cefeb23a4a28f4392ef2094d" : {
-      "english" : "[font=\\\"sans-bold-14\\\"]Wildfire Games reserves the right to:[/font]",
-      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Вилдфире Гамес задржава право да: [/фонт]"
+   "05a15e42cd89ac553625a3419bdfb2e9" : {
+      "english" : "6. Right to restriction of personal data processing where the accuracy of the data is contested by the user, if the data was processed unlawfully or if the user requires the data for a legal claim (GDPR 18).",
+      "translation" : "6. Право на ограничење обраде личних података ако корисник оспорава тачност података, ако су подаци обрађени незаконито или ако корисник захтева податке за правни захтев (ГДПР 18)."
+   },
+   "1895a304ba7e711b9b0901789ed19fdb" : {
+      "english" : "The player is identified by a name that the player chooses at the time of registration.",
+      "translation" : "Играч је идентификован именом које играч бира приликом регистрације."
    },
    "7f4c0a5fb5dec57f425964f262c7f732" : {
       "english" : "3. Wildfire Games does not process any further data for the Multiplayer Lobby and does not ask for consent to process data (GDPR 6.1.a, GDPR 7, GDPR 8, GDPR 13.2.c).",
@@ -11,17 +15,25 @@
       "english" : "Requests that are manifestly unfounded or excessive are not responded to or may be charged (GDPR 12.4, GDPR 12.5).",
       "translation" : "На захтеве који су очигледно неосновани или прекомерни не одговара се или се може наплатити (ГДПР 12.4, ГДПР 12.5)."
    },
+   "8ed5853049b375cb897a258260dae7f3" : {
+      "english" : "For further information on Wildfire Games Privacy Policies, visit https://trac.wildfiregames.com/wiki/UserDataProtection",
+      "translation" : "За додатне информације о правилима приватности Вилдфире игара посетите хттпс://трац.вилдфирегамес.цом/вики/УсерДатаПротецтион"
+   },
    "8ed9c261338abd1e1d7d04fb5145b786" : {
       "english" : " 3. Discontinue or interrupt any part of the service at any time.",
       "translation" : "3. Прекините или прекините било који део услуге у било ком тренутку."
    },
-   "9106c695e3079e80aac5b67a1670cbd8" : {
-      "english" : "[font=\\\"sans-bold-14\\\"]Document Date:[/font] 2018-10-16",
-      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Датум документа: [/фонт] 2018-10-16"
+   "8fb77dc02c063d876bb0165d71289965" : {
+      "english" : "4. Right to rectification of inaccurate personal data (GDPR 16).",
+      "translation" : "4. Право на исправљање нетачних личних података (ГДПР 16)."
    },
    "97c1b1093434d44c7aa632368f702092" : {
       "english" : "Connected.",
       "translation" : "Повезан."
+   },
+   "b5cfd390284d98156a7d72e03ebe87d3" : {
+      "english" : "Your active mods do not match the mods of this game.",
+      "translation" : "Ваши активни модови се не подударају са модовима ове игре."
    },
    "c68ab337690ea08b94b56228cb18d0ee" : {
       "english" : " 4. Wildfire Games informs users of the purposes, legal grounds, legitimate interests and retention periods of personal data processing at the time it is processed, recipients of personal data and where applicable, transfer of personal data to third countries and automated decision-making (GDPR 13.1.c-f, GDPR 13.2.a, GDPR 13.2.e-f, GDPR 15.1, GDPR 15.4).",
@@ -35,9 +47,13 @@
       "english" : " 3. Wildfire Games processes personal data lawfully, fairly and transparently (GDPR 5.1.a, GDPR 12.1).",
       "translation" : "3. Вилдфире Гамес законито, поштено и транспарентно обрађује личне податке (ГДПР 5.1.а, ГДПР 12.1)."
    },
-   "e633dfec382ce2486e7bcd7b7dea984e" : {
-      "english" : "[font=\\\"sans-bold-14\\\"]Document Date:[/font] 2020-12-24",
-      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Датум документа: [/фонт] 2020-12-24"
+   "e63c62e703f93976ddc3d47ccb3982b5" : {
+      "english" : "3. Right to obtain personal data in a machine-readable format (GDPR 20).",
+      "translation" : "3. Право на добијање личних података у машински читљивом формату (ГДПР 20)."
+   },
+   "eafc4d8cf92ce8dfcbb1c9361210f18a" : {
+      "english" : "Do you want to switch to the mod selection page?",
+      "translation" : "Да ли желите да пређете на страницу за избор мода?"
    },
    "ec926b085cb69d8367baf74a116f165e" : {
       "english" : "The 0 A.D. Empires Ascendant Multiplayer Lobby is an online service provided by Wildfire Games that allows players to set up online multiplayer matches, discuss the game in a public chat room and gain a rating that reflects their skill.",
@@ -50,5 +66,9 @@
    "f1c97b5356deea4b042ca266e50d6404" : {
       "english" : "This mod does not affect MP compatibility",
       "translation" : "Овај мод не утиче на компатибилност МП"
+   },
+   "fc478910048b235e80ca12328216b2e2" : {
+      "english" : "8. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, GDPR 77).",
+      "translation" : "8. Право на подношење жалбе надзорном органу (ГДПР 13.2.д, ГДПР 77)."
    }
 }

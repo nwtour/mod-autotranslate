@@ -1,54 +1,582 @@
 {
+   "010591f0f612bde787192210aa62bb69" : {
+      "english" : "Aleppo Pine",
+      "translation" : "Алеппо Пине"
+   },
+   "046d93852f6419ac27a74b4ebcaa32e4" : {
+      "english" : "Donkey",
+      "translation" : "Магарац"
+   },
+   "09240becab8a467a007ca0cf1605ae75" : {
+      "english" : "Stone Quarry",
+      "translation" : "Каменолом"
+   },
+   "092b6f886878f8ae4e8ae5e9a758ffd1" : {
+      "english" : "Tusks",
+      "translation" : "Кљове"
+   },
+   "0a72ac609ac86b12ba054208b8851294" : {
+      "english" : "Infantry Hoplites only, requires at least 10.",
+      "translation" : "Само за пешадијске хоплите, потребно је најмање 10."
+   },
+   "0bf9eae94b7e79462e05d88b698d8a86" : {
+      "english" : "Holly Oak",
+      "translation" : "Холли Оак"
+   },
+   "119b5c90048fca49f07caca33e09e1f8" : {
+      "english" : "Oryctolagus cuniculus",
+      "translation" : "Орицтолагус цуницулус"
+   },
+   "1304d7d24a2bc96d983aac8e7ac83df6" : {
+      "english" : "Fir Sapling",
+      "translation" : "Младенац јеле"
+   },
+   "130b288acaf45477ae009e2af7bd0140" : {
+      "english" : "Deciduous Tree",
+      "translation" : "Листопадно дрво"
+   },
    "168f3be240f43f5d4f3c4f466af77031" : {
       "english" : "Balaenoptera physalus",
       "translation" : "Балаеноптера пхисалус"
+   },
+   "17bdbefcac68590474aa37f4d7e9ffb3" : {
+      "english" : "Elephas maximus",
+      "translation" : "Елепхас макимус"
+   },
+   "17d1b498ba0cefedabe3907f3248edd4" : {
+      "english" : "Young Baobab",
+      "translation" : "Млади Баобаб"
+   },
+   "1aaec7944c4a7513c551ca2972da818e" : {
+      "english" : "Large Oak",
+      "translation" : "Велики храст"
+   },
+   "1af6f3fa46149cd3006711e8d4fd494a" : {
+      "english" : "Anti Cavalry",
+      "translation" : "Анти Коњица"
+   },
+   "1c738ac4b437ef141bd1f2e03823924a" : {
+      "english" : "Great White Shark",
+      "translation" : "Велика бела ајкула"
+   },
+   "1d3479f36a6f5800a4efd0b574ca91cd" : {
+      "english" : "Megaptera novaeangliae",
+      "translation" : "Мегаптера новаеанглиае"
    },
    "1e3d6b21177f73e6170659ff19911a28" : {
       "english" : "Melee Infantry only, requires at least 16.",
       "translation" : "Само за пјешаштво у сукобу, потребно је најмање 16."
    },
+   "2044759eb546e95de600075d0bdb37cc" : {
+      "english" : "Ursus arctos",
+      "translation" : "Урсус арцтос"
+   },
+   "22ecf3eac1c24a75d4b2b293239bffb4" : {
+      "english" : "Cervus elaphus",
+      "translation" : "Цервус елапхус"
+   },
+   "254b97aa2ad3165ee6d267ad97683b39" : {
+      "english" : "Cavalry only, requires at least 6.",
+      "translation" : "Само коњица, потребно је најмање 6."
+   },
+   "25cd524b9b5ead7075c3ec73a5048149" : {
+      "english" : "Bos taurus taurus",
+      "translation" : "Бос таурус бик"
+   },
+   "27f7c93a02277f3ee3c03cb4ba0cfb69" : {
+      "english" : "Kushite Statue",
+      "translation" : "Кусхите Статуе"
+   },
+   "2964565981c6f193e743d81cdf48dbb3" : {
+      "english" : "Atlas Cedar Sapling",
+      "translation" : "Садница кедра Атлас"
+   },
    "2b8b384cdd92d3e81c43b2d43de8c247" : {
       "english" : "Olive",
       "translation" : "Маслина"
+   },
+   "2bd4a59bb5a32ded63b98eea556ca87a" : {
+      "english" : "Builder",
+      "translation" : "Буилдер"
+   },
+   "2c0f61ce314c10881fb2b951ffc31130" : {
+      "english" : "Requires at least 4 Soldiers or Siege engines.",
+      "translation" : "Потребна су најмање 4 војничка или опсадна мотора."
+   },
+   "2e32836d6064df9ab7963266c16a6f34" : {
+      "english" : "Pine",
+      "translation" : "Бор"
+   },
+   "3049843bfd7405c0e1c64ca8a1a38a8d" : {
+      "english" : "This unit is poisoned.",
+      "translation" : "Ова јединица је отрована."
+   },
+   "3299a71878ff7f7a1636900bfe9d4196" : {
+      "english" : "Ceratotherium simum",
+      "translation" : "Цератотхериум симум"
+   },
+   "32f1ca14ed1f1009430d0ba4db34541f" : {
+      "english" : "Loxodonta cyclotis",
+      "translation" : "Локодонта цицлотис"
+   },
+   "33df5e388d093192fb6b9622ec9357f0" : {
+      "english" : "Doum Palm",
+      "translation" : "Доум Палм"
    },
    "35d550cf7bbfa82c602ea610b434a01d" : {
       "english" : "Prickly Juniper",
       "translation" : "Бодљикава клека"
    },
+   "36a138278ec63758c4db92e91ddabbb6" : {
+      "english" : "Maritime Pine",
+      "translation" : "Поморски бор"
+   },
+   "3a9d1818d0d7f5646e63465baf7d366f" : {
+      "english" : "Poison",
+      "translation" : "Отров"
+   },
+   "3ea724b1b0bdf8ff3748334be6762db1" : {
+      "english" : "Elm",
+      "translation" : "Елм"
+   },
+   "3f7da02ac7f595ab606571fd5f670342" : {
+      "english" : "Banyan",
+      "translation" : "Баниан"
+   },
+   "4004507e320e678f80a0a18d00a07f09" : {
+      "english" : "Maple",
+      "translation" : "Мапле"
+   },
+   "41f76e9ee50cd57c6c85bb873441e997" : {
+      "english" : "Canis lupus",
+      "translation" : "Цанис лупус"
+   },
+   "427debb81d265a0edd8789f30b11beb6" : {
+      "english" : "Giraffe",
+      "translation" : "Жирафа"
+   },
+   "46690f4e0cbef49f883f8570bfef4faa" : {
+      "english" : "Sus scrofa domesticus",
+      "translation" : "Сус сцрофа доместицус"
+   },
+   "469f39fb8ce2c97110eb7334079879f4" : {
+      "english" : "Brown Bear",
+      "translation" : "Мрки медвед"
+   },
+   "47f01b239267eae5b1aad6211717e472" : {
+      "english" : "Isis Cult Image",
+      "translation" : "Исисова култна слика"
+   },
+   "4f762cc74754471383a5bb04d7a56e96" : {
+      "english" : "Demolish ruins for stone.",
+      "translation" : "Рушити рушевине за камен."
+   },
+   "515128d4d2783fc476a5680a22fb7fb1" : {
+      "english" : "Bamboo",
+      "translation" : "Бамбус"
+   },
+   "5293a1c275350026eab640ac81eb1534" : {
+      "english" : "Fangs",
+      "translation" : "Очњаци"
+   },
+   "541be6035e12d8bc977630fa71785756" : {
+      "english" : "Trading Post",
+      "translation" : "Погранична трговачка кућа"
+   },
+   "54c737e276db99da3881a62e0f865e6d" : {
+      "english" : "Infantry Pikemen only, requires at least 16.",
+      "translation" : "Само пешадијским пикеменима потребно је најмање 16."
+   },
+   "550c153b2bfc46932fa141ba2e4d82fc" : {
+      "english" : "Tamarix",
+      "translation" : "Тамарик"
+   },
+   "598dc6cac8e88fcb24b8947ff0c8566e" : {
+      "english" : "Cypress",
+      "translation" : "Ципресс"
+   },
+   "59ad2770ec5cd962797c9cd7a87e6602" : {
+      "english" : "Reduces capture points of a target.",
+      "translation" : "Смањује тачке хватања мете."
+   },
    "5a3c48a5702952d275af1ce38e932c92" : {
       "english" : "Ovibos moschatus",
       "translation" : "Овибос мосцхатус"
+   },
+   "5a65dd0599d8f554c2922b24ed0d282a" : {
+      "english" : "Gallus gallus domesticus",
+      "translation" : "Галлус галлус доместицус"
+   },
+   "5bbd3358e101feeee71cb33f6e5ff91f" : {
+      "english" : "Reduces the health of a target.",
+      "translation" : "Смањује здравље мете."
    },
    "5cf73e808193af68b60d465bf312e789" : {
       "english" : "Horn",
       "translation" : "Хорн"
    },
+   "5d39c3246824fc4d752f2329122b3d77" : {
+      "english" : "Bos taurus indicus",
+      "translation" : "Бос таурус индицус"
+   },
+   "5dc3b0eb6f58d951f7b28931aba05327" : {
+      "english" : "Vulpes lagopus",
+      "translation" : "Вулпес лагопус"
+   },
+   "63d7c8a996e3ccfabb1b143f4b7ad860" : {
+      "english" : "Atlas Cedar",
+      "translation" : "Атлас Цедар"
+   },
+   "644bd3cbd603525f1c0e4fbc43226c19" : {
+      "english" : "Mine ore for metal.",
+      "translation" : "Рудна руда за метал."
+   },
+   "68be59d0c02fa94530d5e90a1fa1849f" : {
+      "english" : "Hippopotamus amphibius",
+      "translation" : "Хиппопотамус ампхибиус"
+   },
    "6d85cebb93febdd7e9c449cefd696ce4" : {
       "english" : "Juvenile Giraffe",
       "translation" : "Млада жирафа"
+   },
+   "74f6c8e12c5a57bfce6a61940f833348" : {
+      "english" : "Eudorcas thomsonii",
+      "translation" : "Еудорцас тхомсонии"
+   },
+   "76192a4ee38aeb68217fb329604a31c5" : {
+      "english" : "Thomson's Gazelle",
+      "translation" : "Тхомсонова газела"
+   },
+   "7791b6c5f1dfaab6c0e4df107bfe189e" : {
+      "english" : "Kushite Bird Statue",
+      "translation" : "Кип Кусхите Птица"
+   },
+   "7b4c23810cc758714f6db6640c1327c1" : {
+      "english" : "Stone Resource",
+      "translation" : "Стоне Ресоурце"
    },
    "7d1ef19fcda91f364b30531bd01fb005" : {
       "english" : "Wall off an area.",
       "translation" : "Зидите подручје."
    },
+   "7e374729f22b9ee583356362edac33f0" : {
+      "english" : "Collect treasures for resources.",
+      "translation" : "Прикупите благо за ресурсе."
+   },
+   "8358de0d651922ff216cb518ab1a7c1b" : {
+      "english" : "Canis lupus familiaris",
+      "translation" : "Цанис лупус фамилиарис"
+   },
+   "87594c0819c2bdb50d7098512307540c" : {
+      "english" : "Damage caused by venomous or poisoned objects, like a snake or a poisoned weapon.",
+      "translation" : "Оштећења узрокована отровним или отровним предметима, попут змије или отровног оружја."
+   },
+   "875eccd9cfed67df07d430f61e533d14" : {
+      "english" : "Apply Status",
+      "translation" : "Примени статус"
+   },
+   "8bb954075e196f2e2677c6ebcd865b55" : {
+      "english" : "Camelus dromedarius",
+      "translation" : "Цамелус дромедариус"
+   },
+   "8c09ee8e1496710919dcbd718ff285dd" : {
+      "english" : "Piglet",
+      "translation" : "Прасе"
+   },
+   "8de7bf1455346e69843f30cec483303b" : {
+      "english" : "Damage caused by sheer force, like with a club or by trampling.",
+      "translation" : "Оштећење изазвано чистом силом, на пример палицом или гажењем."
+   },
+   "8e29f13d487db562eaf96e7b55281668" : {
+      "english" : "Various (timed) effects.",
+      "translation" : "Разни (временски) ефекти."
+   },
+   "8e693f04d67351b959eec9faef36a030" : {
+      "english" : "Poplar",
+      "translation" : "Топол"
+   },
+   "8f2509a560d44511c5e706d95d9c4b87" : {
+      "english" : "Strangler Fig",
+      "translation" : "Давитељ Сл"
+   },
+   "8f3079de234879e26b67f39d29599a37" : {
+      "english" : "Requires at least 2 Soldiers or Siege Engines.",
+      "translation" : "Потребна су најмање 2 војника или опсадни мотори."
+   },
+   "90ca915c03b9a9e256d2c0e5c9c13692" : {
+      "english" : "Ursus americanus",
+      "translation" : "Урсус америцанус"
+   },
+   "912bbb32580364f1d505146836a32476" : {
+      "english" : "Rainforest Tree",
+      "translation" : "Раинфорест Трее"
+   },
+   "92daffd63b323c15abc88f2e3dbf19d5" : {
+      "english" : "Catch fish for food.",
+      "translation" : "Уловите рибу за храну."
+   },
    "944cc27fb768ea4cf2c3f8590fe47b4e" : {
       "english" : "Milled Lumber",
       "translation" : "Млевена грађа"
+   },
+   "94e8a499539d1a472f3b5dbbb85508c0" : {
+      "english" : "Wall",
+      "translation" : "Зид"
+   },
+   "95b664977972737039594ae5788fd4fb" : {
+      "english" : "Pick fruit for food.",
+      "translation" : "Берите воће за храну."
+   },
+   "9672366e1f615a65b2c281a7f2a623e1" : {
+      "english" : "Flaming Pig",
+      "translation" : "Фламинг Пиг"
+   },
+   "9b65b2946554dd354229da9fc6e18bc4" : {
+      "english" : "Toona",
+      "translation" : "Тоона"
+   },
+   "9cc2cf983074a34743824b3845e1d711" : {
+      "english" : "Panthera tigris",
+      "translation" : "Пантхера тигрис"
+   },
+   "9dd994f1e8e2e43d85cf18900c20b61c" : {
+      "english" : "Dromedary",
+      "translation" : "Дромедари"
+   },
+   "9f6290f4436e5a2351f12e03b6433c3c" : {
+      "english" : "Apple",
+      "translation" : "Аппле"
+   },
+   "9fbcca4350001a3dd91ccefb91871307" : {
+      "english" : "Chop trees for wood.",
+      "translation" : "Исецкајте дрвеће за дрво."
+   },
+   "a0fc1886d091bfb6f9e2a8371ab1d1b4" : {
+      "english" : "Requires at least 8 Soldiers or Siege engines.",
+      "translation" : "Захтева најмање 8 војника или опсадних мотора."
+   },
+   "a21c5454c0409660319ca60667c258f8" : {
+      "english" : "Paws",
+      "translation" : "Шапе"
+   },
+   "a3bdbf2434870a6548df06309bb536b1" : {
+      "english" : "Poisoned",
+      "translation" : "Отрован"
+   },
+   "a8adf150861f4bfbf783e420da158968" : {
+      "english" : "Tuna",
+      "translation" : "Туна"
+   },
+   "aa4f333e8a7c4cc2a34e232c5be41c3f" : {
+      "english" : "Hippopotamus",
+      "translation" : "Нилски коњ"
+   },
+   "b14320ecf6ed6b6132bcbc3da7aec128" : {
+      "english" : "Ammon-Ra Ram Statue",
+      "translation" : "Статуа Аммон-Ра Рам"
+   },
+   "b1d6b87fcfb0dbe10ca44fd33d2e0432" : {
+      "english" : "Damage caused by burning objects, like a torch or a flaming arrow.",
+      "translation" : "Оштећења изазвана запаљеним предметима, попут бакље или пламене стреле."
    },
    "b265b39a077f344551fc6ff4518c142c" : {
       "english" : "Polar Bear",
       "translation" : "Поларни медвед"
    },
+   "b487954a73c6b82bc42c176879e97d7f" : {
+      "english" : "Apademak Lion Statue",
+      "translation" : "Статуа лава Ападемак"
+   },
+   "b5ac3ede152b71b9fb66975de8cbfd3f" : {
+      "english" : "Tilapia",
+      "translation" : "Тилапија"
+   },
+   "b7f1a08540158e34b3724df48ca7c5b7" : {
+      "english" : "Burning",
+      "translation" : "Бурнинг"
+   },
+   "b8811c20b9b112794bb11ec7a6ab5970" : {
+      "english" : "Fir",
+      "translation" : "Фир"
+   },
+   "b8d2cd9416ba1de169e46e8e1fa5b9c8" : {
+      "english" : "Sus scrofa",
+      "translation" : "Сус сцрофа"
+   },
+   "b9f24e83531326204197015b2f43a93f" : {
+      "english" : "Damage",
+      "translation" : "Оштећење"
+   },
+   "ba6477e59f8c37cbd1478ef38dcf6efc" : {
+      "english" : "Wolfhound",
+      "translation" : "Волфхоунд"
+   },
+   "bd2b7e5f85a6ea65065c4ebc6d7c95bb" : {
+      "english" : "Fire",
+      "translation" : "Ватра"
+   },
+   "be49eec292b48264b7f10e93713e0b04" : {
+      "english" : "Equus quagga",
+      "translation" : "Екуус куагга"
+   },
+   "c15be25ee7f2914151c2b75804df655a" : {
+      "english" : "Teeth",
+      "translation" : "Зуби"
+   },
+   "c491984464651e1b120bd53fee208338" : {
+      "english" : "Carcharodon carcharias",
+      "translation" : "Царцхародон царцхариас"
+   },
+   "c4f43214afb0319cdbbd9ed3e5b78cc0" : {
+      "english" : "Odobenus rosmarus",
+      "translation" : "Одобенус росмарус"
+   },
+   "c7c8bb1ab6a7065ff39eb1a0ad160d21" : {
+      "english" : "Loxodonta africana",
+      "translation" : "Локодонта африцана"
+   },
+   "c805fe0f17bf0555b9719b92268192c1" : {
+      "english" : "Silver Birch",
+      "translation" : "Сребрна бреза"
+   },
+   "c807fea76e2677130724d0cb5b3fa017" : {
+      "english" : "Palmyra Palm",
+      "translation" : "Палмира Палм"
+   },
+   "cb100e8948ba87178902f88bb056d464" : {
+      "english" : "Carob",
+      "translation" : "Рогач"
+   },
+   "d024c4b25bf0efa628dced70e3d8f1a6" : {
+      "english" : "Asian Elephant Calf",
+      "translation" : "Азијско теле слона"
+   },
+   "d080757314974eaea4984ee96ffdeeb9" : {
+      "english" : "Shrine",
+      "translation" : "Светилиште"
+   },
+   "d0e89fb3ffa5cf89e07a95dc9862ca1c" : {
+      "english" : "Vulpes vulpes",
+      "translation" : "Вулпес вулпес"
+   },
+   "d141f3d8397aac04355cdb45d3d2f9eb" : {
+      "english" : "Dragon Bamboo",
+      "translation" : "Драгон Бамбоо"
+   },
+   "d37a450382d7272d2108ff51dfdbb016" : {
+      "english" : "Mangrove",
+      "translation" : "Мангрове"
+   },
+   "d3fbccfff87d57c49e25bca57b474a74" : {
+      "english" : "Sanga Cattle",
+      "translation" : "Санга стока"
+   },
+   "d4db776c36d7364774d64b4e8e696b03" : {
+      "english" : "Pavo cristatus",
+      "translation" : "Паво цристатус"
+   },
+   "d528a119c683e3d9e9297998eab93a45" : {
+      "english" : "Blue Wildebeest",
+      "translation" : "Блуе Вилдебеест"
+   },
+   "d56cdfde6f85b3aa8066f7bdaf0bf0b2" : {
+      "english" : "European Beech",
+      "translation" : "Европска буква"
+   },
+   "d5e06b24a5169eb7d67c23218d8c6fb6" : {
+      "english" : "Baobab Sapling",
+      "translation" : "Баобаб садница"
+   },
+   "d60ef9a1571b20cf20f80f2448c1df96" : {
+      "english" : "Teak",
+      "translation" : "Теак"
+   },
+   "d729858b661dac037406c90c7e7ffd61" : {
+      "english" : "Hungarian Oak",
+      "translation" : "Мађарски храст"
+   },
+   "d7bac0b0566ceca0a27cae967f0fc398" : {
+      "english" : "Connochaetes taurinus",
+      "translation" : "Цонноцхаетес тауринус"
+   },
+   "d80ace89db53c73da2b5d8242fe5fa15" : {
+      "english" : "Ursus maritimus",
+      "translation" : "Урсус маритимус"
+   },
    "d8812a1b8b3899dd04c593801b221dca" : {
       "english" : "Ovis aries",
       "translation" : "Овис ован"
+   },
+   "d9d0e35b4a050cc21578ad9fa97e95ad" : {
+      "english" : "Cut Stone",
+      "translation" : "Цут Стоне"
+   },
+   "da41d4c6f31ac3850560a663bb3bfd8f" : {
+      "english" : "Panthera leo",
+      "translation" : "Пантхера лев"
+   },
+   "db28d16e6edda2361d8d94a19a836419" : {
+      "english" : "Red Deer",
+      "translation" : "Јелен"
+   },
+   "def2a28dd9bf5ed4cf8efe7b29aecc00" : {
+      "english" : "Cut Sandstone",
+      "translation" : "Исеците пешчар"
+   },
+   "e2b45275707f01ae5ac97125b5bcb167" : {
+      "english" : "White Rhinoceros",
+      "translation" : "Бели носорог"
+   },
+   "e58b5dc3b02f765e06a2c515ca998e74" : {
+      "english" : "Equus africanus asinus",
+      "translation" : "Екуус африцанус асинус"
+   },
+   "e6f9c347672daae5a2557ae118f44a1e" : {
+      "english" : "Banana",
+      "translation" : "Банана"
    },
    "f190166856ad0c0f389afbdc5a8223b4" : {
       "english" : "African Forest Elephant",
       "translation" : "Афрички шумски слон"
    },
+   "f2b6dcdc344bf345a187b3c6c19af47e" : {
+      "english" : "Oak",
+      "translation" : "храст"
+   },
+   "f3760ba4fb9ccc2baa0782a366615bd4" : {
+      "english" : "Horns",
+      "translation" : "Рогови"
+   },
+   "f8d77384550c671edac327d60723bcbd" : {
+      "english" : "Common Zebra",
+      "translation" : "Обична зебра"
+   },
+   "f8e549dc470e40dbeb64519377b1d6da" : {
+      "english" : "This unit causes poison damage.",
+      "translation" : "Ова јединица узрокује отровно оштећење."
+   },
+   "f911a8314b4f0ee622ff0b85ebaebdcd" : {
+      "english" : "Damage caused by sharp pointy objects, like arrows or spears.",
+      "translation" : "Оштећења изазвана оштрим шиљатим предметима, попут стрела или копља."
+   },
+   "fbc4165a61aec526acfee08aa37970ef" : {
+      "english" : "Quarry rock for stone.",
+      "translation" : "Каменолом камена за камен."
+   },
    "fcd81b82c265edf14daa2d732d52f1e6" : {
       "english" : "This unit is burning.",
       "translation" : "Ова јединица гори."
+   },
+   "fd806dc1c9b0839914b7526c3820cf59" : {
+      "english" : "Ranged Soldiers only, requires at least 2.",
+      "translation" : "Само војници на даљину, потребна су најмање 2."
+   },
+   "fe0707cc476fa27a17508867b2b95d14" : {
+      "english" : "Cow",
+      "translation" : "Крава"
+   },
+   "fe67451fbdc023968c235e4eeab9733c" : {
+      "english" : "Damage caused by sharp objects cutting or chopping, like with a sword or an axe.",
+      "translation" : "Оштећења узрокована резањем или сецкањем оштрих предмета, попут мача или секире."
    }
 }

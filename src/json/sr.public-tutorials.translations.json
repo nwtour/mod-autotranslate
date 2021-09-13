@@ -1,31 +1,243 @@
 {
+   "001fda0e11446a3b13b1f75cc8cf1d1b" : {
+      "english" : "As you have nearly reached the population limit, you must increase it by building some new structures if you want to train more units. The most cost effective structure to increase your population limit is the House.\\n",
+      "translation" : "Пошто сте скоро достигли ограничење броја становника, морате га повећати изградњом нових структура ако желите обучити више јединица. Најисплативија структура за повећање ограничења броја становника је Кућа.\\n"
+   },
    "02b26c619e3efd989fb599e1b4609abe" : {
       "english" : "But to minimize the distance between a farm and its corresponding food dropsite, we will first build a Farmstead.",
       "translation" : "Али да бисмо смањили удаљеност између фарме и одговарајуће локације за храну, прво ћемо изградити сеоско имање."
+   },
+   "059f1e73c95eb4dc36198a7609c1fafd" : {
+      "english" : "The cavalry unit should have slaughtered all chickens by now. Select it and explore the south-west area: there is a lake with some camels around. Move your cavalry by right-clicking on the point you want to go, and when you see a herd of camels, right-click on one of them to start hunting for food.",
+      "translation" : "Коњичка јединица је до сада требала поклати све пилиће. Одаберите га и истражите југозападно подручје: около је језеро са неколико камила. Померите коњицу тако што ћете десним тастером миша кликнути на место на које желите да одете, а када видите крдо камила, кликните десним тастером миша на једну од њих да бисте започели лов на храну."
+   },
+   "08802e971c579b7efb38580d6771e35f" : {
+      "english" : "This is a basic tutorial to get you started playing 0 A.D.",
+      "translation" : "Ово је основни водич за почетак играња 0 А.Д."
+   },
+   "09949b40f81656591e99174d1707d016" : {
+      "english" : "Click on the Hoplite icon.",
+      "translation" : "Кликните на икону Хоплите."
+   },
+   "0a77b248d884160b07091e70b5103d82" : {
+      "english" : "Now, let's gather some wood with your Infantry Citizen Soldiers. Select your Infantry Citizen Soldiers and order them to gather wood by right-clicking on the nearest tree.",
+      "translation" : "Хајде да скупимо мало дрва са вашим војницима грађанима пјешадије. Одаберите своје војнике грађанске пешадије и наредите им да сакупе дрва десним кликом на најближе дрво."
+   },
+   "0d2de7e52145d4e0c68c91d536e5c385" : {
+      "english" : "All your units are now gathering resources. We should train more units!\\n",
+      "translation" : "Све ваше јединице сада прикупљају ресурсе. Требало би да обучимо више јединица!\\n"
+   },
+   "0f4e0425ba453392801f7ba194e0b169" : {
+      "english" : "In the meantime, we seem to have enough workers gathering wood. We should remove the current rally point of the Civic Center away from gathering wood. For that purpose, right-click on the Civic Center when it is selected (and the flag icon indicating the rally point is crossed out).",
+      "translation" : "Чини се да у међувремену имамо довољно радника који скупљају дрва. Требали бисмо уклонити садашње окупљалиште Грађанског центра даље од прикупљања дрва. У ту сврху кликните десним тастером миша на Цивиц Центер када је изабран (и икона заставице која означава место окупљања је прецртана)."
+   },
+   "0ff24a6d61dd312c44f93d3ab171f98a" : {
+      "english" : "Select the Civic Center, then hover the cursor over a tree and right-click when you see the cursor change into a wood icon.",
+      "translation" : "Одаберите Цивиц Центер, а затим задржите показивач изнад стабла и кликните десним тастером миша када видите да се курсор мења у икону дрвета."
+   },
+   "13563c8a5c2038b80f92ae8dd8f93e5c" : {
+      "english" : "When both Houses are built, select your two Female Citizens and order them to build a Field as close as possible to the Farmstead, which is a dropsite for all types of food.",
+      "translation" : "Када буду изграђене обје куће, одаберите своје двије грађанке и наредите им да саграде њиву што је могуће ближе Фарми, која представља мјесто за све врсте хране."
+   },
+   "13b26be434e211c77a4faf9f46ca59e3" : {
+      "english" : "Now that the units are ready, let's see how to build several Houses in a row.",
+      "translation" : "Сада када су јединице спремне, да видимо како изградити неколико кућа заредом."
+   },
+   "1a911e3bc381fe76a69970633dcb8aa9" : {
+      "english" : "The enemy has been defeated. These tutorial tasks are now completed.",
+      "translation" : "Непријатељ је поражен. Ови задаци водича су сада завршени."
+   },
+   "1d3612415b81a2a201037a126b399021" : {
+      "english" : "Click on the Skirmisher icon.",
+      "translation" : "Кликните на икону Скирмисхер."
+   },
+   "1da951433bd1dbe4849410cbb03e6fff" : {
+      "english" : "Hold Shift and click on the Hoplite icon.",
+      "translation" : "Држите Схифт и кликните на икону Хоплите."
+   },
+   "1e536fd0092ef5de1224776c1cb6e16e" : {
+      "english" : "Click on the Female Citizen icon.",
+      "translation" : "Кликните на икону Грађанка."
+   },
+   "234e5e599f75df01048ad21901229db9" : {
+      "english" : "The Field's builders will now automatically begin gathering food from the Field. Using the newly created group of skirmishers, get them to build another House nearby.",
+      "translation" : "Градитељи поља сада ће аутоматски почети са прикупљањем хране са поља. Помоћу новостворене групе препуцавача натерајте их да саграде другу кућу у близини."
+   },
+   "2386332da5bae27d9833890e9f9bfc47" : {
+      "english" : "In the meantime, direct your attention to your population count on the top panel. It is the fifth item from the left, after the resources. It would be prudent to keep an eye on it. It indicates your current population (including those being trained) and the current population limit, which is determined by your built structures.",
+      "translation" : "У међувремену, усмерите пажњу на број становника на горњој плочи. То је пета ставка с леве стране, након ресурса. Било би паметно држати то на оку. Она означава вашу тренутну популацију (укључујући ону која се обучава) и тренутну границу популације, коју одређују ваше изграђене структуре."
+   },
+   "2bc81dfcbe5a7165161420f1a67d379a" : {
+      "english" : "Build a Barracks nearby. Whenever your population limit is reached, build an extra House using any available builder units. This will be the fifth Village Phase structure that you have built, allowing you to advance to the Town Phase.",
+      "translation" : "У близини саградите касарну. Кад год досегнете ограничење броја становника, изградите додатну кућу користећи све доступне грађевинске јединице. Ово ће бити пета сеоска фаза коју сте изградили, омогућавајући вам да пређете на градску фазу."
+   },
+   "2e244854d05f206f1577da10b663ef32" : {
+      "english" : "The farming rate, for example, can be improved with a researchable technology in the Farmstead. Select the Farmstead and look at its production panel on the bottom right. You will see several researchable technologies. Hover the cursor over them to see their costs and effects and click on the one you want to research.",
+      "translation" : "Стопа пољопривреде, на пример, може се побољшати истраживачком технологијом на Фармстеад -у. Одаберите Фармстеад и погледајте производну плочу у доњем десном куту. Видећете неколико технологија које се могу истражити. Задржите показивач миша изнад њих да видите њихове трошкове и ефекте и кликните на онај који желите да истражите."
+   },
+   "31ee20ca40915474b965d65de319e3c2" : {
+      "english" : "1) Hold the left mouse button and drag a selection rectangle that encloses the units you want to select.\\n",
+      "translation" : "1) Држите леви тастер миша и превуците правоугаоник за избор који обухвата јединице које желите да изаберете.\\n"
+   },
+   "3466dab0b0afc468d10f45f037b797ec" : {
+      "english" : "When they are ready, select the newly trained Hoplites and assign them to build a Storehouse beside some nearby trees. They will begin to gather wood when it's constructed.",
+      "translation" : "Кад буду спремни, изаберите тек обучене Хоплите и доделите им да саграде складиште поред дрвећа у близини. Они ће почети да скупљају дрво када оно буде изграђено."
    },
    "37c63a07d0d098f301590d6aea0a7c16" : {
       "english" : "Invalid (obstructed) positions will show the building preview overlay in red.",
       "translation" : "Неважећи (блокирани) положаји ће приказати преклапање прегледа зграде црвеном бојом."
    },
+   "3acd75cc15b2f18cb620198e0cc48ff8" : {
+      "english" : "Select the two idle Female Citizens and build a House nearby by selecting the House icon. Place the House by left-clicking on a piece of land.",
+      "translation" : "Одаберите две незапослене грађанке и саградите кућу у близини избором иконе Куће. Поставите кућу левим кликом на парче земље."
+   },
+   "3c25193e170ce4b8d6ea36d61264b811" : {
+      "english" : "Start training a batch of Female Citizens in the Civic Center and set its rally point to the farm (right click on it).",
+      "translation" : "Почните да обучавате групу грађанки у Грађанском центру и поставите место окупљања на фарму (десни клик на њу)."
+   },
+   "3c4598e751cdd1ebeab9ce8a965bfd66" : {
+      "english" : "Adjust the game window to your preferences.\\n",
+      "translation" : "Прилагодите прозор игре својим жељама.\\n"
+   },
+   "46ac225a95ac8abecf4b4f2a55ea7a36" : {
+      "english" : "Do not forget to hold Shift while clicking to train several units.",
+      "translation" : "Не заборавите да држите тастер Схифт док кликнете за обуку неколико јединица."
+   },
+   "472fd1c64cc7b60261675ce2e87b116b" : {
+      "english" : "This map will give a rough guide for starting the game effectively. Early in the game the most important thing is to gather resources as fast as possible so you are able to build enough troops later.",
+      "translation" : "Ова мапа ће дати груб водич за ефикасно започињање игре. На почетку игре најважније је прикупити ресурсе што је брже могуће како бисте касније могли изградити довољно трупа."
+   },
+   "4b673770dd1bf83647dad0460188590d" : {
+      "english" : "Now that the Civic Center is selected, you will notice that a production panel will appear on the lower right of your screen detailing the actions that the buildings supports. For the production panel, available actions are not masked in any color, while an icon masked in either grey or red indicates that the action has not been unlocked or you do not have sufficient resources to perform that action, respectively. Additionally, you can hover the cursor over any icon to show a tooltip with more details.\\n",
+      "translation" : "Сада када је изабран Цивиц Центер, приметићете да ће се у доњем десном углу екрана појавити производна табла са детаљима о радњама које зграде подржавају. За производну плочу доступне радње нису маскиране у било коју боју, док икона маскирана сивом или црвеном означава да радња није откључана или да немате довољно ресурса за извођење те радње. Осим тога, можете поставити показивач миша изнад било које иконе да бисте приказали опис са више детаља.\\n"
+   },
+   "4e247a2121f9e221a05b5ce8e6579e64" : {
+      "english" : "Let's train some Female Citizens to gather more food. Select the Civic Center, hold Shift and click on the Female Citizen icon to train five Female Citizens.",
+      "translation" : "Хајде да обучимо неке грађанке да прикупе више хране. Одаберите Грађански центар, држите Схифт и кликните на икону Грађанка да обучите пет грађанки."
+   },
    "5275c91502a278ac6c05e2891faf0b3e" : {
       "english" : "This tutorial will teach the basics of developing your economy. Typically, you will start with a Civic Center and a couple units in Village Phase and ultimately, your goal will be to develop and expand your empire, often by evolving to Town Phase and City Phase afterward.\\n",
       "translation" : "Овај водич ће научити основе развоја ваше економије. Обично ћете започети са грађанским центром и неколико јединица у сеоској фази, а на крају ће вам циљ бити развој и проширење вашег царства, често еволуцијом касније у градску фазу и градску фазу. \\ Н"
+   },
+   "58ae0da0f8a339f32b334417ccf0feb9" : {
+      "english" : "While waiting for the phasing up, you may reassign your idle workers to gathering the resources you are short of.",
+      "translation" : "Док чекате постепено укидање, своје беспослене раднике можете прераспоређивати у прикупљање ресурса који вам недостају."
+   },
+   "5e55f9bc113ab4404fec3ae74e63b03d" : {
+      "english" : "Train a batch of Hoplites at the Civic Center. Select the Civic Center and with it selected right-click on a tree nearby. Units from the Civic Center will now automatically gather wood.",
+      "translation" : "Обучите групу хоплита у Грађанском центру. Одаберите Грађански центар и с њим одаберите десни клик на дрво у близини. Јединице из Грађанског центра сада ће аутоматски прикупљати дрва."
+   },
+   "6216f596eaaf8b12ff84f6650b083790" : {
+      "english" : "Select the Citizen Soldier, right-click on a tree near the Civic Center to begin gathering wood. Citizen Soldiers gather wood faster than Female Citizens.",
+      "translation" : "Одаберите Цитизен Солдиер, кликните десним тастером миша на дрво у близини Грађанског центра да бисте започели сакупљање дрва. Грађански војници скупљају дрва брже од грађанки."
+   },
+   "690078f0991c355511b17b73a949867d" : {
+      "english" : "Female Citizens should continue to gather resources.",
+      "translation" : "Грађанке би требале наставити прикупљати ресурсе."
+   },
+   "71bce53334765eb5de122a4949ab66f5" : {
+      "english" : "Select two of your newly-trained Female Citizens and ask them to build these Houses in the empty space to the east of the Civic Center. To do so, after selecting the Female Citizens, click on the House icon in the bottom right panel and, while holding Shift, click first on the position in the map where you want to build the first House, and then click on the position where you want to build the second House (when you give a command while holding Shift, you put the command in a queue; units automatically switch to the next command in their queue when they finish their current command). Press Escape to get rid of the House cursor so you don't spam Houses all over the map.\\n",
+      "translation" : "Одаберите две ваше новообучене грађанке и замолите их да саграде ове куће у празном простору источно од Грађанског центра. Да бисте то учинили, након одабира грађанки, кликните на икону Куће у доњем десном панелу и, док држите Схифт, прво кликните на позицију на карти на којој желите изградити прву Кућу, а затим кликните на позицију гдје желите да изградите другу кућу (када дате команду док држите Схифт, стављате команду у ред; јединице аутоматски прелазе на следећу команду у свом реду када заврше своју тренутну команду). Притисните тастер Есцапе да бисте се ослободили курсора Куће како не бисте спамовали Куће по целој мапи.\\n"
+   },
+   "72da4bc06bd77e832afbcccea1a761cc" : {
+      "english" : "Stop all your soldiers gathering resources and instead task small groups to find the enemy Civic Center on the map. Once the enemy's base has been spotted, send your Siege Engines and all remaining soldiers to destroy it.\\n",
+      "translation" : "Зауставите све своје војнике у прикупљању ресурса и уместо тога задајте малим групама да пронађу непријатељски грађански центар на мапи. Када непријатељска база буде уочена, пошаљите своје опсадне моторе и све преостале војнике да је униште.\\n"
+   },
+   "7533afed8109183750efe599082b7339" : {
+      "english" : "The units should be ready soon.\\n",
+      "translation" : "Јединице би ускоро требале бити спремне.\\n"
    },
    "760883e8b9249dde154cad22aac1a621" : {
       "english" : "The newly trained units automatically go to the trees and start gathering wood.\\n",
       "translation" : "Новообучене јединице аутоматски одлазе до дрвећа и почињу сакупљати дрва. \\ Н"
    },
+   "7833587a000ac3c9a4d228bfcb9d8408" : {
+      "english" : "You have two main types of starting units: Female Citizens and Citizen Soldiers. Female Citizens are purely economic units; they have low health and little to no attack. Citizen Soldiers are workers by default, but in times of need, can utilize a weapon to fight. You have two categories of Citizen Soldiers: Infantry and Cavalry. Female Citizens and Infantry Citizen Soldiers can gather any land resources while Cavalry Citizen Soldiers can only gather meat from animals.\\n",
+      "translation" : "Имате две главне врсте почетних јединица: грађанке и грађанске војнике. Грађанке су чисто економске јединице; имају слабо здравље и мало или нимало напада. Грађански војници су подразумевано радници, али у време потребе могу користити оружје за борбу. Имате две категорије грађанских војника: пешадију и коњицу. Грађанке и војници грађанци пешадије могу прикупити било које земљишне ресурсе, док војници грађани коњице могу сакупити само месо од животиња.\\n"
+   },
+   "7a7a68bae3811a9dfbfcd61691e6a55c" : {
+      "english" : "If you still miss some resources (icon with red overlay), wait for them to be gathered by your workers.",
+      "translation" : "Ако вам и даље недостају неки ресурси (икона са црвеним слојем), сачекајте да их прикупе ваши радници."
+   },
    "7bfef0f370da49052e1eec195909ea4d" : {
       "english" : "Citizen Soldiers gather wood faster than Female Citizens. Select the Civic Center and, while holding Shift, click on the second unit icon, the Hoplites (holding Shift trains a batch of five units). You can also train units individually by simply clicking, but training 5 units together takes less time than training 5 units individually.",
       "translation" : "Грађански војници скупљају дрва брже од грађанки. Одаберите Цивиц Центер и, док држите Схифт, кликните на икону друге јединице, Хоплитес (држањем Схифт тренира серију од пет јединица). Такође можете појединачно тренирати јединице једноставним кликом, али обука 5 јединица заједно траје мање времена него обука 5 јединица појединачно."
+   },
+   "81dde5e35af0a3a4ee58a0d3a6a21d0f" : {
+      "english" : "First, let's set a rally point. Setting a rally point on a building that can train units will automatically designate a task to the new unit upon completion of training. We want to send the newly trained units to gather wood on the group of trees to the south of the Civic Center. To do so, select the Civic Center by clicking on it and then right-click on one of the trees.\\n",
+      "translation" : "Прво, поставимо тачку окупљања. Постављање окупљалишта на згради која може обучавати јединице аутоматски ће доделити задатак новој јединици по завршетку обуке. Желимо да пошаљемо новообучене јединице да скупљају дрво на групи дрвећа јужно од Грађанског центра. Да бисте то урадили, изаберите грађански центар кликом на њега, а затим десним тастером миша кликните на једно од стабала.\\n"
+   },
+   "830a0856044329805fc5f4ab5e89cc18" : {
+      "english" : "Rally points are indicated by a small flag at the end of the blue line.",
+      "translation" : "Места окупљања означена су малом заставицом на крају плаве линије."
+   },
+   "84bcc8e761400b75d7a3f8e3d9430331" : {
+      "english" : "Do not forget to press the batch training hotkey while clicking to produce multiple units.",
+      "translation" : "Не заборавите да притиснете интервентни тастер за групну обуку док кликнете да бисте произвели више јединица."
+   },
+   "8556210e112c268a9b7eb7a1295fd159" : {
+      "english" : "But as they have to bring it back to the Civic Center to deposit it, their gathering efficiency suffers from the distance. To fix that, we can build a Storehouse, a dropsite for wood, stone, and metal, close to the trees. To do so, select your five newly trained Citizen Soldiers and look for the construction panel on the bottom right, click on the Storehouse icon, move the mouse as close as possible to the trees you want to gather and click on a valid place to build the dropsite.\\n",
+      "translation" : "Али пошто морају да га врате у Грађански центар да га депонују, њихова ефикасност прикупљања пати из даљине. Да бисмо то поправили, можемо изградити складиште, место за постављање дрвета, камена и метала, близу дрвећа. Да бисте то урадили, изаберите својих пет обучених грађанских војника и потражите грађевинску плочу у доњем десном углу, кликните на икону складишта, померите миш што је могуће ближе дрвећу које желите да сакупите и кликните на важеће место за изградњу место пада.\\n"
+   },
+   "88afd17dc72c7d72a9330936e87455d8" : {
+      "english" : "3) Double-click on a unit. This will select every unit of the same type as the specified unit in your visible window. Triple-click will select all units of the same type on the entire map.\\n",
+      "translation" : "3) Двапут кликните на јединицу. Ово ће изабрати сваку јединицу истог типа као наведену јединицу у вашем видљивом прозору. Троструким кликом одабраће се све јединице истог типа на целој карти.\\n"
+   },
+   "8d7fd1ae3fbf3aef6f6d28fd4fb9664a" : {
+      "english" : "When the Farmstead construction is finished, its builders will automatically look for food, and in this case, they will go after the nearby goats.\\n",
+      "translation" : "Када изградња Фармстеад буде завршена, њени градитељи ће аутоматски тражити храну, ау овом случају ће кренути на оближње козе.\\n"
+   },
+   "8f61287fba724eb05dd9587a5c6d4f08" : {
+      "english" : "Now that you are in City Phase, build the Arsenal nearby and then use it to construct 2 Battering Rams.",
+      "translation" : "Сада када сте у фази града, изградите Арсенал у близини, а затим га користите за изградњу 2 осипа за ударање."
    },
    "9138fe9a71758bbab5bb0e8f1ce25369" : {
       "english" : "To do so, we could select three Citizen Soldiers and right-click on the stone quarry on the west of the Civic Center (the cursor changes when hovering the stone quarry while your soldiers are selected). However, these soldiers were gathering wood, so they may still carry some wood which would be lost when starting to gather another resource.",
       "translation" : "Да бисмо то учинили, могли смо изабрати три грађанска војника и десним тастером миша кликнути на каменолом западно од Грађанског центра (курсор се мења при лебдењу каменог каменолома док су ваши војници одабрани). Међутим, ти су војници скупљали дрва, па ће можда и даље носити нешто дрва које би се изгубило када би почели прикупљати други ресурс."
    },
+   "926b7d955a61b30b49b5dc9c221c5d09" : {
+      "english" : "Select the Civic Center again and advance to Town Phase by clicking on the II icon (you have to wait for the barracks to be built first). This will allow Town Phase buildings to be constructed.",
+      "translation" : "Поново изаберите грађански центар и пређите на градску фазу кликом на икону ИИ (морате сачекати да се касарна прво изгради). Ово ће омогућити изградњу зграда градске фазе."
+   },
    "9306502f96004646b42a779c3663a410" : {
       "english" : "Build a Forge and research the Infantry Training technology (sword icon) to improve infantry hack attack.",
       "translation" : "Изградите ковачницу и истражите технологију пешадијске обуке (икона мача) да бисте побољшали хакерски напад пешадије."
+   },
+   "94aa802a899f6aded23eb5df71fc0935" : {
+      "english" : "Order the idle Skirmishers to build an outpost to the north east at the edge of your territory.",
+      "translation" : "Наредите бескорисним Скирмисхерима да изграде предстражу на североистоку на ивици ваше територије."
+   },
+   "953f631e7992f459bfdef43da4b65f3d" : {
+      "english" : "We will need a decent chunk of space around the Farmstead to build Fields. In addition, we can see goats on the west side to further improve our food gathering efficiency should we ever decide to hunt them.\\n",
+      "translation" : "Биће нам потребан пристојан део простора око Фарме за изградњу Поља. Осим тога, можемо видети козе на западној страни како бисмо додатно побољшали ефикасност прикупљања хране ако се икада одлучимо за њихов лов.\\n"
+   },
+   "95bfb09921403d50b5883125b26e0c4b" : {
+      "english" : "Train a batch of Skirmishers by holding %(hotkey)s and clicking on the Skirmisher icon in the Civic Center.",
+      "translation" : "Обучите групу Скирмисхерс држањем %(hotkey)s и кликом на икону Скирмисхер у Грађанском центру."
+   },
+   "95dbc8a9012e31493dacce1d95a96717" : {
+      "english" : "Now that the rally point is set, we can produce additional units and they will do their assigned task automatically.\\n",
+      "translation" : "Сада када је тачка окупљања постављена, можемо произвести додатне јединице и оне ће аутоматски обавити додијељени задатак.\\n"
+   },
+   "96313f6e29a57f4c057e2d77dbd8c63d" : {
+      "english" : "Select four of your soldiers and ask them to build a Barracks: as before, start selecting the soldiers, click on the Barracks icon in the production panel and then lay down a foundation not far from your Civic Center where you want to build.",
+      "translation" : "Одаберите четворицу својих војника и замолите их да саграде касарну: као и до сада, почните са одабиром војника, кликните на икону касарне на производној плочи, а затим поставите темељ недалеко од свог грађанског центра у којем желите да изградите."
+   },
+   "9b330f00019ffa257c5a0bca70b4d2e2" : {
+      "english" : "Introductory Tutorial",
+      "translation" : "Уводни водич"
+   },
+   "9ba5fc05f1f7e0a8bbf936c7f017710a" : {
+      "english" : "Reminder: to select only two Female Citizens, click on the first one and then hold Shift and click on the second one.",
+      "translation" : "Подсетник: да бисте изабрали само две грађанке, кликните на прву, а затим држите Схифт и кликните на другу."
+   },
+   "9ee552570976bac8cb8d5d0a921bd23c" : {
+      "english" : "Let's wait for the units to be trained.\\n",
+      "translation" : "Сачекајмо обуку јединица.\\n"
+   },
+   "a3d3081eb6bea63f0ecd50bb6a2934b6" : {
+      "english" : "Once you meet the City Phase requirements, select your Civic Center and advance to City Phase.",
+      "translation" : "Када испуните услове градске фазе, изаберите свој грађански центар и пређите на градску фазу."
    },
    "a4e09e84f931a78d7aeec811a0281359" : {
       "english" : "Select the Civic Center building and hold %(hotkey)s while clicking on the Hoplite icon once to begin training a batch of Hoplites.",
@@ -35,20 +247,176 @@
       "english" : "The selected Citizens will automatically start constructing the building once you place the foundation.",
       "translation" : "Одабрани грађани ће аутоматски почети са изградњом зграде када поставите темељ."
    },
+   "abbc2515e83cf70a30714da9a491bc89" : {
+      "english" : "In later phases, you need usually stone and metal to build bigger structures and train better soldiers. Hence, while waiting for the research to be done, you will send half of your idle Citizen Soldiers (who have finished building the Barracks) to gather stone and the other half to gather metal.\\n",
+      "translation" : "У каснијим фазама обично су вам потребни камен и метал за изградњу већих структура и обуку бољих војника. Стога ћете, док чекате на истраживање, послати половину својих беспослених грађанских војника (који су завршили изградњу касарне) да сакупе камен, а другу половину да сакупе метал.\\n"
+   },
+   "ad079573de87183e5168ec087b4478a0" : {
+      "english" : "Starting Economy Walkthrough",
+      "translation" : "Покретање Економског корака"
+   },
+   "ad34838fbe37dda41846f2ca3fbe15a2" : {
+      "english" : "Prepare for an attack by an enemy player. Train more soldiers using the Barracks, and get idle soldiers to build a Tower near your Outpost.",
+      "translation" : "Припремите се за напад непријатељског играча. Обучите више војника у касарни и натерајте беспослене војнике да саграде кулу у близини ваше испоставе."
+   },
+   "b07e8c92663f8283bd61cade61c982c8" : {
+      "english" : "There are primarily three ways to select units:\\n",
+      "translation" : "Постоје првенствено три начина за одабир јединица:\\n"
+   },
+   "b166990f3bf58951041d53e952f5bf5a" : {
+      "english" : "Hold shift and click on the Female Citizen icon.",
+      "translation" : "Држите Схифт и кликните на икону Грађанка."
+   },
+   "b1a82300b4f756c50db278713f92322c" : {
+      "english" : "While waiting, direct your attention to the panel at the top of your screen. On the upper left, you will see your current resource supply (food, wood, stone, and metal). As each worker brings resources back to the Civic Center (or another dropsite), you will see the amount of the corresponding resource increase.\\n",
+      "translation" : "Док чекате, усмерите пажњу на плочу при врху екрана. У горњем левом углу видећете тренутне залихе ресурса (храна, дрво, камен и метал). Како сваки радник враћа ресурсе у Грађански центар (или друго место за приступ), видећете да се износ одговарајућих ресурса повећава.\\n"
+   },
+   "b25eb934a95fd172f94e0de4cd55c889" : {
+      "english" : "Let's wait for the Barracks to be built. As this construction is lengthy, you can add two soldiers to build it faster. To do so, select your Civic Center and set up a rally point on the Barracks foundation by right-clicking on it (you should see a hammer icon). Then produce two more builders by clicking on the Hoplite icon twice.",
+      "translation" : "Сачекајмо изградњу касарне. Пошто је ова конструкција дуга, можете додати два војника да бисте је брже изградили. Да бисте то учинили, изаберите свој Грађански центар и поставите збориште на темељима касарне десним кликом на њега (требало би да видите икону чекића). Затим направите још два градитеља тако што ћете двапут кликнути на икону Хоплите."
+   },
+   "b3073ad6f2c87cc441f127cdc5473629" : {
+      "english" : "The enemy is coming. Train more soldiers to fight off the enemies.",
+      "translation" : "Непријатељ долази. Обучите више војника у борби против непријатеља."
+   },
+   "b438e48f37da867e4f939c143e4f16b8" : {
+      "english" : "Up to five Workers can gather from a Field. To add additional Workers, select the Civic Center and set a rally point on a Field by right-clicking on it. If the Field is not yet finished, new Workers sent by a rally point will help building it, and when built, they will gather food.",
+      "translation" : "Са поља се може окупити до пет радника. Да бисте додали додатне раднике, изаберите Грађански центар и поставите поље окупљања на Пољу десним кликом на њега. Ако поље још није завршено, нови радници послани са места окупљања помоћи ће му у изградњи, а када буду изграђени, прикупљаће храну."
+   },
+   "b59357352868793c550c8ce20e891ca3" : {
+      "english" : "While waiting for the phase change, you may train more soldiers at the Barracks.",
+      "translation" : "Док чекате промену фазе, можете обучити више војника у касарни."
+   },
+   "b79007a722f850351ab88159f5e49b04" : {
+      "english" : "This is the end of the walkthrough. This should give you a good idea of the basics of setting up your economy.",
+      "translation" : "Ово је крај проласка. Ово би вам требало дати добру представу о основама успостављања ваше економије."
+   },
+   "b97396329e852565a0c5c74a04404459" : {
+      "english" : "This is a very important concept to keep in mind: gathered resources have to be brought back to a dropsite to be accounted, and you should always try to minimize the distance between resource and nearest dropsite to improve your gathering efficiency.",
+      "translation" : "Ово је веома важан концепт који треба имати на уму: прикупљени ресурси морају бити враћени на место где се постављају рачуни, а ви увек треба да покушате да смањите растојање између ресурса и најближег места пада како бисте побољшали ефикасност прикупљања."
+   },
+   "ba183fd3e1371b446699a1bf2a8fad85" : {
+      "english" : "Select the Civic Center and right-click on the Field.",
+      "translation" : "Одаберите грађански центар и кликните десним тастером миша на поље."
+   },
+   "ba9279c0a4e83820dd549fe3db7d7b45" : {
+      "english" : "We now have enough resources, but one structure is missing. Although this is an economic tutorial, it is nonetheless useful to be prepared for defense in case of attack, so let's build Barracks.\\n",
+      "translation" : "Сада имамо довољно ресурса, али једна структура недостаје. Иако је ово економски водич, ипак је корисно бити спреман за одбрану у случају напада, па хајде да изградимо касарну.\\n"
+   },
+   "ba955b5ecb02f2c7cfc9b9fe92b76056" : {
+      "english" : "Perform a similar order queue with the remaining soldiers and the metal mine in the west.",
+      "translation" : "Направите сличан ред наручивања са преосталим војницима и рудником метала на западу."
+   },
+   "bd4b2d4c46ef4106615d9c763367d362" : {
+      "english" : "Thus, we should order them to deposit their wood in the Civic Center along the way. To do so, we will hold Shift while clicking to queue orders: select your soldiers, hold Shift and right-click on the Civic Center to deposit their wood and then hold Shift and right-click on the stone quarry to gather it.\\n",
+      "translation" : "Стога бисмо им требали наредити да успут депонирају своје дрво у Грађански центар. Да бисмо то учинили, држат ћемо Схифт док кликамо да ставимо редослијед у редове: одаберите своје војнике, држите Схифт и десном типком миша кликните на Цивиц Центер да депонирате дрва, а затим држите Схифт и десном типком миша кликните каменолом да га прикупите.\\n"
+   },
+   "bf45802a9e6f998e9fbdc5455c1d42d9" : {
+      "english" : "You should now be able to research Town Phase. Select the Civic Center and click on the technology icon.\\n",
+      "translation" : "Сада бисте требали бити у могућности да истражите градску фазу. Одаберите Цивиц Центер и кликните на икону технологије.\\n"
+   },
+   "c80c5354aa64b14d171f219f4807aac7" : {
+      "english" : "When the Field is ready, the builders will automatically start gathering it.\\n",
+      "translation" : "Када поље буде спремно, градитељи ће га аутоматски почети прикупљати.\\n"
+   },
+   "c8ea2c44ad247aa9c0707eeea4bb0e95" : {
+      "english" : "Let's wait for the Farmstead to be built.",
+      "translation" : "Сачекајмо да се сагради Фарма."
+   },
+   "c99491bdb1eb218272169eb665c466ea" : {
+      "english" : "If you try to select the three idle Female Citizens by clicking and dragging a selection rectangle over them, you might accidentally select additional units. To avoid that, hold the I key while selecting so that only idle units are selected. If you accidentally select a cavalry unit, hold Ctrl and click on the cavalry unit icon of the selection panel at the bottom of the screen to remove the cavalry unit from the current selection.",
+      "translation" : "Ако покушате да одаберете три грађанке у стању мировања кликом и превлачењем правоугаоника за избор преко њих, можда ћете случајно изабрати додатне јединице. Да бисте то избегли, држите тастер И док бирате тако да се изаберу само јединице у стању мировања. Ако сте случајно одабрали коњичку јединицу, држите притиснут тастер Цтрл и кликните на икону јединице коњице на табли за избор при дну екрана да уклоните коњичку јединицу из тренутног избора."
+   },
+   "cc4cb2d188489196aeef4629e6d553a5" : {
+      "english" : "Try to repel the attack.",
+      "translation" : "Покушајте да одбијете напад."
+   },
    "cee538427a73afd8000b55aaef30485a" : {
       "english" : "The top row of buttons contains portraits of units that may be trained at the building while the bottom one or two rows will have researchable technologies. Hover the cursor over the II icon. The tooltip will tell us that advancing to Town Phase requires both more constructed structures as well as more food and wood resources.",
       "translation" : "Горњи ред дугмади садржи портрете јединица које се могу обучавати у згради, док ће доњи један или два реда имати технологије за истраживање. Задржите показивач изнад иконе ИИ. Објашњење ће нам рећи да напредовање до градске фазе захтева и изграђеније структуре, као и више хране и дрвних ресурса."
+   },
+   "d14f0bfee6b0fd3ca5d86f3e1b207a35" : {
+      "english" : "Select the Civic Center, then hover the cursor over the tree and right-click when you see your cursor change into a wood icon.",
+      "translation" : "Одаберите Цивиц Центер, а затим поставите показивач изнад стабла и кликните десним тастером миша када видите да се курсор мења у дрвену икону."
+   },
+   "d207071aba12abcc6b71ffb4abbdd440" : {
+      "english" : "The enemy attack has been thwarted. Now build a market and a temple while you assign new units to gather required resources.",
+      "translation" : "Непријатељски напад је осујећен. Сада изградите тржиште и храм док додељујете нове јединице за прикупљање потребних ресурса."
+   },
+   "d2bfe4ae24eba331ba729c75e7dbbb6b" : {
+      "english" : "We should start preparing to phase up into Town Phase, which will unlock many more units and buildings. Select the Civic Center and hover the cursor over the Town Phase icon to see what is still needed.\\n",
+      "translation" : "Требало би да се почнемо припремати за постепену фазу града, која ће откључати још много јединица и зграда. Одаберите грађански центар и задржите показивач изнад иконе градске фазе да видите шта је још потребно.\\n"
+   },
+   "d4b764e5d451cf18b5953edddc920500" : {
+      "english" : "Cavalry Citizen Soldiers are good for hunting. Select your Cavalry and order him to hunt the chickens around your Civic Center in similar fashion.",
+      "translation" : "Коњички грађански војници су добри за лов. Одаберите своју коњицу и наредите му да на сличан начин лови пилиће око вашег Грађанског центра."
    },
    "d89512802cd9e779e63f155973f6d5be" : {
       "english" : "But your House builders will only look for something else to build and, if nothing found, become idle. Let's wait for them to build the Houses.",
       "translation" : "Али ваши градитељи кућа ће тражити само нешто друго за изградњу и, ако ништа не пронађу, постаће беспослени. Сачекајмо да саграде Куће."
    },
+   "dac3fb0694471430bb7fe94e02633b83" : {
+      "english" : "You can increase the gather rates of your workers by researching new technologies available in some buildings.\\n",
+      "translation" : "Можете повећати стопе прикупљања својих радника истраживањем нових технологија доступних у неким зградама.\\n"
+   },
+   "dd00cb749727651cbd663cfa8c8fdd3d" : {
+      "english" : "You can change the level of zoom using the mouse wheel and the camera view using any of your keyboard's arrow keys.\\n",
+      "translation" : "Ниво зума можете променити помоћу точкића миша и приказ камере помоћу било ког тастера са стрелицом на тастатури.\\n"
+   },
+   "e037bb598f007d3fa397dc07b9263dc2" : {
+      "english" : "You can click on an empty space on the map to reset the selection. Try each of these methods before tasking all of your Female Citizens to gather the grapes to the southeast of your Civic Center by right-clicking on the grapes when you have all the Female Citizens selected.",
+      "translation" : "Можете да кликнете на празан простор на мапи да бисте поништили избор. Испробајте сваку од ових метода пре него што задате свим својим грађанкама да сакупе грожђе југоисточно од вашег Грађанског центра десним кликом на грожђе када одаберете све грађанке."
+   },
+   "e141b0cb90deb020b72526eca09ad4f4" : {
+      "english" : "Now click three times on the Female Citizen icon in the bottom right panel to train three additional farmers.",
+      "translation" : "Сада кликните три пута на икону Грађанка у доњем десном панелу да бисте обучили три додатна пољопривредника."
+   },
+   "e1df63e074efd4b68b9f115cf12a5b83" : {
+      "english" : "Build a Farmstead in an open space beside the Civic Center using any idle builders.",
+      "translation" : "Изградите сеоско имање на отвореном простору поред Грађанског центра користећи све нерадне градитеље."
+   },
+   "e2b6a0b93993b59d2a9460772dea1b98" : {
+      "english" : "Select the three remaining (idle) Female Citizens and order them to build a Farmstead in the center of the large open area to the west of the Civic Center.\\n",
+      "translation" : "Одаберите три преостале грађанке (у стању мировања) и наредите им да саграде сеоско имање у центру великог отвореног простора западно од Грађанског центра.\\n"
+   },
+   "e46ed09c3a99e3d3394fd82e2ba66082" : {
+      "english" : "Click without holding Shift to train a single unit.",
+      "translation" : "Кликните без држања Схифт да бисте обучили једну јединицу."
+   },
+   "e5fb2288f6580bbeff0f3a43f9ea6892" : {
+      "english" : "At this point, food and wood are the most important resources for developing your economy, so let's start with gathering food. Female Citizens gather vegetables faster than other units.\\n",
+      "translation" : "У овом тренутку, храна и дрво су најважнији ресурси за развој ваше економије, па почнимо са прикупљањем хране. Грађанке сакупљају поврће брже од осталих јединица.\\n"
+   },
    "e8f3e25903c4d80185adbe6bbc6a96c4" : {
       "english" : "Left-click on a Female Citizen and then right-click on a berry bush to make that Female Citizen gather food. Female Citizens gather vegetables faster than other units.",
       "translation" : "Кликните левим тастером миша на грађанку, а затим десним тастером миша кликните на бобицу да бисте натерали грађанку да сакупи храну. Грађанке сакупљају поврће брже од осталих јединица."
    },
+   "ec98f0bf9ba0230415fa67c51148d1b6" : {
+      "english" : "2) Click on one of them and then add additional units to your selection by holding Shift and clicking each additional unit (or also via the above selection rectangle).\\n",
+      "translation" : "2) Кликните на једну од њих, а затим додајте додатне јединице свом избору држањем Схифт и кликом на сваку додатну јединицу (или такође преко горњег правоугаоника за избор).\\n"
+   },
    "edcc5cf05eb16d563616dc6291eca56a" : {
       "english" : "\\nYou may also toggle between showing and hiding this tutorial panel at any moment using %(hotkey)s.\\n",
       "translation" : "\\ нМожете такође у било ком тренутку да се пребацујете између приказивања и сакривања овог водича помоћу %(интервентног тастера) с. \\ н"
+   },
+   "f0c7611c60125169b21e753a6263e9ad" : {
+      "english" : "You may notice that berries are a finite supply of food. We will need a more lasting food source. Fields produce an unlimited food resource, but are slower to gather than forageable fruits.\\n",
+      "translation" : "Можда ћете приметити да су бобице ограничена залиха хране. Требат ће нам трајнији извор хране. Поља производе неограничене изворе хране, али се скупљају спорије од плодова за исхрану.\\n"
+   },
+   "f17c51c546a099bf2ea505fee774ca3f" : {
+      "english" : "\\nBefore starting, you can toggle between fullscreen and windowed mode using %(hotkey)s.",
+      "translation" : "\\nПре него што започнете, можете да се пребацујете између приказа преко целог екрана и режима прозора помоћу %(hotkey)s ."
+   },
+   "f2febff380278b65b4435253c9150f2d" : {
+      "english" : "Once the Farmstead is constructed, its builders will automatically begin gathering food if there is any nearby. Select the builders and instead make them construct a Field beside the Farmstead.",
+      "translation" : "Када се сеоско имање изгради, његови градитељи ће аутоматски почети сакупљати храну ако је има у близини. Одаберите градитеље и уместо тога их натерајте да направе Поље поред салаша."
+   },
+   "f9e7d8d758d96da1e5a1695a9189775a" : {
+      "english" : "When construction finishes, the builders default to gathering wood automatically.\\n",
+      "translation" : "Када се изградња заврши, градитељи подразумевано аутоматски прикупљају дрво.\\n"
+   },
+   "fbde41b3478db617642bfe7cd689cc0e" : {
+      "english" : "Do not forget to hold Shift and click to train several units.",
+      "translation" : "Не заборавите да држите Схифт и кликнете да бисте обучили неколико јединица."
    }
 }

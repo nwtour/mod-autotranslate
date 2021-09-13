@@ -7,6 +7,10 @@
       "english" : "The Ptolemaic dynasty was a Macedonian Greek royal family which ruled the Ptolemaic Empire in Egypt during the Hellenistic period. Their rule lasted for 275 years, from 305 BC to 30 BC. They were the last dynasty of ancient Egypt.",
       "translation" : "Династија Птоломеја била је македонска грчка краљевска породица која је владала Птоломејским царством у Египту током хеленистичког периода. Њихова владавина трајала је 275 година, од 305. пре Христа до 30. пре Христа. Они су били последња династија старог Египта."
    },
+   "35d440a34c220239c857ef48cadd8c04" : {
+      "english" : "Ptolemy Epigone",
+      "translation" : "Птоломеј Епигона"
+   },
    "37f9d4d69d10eeb89cd3df9c75efaf4f" : {
       "english" : "Pebatjma",
       "translation" : "Пебатјма"
@@ -14,6 +18,18 @@
    "381158828d5173fcf82b099cc0cb7dc1" : {
       "english" : "Ditalcus",
       "translation" : "Диталцус"
+   },
+   "3ef889a26e6075e3f41c477cba36ae34" : {
+      "english" : "Antiochus VIII Grypus",
+      "translation" : "Антиох ВИИИ Грипус"
+   },
+   "476bcd273e742efd861255ec2c52bc96" : {
+      "english" : "Qalhata",
+      "translation" : "Калхата"
+   },
+   "4e68e227a89ca22a530691e4109c4691" : {
+      "english" : "Antiochus I Soter",
+      "translation" : "Антиох И Сотер"
    },
    "5a25521b092a3036f206f4dd90b1253d" : {
       "english" : "Amanishakheto",
@@ -23,9 +39,17 @@
       "english" : "Brihadratha Maurya",
       "translation" : "Брихадратха Мауриа"
    },
+   "611494fb1e1da70bb335bf768c04e748" : {
+      "english" : "Publius Sempronius Tuditanus",
+      "translation" : "Публије Семпроније Тудитан"
+   },
    "74195c56f062a41365d289f98632cfa6" : {
       "english" : "The Macedonian-Greek dynasty that ruled most of Alexander's former empire.",
       "translation" : "Македонско-грчка династија која је владала већином Александровог бившег царства."
+   },
+   "7501992323693467459cbb88ab650249" : {
+      "english" : "Large Rams",
+      "translation" : "Велики овнови"
    },
    "8a317b156c462521862274160096a848" : {
       "english" : "Kurush II the Great",
@@ -34,6 +58,18 @@
    "909cf8ca92c0093d93d94c30e8a25348" : {
       "english" : "Gaius Iulius Iullus",
       "translation" : "Гај Иулије Иул"
+   },
+   "947195c5cc88490bf05d846acb31bc71" : {
+      "english" : "Antiochus V Eupator",
+      "translation" : "Антиох В Еупатор"
+   },
+   "9555fe345642297869738ed17c9ebe87" : {
+      "english" : "Karos",
+      "translation" : "Карос"
+   },
+   "967cc6a868e693309913ebb477c53a0b" : {
+      "english" : "Shatadhanvan Maurya",
+      "translation" : "Схатадханван Мауриа"
    },
    "97eb2c3d0567d5bdbbf2b4c904882119" : {
       "english" : "Carthage, a city-state in modern-day Tunisia, was a formidable force in the western Mediterranean, eventually taking over much of North Africa and modern-day Spain in the third century B.C. The sailors of Carthage were among the fiercest contenders on the high seas, and masters of naval trade. They deployed towered War Elephants on the battlefield to fearsome effect, and had defensive walls so strong, they were never breached.",
@@ -50,6 +86,22 @@
    "a50003b63a566ff0100b051978181006" : {
       "english" : "Alara",
       "translation" : "Алара"
+   },
+   "aa6bddf653254be0b60cd903889efd5d" : {
+      "english" : "Xsayarsa I",
+      "translation" : "Кссаиарса И"
+   },
+   "aceae1dd3ea19058b45dea4c92ada738" : {
+      "english" : "The Persian Empire, when ruled by the Achaemenid dynasty, was one of the greatest empires of antiquity, stretching at its zenith from the Indus Valley in the east to Greece in the west. The Persians were the pioneers of empire-building of the ancient world, successfully imposing a centralized rule over various peoples with different customs, laws, religions and languages, and building a cosmopolitan army made up of contingents from each of these nations.",
+      "translation" : "Персијско царство, под владавином династије Ахеменида, било је једно од највећих античких царстава, које се у зениту простирало од долине Инда на истоку до Грчке на западу. Персијанци су били пионири изградње царства древног света, успешно намећући централизовану власт над различитим народима са различитим обичајима, законима, религијама и језицима, и градећи космополитску војску коју чине контингенти из сваког од ових народа."
+   },
+   "c3ba390dd37e90ea95c22eb644a983d0" : {
+      "english" : "Battering Rams +20% attack damage and +2 garrison capacity.",
+      "translation" : "Овнови за ударање +20% оштећења у нападу и +2 капацитета гарнизона."
+   },
+   "dd134f8bf9d8bd1db1fb0b925830c28c" : {
+      "english" : "Battering Rams +20% attack damage. Stone Throwers +10% attack damage.",
+      "translation" : "Отоци за ударање +20% оштећења од напада. Бацачи камена +10% оштећења од напада."
    },
    "ecaabf413c362d205e2b3907dad46cfc" : {
       "english" : "Devavarman Maurya",

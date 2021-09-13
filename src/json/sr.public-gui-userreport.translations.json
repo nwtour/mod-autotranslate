@@ -7,6 +7,10 @@
       "english" : " 7. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, GDPR 77).",
       "translation" : "7. Право на подношење жалбе надзорном органу (ГДПР 13.2.д, ГДПР 77)."
    },
+   "280abfa806c7b328810fd3d18ceff855" : {
+      "english" : " 3. Application Details, for example the 0 A.D. version and build number.",
+      "translation" : "3. Детаљи апликације, на пример верзија 0 АД и број верзије."
+   },
    "323935f04a6243f2d1a22202f95c565e" : {
       "english" : "[font=\\\"sans-bold-18\\\"]0 A.D. Empires Ascendant UserReporter Terms and Conditions[/font]",
       "translation" : "[фонт u003d \\ \"санс-болд-18 \\\"] 0 А.П. Емпирес Асцендант УсерРепортер Услови и одредбе [/фонт]"
@@ -15,13 +19,29 @@
       "english" : " 4. Right to erasure of your UserReports if they are not relevant to the development of 0 A.D., if the data was processed unlawfully or if the user objects to the processing and has overriding legitimate grounds (GDPR 17).",
       "translation" : "4. Право на брисање ваших корисничких извјештаја ако нису релевантни за развој 0 А.Д., ако су подаци обрађени незаконито или ако се корисник противи обради и има надмоћне легитимне основе (ГДПР 17)."
    },
+   "514022b1850ee274c9d4f3aa646d9f7d" : {
+      "english" : "Wildfire Games obtains all UserReport data exclusively from the user (GDPR 14).",
+      "translation" : "Вилдфире Гамес прикупља све податке УсерРепорт искључиво од корисника (ГДПР 14)."
+   },
    "56e96bcd4ef5a5b0771c9d155da94b71" : {
       "english" : " 9. Wildfire Games informs users of their right to access, to rectify, to erase personal data and the right to restrict, to withdraw consent to, to object to personal data processing and to complain at a supervisory authority (GDPR 13.2.b, GDPR 13.2.c, GDPR 13.2.d).",
       "translation" : "9. Вилдфире Гамес обавештава кориснике о њиховом праву на приступ, исправци, брисању личних података и праву на ограничавање, повлачење пристанка, приговарање обради личних података и жалбу надзорном органу (ГДПР 13.2.б, ГДПР 13.2.ц, ГДПР 13.2.д)."
    },
+   "5e35475d132abe835ff3d110959359f3" : {
+      "english" : "    If you wish to access further UserReport data, contact Wildfire Games and provide your UserID pseudonym (GDPR 11). Only with that we may identify your data and process requests (GDPR 13.2.e).",
+      "translation" : "Ако желите приступити даљим подацима УсерРепорт -а, контактирајте Вилдфире Гамес и наведите свој псеудоним УсерИД (ГДПР 11). Само тако можемо идентифицирати ваше податке и захтјеве за обраду (ГДПР 13.2.е)."
+   },
    "6ab22436ac4bd4836f50d3ba6bd1be75" : {
       "english" : "    The current logfolder is %(logPath)s.",
       "translation" : "Тренутна фасцикла евиденције је %(логПатх) с."
+   },
+   "7894b910847ca1af44b2713a42297a06" : {
+      "english" : "    The UserID pseudonym can be found in the user.cfg file of the configuration folder of 0 A.D.",
+      "translation" : "УсерИД псеудоним се може пронаћи у датотеци усер.цфг у конфигурационој фасцикли од 0 А.Д."
+   },
+   "8511c8e309f947e1e9c36bb6438d3dd1" : {
+      "english" : "The UserReport does not include any specially protected categories of personal data (GDPR 9, GDPR 10).",
+      "translation" : "Извештај корисника не укључује никакве посебно заштићене категорије личних података (ГДПР 9, ГДПР 10)."
    },
    "8d88887074f9425b46a10bfc97d52a28" : {
       "english" : " 2. Erase any UserReports for any reason, except where a user has objected to the erasure of his or her data for one of the reasons specified by the GDPR (GDPR 18, GDPR 21).",
@@ -31,13 +51,37 @@
       "english" : "[font=\\\"sans-bold-14\\\"]You agree to:[/font]",
       "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Слажете се са: [/фонт]"
    },
+   "8fb8ca44b97df5ec9513c6ed9de0e235" : {
+      "english" : "    The UserReport is disabled with each version update and only enabled if the user agreed to the new document (GDPR 13.3).",
+      "translation" : "УсерРепорт је онемогућен при сваком ажурирању верзије и омогућен је само ако је корисник пристао на нови документ (ГДПР 13.3)."
+   },
    "b20302356a03358c337dc1e002ff5e2c" : {
       "english" : " 1. Publish UserReport data, excluding the UserID pseudonym, so that community developers may help contribute to 0 A.D. development using this data (GDPR 4.5).",
       "translation" : "1. Објавите податке УсерРепорт -а, искључујући псеудоним УсерИД, тако да програмери заједнице могу помоћи у доприносу развоју 0 А.Д. користећи ове податке (ГДПР 4.5)."
    },
+   "b5ca69c0beba602e2b55432a48db3f31" : {
+      "english" : " 2. Wildfire Games has legitimate interests in the development of 0 A.D and protection against cyberattacks (GDPR 6.1.f).",
+      "translation" : "2. Вилдфире Гамес има легитимне интересе у развоју 0 А.Д. и заштити од кибернетичких напада (ГДПР 6.1.ф)."
+   },
    "cb7e1d073f37c50e134f80e89fbd1148" : {
       "english" : "    The current configuration folder is %(configPath)s.",
       "translation" : "Тренутна фасцикла за конфигурацију је %(цонфигПатх) с."
+   },
+   "d12c2842e9470fa0975ad4b4612af14f" : {
+      "english" : " 3. Wildfire Games does not process any further data for the UserReporter and does not ask for consent to further data processing (GDPR 6.1.a, GDPR 7, GDPR 8, GDPR 13.2.c).",
+      "translation" : "3. Вилдфире Гамес не обрађује додатне податке за УсерРепортер и не тражи сагласност за даљу обраду података (ГДПР 6.1.а, ГДПР 7, ГДПР 8, ГДПР 13.2.ц)."
+   },
+   "d6d380a6ad4f4b57b569e56299839e76" : {
+      "english" : "This allows developers to decide which 0 A.D. program code is safe to use and which optimizations are most feasible to implement next.",
+      "translation" : "Ово омогућава програмерима да одлуче који је програмски код 0 А.Д. сигуран за употребу и које су оптимизације следеће изводљиве."
+   },
+   "e00623f6f610e25cc5ee3ac2d71ba889" : {
+      "english" : " 3. Wildfire Games processes personal data lawfully, fairly and transparently (GDPR 5.1.a, GDPR 12.1).",
+      "translation" : "3. Вилдфире Гамес законито, поштено и транспарентно обрађује личне податке (ГДПР 5.1.а, ГДПР 12.1)."
+   },
+   "e1744aac8ef015065b95aef264c7fd75" : {
+      "english" : " 1. Contact Wildfire Games, by sending an email to webmaster at wildfiregames dot com (GDPR 13.1.a, GDPR 13.1.b).",
+      "translation" : "1. Контактирајте Вилдфире Гамес слањем е -поште вебмастеру на вилдфирегамес дот цом (ГДПР 13.1.а, ГДПР 13.1.б)."
    },
    "f85d11a0a014cb150cac7261faa129a2" : {
       "english" : "The transmission is secured with SSL. Data is protected against unintentional loss in encrypted backups for additional time (GDPR 30.1.g, GDPR 32).",

@@ -19,9 +19,21 @@
       "english" : "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius. Structures +7 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.",
       "translation" : "Напредујте у градску фазу, која откључава више ентитета и технологија. Грађански центри +30% територије утичу на радијус. Структуре +7 брзина регенерације тачака хватања по гарнизонској јединици. Радници +10% сакупљања метала."
    },
+   "4b0d3540c18e380ef52e9aa5677c6301" : {
+      "english" : "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.",
+      "translation" : "Напредујте у градску фазу, која откључава више ентитета и технологија. Грађански центри +50% територије утичу на радијус. Структуре +9 брзина регенерације тачака хватања по гарнизонској јединици. Радници +10% сакупљања метала."
+   },
+   "4f56f14b2146f1c93dce176d09072d5a" : {
+      "english" : "Hire professional mercenaries to fight in your army.",
+      "translation" : "Унајмите професионалне плаћенике да се боре у вашој војсци."
+   },
    "6e596b9dd7d52f6aa296d0e4da5f5ce4" : {
       "english" : "Nyktophylakes",
       "translation" : "Никтопхилакес"
+   },
+   "753f0ce8aac3a9c6e67efe29b800165d" : {
+      "english" : "Phoenician Triremes gain the ability to train Cavalry.",
+      "translation" : "Фенички триреми стичу способност обучавања коњице."
    },
    "7cf8d29c246506e406b3585b3e1fc594" : {
       "english" : "Civic Structures −25% build time and resources cost",
@@ -31,13 +43,29 @@
       "english" : "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +50% territory influence radius. Structures +9 capture points regeneration rate per garrisoned unit.",
       "translation" : "Напредујте у градску фазу, која откључава више ентитета и технологија. Грађански центри +50% територије утичу на радијус. Структуре +9 брзина регенерације тачака хватања по гарнизонској јединици."
    },
+   "85cb9cdaa1657d5df93d79568d22453e" : {
+      "english" : "Civic Centers +100% health and capture points, double default arrows.",
+      "translation" : "Грађански центри +100% здравља и тачке хватања, двоструке подразумеване стрелице."
+   },
+   "9bf4a42d8d4eab8d679b9e39b12f7dff" : {
+      "english" : "Strengthen shields with a metal rim or spine.",
+      "translation" : "Ојачајте штитове са металним ободом или кичмом."
+   },
    "9d5e2d8b9f7573982c759b9929944343" : {
       "english" : "Unlock Champion Chariots at the Stable.",
       "translation" : "Откључајте шампионске кочије у штали."
    },
+   "a60d80eff1f808a9b8165f0abcf70f76" : {
+      "english" : "Sentry and Stone Towers +1 default arrow count.",
+      "translation" : "Сентри анд Стоне Товерс +1 задани број стрелица."
+   },
    "bb932b549b498a641081fb4fbea41be8" : {
       "english" : "Increases outpost vision.",
       "translation" : "Повећава вид предстраже."
+   },
+   "bd7a20360adfb01dc46609f5be83cceb" : {
+      "english" : "Healing Range",
+      "translation" : "Хеалинг Ранге"
    },
    "bfa157077b0bf62f907ef7dfe0ecb58a" : {
       "english" : "Compel serfs to help your workers quarry stone. Increases stone gathering rates.",
@@ -50,5 +78,17 @@
    "c73485213256a554b57acda9b69afbf4" : {
       "english" : "Commercial Treaty",
       "translation" : "Трговачки уговор"
+   },
+   "c9c1c41d19d49745ede6cff2444de80e" : {
+      "english" : "African Elephants −10% resource costs, training time, health, attack damage, and loot.",
+      "translation" : "Афрички слонови имају 10% трошкова ресурса, времена обуке, здравља, оштећења од напада и пљачке."
+   },
+   "e8ce6c2ac53add5b19509d7599d90358" : {
+      "english" : "Cavalry −10% training time.",
+      "translation" : "Коњица има 10% времена за обуку."
+   },
+   "f7d057a31aea8f1dd8fcdd68885ae744" : {
+      "english" : "Elephant Tradition",
+      "translation" : "Традиција слонова"
    }
 }

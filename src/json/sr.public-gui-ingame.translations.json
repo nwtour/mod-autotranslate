@@ -1,58 +1,670 @@
 {
+   "026003003a966b5f448d453c57d4db0c" : {
+      "english" : "Unit motion overlay",
+      "translation" : "Преклапање кретања јединице"
+   },
+   "029ad5455349df54e24870c49919f095" : {
+      "english" : "Press %(hotkey)s to open the public chat.",
+      "translation" : "Притисните %(hotkey)s да бисте отворили јавно ћаскање."
+   },
+   "051fa7fd8ec166672fe072ca103dbf8a" : {
+      "english" : "Tribute",
+      "translation" : "Поштовање"
+   },
+   "0741b6a9552851441cc54862a5e8134e" : {
+      "english" : "Current Count: %(count)s, Limit: %(limit)s.",
+      "translation" : "Тренутни број: %(count)s , Ограничење: %(limit)s ."
+   },
+   "08213f22c428074c961a8c4e67dfbde0" : {
+      "english" : "Display camera frustum",
+      "translation" : "Прикажи камеру фрустум"
+   },
+   "08b2d53a84854bbfd79b3f0658421a2a" : {
+      "english" : "Send a flare to your allies",
+      "translation" : "Пошаљите сигнал својим савезницима"
+   },
+   "0b70663ca85bde577295184bd973e62f" : {
+      "english" : "%(player)s bartered %(amountGiven)s for %(amountGained)s.",
+      "translation" : " %(player)s трампано %(amountGiven)s за %(amountGained)s ."
+   },
+   "0b8625597f496ed0bff404265d2f38a4" : {
+      "english" : "Start by selecting the resource you wish to sell from the upper row. For each time the lower buttons are pressed, %(quantity)s of the upper resource will be sold for the displayed quantity of the lower. Press and hold %(hotkey)s to temporarily multiply the traded amount by %(multiplier)s.",
+      "translation" : "Почните одабиром ресурса који желите да продате из горњег реда. За сваки притисак на доњи тастер, %(quantity)s горњег ресурса ће се продати за приказану количину доњег. притисните и држите %(hotkey)s да се привремено помножи трговани износ са %(multiplier)s ."
+   },
+   "0d4c3d1b3f0c14e4aae9e9598ed745db" : {
+      "english" : "Lobby",
+      "translation" : "Предворје"
+   },
+   "0d82790b0612935992bd564a17ce37d6" : {
+      "english" : "Quit",
+      "translation" : "Одустати"
+   },
+   "0da9c8ec6bea3218465cb34744af02d4" : {
+      "english" : "Cannot research while upgrading.",
+      "translation" : "Није могуће истраживати током надоградње."
+   },
+   "0e2b1050512f69aff9ec424bb3ac2eaa" : {
+      "english" : "The %(phaseName)s of %(player)s has been aborted.",
+      "translation" : "Тхе %(phaseName)s оф %(player)s је прекинута."
+   },
+   "0f9b8c7b21d0afa0afd42b35b74ec3cd" : {
+      "english" : "This is the default formation, used for movement orders.",
+      "translation" : "Ово је подразумевана формација, која се користи за налоге кретања."
+   },
+   "10eeae4d46653de92f7fc1b978132747" : {
+      "english" : "Order the selected units to occupy a turret point.",
+      "translation" : "Наредите изабраним јединицама да заузму куполу."
+   },
+   "12695372c14c448a95ae3773d5c9e0dd" : {
+      "english" : "Select chat addressee.",
+      "translation" : "Изаберите примаоца ћаскања."
+   },
+   "132f1e25c256fb1d26f31c7b3904b057" : {
+      "english" : "The entity has to be killed before it can be gathered from",
+      "translation" : "Ентитет мора бити убијен пре него што се од њега прикупи"
+   },
+   "13e8e5441db5102cfb2a52a9a9e48c08" : {
+      "english" : "%(population)s %(neededSlots)s",
+      "translation" : " %(population)s   %(neededSlots)s "
+   },
+   "16d2b386b2034b9488996466aaae0b57" : {
+      "english" : "History",
+      "translation" : "Историја"
+   },
+   "17bf7e081f790c6aad55076ca11e287a" : {
+      "english" : "%(order)s: %(hotkey)s to change order.",
+      "translation" : " %(order)s :  %(hotkey)s да промени редослед."
+   },
+   "184e6769149579ca6e96ab54045b1bff" : {
+      "english" : "Right-click to disable the default formation feature.",
+      "translation" : "Кликните десним тастером миша да бисте онемогућили подразумевану функцију формирања."
+   },
+   "187c1c74a0e3fa1d45957da0e85dade7" : {
+      "english" : "Network notifications",
+      "translation" : "Обавештења о мрежи"
+   },
+   "1b4141e26bd6ce2f2595698faea719d0" : {
+      "english" : "No Markets Available",
+      "translation" : "Нема доступних тржишта"
+   },
+   "1c59b309646324c532f02750faa8bff7" : {
+      "english" : "Standground",
+      "translation" : "Стангроунд"
+   },
+   "1ccbe24bd85384119f562f78965b53b6" : {
+      "english" : "Press to allow allies to use this dropsite",
+      "translation" : "Притисните да бисте савезницима дозволили да користе ово место за приступ"
+   },
+   "1fd391fd19664432d584be92724a5792" : {
+      "english" : "%(label)s %(details)s\\n",
+      "translation" : "\\n  %(label)s "
+   },
+   "21589aa167bb41c803409fdacc892bf8" : {
+      "english" : "%(civ)s\\n%(hotkey_civinfo)s / %(hotkey_structree)s: View Civilization Overview / Structure Tree\\nLast opened will be reopened on click.",
+      "translation" : "\\n\\n %(civ)s  /  %(hotkey_civinfo)s : Преглед прегледа цивилизације / стабло структуре %(hotkey_structree)s Последње отворено биће поново отворено након клика."
+   },
+   "216336e6638c84c3faafb12fc31c7e15" : {
+      "english" : "Press %(hotkey)s to open the observer chat.",
+      "translation" : "Притисните %(hotkey)s да бисте отворили ћаскање посматрача."
+   },
+   "230aadf163f7566d05e82027b7468fdb" : {
+      "english" : "Click when ready.",
+      "translation" : "Кликните када будете спремни."
+   },
+   "244697c30ee7c1126307f712f5355f2a" : {
+      "english" : "%(player)s is advancing to the %(phaseName)s.",
+      "translation" : " %(player)s напредује ка %(phaseName)s ."
+   },
+   "24c6241ee1759fe13f0c0cd7fc74989b" : {
+      "english" : "Out-Of-Sync",
+      "translation" : "Ван синхронизације"
+   },
+   "24e6e4fdfe431b666ac058877a1593ef" : {
+      "english" : "Click to focus on the attacked unit.",
+      "translation" : "Кликните да бисте се фокусирали на нападнуту јединицу."
+   },
+   "25fe06202b33be4a868230c32e3a666d" : {
+      "english" : "%(amount)s%%",
+      "translation" : " %(amount)s %%"
+   },
+   "272afa07b3282bd0c60750b66ad54f9d" : {
+      "english" : "Attack nearby opponents, focus on attackers and chase while visible",
+      "translation" : "Нападајте противнике у близини, фокусирајте се на нападаче и јурите док су видљиви"
+   },
+   "2840f0bc1f7983c45713b94c7eac4ba5" : {
+      "english" : "Garrison Size",
+      "translation" : "Гаррисон Сизе"
+   },
+   "288d468c5e0969f26a310773eda65603" : {
+      "english" : "Unordered",
+      "translation" : "Неуређено"
+   },
+   "2a01a6a3fb41e888b2482ce7ecf29f91" : {
+      "english" : "%(label)s: %(details)s\\n",
+      "translation" : "\\n:  %(label)s "
+   },
    "2bae1b833ca2420a1f1c9fa658268ca4" : {
       "english" : "Players chat",
       "translation" : "Играчи ћаскају"
    },
+   "2cf47f4c93a4c07ba4c419a6333c5d6b" : {
+      "english" : "Press %(hotkey)s to open the ally chat.",
+      "translation" : "Притисните %(hotkey)s да отворите савезнички разговор."
+   },
+   "2e6ba8fade86d9008877434d3818a588" : {
+      "english" : "You are allowed to use this dropsite",
+      "translation" : "Дозвољено вам је да користите ово место за приступ"
+   },
+   "3446a85108dd9cc5aa3bb721b6a2db0a" : {
+      "english" : "The Developer Overlay was closed.",
+      "translation" : "Преклапање програмера је затворено."
+   },
+   "34ce7314c666b30388d758470b356875" : {
+      "english" : "Click to select grouped units, double-click to focus the grouped units and right-click to disband the group.",
+      "translation" : "Кликните да бисте изабрали груписане јединице, двапут кликните да бисте фокусирали груписане јединице и кликните десним тастером миша да бисте расформирали групу."
+   },
+   "34f445728d01a11bc47053190dd80a69" : {
+      "english" : "%(player)s is starting to join the game.",
+      "translation" : " %(player)s почиње да се придружује игри."
+   },
+   "3843bb5b5d703c96ba4cea4a97fc73fc" : {
+      "english" : "%(secondaryName)s — Packed",
+      "translation" : " %(secondaryName)s - Паковано"
+   },
+   "38a760411fe9d9e9c325e7a9ac3ad63c" : {
+      "english" : "Order the selected units to guard a structure or unit.",
+      "translation" : "Наредите изабраним јединицама да чувају структуру или јединицу."
+   },
+   "3a718809a6133804f5143401d2c352d6" : {
+      "english" : "(%(number)s)\\n%(time)s",
+      "translation" : "(\\n) %(number)s "
+   },
+   "3b07327582e79f422fdc320362e2a758" : {
+      "english" : "Your game state is identical to the hosts game state.",
+      "translation" : "Ваше стање игре је идентично стању игре домаћина."
+   },
+   "3d4608d67e9d54ecc820fbc2c33fb90b" : {
+      "english" : "This market is too close to the origin market.",
+      "translation" : "Ово тржиште је преблизу изворном тржишту."
+   },
+   "3dfc116507cda398eed620ee4f56d9b0" : {
+      "english" : "Upgrade to a %(primaryName)s. %(tooltip)s",
+      "translation" : "Надоградите на а %(primaryName)s .  %(tooltip)s "
+   },
+   "3e60634319334b66f6b680dd267425c1" : {
+      "english" : "Capture points",
+      "translation" : "Хватање тачака"
+   },
    "3fa94d7031478237aefc6d28a2a8e8bf" : {
       "english" : "Press %(hotkey)s to pause or resume the game.",
-      "translation" : "Притисните %(интервентни тастер) с да бисте паузирали или наставили игру."
+      "translation" : "Притисните %(hotkey)s да бисте паузирали или наставили игру."
+   },
+   "401b64ffc6115293644d3437c1771f5c" : {
+      "english" : "Waiting for players to connect:",
+      "translation" : "Чека се повезивање играча:"
+   },
+   "40e60be5e99b5b7b3b11ce4cf821cb98" : {
+      "english" : "Click to quit this tutorial.",
+      "translation" : "Кликните да бисте напустили овај водич."
+   },
+   "41cb9954d3bcf1cf5b0ae8431a6785ac" : {
+      "english" : "Insufficient population capacity:",
+      "translation" : "Недовољан капацитет становништва:"
+   },
+   "424d00dfaf597ac6cc10f6c585ecb88f" : {
+      "english" : "Sell:",
+      "translation" : "Продајте:"
+   },
+   "47e44ff18807c72bd22b5c968d942cd8" : {
+      "english" : "Cannot train while upgrading.",
+      "translation" : "Није могуће тренирати током надоградње."
+   },
+   "4b54a4e4701d2fcd70c2b6dc214b4c98" : {
+      "english" : "Remaining ceasefire time: %(time)s.",
+      "translation" : "Преостало време прекида ватре: %(time)s ."
+   },
+   "4c639d834145fc607cb3a31d1aff7384" : {
+      "english" : "%(rank)s Rank",
+      "translation" : " %(rank)s Ранк"
+   },
+   "4d12322fac83613340fe6020c3ceebc5" : {
+      "english" : "Select one type of goods you want to modify by clicking on it, and then use the arrows of the other types to modify their shares. You can also press %(hotkey)s while selecting one type of goods to bring its share to 100%%.",
+      "translation" : "Одаберите једну врсту робе коју желите измијенити кликом на њу, а затим помоћу стрелица других врста измијените њихове удјеле. Такође можете притиснути %(hotkey)s при избору једне врсте робе како би њен удео био 100 %%."
+   },
+   "5504449ca98bfe4c641a23d2b582bb66" : {
+      "english" : "%(player)s has joined the game.",
+      "translation" : " %(player)s се придружио игри."
+   },
+   "554d8e671d265da939c6d3193c6bb578" : {
+      "english" : "Gatherers: current",
+      "translation" : "Скупљачи: тренутни"
+   },
+   "556c0b0e89cd38240a3017499b22cb45" : {
+      "english" : "%(player)s has rejoined the game.",
+      "translation" : " %(player)s се поново придружио игри."
+   },
+   "56de0570cac17328c3e396e45b7b5afb" : {
+      "english" : "Click on \\\"Report a Bug\\\" in the main menu to help fix this.",
+      "translation" : "Кликните на \\ \"Пријави грешку \\\" у главном менију да бисте ово поправили."
+   },
+   "58bc83d5008b3fb4ac356c29dacab1ff" : {
+      "english" : "Filter the chat history.",
+      "translation" : "Филтрирајте историју ћаскања."
+   },
+   "5a0ada41f4771ba9ccaed3f060f149bc" : {
+      "english" : "%(icon)sYour livestock has been attacked by %(attacker)s!",
+      "translation" : " %(icon)s Ваша стока је нападнута %(attacker)s !"
+   },
+   "5a4df3409292ffd48c299de86cee773a" : {
+      "english" : "Press %(hotkey)s to open the previously selected private chat.",
+      "translation" : "Притисните %(hotkey)s да бисте отворили претходно изабрано приватно ћаскање."
    },
    "5f1acae26d43a9c2e8fe27214c55f095" : {
       "english" : "%(popCount)s/%(popLimit)s (%(popMax)s)",
-      "translation" : "%(попЦоунт) с/%(попЛимит) с (%(попМак) с)"
+      "translation" : " %(popCount)s / %(popLimit)s  ( %(popMax)s )"
    },
-   "64f6c40f669754ab8d9d8d28025477fd" : {
-      "english" : null,
-      "translation" : ""
+   "60329899afff16fbad4d6428d9a897da" : {
+      "english" : "Current turrets: %(occupied)s/%(capacity)s",
+      "translation" : "Тренутне куполе: %(occupied)s / %(capacity)s "
    },
-   "67e872659de1b61da1dfe9be75d44979" : {
-      "english" : null,
-      "translation" : ""
+   "60675b6092a53de73ecbe7cd6d534c54" : {
+      "english" : "Can be trained only once.",
+      "translation" : "Може се обучити само једном."
+   },
+   "621529f13b6bccd6277b1e9441fe726f" : {
+      "english" : "Synchronizing gameplay with other players…",
+      "translation" : "Синхронизовање играња са другим играчима ..."
+   },
+   "6400de902154f75763ebe1f74ef9a38e" : {
+      "english" : "Display selection state",
+      "translation" : "Прикажите стање избора"
+   },
+   "64f3b118fe9916274fadcf325a36cc37" : {
+      "english" : "Deactivate auto-queue for selected structures.",
+      "translation" : "Деактивирајте аутоматски ред чекања за изабране структуре."
+   },
+   "6945d551a1973488adab6ae3a2498807" : {
+      "english" : "Out of Sync",
+      "translation" : "Није синхронизовано"
+   },
+   "72948809f5213df68119e8afc9159b4d" : {
+      "english" : "-%(amount)s",
+      "translation" : "- %(amount)s "
+   },
+   "73a92e3ad5b194aea8def1c933979981" : {
+      "english" : "Unload %(name)s",
+      "translation" : "Истоварити %(name)s "
+   },
+   "73d667ce2b46c64caf74464aa04bd992" : {
+      "english" : "Enable time warp",
+      "translation" : "Омогући искривљавање времена"
+   },
+   "749288faee97eea9b6de78f4259a0e91" : {
+      "english" : "%(label)s %(details)s",
+      "translation" : " %(label)s   %(details)s "
+   },
+   "78a998f555c80bbdefb986f470072367" : {
+      "english" : "Lock cull camera",
+      "translation" : "Закључај камеру за одвајање"
    },
    "7b246a14e8aea8cce4560807db2cc10f" : {
       "english" : "Rejoining Multiplayer games with AIs is not supported yet!",
       "translation" : "Поновно придруживање играма за више играча са вештачким интелигенцијом још није подржано!"
    },
+   "7c2b042b87bd29093fb75db3dcfafddd" : {
+      "english" : "The auto-queue will try to train this item later.",
+      "translation" : "Аутоматски ред ће касније покушати да обучи ову ставку."
+   },
+   "7dac8b3d0b6e8bef21902e82ac82809c" : {
+      "english" : "Upgrade to a %(primaryName)s.",
+      "translation" : "Надоградите на а %(primaryName)s ."
+   },
+   "8103b309b1f138ca508e2d52877d178e" : {
+      "english" : "+%(amount)s",
+      "translation" : "+ %(amount)s "
+   },
+   "84e6779210ae8da25a1aadec805b4fa0" : {
+      "english" : "Range overlay",
+      "translation" : "Преклапање опсега"
+   },
+   "8650acca9e54b8294114200692b526fa" : {
+      "english" : "Press %(hotkey)s to open the multiplayer lobby page without leaving the game.",
+      "translation" : "Притисните %(hotkey)s за отварање предворја за више играча без напуштања игре."
+   },
+   "86b0ab4ab32ac3f23c91ff37bd0402f4" : {
+      "english" : "Out-Of-Sync error on turn %(turn)s.",
+      "translation" : "Грешка ван синхронизације на скретању %(turn)s ."
+   },
+   "86dbfc95036c67c8f2e2112c2c040bbe" : {
+      "english" : "m:ss",
+      "translation" : "м: сс"
+   },
+   "89758462a401f07f980e3bbb4da6915f" : {
+      "english" : "Toggle Diplomacy Colors",
+      "translation" : "Укључите / искључите боје дипломатије"
+   },
+   "8c8430f496e6958960dd99e6bf604290" : {
+      "english" : "Bounding box overlay",
+      "translation" : "Прекривање граничне кутије"
+   },
+   "91659b7c7112a7c697eafa467c37064b" : {
+      "english" : "Chat messages",
+      "translation" : "Поруке за ћаскање"
+   },
+   "91d3d7fbd2a224ebbec40b29143b387b" : {
+      "english" : "Replay saved to %(filepath)s",
+      "translation" : "Реприза је сачувана у %(filepath)s "
+   },
+   "947fcfe47df345f5442c66c063310398" : {
+      "english" : "Press to prevent allies from using this dropsite",
+      "translation" : "Притисните да спречите савезнике да користе ово место за приступ"
+   },
+   "9587aaaceba3f5acfe1ac274fe54b500" : {
+      "english" : "Your game state differs from the hosts game state.",
+      "translation" : "Ваше стање игре се разликује од стања игре домаћина."
+   },
+   "98a7ae5df115916c8a1742caa4a5f059" : {
+      "english" : "Attack and Resistance",
+      "translation" : "Напад и отпор"
+   },
+   "98f50bad79cf2b949006ce8d4e906aee" : {
+      "english" : "Focus on Rally Point.",
+      "translation" : "Фокус на Ралли Поинт."
+   },
+   "9967671db204426055b7eb69cea5e25c" : {
+      "english" : "Upgrade to a %(primaryName)s (%(secondaryName)s). %(tooltip)s",
+      "translation" : "Надоградите на а %(primaryName)s  ( %(secondaryName)s ).  %(tooltip)s "
+   },
+   "9cd735f9a90166bf8bbf48850c20599e" : {
+      "english" : "Resources:",
+      "translation" : "Ресурси:"
+   },
+   "9d66fb6308a0b8502420b7aa645a6bbb" : {
+      "english" : "Bribe a random unit from this player and share its vision during a limited period.",
+      "translation" : "Подмитите насумичну јединицу од овог играча и подијелите његову визију током ограниченог периода."
+   },
+   "9fc54712bb6bf4eb0b4b42354df394b4" : {
+      "english" : "Press %(hotkey)s to open the summary screen.",
+      "translation" : "Притисните %(hotkey)s да бисте отворили екран са резимеом."
+   },
+   "a0199cf7be7b241ffef10af0aef3efab" : {
+      "english" : "Hotkeys",
+      "translation" : "Хоткеис"
+   },
+   "a1977c3f68d4d3bbfe14d0e51a575482" : {
+      "english" : "Packed",
+      "translation" : "Спаковано"
+   },
+   "a360baf859f3dbbede2167e49695f12d" : {
+      "english" : "%(playername)s: %(statValue)s",
+      "translation" : " %(playername)s : %(statValue)s "
+   },
+   "a3a7c3a4fd0c603c6c4510b0847efc3e" : {
+      "english" : "Activate auto-queue for selected structures.",
+      "translation" : "Активирајте ауто-ред за изабране структуре."
+   },
+   "a6d78025428c809754dcfae6f257f83c" : {
+      "english" : "%(icon)sYou have been attacked by %(attacker)s!",
+      "translation" : " %(icon)s Напали сте вас %(attacker)s !"
+   },
+   "a6f3fd8b7d590096910304ff42b4abe9" : {
+      "english" : "A failed bribe will cost you:",
+      "translation" : "Неуспели мито ће вас коштати:"
+   },
+   "ac82a85c56fb0d108a759af8c69e13af" : {
+      "english" : "Display shadows frustum",
+      "translation" : "Приказ сенки фрустум"
+   },
+   "ae11d3ee071e72953c90b02bff1a19cb" : {
+      "english" : "Unload",
+      "translation" : "Истоварити"
+   },
+   "aef60b6269d11db91a03a9a683d9f58d" : {
+      "english" : "(%(secondaryName)s)",
+      "translation" : "( %(secondaryName)s )"
+   },
+   "af2654cfc08397a623c06b9f494a8ea3" : {
+      "english" : "Private chat",
+      "translation" : "Приватни чет"
+   },
    "b3595ce89bb82efaf14b46994e1a2000" : {
       "english" : "You have sent %(player2)s %(amounts)s.",
-      "translation" : "Послали сте %(плаиер2) с %(износ) с."
+      "translation" : "Послао си %(player2)s   %(amounts)s ."
+   },
+   "b3b39dfdec1c62a4c862a9f48af68a21" : {
+      "english" : "Can be created only once.",
+      "translation" : "Може се креирати само једном."
+   },
+   "b4494e59ad1500825d5bf45689f4f88f" : {
+      "english" : "Enemy chat",
+      "translation" : "Непријатељско ћаскање"
+   },
+   "b75a1745055bbaa9a4ad89b528465c9a" : {
+      "english" : "Allies are allowed to use this dropsite.",
+      "translation" : "Савезницима је дозвољено да користе ово место за приступ."
    },
    "b820a37218bf369c86c0b043a4d6e923" : {
       "english" : "Population: current/limit (max)",
       "translation" : "Становништво: тренутно/ограничење (макс.)"
    },
+   "b8c6a21bd25311cea858e0567ec12d0c" : {
+      "english" : "Order the selected units to garrison in a structure or unit.",
+      "translation" : "Наредите изабраним јединицама гарнизон у структури или јединици."
+   },
+   "ba6cf602c3d4ed9a3aa2e8dfd0bb76c4" : {
+      "english" : "%(type)s %(amount)s",
+      "translation" : " %(type)s  %(amount)s "
+   },
+   "ba8f4b61e9dd200de3e474965ef89edc" : {
+      "english" : "Default formation is disabled.",
+      "translation" : "Подразумевано формирање је онемогућено."
+   },
+   "bab49b9308351e4489193cae52b669f3" : {
+      "english" : "Order the selected units to repair a structure, ship, or siege engine.",
+      "translation" : "Наручите изабраним јединицама да поправе конструкцију, брод или опсадни строј."
+   },
+   "babea38eab49fadc639b787953ff89cb" : {
+      "english" : "Use %(hotkey)s to avoid the confirmation dialog.",
+      "translation" : "Употреба %(hotkey)s да бисте избегли дијалог за потврду."
+   },
+   "bb347164fd4510c64c30417eba6abb1f" : {
+      "english" : "Time warp mode",
+      "translation" : "Режим искривљења времена"
+   },
+   "bea4f4bc238428c1528a6752014a95ec" : {
+      "english" : "Hierarchical pathfinder overlay",
+      "translation" : "Хијерархијски прекривач трагача"
+   },
    "beca5cc9317059389c479b4f4c12ddbe" : {
       "english" : "Pathfinder overlay",
       "translation" : "Патхфиндер прекривач"
    },
-   "bf672b94f7229b1e03e40f63b8633851" : {
-      "english" : null,
-      "translation" : ""
+   "c07e30cdf213e328e42e060c67cb5c49" : {
+      "english" : "Can be constructed only once.",
+      "translation" : "Може се изградити само једном."
+   },
+   "c649dc633f91bba0ca3157d178305616" : {
+      "english" : "Right-click to establish a default route for new traders.",
+      "translation" : "Кликните десним тастером миша да бисте успоставили подразумевану руту за нове трговце."
    },
    "cc993e2e260539f47cb4b8e8ffe4f6ce" : {
       "english" : "%(player)s is starting to rejoin the game.",
-      "translation" : "%(плаиер) с почиње да се поново придружује игри."
+      "translation" : " %(player)s почиње да се поново укључује у игру."
+   },
+   "ccf835b3b16868ba52cd886e2fbfd329" : {
+      "english" : "Right-click to set this as the default formation.",
+      "translation" : "Кликните десним тастером миша да бисте ово поставили као подразумевану формацију."
+   },
+   "cd7a3ba065439ac63835eae9e4ddcc75" : {
+      "english" : "Single-click to unload 1. Shift-click to unload all of this type.",
+      "translation" : "Један притисак за истовар 1. Притисните Схифт да бисте истоварили све ове врсте."
+   },
+   "ce6b9779e707908a83706ee0fec6d4f8" : {
+      "english" : "Note: time warp mode is a developer option, and not intended for use over long periods of time. Using it incorrectly may cause the game to run out of memory or crash.",
+      "translation" : "Напомена: режим искривљења времена је опција за програмере и није намењен за употребу током дужег временског периода. Неправилно коришћење може узроковати нестанак меморије или пад у игри."
+   },
+   "cf3fb1ff52ea1eed3347ac5401ee7f0c" : {
+      "english" : "Ascending",
+      "translation" : "Узлазни"
+   },
+   "cf4edc47e55c57da8fddce4498eab8d2" : {
+      "english" : "Current garrison: %(garrisoned)s/%(capacity)s",
+      "translation" : "Садашњи гарнизон: %(garrisoned)s / %(capacity)s "
+   },
+   "d03cbf063b0125881276987e9e53b79c" : {
+      "english" : "Objectives",
+      "translation" : "Циљеви"
+   },
+   "d069beb2cd95444e059a200b9c0f1dcd" : {
+      "english" : "%(player)s has reached the %(phaseName)s.",
+      "translation" : " %(player)s је достигао %(phaseName)s ."
+   },
+   "d3e2520956d71038a888ad594a8a7645" : {
+      "english" : "Paused by %(players)s",
+      "translation" : "Паузирао / ла %(players)s "
+   },
+   "d4da7f8d481b002ea638f96da60b823b" : {
+      "english" : "Carrying:",
+      "translation" : "Ношење:"
+   },
+   "d5d7b592ad03a2d772804fbb7b1d9fc5" : {
+      "english" : "Upgrade to a %(primaryName)s (%(secondaryName)s).",
+      "translation" : "Надоградите на а %(primaryName)s ( %(secondaryName)s )."
+   },
+   "d74b3a6ac4f996e15e84ddfeb4b98e24" : {
+      "english" : "This is the origin trade market.\\nRight-click to cancel trade route.",
+      "translation" : "Ово је изворно трговачко тржиште.\\nКликните десним тастером миша да бисте отказали трговачки пут."
+   },
+   "d8da2ad0c052bc37c3450280c914f144" : {
+      "english" : "The Developer Overlay was opened.",
+      "translation" : "Преклапање програмера је отворено."
+   },
+   "daffa4db3c0d056ff487195de031e515" : {
+      "english" : "Observer Mode",
+      "translation" : "Режим посматрача"
+   },
+   "dc27f7e972b7f5cb992269a5f38e55b3" : {
+      "english" : "Ally chat",
+      "translation" : "Савезничко ћаскање"
+   },
+   "dd8fa96e92473a1ed913c461009e3cc4" : {
+      "english" : "You cannot destroy this entity as you own less than half the capture points",
+      "translation" : "Не можете уништити овај ентитет јер поседујете мање од половине тачака хватања"
+   },
+   "de02ca1790ff5b902a52e0fef3374dbf" : {
+      "english" : "The use of this dropsite is prohibited",
+      "translation" : "Употреба овог места за спуштање је забрањена"
+   },
+   "de1c773b27c0e9acb5385dd0d1d043f6" : {
+      "english" : "Remaining: %(entityCounts)s",
+      "translation" : "Преостало: %(entityCounts)s "
+   },
+   "df6c51460ab8b23a9966c93c9294ecfa" : {
+      "english" : "Observer chat",
+      "translation" : "Разговор посматрача"
+   },
+   "df7a8712303eeadde5d19f0e2955085c" : {
+      "english" : "Patrol",
+      "translation" : "Патрола"
+   },
+   "dfdff08287de5afe3abd74de876a3158" : {
+      "english" : "This entity is undeletable",
+      "translation" : "Овај ентитет је неизбрисив"
    },
    "e0b188ed735cd3d33b835dff041b31e8" : {
       "english" : "Press %(hotkey)s to toggle this menu.",
-      "translation" : "Притисните %(интервентни тастер) с да бисте укључили овај мени."
+      "translation" : "Притисните %(hotkey)s да бисте укључили овај мени."
+   },
+   "e1166ce6f202e5683eb6514c27f07060" : {
+      "english" : "Attack all encountered enemy units while avoiding structures.",
+      "translation" : "Нападните све непријатељске јединице на које наиђете, избегавајући структуре."
+   },
+   "e1ee6242a9a44870d367b04c8f8b34df" : {
+      "english" : "Buy:",
+      "translation" : "Фокус на Ралли Поинт."
+   },
+   "e28d2271a6d4a50f1ca61e9a12862bcd" : {
+      "english" : "Unload Turrets.",
+      "translation" : "Истовари куполе."
+   },
+   "e399a7ecd8a24e93fadccb3a0347fdce" : {
+      "english" : "Obstruction overlay",
+      "translation" : "Прекривање опструкције"
+   },
+   "e3cf5ac19407b1a62c6fccaff675a53b" : {
+      "english" : "Descending",
+      "translation" : "Силазни"
+   },
+   "e4195f4e569b2c15cdefd508ac1e9fd4" : {
+      "english" : "Tribute %(resourceAmount)s %(resourceType)s to %(playerName)s. Shift-click to tribute %(greaterAmount)s.",
+      "translation" : "Поштовање %(resourceAmount)s   %(resourceType)s до %(playerName)s . Притисните Схифт да бисте одали почаст %(greaterAmount)s ."
+   },
+   "e4782efcd68e1f8359e473364fa3d6e8" : {
+      "english" : "Chat and notifications",
+      "translation" : "Ћаскање и обавештења"
    },
    "e79369e67b047a102146f8ae07e4d390" : {
       "english" : "Ensure all players use the same mods.",
       "translation" : "Уверите се да сви играчи користе исте модове."
    },
+   "e7d31fc0602fb2ede144d18cdffd816b" : {
+      "english" : "Ready",
+      "translation" : "Реади"
+   },
+   "eb9535b3339dd4343c875aaf76495dcd" : {
+      "english" : "Game notifications",
+      "translation" : "Обавештења о играма"
+   },
+   "eba4ddee193ec167d7588839656cf2c0" : {
+      "english" : "Barter & Trade",
+      "translation" : "Бартер & Траде"
+   },
+   "ee811910a0c1c602d435fa3a7817bbfe" : {
+      "english" : "Destroy the selected units or structures.",
+      "translation" : "Уништите изабране јединице или структуре."
+   },
+   "f1117307e696cf5dc323c4f226d84e45" : {
+      "english" : "Filter:",
+      "translation" : "Филтер:"
+   },
+   "f22ab179e7fcf56994e3c500d1db3032" : {
+      "english" : "Dumping current state to %(filepath)s",
+      "translation" : "Избацивање тренутног стања у %(filepath)s "
+   },
+   "f588f5512c3c8a38e7ea4b7ee27c6dd5" : {
+      "english" : "Capture Points:",
+      "translation" : "Тачке снимања:"
+   },
+   "f6351d7b2f7854a6d676326c6bd89e16" : {
+      "english" : "Barter",
+      "translation" : "Бартер"
+   },
+   "f79f3976f85fe59d246b53cf54aa711c" : {
+      "english" : "Enable culling",
+      "translation" : "Омогући избацивање"
+   },
+   "fb31feefd46bb64f09e859e9fcca2440" : {
+      "english" : "Delay to live stream: %(delay)ss",
+      "translation" : "Одлагање преноса уживо: %(delay)s с"
+   },
+   "fc763cb31e9938f37737394681228f83" : {
+      "english" : ", ",
+      "translation" : ","
+   },
    "fd7f22a8a4342033e49a50e59e01f2c0" : {
       "english" : "Activate Rejoin Test",
       "translation" : "Активирајте Рејоин Тест"
+   },
+   "fdf8399d017f08e17ecc62994cae023e" : {
+      "english" : "%(time)s (%(speed)sx)",
+      "translation" : " %(time)s  ( %(speed)s Икс)"
+   },
+   "ffaa5368f924cc6f7ae15610ba8a00a1" : {
+      "english" : "Unload All.",
+      "translation" : "Унлоад Алл."
+   },
+   "ffeca10e24f21580c9657d20822d52fa" : {
+      "english" : "Follow the instructions.",
+      "translation" : "Пратите упутства."
    }
 }

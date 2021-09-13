@@ -53,25 +53,37 @@ sub run_translate {
 
 sub special_symbols {
 	my $string = shift;
+	if ($string =~ /\\\\n/) {
+
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/(\\\\n)/_LALALA_/;
+		return ("\\\\n", $string);
+	}
 	if ($string =~ /\\n/) {
 
-		print "FOUND SUBSTRING in $string\n";
+		print "\tSpecial symbols in $string\n";
 		$string =~ s/(\\n)/_LALALA_/;
 		return ("\\n", $string);
 	}
 	if ($string =~ /\[color=\\\\\\"([a-zA-Z]+)\\\\\\"\]/) {
 
 		my $color = $1;
-		print "FOUND SUBSTRING in $string\n";
+		print "\tSpecial symbols in $string\n";
 		$string =~ s/(\[color=\\\\\\"[a-zA-Z]+\\\\\\"\])/_LALALA_/;
 		return ("[color=\\\\\\\"$color\\\\\\\"]", $string);
 	}
-	if ($string =~ /%\(([a-z_]+)\)s/) {
+	if ($string =~ /%\(([a-zA-Z0-9_]+)\)s/) {
 
 		my $varname = $1;
-		print "FOUND SUBSTRING in $string\n";
-		$string =~ s/(%\([a-z_]+\)s)/_LALALA_/;
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/(%\([a-zA-Z0-9_]+\)s)/_LALALA_/;
 		return (" %($varname)s ", $string);
+	}
+	if ($string =~ /\\\\\[/) {
+
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/(\\\\\[)/_LALALA_/;
+		return ("\\\\[", $string);
 	}
 	return ('', $string);
 }
@@ -98,7 +110,8 @@ foreach my $md5 (keys %{$release}) {
 
 	if (! $english) {
 
-		die "$md5 is null english\n";
+		print "$md5 is null english\n";
+		next;
 	}
 
 	my @change;
@@ -112,21 +125,23 @@ foreach my $md5 (keys %{$release}) {
 
 	my $translation = "";
 
-	my @substrings = split ('_LALALA_', $english);
-	if (scalar (@substrings) > 1) {
+	if ($english =~ /_LALALA_/) {
+
+		my @substrings = split ('_LALALA_', $english);
 		my @translated_substrings;
 		foreach my $substring (@substrings) {
 
 			my $translated_substring = $substring;
 
-			if ($substring && $substring !~ /^(\W[0-9]+)$/) {
+			if ($substring && $substring =~ /[a-zA-Z]+/) {
 
+				print "\tAlphabet string '$substring'\n";
 				$translated_substring = run_translate ($substring);
 				sleep (30);
 			}
 
 			push @translated_substrings, $translated_substring;
-			print "Translate substring: $english = '$translated_substring'\n";
+			print "\tTranslate substring: $english = '$translated_substring'\n";
 		}
 		my $k = 0;
 		while (exists $translated_substrings[$k]) {

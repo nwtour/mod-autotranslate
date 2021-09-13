@@ -1,6 +1,70 @@
 {
-   "c8e0f0396175c8d51e5c2908236fa384" : {
-      "english" : "“Moreover, I consider that Carthage should be destroyed.” \\\\n— Cato the Elder, who ended all speeches in his later life with this statement (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 27)",
-      "translation" : "„Штавише, сматрам да Картагину треба уништити.“\\n„Катон Старији, који је овом изјавом завршио све говоре у свом каснијем животу (Плутарх,„ Паралелни животи “,„ Катон Старији “, одељак 27)"
+   "0aa026cbe831f438d8aef29bbd8e241a" : {
+      "english" : "“Most of the Romans were trampled to death by the enormous weight of the elephants; the rest were shot down in their ranks by the numerous cavalry: and there were only a very few who attempted to save themselves by flight.” \\\\n— Polybius on the Battle of Bagradas where a Roman army was annihilated during the First Punic War (“Histories”, I. 34)",
+      "translation" : "„Већина Римљана је згажена огромном тежином слонова; остале је у својим редовима оборила бројна коњица: а било је само неколико њих који су покушали да се спасу бекством. “\\\\n- Полибије у битци за Баградас, где је римска војска уништена током Првог пунског рата („Историја“, И. 34)"
+   },
+   "143b6594327b87cab7b1919ec2e6c142" : {
+      "english" : "“Never trust advice from a man in the throes of his own difficulty.” \\\\n— Aesop (“The Fox and the Goat”)",
+      "translation" : "„Никада не верујте саветима човека у мукама.“\\\\n„Езоп („ Лисица и коза “)"
+   },
+   "16e1f00f8bdebe9c637684897a5cf318" : {
+      "english" : "“Men willingly believe what they wish.” \\\\n— Caesar (“De Bello Gallico”, III. 18)",
+      "translation" : "„Мушкарци вољно верују у шта желе.“\\\\n„Цезар („ Де Белло Галлицо “, ИИИ. 18)"
+   },
+   "190fad9e39e171089147904503279d25" : {
+      "english" : "“Set a thief to catch a thief.” \\\\n— Callimachus (“Epigrams”, 44)",
+      "translation" : "„Поставите лопова да ухвати лопова.“\\\\n„Цаллимацхус („ Епиграми “, 44)"
+   },
+   "1e6c1a3efb725eed04127288793b2cfc" : {
+      "english" : "“All the centurions of the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself.” \\\\n— Caesar about the Battle of the Sabis (“De Bello Gallico”, II. 25)",
+      "translation" : "„Сви центуриони четврте кохорте су побијени, а носилац заставе убијен, сам стандард је изгубљен, готово сви центуриони других кохорти су рањени или побијени, а међу њима и главни центурион легије, Публије Секстиј Бацулус, веома храбар човек, који је био толико исцрпљен многим и тешким ранама, да већ није могао да се издржава. “\\\\n„Цезар о битци код Сабиса („ Де Белло Галлицо “, ИИ. 25)"
+   },
+   "32309c6456562bf6dc6f8cacd2d93b52" : {
+      "english" : "No selected map",
+      "translation" : "Нема изабране карте"
+   },
+   "715446f580d3dc13a8c22320c01ddb1f" : {
+      "english" : "“Let your speech be better than silence, or be silent.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 24)",
+      "translation" : "„Нека ваш говор буде бољи од ћутања или нека ћути.“\\\\n„Питагора (Стобаеус,„ Флорилегиум “, 24)"
+   },
+   "88cd8ce021f049952338de55a3ba9003" : {
+      "english" : "“Glorious are the deeds of those who undergo labor and run the risk of danger; and it is delightful to live a life of valor and to die leaving behind immortal glory.” \\\\n— Alexander the Great, addressing his troops (Arrian, “The Anabasis of Alexander”, 5.26)",
+      "translation" : "„Славна су дела оних који се подвргну труду и излажу се опасности; и дивно је живети храбро и умрети остављајући за собом бесмртну славу. “\\\\n„Александар Велики, обраћајући се својим трупама (Аријан,„ Александрова Анабаза “, 5,26)"
+   },
+   "8910eec92a75617990fb963b3a6090ee" : {
+      "english" : "“Themistocles robbed his fellow citizens of spear and shield, and degraded the people of Athens to the rowing-pad and the oar.” \\\\n— Plato, no friend of the Athenian navy (Plutarch, “Parallel Lives”, “Themistocles”, sec. 3)",
+      "translation" : "„Тхемистоцлес је својим суграђанима опљачкао копље и штит, а становнике Атине деградирао на веслање и весло.“\\\\n„Платон, није пријатељ атинске морнарице (Плутарх,„ Паралелни животи “,„ Тхемистоцлес “, одељак 3)"
+   },
+   "9356bbf84f5be0164591cdba5e8c6eb7" : {
+      "english" : "“Attack the enemy where he is weakest, even if that is a long way off, since hard work is less dangerous than a struggle against superior forces.” \\\\n— Xenophon (“The Cavalry General”, sec. 4.14)",
+      "translation" : "„Нападните непријатеља тамо где је најслабији, чак и ако је то далеко, пошто је напоран рад мање опасан од борбе против надмоћних снага.“\\\\n„Ксенофон („ Коњички генерал “, одељак 4.14)"
+   },
+   "9defff3be0f25767275d9a7c15cb606b" : {
+      "english" : "“A coward turns away, but a brave man's choice is danger.” \\\\n— Euripides (“Iphigenia in Tauris”)",
+      "translation" : "„Кукавица се окреће, али избор храброг човека је опасност.“\\\\n„Еурипид („ Ифигенија у Таурису “)"
+   },
+   "a431e12d552446438342a2d168b81e2e" : {
+      "english" : "“Wars, both civil and foreign, I waged throughout the world, on sea and land, and when victorious I spared all citizens who sued for pardon. The foreign nations which could with safety be pardoned I preferred to save rather than to destroy.” \\\\n— Augustus, in his autobiography (“Res Gestae Divi Augusti”, sec. 3)",
+      "translation" : "„Ратове, и грађанске и стране, водио сам по целом свету, на мору и на копну, а када сам победио, поштедео сам све грађане који су тужили за помиловање. Стране нације које су са сигурношћу могле бити помиловане радије сам спасио него уништио. “\\\\n“Аугустус, у својој аутобиографији („ Рес Гестае Диви Аугусти “, секција 3)"
+   },
+   "a52a410c85d37e86f564bc5fd0c758ad" : {
+      "english" : "“The soldiers fight and die to support others in wealth and luxury and they are called masters of the world without owning a single piece of farmland of their own.”\\\\n— Tiberius Gracchus, advocating for land reform to the benefit of homeless and unemployed veterans whose lands had often been bought up while they were on campaign. (Plutarch, “Parallel Lives”, “Tiberius Gracchus”, 9.5)",
+      "translation" : "„Војници се боре и умиру како би подржали друге у богатству и луксузу, а називају се господарима света без да поседују иједан комад свог пољопривредног земљишта.“\\\\n- Тибериус Граццхус, залажући се за реформу земљишта у корист бескућника и незапослених ветерана чија су земљишта често откупљивана док су били у кампањи. (Плутарх, „Паралелни животи“, „Тиберије Грак“, 9,5)"
+   },
+   "b8982480d97bcc2e73a45f1655456a5f" : {
+      "english" : "“I am Cyrus, king of the world…” \\\\n— Inscription (Cyrus Cylinder)",
+      "translation" : "„Ја сам Кир, краљ света ...“\\\\n- натпис (Цирус цилиндар)"
+   },
+   "d0fea32385eb4834b46385b901fd45a5" : {
+      "english" : "“Chance fights ever on the side of the prudent.” \\\\n— Euripides (“Pirithous”)",
+      "translation" : "„шанса се увек бори на страни разборитих“\\\\n„Еурипид („ Пиритхоус “)"
+   },
+   "e56c7347787346ed6eefde37cae8a76e" : {
+      "english" : "“The Roman battle line is hard to break, since it allows every man to fight both individually and collectively; so that a formation can fight in any direction, with the maniples nearest to the point of danger wheeling around to face it.” \\\\n— Polybius (“Histories”, XV. 15)",
+      "translation" : "„Римску борбену линију је тешко пробити, јер омогућава сваком човеку да се бори појединачно и колективно; тако да се формација може борити у било ком смеру, са манипулима најближим тачки опасности који се окрећу око ње. “\\\\n„Полибије („ Историја “, КСВ. 15)"
+   },
+   "f924e9c20662be8a661f47d6d5a161a0" : {
+      "english" : "“We accepted an empire that was offered to us and refused to give it up under the pressure of three of the strongest motives: fear, honor and interest. It was not we who set the example, for it has always been the law that the weak should be subject to the strong.” \\\\n— Speech of an Athenian embassy in Sparta (Thucydides, “History of the Peloponnesian War”, I. 76.2)",
+      "translation" : "„Прихватили смо царство које нам је понуђено и одбили смо да га се одрекнемо под притиском три најјача мотива: страха, части и интереса. Нисмо ми били ти који смо дали пример, јер је увек био закон да слаби треба да буду подложни јаким. “\\\\n„Говор атинске амбасаде у Спарти (Тукидид,„ Историја Пелопонеског рата “, И. 76.2)"
    }
 }

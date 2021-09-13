@@ -1,4 +1,8 @@
 {
+   "0abc961d71384519897c0892b15c740d" : {
+      "english" : "  Triple Left Click \\\\[on unit] – Select all of your units of the same kind and the same rank on the screen",
+      "translation" : "Троструки леви клик\\\\[на јединици] - Изаберите све своје јединице исте врсте и истог ранга на екрану"
+   },
    "0eb88a24bd6a21dca9c6c422c1aef6d5" : {
       "english" : "  hotkey.camera.up – Pan screen up",
       "translation" : "хоткеи.цамера.уп - Померајте екран нагоре"
@@ -11,6 +15,10 @@
       "english" : "  hotkey.session.rotate.cw – Rotate structure 15 degrees clockwise",
       "translation" : "хоткеи.сессион.ротате.цв - Ротирајте структуру за 15 степени у смеру казаљке на сату"
    },
+   "25eed341792a08bc85f35ecfbbcd0569" : {
+      "english" : "  hotkey.selection.add – Modifier – add to selection (works with clicking and hotkeys, e.g. the idle hotkeys)",
+      "translation" : "хоткеи.селецтион.адд - „Модификатор“ - додати у избор (ради са кликом и интервентним тастерима, нпр. типке у мировању)"
+   },
    "28d944ebf2b8867cd85ce12882830032" : {
       "english" : "  hotkey.session.attackmoveUnit + Right Click with unit(s) selected – Attack move, only units along the way are targeted",
       "translation" : "хоткеи.сессион.аттацкмовеУнит + Десни клик са изабраним јединицама / јединицама - Напад се креће, циљају се само јединице успут"
@@ -19,25 +27,53 @@
       "english" : "  hotkey.session.diplomacycolors – Toggle diplomacy colors",
       "translation" : "хоткеи.сессион.дипломацицолорс - Укључивање / искључивање боја дипломатије"
    },
-   "68f5d3da29ae386e2aa51eba466894ab" : {
-      "english" : "[font=\\\"sans-bold-14\\\"]When loading a saved game[font=\\\"sans-14\\\"]",
-      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Приликом учитавања сачуване игре [фонт u003d \\ \"санс-14 \\\"]"
+   "35f860b776aa590a74db1418b91ba999" : {
+      "english" : "To set up a multiplayer game, one player must select the “Host game” option. The game uses UDP port 20595, so the host must configure their NAT/firewall/etc. to allow this. Other players can then select “Join game” and enter the host's IP address.",
+      "translation" : "Да би поставио игру за више играча, један играч мора изабрати опцију „Домаћинска игра“. Игра користи УДП порт 20595, па домаћин мора конфигурирати свој НАТ/заштитни зид/итд. да дозволи ово. Остали играчи тада могу изабрати „Придружи се игри“ и унети ИП адресу домаћина."
+   },
+   "3f017411de70ba99fbc82606fbf642bb" : {
+      "english" : "  hotkey.selection.idleworker – Select idle worker (including citizen-soldiers)",
+      "translation" : "хоткеи.селецтион.идлеворкер-Изаберите незапосленог радника (укључујући грађане-војнике)"
+   },
+   "64ceb28aeef04257c7899fc4f7aaf6b1" : {
+      "english" : "  hotkey.selection.group.select.1 – Select the unit(s)/structure(s) in control group 1",
+      "translation" : "хоткеи.селецтион.гроуп.селецт.1 - Изаберите јединицу (е)/структуру (е) у контролној групи 1"
    },
    "69327de14c6d5ec1102fe57bdc01b42d" : {
       "english" : "  hotkey.session.gui.menu.toggle – Toggle menu",
       "translation" : "хоткеи.сессион.гуи.мену.тоггле - Пребацивање менија"
    },
+   "81a7048f68255672f70d1d44eeac4455" : {
+      "english" : "  hotkey.selection.idleunit – Select idle unit",
+      "translation" : "хоткеи.селецтион.идлеунит - Изаберите јединицу у стању мировања"
+   },
    "8fdfa3696f7e1c10d372f80fd7465c34" : {
       "english" : "  hotkey.selection.remove + Left Click or Left Drag over unit on map – Remove unit from selection",
       "translation" : "хоткеи.селецтион.ремове + Леви клик или лево Превуците јединицу на мапи - Уклоните јединицу из избора"
+   },
+   "a2f2f3b318280499d9dcfb8080b28438" : {
+      "english" : "  hotkey.lobby – Show the multiplayer lobby in a dialog window",
+      "translation" : "хоткеи.лобби - Прикажите предворје за више играча у прозору за дијалог"
+   },
+   "a668a6fb331140d8982f770c058b1f7b" : {
+      "english" : "  hotkey.quickload – Quickload",
+      "translation" : "хоткеи.куицклоад - Куицклоад"
    },
    "b6c2d53ef0d50c485a312a20c1f922d5" : {
       "english" : "  hotkey.camera.follow – Follow the selected unit (move the camera to stop following the unit)",
       "translation" : "хоткеи.цамера.фоллов - Пратите изабрану јединицу (померите камеру да престане да прати јединицу)"
    },
+   "d3fd9eac5fe61b9c44291c203b0e8128" : {
+      "english" : "  hotkey.selection.woundedonly + Left Drag over units on map – Only select wounded units",
+      "translation" : "хоткеи.селецтион.воундедонли + Лево Превуците јединице на мапи - само изаберите рањене јединице"
+   },
    "e471664ada74219bf32410318d0d67a2" : {
       "english" : "  hotkey.camera.pan – Keep pressed and move the mouse to pan",
       "translation" : "хоткеи.цамера.пан - Држите притиснутим и померите миш за померање"
+   },
+   "e60859bc6dcf6b1c91a40a188fb31ec0" : {
+      "english" : "    • With hotkey.session.noconfirmation – Immediately delete currently selected unit(s)/structure(s), without asking for confirmation",
+      "translation" : "с хоткеи.сессион.ноцонфирматион - Одмах избришите тренутно одабране јединице/структуре, без тражења потврде"
    },
    "e919d5f3e8a1b35f88ba59d557b79bcc" : {
       "english" : "  hotkey.session.attackmove + Right Click with unit(s) selected – Attack move (by default all enemy units and structures along the way are targeted)",
@@ -46,6 +82,10 @@
    "f16fadb3dc4627b57c451ddea71b7366" : {
       "english" : "Then the maps can be further filtered. The default maps are generally playable maps. Naval maps are maps where not all opponents can be reached over land and demo maps are maps used for testing purposes (generally not useful to play on). The “All Maps” filter shows all maps together in one list.",
       "translation" : "Затим се карте могу додатно филтрирати. Подразумеване мапе су генерално мапе за репродукцију. Поморске карте су карте на којима није могуће доћи до свих противника са копна, а демо карте су карте које се користе за тестирање (опћенито није корисно за игру). Филтер „Све мапе“ приказује све карте заједно на једној листи."
+   },
+   "f4c9d4e162e09a3ba0abac62e2f51db9" : {
+      "english" : "• [font=\\\"sans-bold-14\\\"]Scenario map[font=\\\"sans-14\\\"] – A map created by map designers and with fixed civilizations",
+      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Мапа сценарија [фонт u003d \\ \"санс-14 \\\"]-Мапа коју су направили дизајнери мапа и са фиксним цивилизацијама"
    },
    "fb961edf3bdb3a95caf77390906ae190" : {
       "english" : "  hotkey.camera.rotate.wheel.cw – Rotate camera clockwise around terrain",

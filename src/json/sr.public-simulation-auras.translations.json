@@ -15,6 +15,10 @@
       "english" : "Temples −50% resource costs and building time; Temple technologies −50% resource costs and research time.",
       "translation" : "Храмови - 50% трошкова ресурса и времена изградње; Технологије храмова - 50% трошкова ресурса и времена за истраживање."
    },
+   "3c69e91f2ad2361a106655e62ecab15d" : {
+      "english" : "Builders +25% build rate.",
+      "translation" : "Градитељи +25% стопе изградње."
+   },
    "51a19bc754a90b2aa7a9732aeb48aec9" : {
       "english" : "Elephants −20% resource costs and training time.",
       "translation" : "Слонови имају 20% трошкова ресурса и времена за обуку."
@@ -31,6 +35,10 @@
       "english" : "+20% barter sell prices.",
       "translation" : "+20% бартер продајне цене."
    },
+   "78d5d9a07af7abaf9f0fb839a34b8127" : {
+      "english" : "Builders +15% build rate.",
+      "translation" : "Градитељи +15% стопе изградње."
+   },
    "9f9a3b68f518a2ee43e08edb7f5a5e9d" : {
       "english" : "Citizen Infantry −10% training time.",
       "translation" : "Грађанска пешадија има 10% времена обуке."
@@ -38,6 +46,10 @@
    "b7eb737bb0480bbd41101b4e5fe0f00f" : {
       "english" : "Healers −20% resource costs.",
       "translation" : "Исцелитељи имају 20% трошкова ресурса."
+   },
+   "b911919608a1b120321338c19469d41b" : {
+      "english" : "Civil Centers −20% resource costs.",
+      "translation" : "Цивилни центри 20% трошкова ресурса."
    },
    "bcdc613d6d36928f58db4100c6a88cfc" : {
       "english" : "Land Traders +15% trade gain.",
@@ -50,5 +62,13 @@
    "e39a27be208cc9db22946bd5fc07cc6f" : {
       "english" : "Warships −25% construction time.",
       "translation" : "Ратни бродови имају 25% времена изградње."
+   },
+   "fa7e9f4f28c7aaa9ea15bf9b49d22f60" : {
+      "english" : "When garrisoned, the Structure has +2 capture points garrison regeneration rate.",
+      "translation" : "Када је у гарнизону, структура има брзину регенерације гарнизона +2 тачке хватања."
+   },
+   "fd5f1e1c56f2de7d0d71b5467068e3f2" : {
+      "english" : "+1.0 food trickle rate.",
+      "translation" : "+1,0 стопа цурења хране."
    }
 }

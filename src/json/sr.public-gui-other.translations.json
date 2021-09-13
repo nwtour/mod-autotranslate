@@ -3,6 +3,10 @@
       "english" : "Civilization Overview",
       "translation" : "Преглед цивилизације"
    },
+   "150d27178d8370ce455a7e7b8fc06333" : {
+      "english" : "Delete before cursor",
+      "translation" : "Избриши пре курсора"
+   },
    "180c87f94cd4283802656e44f79bb3b4" : {
       "english" : "Increase camera rotation speed.",
       "translation" : "Повећајте брзину ротације камере."
@@ -10,6 +14,14 @@
    "1c14375aca24b022908e8e073f09eb9f" : {
       "english" : "General hotkeys.",
       "translation" : "Општи интервентни тастери."
+   },
+   "3ad08db6a3bdef629e08102662ad2839" : {
+      "english" : "Create a unique map with a different resource distribution each time. Freely select the number of players and teams.",
+      "translation" : "Сваки пут направите јединствену мапу са другачијом расподелом ресурса. Слободно изаберите број играча и тимова."
+   },
+   "831e141e8d371244317dce8cbde7c6c3" : {
+      "english" : "%(projectileString)s / %(attackRateString)s",
+      "translation" : " %(projectileString)s  /  %(attackRateString)s "
    },
    "86fd1fc315495df8b8015537f47b6d3c" : {
       "english" : "Use a real water refraction map and not transparency.",
@@ -19,17 +31,37 @@
       "english" : " (hold to register)",
       "translation" : "(задржите за регистрацију)"
    },
+   "a328f1ba5a0bd13ec9eb45cc145aad13" : {
+      "english" : "EMBASSIES AND MERCENARY CAMPS",
+      "translation" : "АМБАСАДЕ И МЕРЦЕНАРНИ ЛОГОРИ"
+   },
    "b63148f54c8e3d3cfd0603baae351208" : {
       "english" : "∞",
       "translation" : "аˆж"
+   },
+   "c4889b34b37ec4f8e1ab18aa69006ce8" : {
+      "english" : "Water effects",
+      "translation" : "Ефекти воде"
    },
    "c77149b6d7fc9f952848ad44a4da38a4" : {
       "english" : "Publications",
       "translation" : "Публикације"
    },
+   "c9983c09928c061ef2c9f200db4ef43f" : {
+      "english" : "Are you sure you want to quit 0 A.D. and open the Scenario Editor?",
+      "translation" : "Јесте ли сигурни да желите напустити 0 А.Д. и отворити уређивач сценарија?"
+   },
    "cf86b4649849e5805ed41dbc2c632b4e" : {
       "english" : "CAVALRY STABLE",
       "translation" : "КОЊАЧКА СТАБИЛНА"
+   },
+   "d2bf2edc490014fa2ae8c4dd837ec143" : {
+      "english" : "Toggle in-game diplomacy page.",
+      "translation" : "Укључите / искључите страницу дипломатије у игри."
+   },
+   "da56543d798147e54af8c0d4be753dbf" : {
+      "english" : "Toggle chat window.",
+      "translation" : "Укључите / искључите прозор за ћаскање."
    },
    "da98f67ec23e5c135ce4ead016bbe36a" : {
       "english" : "Interval:",
@@ -43,9 +75,17 @@
       "english" : "Fish the seas for a bountiful harvest.",
       "translation" : "Уловите мора за обилну жетву."
    },
+   "f34b3a8931ae2af89eac3fa0368e0a19" : {
+      "english" : "Population Bonus:",
+      "translation" : "Бонус за становништво:"
+   },
    "f457fdc26f87e3e497bc4a3ab2cabe0d" : {
       "english" : null,
       "translation" : ""
+   },
+   "f681c005eb292c91c923781589d16895" : {
+      "english" : "Select Control Group 1",
+      "translation" : "Изаберите контролну групу 1"
    },
    "f7115e4891ab41c009017e95f47eb6e9" : {
       "english" : "Spoiler",

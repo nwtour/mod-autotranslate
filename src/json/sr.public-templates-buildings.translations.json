@@ -7,17 +7,53 @@
       "english" : "Territory root.",
       "translation" : "Територијални корен."
    },
+   "19429d5f0b36c4f551c997de03aa941d" : {
+      "english" : "Research gathering technologies.",
+      "translation" : "Технологије прикупљања истраживања."
+   },
    "2b6ffe2a2ff4eea940d11ef032cdd56d" : {
       "english" : "Coriosessa",
       "translation" : "Цориосесса"
+   },
+   "2b7fe2e86fc3b12a891a4eddec8ace63" : {
+      "english" : "Train Healers and research healing technologies.",
+      "translation" : "Обучите исцелитеље и истражите технологије лечења."
+   },
+   "354f13ee0546c6826d2a99aa2014934f" : {
+      "english" : "Pylai",
+      "translation" : "Пилаи"
+   },
+   "359a78733baae67d46270de6f704a6dc" : {
+      "english" : "Cagion",
+      "translation" : "Цагион"
+   },
+   "495f7d4afc7e60564439e27e908624f9" : {
+      "english" : "Train Champion Infantry Crossbowmen, construct Siege Engines, and research Siege Engine technologies.",
+      "translation" : "Обучите шампионске пешачке самострелце, конструишите опсадне моторе и истражите технологије опсадних машина."
    },
    "4a08910004d61013e7db59c255ce81b6" : {
       "english" : "Emain Macha",
       "translation" : "Емаин Мацха"
    },
+   "4fc9baf210346939946d5a49f255588b" : {
+      "english" : "Arsenal",
+      "translation" : "Арсенал"
+   },
+   "5adae361c673df2cee749e844c156b8e" : {
+      "english" : "Roman Army Tent",
+      "translation" : "Шатор римске војске"
+   },
    "60d9bdde94c092e27a7d6b9d9542200e" : {
       "english" : "Htm",
       "translation" : "Хтм"
+   },
+   "754c338681185a6eeb65688bc2b6de60" : {
+      "english" : "Territory root. Train Maiden Guards and Heroes.",
+      "translation" : "Територијални корен. Обучите девојачке страже и хероје."
+   },
+   "81a9a26fee54d384b62d5fae6a00405b" : {
+      "english" : "Celicnon",
+      "translation" : "Целицнон"
    },
    "83452cefe743a63c02dc61a472b26873" : {
       "english" : "Chalkeōn",
@@ -46,6 +82,10 @@
    "f7a7b0f684039a3a3c7354534f1d98b6" : {
       "english" : "Can be converted into a Gate.",
       "translation" : "Може се претворити у капију."
+   },
+   "f960bf316d5b8d2b130e6cb42dec1d23" : {
+      "english" : "Eposton",
+      "translation" : "Епостон"
    },
    "fbe664996db5b2a65a68946be40f8d65" : {
       "english" : "Stratopedon",
