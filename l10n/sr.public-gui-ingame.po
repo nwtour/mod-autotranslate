@@ -31,7 +31,7 @@ msgstr "Изабери брзину игре"
 #: gui/session/Menu.js:41
 #, javascript-format
 msgid "Press %(hotkey)s to toggle this menu."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте укључили овај мени."
 
 #: gui/session/MenuButtons.js:32
 msgid "Chat"
@@ -48,11 +48,11 @@ msgstr "Сажетак"
 #: gui/session/MenuButtons.js:90
 #, javascript-format
 msgid "Press %(hotkey)s to open the summary screen."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте отворили екран са резимеом."
 
 #: gui/session/MenuButtons.js:133
 msgid "Lobby"
-msgstr ""
+msgstr "(*) Предворје"
 
 #: gui/session/MenuButtons.js:142
 #, javascript-format
@@ -67,7 +67,7 @@ msgstr "Опције"
 
 #: gui/session/MenuButtons.js:185
 msgid "Hotkeys"
-msgstr ""
+msgstr "(*) Хоткеис"
 
 #: gui/session/MenuButtons.js:220
 msgid "Resume"
@@ -80,7 +80,7 @@ msgstr "Пауза"
 #: gui/session/MenuButtons.js:221
 #, javascript-format
 msgid "Press %(hotkey)s to pause or resume the game."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте паузирали или наставили игру."
 
 #: gui/session/MenuButtons.js:237
 msgid "Resign"
@@ -94,7 +94,7 @@ msgstr "Излаз"
 #: gui/session/NetworkDelayOverlay.js:62
 #, javascript-format
 msgid "Delay to live stream: %(delay)ss"
-msgstr ""
+msgstr "(*) Одлагање преноса уживо: %(delay)s с"
 
 #: gui/session/NetworkStatusOverlay.js:38
 msgid "Connection to the server has been authenticated."
@@ -110,34 +110,34 @@ msgstr "Веза са сервером је прекинута."
 
 #: gui/session/NetworkStatusOverlay.js:42
 msgid "Waiting for players to connect:"
-msgstr ""
+msgstr "(*) Чека се повезивање играча:"
 
 #: gui/session/NetworkStatusOverlay.js:43
 msgid "Synchronizing gameplay with other players…"
-msgstr ""
+msgstr "(*) Синхронизовање играња са другим играчима ..."
 
 #: gui/session/NetworkStatusOverlay.js:47
 msgctxt "Separator for a list of client loading messages"
 msgid ", "
-msgstr ""
+msgstr "(*) ,"
 
 #. Translation: The "x" means "times", with the mathematical meaning of
 #. multiplication.
 #: gui/session/OverlayCounterElapsedTime.js:33
 #, javascript-format
 msgid "%(time)s (%(speed)sx)"
-msgstr ""
+msgstr "(*)  %(time)s  ( %(speed)s Икс)"
 
 #: gui/session/PauseOverlay.js:40
 #: gui/session/message_box/OutOfSyncNetwork.js:20
 msgctxt "Separator for a list of players"
 msgid ", "
-msgstr ""
+msgstr "(*) ,"
 
 #: gui/session/PauseOverlay.js:45
 #, javascript-format
 msgid "Paused by %(players)s"
-msgstr ""
+msgstr "(*) Паузирао / ла %(players)s "
 
 #: gui/session/PauseOverlay.xml:(caption):7
 msgid "Game Paused"
@@ -151,7 +151,7 @@ msgstr "Кликни да наставиш Игру"
 #: gui/session/selection_details.js:290 gui/session/selection_panels.js:582
 msgctxt "countdown format"
 msgid "m:ss"
-msgstr ""
+msgstr "(*) м: сс"
 
 #: gui/session/chat/ChatAddressees.js:88
 msgctxt "chat addressee"
@@ -210,47 +210,47 @@ msgstr "HH:mm"
 #: gui/session/chat/ChatHistory.js:82
 msgctxt "chat history filter"
 msgid "Chat and notifications"
-msgstr ""
+msgstr "(*) Ћаскање и обавештења"
 
 #: gui/session/chat/ChatHistory.js:87
 msgctxt "chat history filter"
 msgid "Chat messages"
-msgstr ""
+msgstr "(*) Поруке за ћаскање"
 
 #: gui/session/chat/ChatHistory.js:92
 msgctxt "chat history filter"
 msgid "Players chat"
-msgstr ""
+msgstr "(*) Играчи ћаскају"
 
 #: gui/session/chat/ChatHistory.js:99
 msgctxt "chat history filter"
 msgid "Ally chat"
-msgstr ""
+msgstr "(*) Савезничко ћаскање"
 
 #: gui/session/chat/ChatHistory.js:106
 msgctxt "chat history filter"
 msgid "Enemy chat"
-msgstr ""
+msgstr "(*) Непријатељско ћаскање"
 
 #: gui/session/chat/ChatHistory.js:113
 msgctxt "chat history filter"
 msgid "Observer chat"
-msgstr ""
+msgstr "(*) Разговор посматрача"
 
 #: gui/session/chat/ChatHistory.js:120
 msgctxt "chat history filter"
 msgid "Private chat"
-msgstr ""
+msgstr "(*) Приватни чет"
 
 #: gui/session/chat/ChatHistory.js:125
 msgctxt "chat history filter"
 msgid "Game notifications"
-msgstr ""
+msgstr "(*) Обавештења о играма"
 
 #: gui/session/chat/ChatHistory.js:130
 msgctxt "chat history filter"
 msgid "Network notifications"
-msgstr ""
+msgstr "(*) Обавештења о мрежи"
 
 #: gui/session/chat/ChatInput.js:31
 msgctxt "chat input"
@@ -260,34 +260,34 @@ msgstr "Искуцај поруку за слање."
 #: gui/session/chat/ChatInput.js:37
 #, javascript-format
 msgid "Press %(hotkey)s to open the public chat."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте отворили јавно ћаскање."
 
 #: gui/session/chat/ChatInput.js:40
 #, javascript-format
 msgid "Press %(hotkey)s to open the observer chat."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте отворили ћаскање посматрача."
 
 #: gui/session/chat/ChatInput.js:41
 #, javascript-format
 msgid "Press %(hotkey)s to open the ally chat."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да отворите савезнички разговор."
 
 #: gui/session/chat/ChatInput.js:43
 #, javascript-format
 msgid "Press %(hotkey)s to open the previously selected private chat."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s да бисте отворили претходно изабрано приватно ћаскање."
 
 #. Translation: A player that left the game joins again
 #: gui/session/chat/ChatMessageFormatNetwork.js:24
 #, javascript-format
 msgid "%(player)s is starting to rejoin the game."
-msgstr ""
+msgstr "(*)  %(player)s почиње да се поново укључује у игру."
 
 #. Translation: A player joins the game for the first time
 #: gui/session/chat/ChatMessageFormatNetwork.js:26
 #, javascript-format
 msgid "%(player)s is starting to join the game."
-msgstr ""
+msgstr "(*)  %(player)s почиње да се придружује игри."
 
 #: gui/session/chat/ChatMessageFormatNetwork.js:37
 #, javascript-format
@@ -308,13 +308,13 @@ msgstr "%(username)s је био избачен"
 #: gui/session/chat/ChatMessageFormatNetwork.js:71
 #, javascript-format
 msgid "%(player)s has rejoined the game."
-msgstr ""
+msgstr "(*)  %(player)s се поново придружио игри."
 
 #. Translation: A player joins the game for the first time
 #: gui/session/chat/ChatMessageFormatNetwork.js:73
 #, javascript-format
 msgid "%(player)s has joined the game."
-msgstr ""
+msgstr "(*)  %(player)s се придружио игри."
 
 #: gui/session/chat/ChatMessageFormatPlayer.js:62
 #, javascript-format
@@ -344,21 +344,21 @@ msgstr "* %(user)s %(message)s"
 #: gui/session/chat/ChatMessageFormatSimulation.js:16
 #, javascript-format
 msgid "%(icon)sYour livestock has been attacked by %(attacker)s!"
-msgstr ""
+msgstr "(*)  %(icon)s Ваша стока је нападнута %(attacker)s !"
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:17
 #, javascript-format
 msgid "%(icon)sYou have been attacked by %(attacker)s!"
-msgstr ""
+msgstr "(*)  %(icon)s Напали сте вас %(attacker)s !"
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:27
 msgid "Click to focus on the attacked unit."
-msgstr ""
+msgstr "(*) Кликните да бисте се фокусирали на нападнуту јединицу."
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:46
 #, javascript-format
 msgid "%(player)s bartered %(amountGiven)s for %(amountGained)s."
-msgstr ""
+msgstr "(*)  %(player)s трампано %(amountGiven)s за %(amountGained)s ."
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:81
 #, javascript-format
@@ -408,24 +408,24 @@ msgstr "%(player)s је сада неутралан према %(player2)s."
 #: gui/session/chat/ChatMessageFormatSimulation.js:109
 #, javascript-format
 msgid "%(player)s is advancing to the %(phaseName)s."
-msgstr ""
+msgstr "(*)  %(player)s напредује ка %(phaseName)s ."
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:111
 #, javascript-format
 msgid "The %(phaseName)s of %(player)s has been aborted."
-msgstr ""
+msgstr "(*) Тхе %(phaseName)s оф %(player)s је прекинута."
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:114
 #, javascript-format
 msgid "%(player)s has reached the %(phaseName)s."
-msgstr ""
+msgstr "(*)  %(player)s је достигао %(phaseName)s ."
 
 #. Translation: This comma is used for separating first to penultimate
 #. elements in an
 #. enumeration.
 #: gui/session/chat/ChatMessageFormatSimulation.js:142
 msgid ", "
-msgstr ""
+msgstr "(*) ,"
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:159
 #, javascript-format
@@ -435,7 +435,7 @@ msgstr "%(player)s ти је послао %(amounts)s."
 #: gui/session/chat/ChatMessageFormatSimulation.js:161
 #, javascript-format
 msgid "You have sent %(player2)s %(amounts)s."
-msgstr ""
+msgstr "(*) Послао си %(player2)s   %(amounts)s ."
 
 #: gui/session/chat/ChatMessageFormatSimulation.js:166
 #, javascript-format
@@ -445,7 +445,7 @@ msgstr "%(player)s је послао %(player2)s %(amounts)s."
 #: gui/session/chat/chat_window.xml:(caption):19
 msgctxt "chat input"
 msgid "Filter:"
-msgstr ""
+msgstr "(*) Филтер:"
 
 #: gui/session/chat/chat_window.xml:(caption):46
 msgctxt "chat input"
@@ -464,7 +464,7 @@ msgstr "Обустави"
 #: gui/session/chat/chat_window.xml:(caption):86
 msgctxt "chat"
 msgid "History"
-msgstr ""
+msgstr "(*) Историја"
 
 #: gui/session/chat/chat_window.xml:(caption):91
 msgid "Send"
@@ -473,20 +473,20 @@ msgstr "Пошаљи"
 #: gui/session/chat/chat_window.xml:(tooltip):29
 msgctxt "chat input"
 msgid "Filter the chat history."
-msgstr ""
+msgstr "(*) Филтрирајте историју ћаскања."
 
 #: gui/session/chat/chat_window.xml:(tooltip):55
 msgctxt "chat input"
 msgid "Select chat addressee."
-msgstr ""
+msgstr "(*) Изаберите примаоца ћаскања."
 
 #: gui/session/developer_overlay/DeveloperOverlay.js:67
 msgid "The Developer Overlay was opened."
-msgstr ""
+msgstr "(*) Преклапање програмера је отворено."
 
 #: gui/session/developer_overlay/DeveloperOverlay.js:68
 msgid "The Developer Overlay was closed."
-msgstr ""
+msgstr "(*) Преклапање програмера је затворено."
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:15
 msgid "Control all units"
@@ -498,31 +498,31 @@ msgstr "Промени поглед"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:60
 msgid "Display selection state"
-msgstr ""
+msgstr "(*) Прикажите стање избора"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:73
 msgid "Pathfinder overlay"
-msgstr ""
+msgstr "(*) Патхфиндер прекривач"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:86
 msgid "Hierarchical pathfinder overlay"
-msgstr ""
+msgstr "(*) Хијерархијски прекривач трагача"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:99
 msgid "Obstruction overlay"
-msgstr ""
+msgstr "(*) Прекривање опструкције"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:112
 msgid "Unit motion overlay"
-msgstr ""
+msgstr "(*) Преклапање кретања јединице"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:125
 msgid "Range overlay"
-msgstr ""
+msgstr "(*) Преклапање опсега"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:138
 msgid "Bounding box overlay"
-msgstr ""
+msgstr "(*) Прекривање граничне кутије"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:151
 msgid "Restrict camera"
@@ -534,11 +534,11 @@ msgstr "Откриј мапу"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:195
 msgid "Enable time warp"
-msgstr ""
+msgstr "(*) Омогући искривљавање времена"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:214
 msgid "Activate Rejoin Test"
-msgstr ""
+msgstr "(*) Активирајте Рејоин Тест"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:248
 msgid "Promote selected units"
@@ -546,23 +546,23 @@ msgstr "Унапреди означене јединице"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:269
 msgid "Enable culling"
-msgstr ""
+msgstr "(*) Омогући избацивање"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:287
 msgid "Lock cull camera"
-msgstr ""
+msgstr "(*) Закључај камеру за одвајање"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:305
 msgid "Display camera frustum"
-msgstr ""
+msgstr "(*) Прикажи камеру фрустум"
 
 #: gui/session/developer_overlay/DeveloperOverlayCheckboxes.js:323
 msgid "Display shadows frustum"
-msgstr ""
+msgstr "(*) Приказ сенки фрустум"
 
 #: gui/session/developer_overlay/TimeWarp.js:65
 msgid "Time warp mode"
-msgstr ""
+msgstr "(*) Режим искривљења времена"
 
 #: gui/session/developer_overlay/TimeWarp.js:66
 msgid ""
@@ -609,7 +609,7 @@ msgstr "E"
 
 #: gui/session/diplomacy/DiplomacyDialog.xml:(caption):39
 msgid "Tribute"
-msgstr ""
+msgstr "(*) Поштовање"
 
 #: gui/session/diplomacy/DiplomacyDialog.xml:(caption):90
 #: gui/session/objectives/ObjectivesDialog.xml:(caption):43
@@ -621,13 +621,13 @@ msgstr "Затвори"
 #, javascript-format
 msgctxt "ceasefire"
 msgid "Remaining ceasefire time: %(time)s."
-msgstr ""
+msgstr "(*) Преостало време прекида ватре: %(time)s ."
 
 #: gui/session/diplomacy/DiplomacyDialog.xml:(caption):85
 #: gui/session/diplomacy/DiplomacyDialogColorsButton.js:30
 #: gui/session/minimap/MiniMapDiplomacyColorsButton.js:36
 msgid "Toggle Diplomacy Colors"
-msgstr ""
+msgstr "(*) Укључите / искључите боје дипломатије"
 
 #: gui/session/diplomacy/playercontrols/AttackRequestButton.js:38
 msgid "Request your allies to attack this enemy"
@@ -661,7 +661,7 @@ msgstr ""
 
 #: gui/session/diplomacy/playercontrols/SpyRequestButton.js:142
 msgid "A failed bribe will cost you:"
-msgstr ""
+msgstr "(*) Неуспели мито ће вас коштати:"
 
 #: gui/session/diplomacy/playercontrols/StanceButton.js:60
 msgctxt "diplomatic stance selection"
@@ -723,7 +723,7 @@ msgstr "Да"
 #: gui/session/message_box/OutOfSyncReplay.js:26
 #, javascript-format
 msgid "Out-Of-Sync error on turn %(turn)s."
-msgstr ""
+msgstr "(*) Грешка ван синхронизације на скретању %(turn)s ."
 
 #: gui/session/message_box/OutOfSyncNetwork.js:19
 #, javascript-format
@@ -734,49 +734,49 @@ msgstr "Играчи: %(players)s"
 #: gui/session/message_box/OutOfSyncNetwork.js:24
 msgctxt "Out-Of-Sync"
 msgid "Your game state is identical to the hosts game state."
-msgstr ""
+msgstr "(*) Ваше стање игре је идентично стању игре домаћина."
 
 #: gui/session/message_box/OutOfSyncNetwork.js:25
 msgctxt "Out-Of-Sync"
 msgid "Your game state differs from the hosts game state."
-msgstr ""
+msgstr "(*) Ваше стање игре се разликује од стања игре домаћина."
 
 #: gui/session/message_box/OutOfSyncNetwork.js:31
 msgctxt "Out-Of-Sync"
 msgid "Rejoining Multiplayer games with AIs is not supported yet!"
-msgstr ""
+msgstr "(*) Поновно придруживање играма за више играча са вештачким интелигенцијом још није подржано!"
 
 #: gui/session/message_box/OutOfSyncNetwork.js:34
 msgctxt "Out-Of-Sync"
 msgid "Ensure all players use the same mods."
-msgstr ""
+msgstr "(*) Уверите се да сви играчи користе исте модове."
 
 #: gui/session/message_box/OutOfSyncNetwork.js:35
 msgctxt "Out-Of-Sync"
 msgid "Click on \"Report a Bug\" in the main menu to help fix this."
-msgstr ""
+msgstr "(*) Кликните на \ "Пријави грешку \" у главном менију да бисте ово поправили."
 
 #: gui/session/message_box/OutOfSyncNetwork.js:36
 #, javascript-format
 msgctxt "Out-Of-Sync"
 msgid "Replay saved to %(filepath)s"
-msgstr ""
+msgstr "(*) Реприза је сачувана у %(filepath)s "
 
 #: gui/session/message_box/OutOfSyncNetwork.js:39
 #, javascript-format
 msgctxt "Out-Of-Sync"
 msgid "Dumping current state to %(filepath)s"
-msgstr ""
+msgstr "(*) Избацивање тренутног стања у %(filepath)s "
 
 #: gui/session/message_box/OutOfSyncNetwork.js:51
 #: gui/session/message_box/OutOfSyncReplay.js:23
 msgid "Out of Sync"
-msgstr ""
+msgstr "(*) Није синхронизовано"
 
 #. Translation: This is shown if replay is out of sync
 #: gui/session/message_box/OutOfSyncReplay.js:28
 msgid "Out-Of-Sync"
-msgstr ""
+msgstr "(*) Ван синхронизације"
 
 #: gui/session/message_box/QuitConfirmation.js:6
 #: gui/session/message_box/QuitConfirmationMenu.js:63
@@ -851,19 +851,19 @@ msgstr "Поражен си!"
 
 #: gui/session/messages.js:410
 msgid "Click to quit this tutorial."
-msgstr ""
+msgstr "(*) Кликните да бисте напустили овај водич."
 
 #: gui/session/messages.js:411
 msgid "Quit"
-msgstr ""
+msgstr "(*) Одустати"
 
 #: gui/session/messages.js:415
 msgid "Click when ready."
-msgstr ""
+msgstr "(*) Кликните када будете спремни."
 
 #: gui/session/messages.js:419
 msgid "Follow the instructions."
-msgstr ""
+msgstr "(*) Пратите упутства."
 
 #: gui/session/messages.js:544
 msgid "Unknown Player"
@@ -871,7 +871,7 @@ msgstr "Непознат играч"
 
 #: gui/session/minimap/MiniMapFlareButton.js:35
 msgid "Send a flare to your allies"
-msgstr ""
+msgstr "(*) Пошаљите сигнал својим савезницима"
 
 #: gui/session/minimap/MiniMapIdleWorkerButton.js:40
 msgid "Find idle worker"
@@ -880,11 +880,11 @@ msgstr "Пронађи беспосленог радника"
 #: gui/session/selection_details.js:65
 #, javascript-format
 msgid "%(secondaryName)s — Packed"
-msgstr ""
+msgstr "(*)  %(secondaryName)s - Паковано"
 
 #: gui/session/selection_details.js:67
 msgid "Packed"
-msgstr ""
+msgstr "(*) Спаковано"
 
 #: gui/session/chat/ChatAddressees.js:74 gui/session/selection_details.js:78
 #, javascript-format
@@ -894,7 +894,7 @@ msgstr "\\[OFFLINE] %(player)s"
 #: gui/session/selection_details.js:83
 #, javascript-format
 msgid "%(rank)s Rank"
-msgstr ""
+msgstr "(*)  %(rank)s Ранк"
 
 #: gui/session/selection_details.js:140
 #, javascript-format
@@ -956,39 +956,39 @@ msgstr "Тренутно/ максимално сакупљача"
 #: gui/session/selection_details.js:306
 #, javascript-format
 msgid "(%(secondaryName)s)"
-msgstr ""
+msgstr "(*) ( %(secondaryName)s )"
 
 #: gui/session/selection_details.js:452
 msgid "Capture Points:"
-msgstr ""
+msgstr "(*) Тачке снимања:"
 
 #: gui/session/selection_details.js:460
 #, javascript-format
 msgid "%(label)s: %(details)s\n"
-msgstr ""
+msgstr "(*) \n:  %(label)s "
 
 #: gui/session/selection_details.js:461
 msgid "Garrison Size"
-msgstr ""
+msgstr "(*) Гаррисон Сизе"
 
 #: gui/session/selection_details.js:466
 #, javascript-format
 msgid "%(label)s %(details)s\n"
-msgstr ""
+msgstr "(*) \n  %(label)s "
 
 #: gui/session/selection_details.js:467
 msgid "Carrying:"
-msgstr ""
+msgstr "(*) Ношење:"
 
 #: gui/session/selection_details.js:470 gui/session/selection_details.js:479
 #, javascript-format
 msgid "%(type)s %(amount)s"
-msgstr ""
+msgstr "(*)  %(type)s  %(amount)s "
 
 #: gui/session/selection_details.js:475
 #, javascript-format
 msgid "%(label)s %(details)s"
-msgstr ""
+msgstr "(*)  %(label)s   %(details)s "
 
 #: gui/session/selection_details.js:476
 msgid "Loot:"
@@ -1021,28 +1021,28 @@ msgstr "Крај узбуне!"
 
 #: gui/session/selection_panels.js:277
 msgid "Default formation is disabled."
-msgstr ""
+msgstr "(*) Подразумевано формирање је онемогућено."
 
 #: gui/session/selection_panels.js:278
 msgid "Right-click to disable the default formation feature."
-msgstr ""
+msgstr "(*) Кликните десним тастером миша да бисте онемогућили подразумевану функцију формирања."
 
 #: gui/session/selection_panels.js:281
 msgid "This is the default formation, used for movement orders."
-msgstr ""
+msgstr "(*) Ово је подразумевана формација, која се користи за налоге кретања."
 
 #: gui/session/selection_panels.js:282
 msgid "Right-click to set this as the default formation."
-msgstr ""
+msgstr "(*) Кликните десним тастером миша да бисте ово поставили као подразумевану формацију."
 
 #: gui/session/selection_panels.js:338
 #, javascript-format
 msgid "Unload %(name)s"
-msgstr ""
+msgstr "(*) Истоварити %(name)s "
 
 #: gui/session/selection_panels.js:339
 msgid "Single-click to unload 1. Shift-click to unload all of this type."
-msgstr ""
+msgstr "(*) Један притисак за истовар 1. Притисните Схифт да бисте истоварили све ове врсте."
 
 #: gui/session/selection_panels.js:341 gui/session/selection_panels.js:894
 #, javascript-format
@@ -1075,16 +1075,16 @@ msgstr "Прекини отпаковање"
 
 #: gui/session/selection_panels.js:558
 msgid "The auto-queue will try to train this item later."
-msgstr ""
+msgstr "(*) Аутоматски ред ће касније покушати да обучи ову ставку."
 
 #: gui/session/selection_panels.js:561
 msgid "Insufficient population capacity:"
-msgstr ""
+msgstr "(*) Недовољан капацитет становништва:"
 
 #: gui/session/selection_panels.js:562
 #, javascript-format
 msgid "%(population)s %(neededSlots)s"
-msgstr ""
+msgstr "(*)  %(population)s   %(neededSlots)s "
 
 #: gui/session/selection_panels.js:759
 #, javascript-format
@@ -1097,40 +1097,40 @@ msgstr[2] ""
 #: gui/session/selection_panels.js:765
 #, javascript-format
 msgid "Remaining: %(entityCounts)s"
-msgstr ""
+msgstr "(*) Преостало: %(entityCounts)s "
 
 #: gui/session/selection_panels.js:766
 msgctxt "Separator for a list of entity counts"
 msgid ", "
-msgstr ""
+msgstr "(*) ,"
 
 #: gui/session/selection_panels.js:818
 msgid "Cannot research while upgrading."
-msgstr ""
+msgstr "(*) Није могуће истраживати током надоградње."
 
 #: gui/session/selection_panels.js:1043
 msgid "Cannot train while upgrading."
-msgstr ""
+msgstr "(*) Није могуће тренирати током надоградње."
 
 #: gui/session/selection_panels.js:1112
 #, javascript-format
 msgid "Upgrade to a %(primaryName)s (%(secondaryName)s). %(tooltip)s"
-msgstr ""
+msgstr "(*) Надоградите на а %(primaryName)s  ( %(secondaryName)s ).  %(tooltip)s "
 
 #: gui/session/selection_panels.js:1118
 #, javascript-format
 msgid "Upgrade to a %(primaryName)s (%(secondaryName)s)."
-msgstr ""
+msgstr "(*) Надоградите на а %(primaryName)s ( %(secondaryName)s )."
 
 #: gui/session/selection_panels.js:1126
 #, javascript-format
 msgid "Upgrade to a %(primaryName)s. %(tooltip)s"
-msgstr ""
+msgstr "(*) Надоградите на а %(primaryName)s .  %(tooltip)s "
 
 #: gui/session/selection_panels.js:1131
 #, javascript-format
 msgid "Upgrade to a %(primaryName)s."
-msgstr ""
+msgstr "(*) Надоградите на а %(primaryName)s ."
 
 #: gui/session/selection_panels.js:1168
 msgid "Cancel Upgrading"
@@ -1170,12 +1170,12 @@ msgstr "Пасивно"
 #: gui/session/selection_panels_helpers.js:61
 msgctxt "stance"
 msgid "Standground"
-msgstr ""
+msgstr "(*) Стангроунд"
 
 #: gui/session/selection_panels_helpers.js:73
 msgctxt "stance"
 msgid "Attack nearby opponents, focus on attackers and chase while visible"
-msgstr ""
+msgstr "(*) Нападајте противнике у близини, фокусирајте се на нападаче и јурите док су видљиви"
 
 #: gui/session/selection_panels_helpers.js:75
 msgctxt "stance"
@@ -1202,7 +1202,7 @@ msgstr "Напада противнике у домету, али их не го
 #: gui/session/selection_panels_helpers.js:95
 #, javascript-format
 msgid "Current Count: %(count)s, Limit: %(limit)s."
-msgstr ""
+msgstr "(*) Тренутни број: %(count)s , Ограничење: %(limit)s ."
 
 #: gui/session/selection_panels_helpers.js:109
 #, javascript-format
@@ -1223,7 +1223,7 @@ msgstr[2] ""
 
 #: gui/session/selection_panels_helpers.js:144
 msgid "Can be constructed only once."
-msgstr ""
+msgstr "(*) Може се изградити само једном."
 
 #: gui/session/selection_panels_helpers.js:146
 #, javascript-format
@@ -1242,7 +1242,7 @@ msgstr[2] ""
 
 #: gui/session/selection_panels_helpers.js:157
 msgid "Can be trained only once."
-msgstr ""
+msgstr "(*) Може се обучити само једном."
 
 #: gui/session/selection_panels_helpers.js:159
 #, javascript-format
@@ -1261,7 +1261,7 @@ msgstr[2] ""
 
 #: gui/session/selection_panels_helpers.js:170
 msgid "Can be created only once."
-msgstr ""
+msgstr "(*) Може се креирати само једном."
 
 #: gui/session/selection_panels_helpers.js:172
 #, javascript-format
@@ -1302,11 +1302,11 @@ msgstr "Живот"
 
 #: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):54
 msgid "Capture points"
-msgstr ""
+msgstr "(*) Хватање тачака"
 
 #: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):82
 msgid "Attack and Resistance"
-msgstr ""
+msgstr "(*) Напад и отпор"
 
 #: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):97
 msgid "Experience"
@@ -1341,24 +1341,24 @@ msgstr ""
 #: gui/session/top_panel/CounterManager.js:101
 #, javascript-format
 msgid "%(order)s: %(hotkey)s to change order."
-msgstr ""
+msgstr "(*)  %(order)s :  %(hotkey)s да промени редослед."
 
 #: gui/session/top_panel/CounterManager.js:105
 msgid "Unordered"
-msgstr ""
+msgstr "(*) Неуређено"
 
 #: gui/session/top_panel/CounterManager.js:107
 msgid "Descending"
-msgstr ""
+msgstr "(*) Силазни"
 
 #: gui/session/top_panel/CounterManager.js:108
 msgid "Ascending"
-msgstr ""
+msgstr "(*) Узлазни"
 
 #: gui/session/top_panel/CounterManager.js:133
 #, javascript-format
 msgid "%(playername)s: %(statValue)s"
-msgstr ""
+msgstr "(*)  %(playername)s : %(statValue)s "
 
 #. Translation: Do not insert spaces around the slash symbol for this exact
 #. string. Keep only
@@ -1367,15 +1367,15 @@ msgstr ""
 #: gui/session/top_panel/CounterPopulation.js:65
 #, javascript-format
 msgid "%(popCount)s/%(popLimit)s (%(popMax)s)"
-msgstr ""
+msgstr "(*)  %(popCount)s / %(popLimit)s  ( %(popMax)s )"
 
 #: gui/session/top_panel/CounterPopulation.js:63
 msgid "Population: current/limit (max)"
-msgstr ""
+msgstr "(*) Становништво: тренутно/ограничење (макс.)"
 
 #: gui/session/top_panel/CounterPopulation.js:70
 msgid "Gatherers: current"
-msgstr ""
+msgstr "(*) Скупљачи: тренутни"
 
 #: gui/session/top_panel/FollowPlayer.xml:(caption):15
 #: gui/session/top_panel/FollowPlayer.xml:(tooltip):11
@@ -1395,7 +1395,7 @@ msgstr "Брзина Игре"
 #: gui/session/objectives/ObjectivesDialog.xml:(caption):15
 #: gui/session/top_panel/IconButtons/ObjectivesDialogButton.js:23
 msgid "Objectives"
-msgstr ""
+msgstr "(*) Циљеви"
 
 #: gui/session/top_panel/MenuButton.xml:(caption):15
 msgid "Menu"
@@ -1407,7 +1407,7 @@ msgstr "Посматрач"
 
 #: gui/session/top_panel/PlayerViewControl.xml:(caption):17
 msgid "Observer Mode"
-msgstr ""
+msgstr "(*) Режим посматрача"
 
 #: gui/session/top_panel/PlayerViewControl.xml:(tooltip):13
 msgid "Choose player to view"
@@ -1427,35 +1427,35 @@ msgstr "Продај %(resource)s"
 #, javascript-format
 msgctxt "buy action"
 msgid "+%(amount)s"
-msgstr ""
+msgstr "(*) + %(amount)s "
 
 #: gui/session/trade/BarterButton.js:103
 #, javascript-format
 msgctxt "sell action"
 msgid "-%(amount)s"
-msgstr ""
+msgstr "(*) - %(amount)s "
 
 #: gui/session/trade/BarterPanel.xml:(caption):5
 msgid "Barter"
-msgstr ""
+msgstr "(*) Бартер"
 
 #: gui/session/trade/BarterPanel.xml:(caption):13
 msgid "Sell:"
-msgstr ""
+msgstr "(*) Продајте:"
 
 #: gui/session/trade/BarterPanel.xml:(caption):17
 msgid "Buy:"
-msgstr ""
+msgstr "(*) Фокус на Ралли Поинт."
 
 #: gui/session/trade/BarterPanel.xml:(caption):21
 msgid "No Markets Available"
-msgstr ""
+msgstr "(*) Нема доступних тржишта"
 
 #: gui/session/trade/TradeButton.js:56
 #, javascript-format
 msgctxt "trading good ratio"
 msgid "%(amount)s%%"
-msgstr ""
+msgstr "(*)  %(amount)s %%"
 
 #: gui/session/trade/TradeButtonManager.js:80
 #, javascript-format
@@ -1480,7 +1480,7 @@ msgstr "Трговина"
 
 #: gui/session/trade/TradePanel.xml:(caption):14
 msgid "Resources:"
-msgstr ""
+msgstr "(*) Ресурси:"
 
 #: gui/session/trade/TraderStatusTextLand.js:15
 #, javascript-format
@@ -1602,7 +1602,7 @@ msgstr "Нема трговачких бродова."
 
 #: gui/session/tutorial_panel.xml:(caption):11
 msgid "Ready"
-msgstr ""
+msgstr "(*) Реади"
 
 #: gui/session/unit_actions.js:572
 msgid ""
@@ -1624,7 +1624,7 @@ msgstr "Десним кликом постављаш је као почетну 
 
 #: gui/session/unit_actions.js:655 gui/session/unit_actions.js:1139
 msgid "This market is too close to the origin market."
-msgstr ""
+msgstr "(*) Ово тржиште је преблизу изворном тржишту."
 
 #: gui/session/unit_actions.js:659
 msgid "Right-click to set as destination trade market."
@@ -1633,16 +1633,16 @@ msgstr "Десним кликом постављаш је као циљну тр
 #: gui/session/unit_actions.js:724 gui/session/unit_actions.js:1071
 #, javascript-format
 msgid "Current turrets: %(occupied)s/%(capacity)s"
-msgstr ""
+msgstr "(*) Тренутне куполе: %(occupied)s / %(capacity)s "
 
 #: gui/session/unit_actions.js:790 gui/session/unit_actions.js:1054
 #, javascript-format
 msgid "Current garrison: %(garrisoned)s/%(capacity)s"
-msgstr ""
+msgstr "(*) Садашњи гарнизон: %(garrisoned)s / %(capacity)s "
 
 #: gui/session/unit_actions.js:1130
 msgid "Right-click to establish a default route for new traders."
-msgstr ""
+msgstr "(*) Кликните десним тастером миша да бисте успоставили подразумевану руту за нове трговце."
 
 #: gui/session/unit_actions.js:1134
 #, javascript-format
@@ -1658,20 +1658,20 @@ msgstr[2] ""
 
 #: gui/session/unit_actions.js:1306
 msgid "Unload All."
-msgstr ""
+msgstr "(*) Унлоад Алл."
 
 #: gui/session/unit_actions.js:1341
 msgid "Unload Turrets."
-msgstr ""
+msgstr "(*) Истовари куполе."
 
 #: gui/session/unit_actions.js:1361
 msgid "Destroy the selected units or structures."
-msgstr ""
+msgstr "(*) Уништите изабране јединице или структуре."
 
 #: gui/session/unit_actions.js:1363
 #, javascript-format
 msgid "Use %(hotkey)s to avoid the confirmation dialog."
-msgstr ""
+msgstr "(*) Употреба %(hotkey)s да бисте избегли дијалог за потврду."
 
 #: gui/session/unit_actions.js:1413
 msgid "Abort the current order."
@@ -1679,23 +1679,23 @@ msgstr "Прекини тренутну наредбу."
 
 #: gui/session/unit_actions.js:1435
 msgid "Order the selected units to garrison in a structure or unit."
-msgstr ""
+msgstr "(*) Наредите изабраним јединицама гарнизон у структури или јединици."
 
 #: gui/session/unit_actions.js:1457
 msgid "Order the selected units to occupy a turret point."
-msgstr ""
+msgstr "(*) Наредите изабраним јединицама да заузму куполу."
 
 #: gui/session/unit_actions.js:1479
 msgid "Unload"
-msgstr ""
+msgstr "(*) Истоварити"
 
 #: gui/session/unit_actions.js:1499
 msgid "Order the selected units to repair a structure, ship, or siege engine."
-msgstr ""
+msgstr "(*) Наручите изабраним јединицама да поправе конструкцију, брод или опсадни строј."
 
 #: gui/session/unit_actions.js:1520
 msgid "Focus on Rally Point."
-msgstr ""
+msgstr "(*) Фокус на Ралли Поинт."
 
 #: gui/session/unit_actions.js:1557
 msgid "Back to Work"
@@ -1703,7 +1703,7 @@ msgstr "Назад на Посао"
 
 #: gui/session/unit_actions.js:1578
 msgid "Order the selected units to guard a structure or unit."
-msgstr ""
+msgstr "(*) Наредите изабраним јединицама да чувају структуру или јединицу."
 
 #: gui/session/unit_actions.js:1598
 msgid "Remove guard"
@@ -1713,47 +1713,47 @@ msgstr "Одстрани стражу"
 #: gui/session/trade/TradeDialog.xml:(caption):9
 #: gui/session/unit_actions.js:1617
 msgid "Barter & Trade"
-msgstr ""
+msgstr "(*) Бартер & Траде"
 
 #: gui/session/unit_actions.js:1637
 msgid "Patrol"
-msgstr ""
+msgstr "(*) Патрола"
 
 #: gui/session/unit_actions.js:1638
 msgid "Attack all encountered enemy units while avoiding structures."
-msgstr ""
+msgstr "(*) Нападните све непријатељске јединице на које наиђете, избегавајући структуре."
 
 #: gui/session/unit_actions.js:1666
 msgid "Press to allow allies to use this dropsite"
-msgstr ""
+msgstr "(*) Притисните да бисте савезницима дозволили да користе ово место за приступ"
 
 #: gui/session/unit_actions.js:1671
 msgid "Press to prevent allies from using this dropsite"
-msgstr ""
+msgstr "(*) Притисните да спречите савезнике да користе ово место за приступ"
 
 #: gui/session/unit_actions.js:1706
 msgid "The use of this dropsite is prohibited"
-msgstr ""
+msgstr "(*) Употреба овог места за спуштање је забрањена"
 
 #: gui/session/unit_actions.js:1712
 msgid "Allies are allowed to use this dropsite."
-msgstr ""
+msgstr "(*) Савезницима је дозвољено да користе ово место за приступ."
 
 #: gui/session/unit_actions.js:1713
 msgid "You are allowed to use this dropsite"
-msgstr ""
+msgstr "(*) Дозвољено вам је да користите ово место за приступ"
 
 #: gui/session/unit_actions.js:1732
 msgid "Activate auto-queue for selected structures."
-msgstr ""
+msgstr "(*) Активирајте ауто-ред за изабране структуре."
 
 #: gui/session/unit_actions.js:1752
 msgid "Deactivate auto-queue for selected structures."
-msgstr ""
+msgstr "(*) Деактивирајте аутоматски ред чекања за изабране структуре."
 
 #: gui/session/unit_actions.js:1817
 msgid "The entity has to be killed before it can be gathered from"
-msgstr ""
+msgstr "(*) Ентитет мора бити убијен пре него што се од њега прикупи"
 
 #: gui/session/unit_actions.js:1820
 msgid ""
@@ -1762,4 +1762,4 @@ msgstr ""
 
 #: gui/session/unit_actions.js:1823
 msgid "This entity is undeletable"
-msgstr ""
+msgstr "(*) Овај ентитет је неизбрисив"

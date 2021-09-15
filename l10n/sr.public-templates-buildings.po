@@ -29,7 +29,7 @@ msgstr ""
 #: simulation/templates/structures/sele/arsenal.xml:5
 #: simulation/templates/structures/spart/arsenal.xml:5
 msgid "Hoplothēkē"
-msgstr ""
+msgstr "(*) ХоплотхА “кА“"
 
 #: simulation/templates/structures/athen/barracks.xml:12
 #: simulation/templates/structures/mace/barracks.xml:12
@@ -37,7 +37,7 @@ msgstr ""
 #: simulation/templates/structures/sele/barracks.xml:12
 #: simulation/templates/structures/spart/barracks.xml:12
 msgid "Stratopedon"
-msgstr ""
+msgstr "(*) Стратопедон"
 
 #: simulation/templates/structures/athen/civil_centre.xml:8
 #: simulation/templates/structures/mace/civil_centre.xml:8
@@ -45,7 +45,7 @@ msgstr ""
 #: simulation/templates/structures/sele/civil_centre.xml:5
 #: simulation/templates/structures/spart/civil_centre.xml:8
 msgid "Agora"
-msgstr ""
+msgstr "(*) Агора"
 
 #: simulation/templates/structures/athen/corral.xml:5
 #: simulation/templates/structures/mace/corral.xml:5
@@ -53,7 +53,7 @@ msgstr ""
 #: simulation/templates/structures/sele/corral.xml:5
 #: simulation/templates/structures/spart/corral.xml:5
 msgid "Epaulos"
-msgstr ""
+msgstr "(*) Епаулос"
 
 #: simulation/templates/structures/athen/defense_tower.xml:9
 #: simulation/templates/structures/mace/defense_tower.xml:9
@@ -61,7 +61,7 @@ msgstr ""
 #: simulation/templates/structures/sele/defense_tower.xml:9
 #: simulation/templates/structures/spart/defense_tower.xml:9
 msgid "Pyrgion"
-msgstr ""
+msgstr "(*) Пиргион"
 
 #: simulation/templates/structures/athen/dock.xml:12
 #: simulation/templates/structures/mace/dock.xml:12
@@ -69,7 +69,7 @@ msgstr ""
 #: simulation/templates/structures/sele/dock.xml:9
 #: simulation/templates/structures/spart/dock.xml:12
 msgid "Limēn"
-msgstr ""
+msgstr "(*) ЛимА “н"
 
 #: simulation/templates/structures/athen/farmstead.xml:11
 #: simulation/templates/structures/mace/farmstead.xml:11
@@ -77,7 +77,7 @@ msgstr ""
 #: simulation/templates/structures/sele/farmstead.xml:8
 #: simulation/templates/structures/spart/farmstead.xml:11
 msgid "Epoikion"
-msgstr ""
+msgstr "(*) Епоикион"
 
 #: simulation/templates/structures/athen/field.xml:5
 #: simulation/templates/structures/mace/field.xml:5
@@ -85,7 +85,7 @@ msgstr ""
 #: simulation/templates/structures/sele/field.xml:5
 #: simulation/templates/structures/spart/field.xml:5
 msgid "Agros"
-msgstr ""
+msgstr "(*) Агрос"
 
 #: simulation/templates/structures/athen/forge.xml:5
 #: simulation/templates/structures/mace/forge.xml:5
@@ -93,7 +93,7 @@ msgstr ""
 #: simulation/templates/structures/sele/forge.xml:5
 #: simulation/templates/structures/spart/forge.xml:5
 msgid "Chalkeōn"
-msgstr ""
+msgstr "(*) ЦхалкеА н"
 
 #: simulation/templates/structures/athen/fortress.xml:9
 #: simulation/templates/structures/mace/fortress.xml:9
@@ -114,7 +114,7 @@ msgstr "Гимназион"
 
 #: simulation/templates/structures/athen/gymnasium.xml:24
 msgid "Train Champions."
-msgstr ""
+msgstr "(*) Траин Цхампионс."
 
 #: simulation/templates/structures/athen/house.xml:5
 #: simulation/templates/structures/mace/house.xml:5
@@ -122,7 +122,7 @@ msgstr ""
 #: simulation/templates/structures/sele/house.xml:8
 #: simulation/templates/structures/spart/house.xml:5
 msgid "Oikos"
-msgstr ""
+msgstr "(*) Оикос"
 
 #: simulation/templates/structures/athen/market.xml:5
 #: simulation/templates/structures/mace/market.xml:5
@@ -130,7 +130,7 @@ msgstr ""
 #: simulation/templates/structures/sele/market.xml:5
 #: simulation/templates/structures/spart/market.xml:5
 msgid "Emporion"
-msgstr ""
+msgstr "(*) Емпорион"
 
 #: simulation/templates/structures/athen/outpost.xml:5
 #: simulation/templates/structures/mace/outpost.xml:5
@@ -138,7 +138,7 @@ msgstr ""
 #: simulation/templates/structures/sele/outpost.xml:5
 #: simulation/templates/structures/spart/outpost.xml:5
 msgid "Prophylagma"
-msgstr ""
+msgstr "(*) Профилактика"
 
 #: simulation/templates/structures/athen/prytaneion.xml:22
 msgid "Council Chamber"
@@ -150,13 +150,13 @@ msgstr "Пританеон"
 
 #: simulation/templates/structures/athen/prytaneion.xml:24
 msgid "Train Heroes and research technologies."
-msgstr ""
+msgstr "(*) Обучите хероје и истраживачке технологије."
 
 #: simulation/templates/structures/athen/prytaneion.xml:26
 #: simulation/templates/structures/gaul/assembly.xml:31
 #: simulation/templates/structures/spart/gerousia.xml:26
 msgid "Council"
-msgstr ""
+msgstr "(*) Савет"
 
 #: simulation/templates/structures/athen/range.xml:8
 #: simulation/templates/structures/mace/range.xml:8
@@ -164,7 +164,7 @@ msgstr ""
 #: simulation/templates/structures/sele/range.xml:8
 #: simulation/templates/structures/spart/range.xml:5
 msgid "Stratopedon tōn Psilōn"
-msgstr ""
+msgstr "(*) Стратопедон тАн ПсилАн"
 
 #: simulation/templates/structures/athen/sentry_tower.xml:5
 #: simulation/templates/structures/mace/sentry_tower.xml:5
@@ -172,7 +172,7 @@ msgstr ""
 #: simulation/templates/structures/sele/sentry_tower.xml:5
 #: simulation/templates/structures/spart/sentry_tower.xml:5
 msgid "Pyrgidion"
-msgstr ""
+msgstr "(*) Пиргидион"
 
 #: simulation/templates/structures/athen/stable.xml:5
 #: simulation/templates/structures/mace/stable.xml:5
@@ -180,7 +180,7 @@ msgstr ""
 #: simulation/templates/structures/sele/stable.xml:5
 #: simulation/templates/structures/spart/stable.xml:5
 msgid "Hippōn"
-msgstr ""
+msgstr "(*) ХиппА н"
 
 #: simulation/templates/structures/athen/storehouse.xml:8
 #: simulation/templates/structures/mace/storehouse.xml:8
@@ -188,7 +188,7 @@ msgstr ""
 #: simulation/templates/structures/sele/storehouse.xml:8
 #: simulation/templates/structures/spart/storehouse.xml:8
 msgid "Apothēkē"
-msgstr ""
+msgstr "(*) АпотхА “кА“"
 
 #: simulation/templates/structures/athen/temple.xml:9
 #: simulation/templates/structures/mace/temple.xml:9
@@ -197,7 +197,7 @@ msgstr ""
 #: simulation/templates/structures/sele/temple.xml:9
 #: simulation/templates/structures/spart/temple.xml:9
 msgid "Naos"
-msgstr ""
+msgstr "(*) Наос"
 
 #: simulation/templates/structures/athen/theater.xml:5
 #: simulation/templates/structures/mace/theater.xml:5
@@ -223,7 +223,7 @@ msgstr "Pyrgíon"
 #: simulation/templates/structures/sele/wall_gate.xml:9
 #: simulation/templates/structures/spart/wall_gate.xml:9
 msgid "Pylai"
-msgstr ""
+msgstr "(*) Пилаи"
 
 #: simulation/templates/structures/athen/wall_long.xml:9
 #: simulation/templates/structures/athen/wall_medium.xml:9
@@ -246,7 +246,7 @@ msgstr ""
 #: simulation/templates/structures/spart/wall_short.xml:9
 #: simulation/templates/structures/spart/wallset_stone.xml:5
 msgid "Teichos"
-msgstr ""
+msgstr "(*) Теицхос"
 
 #: simulation/templates/structures/athen/wall_tower.xml:9
 #: simulation/templates/structures/mace/wall_tower.xml:9
@@ -254,11 +254,11 @@ msgstr ""
 #: simulation/templates/structures/sele/wall_tower.xml:9
 #: simulation/templates/structures/spart/wall_tower.xml:9
 msgid "Pyrgos"
-msgstr ""
+msgstr "(*) Пиргос"
 
 #: simulation/templates/structures/athen/wonder.xml:9
 msgid "Parthenōn"
-msgstr ""
+msgstr "(*) ПартхенА н"
 
 #: simulation/templates/structures/bench.xml:11
 msgid "Bench"
@@ -281,20 +281,20 @@ msgstr "дрвени мост"
 #: simulation/templates/structures/brit/arsenal.xml:5
 #: simulation/templates/structures/gaul/arsenal.xml:5
 msgid "Miletucerdon"
-msgstr ""
+msgstr "(*) Милетуцердон"
 
 #: simulation/templates/structures/brit/barracks.xml:18
 msgid "Coriosessa"
-msgstr ""
+msgstr "(*) Цориосесса"
 
 #: simulation/templates/structures/brit/civil_centre.xml:12
 msgid "Tigernotreba"
-msgstr ""
+msgstr "(*) Тигернотреба"
 
 #: simulation/templates/structures/brit/corral.xml:8
 #: simulation/templates/structures/gaul/corral.xml:8
 msgid "Cagion"
-msgstr ""
+msgstr "(*) Цагион"
 
 #: simulation/templates/structures/brit/crannog.xml:13
 msgid "Island Settlement"
@@ -302,7 +302,7 @@ msgstr "Острвско насеље"
 
 #: simulation/templates/structures/brit/crannog.xml:14
 msgid "Cranogion"
-msgstr ""
+msgstr "(*) Цраногион"
 
 #: simulation/templates/structures/brit/crannog.xml:15
 msgid ""
@@ -318,32 +318,32 @@ msgstr ""
 #: simulation/templates/structures/gaul/sentry_tower.xml:5
 #: simulation/templates/structures/gaul/wall_tower.xml:9
 msgid "Uxelon"
-msgstr ""
+msgstr "(*) Укелон"
 
 #: simulation/templates/structures/brit/dock.xml:12
 #: simulation/templates/structures/gaul/dock.xml:12
 msgid "Counos"
-msgstr ""
+msgstr "(*) Цоунос"
 
 #: simulation/templates/structures/brit/farmstead.xml:11
 #: simulation/templates/structures/gaul/farmstead.xml:8
 msgid "Buta"
-msgstr ""
+msgstr "(*) Бута"
 
 #: simulation/templates/structures/brit/field.xml:5
 #: simulation/templates/structures/gaul/field.xml:5
 msgid "Olca"
-msgstr ""
+msgstr "(*) Олца"
 
 #: simulation/templates/structures/brit/forge.xml:5
 #: simulation/templates/structures/gaul/forge.xml:5
 msgid "Gobanion"
-msgstr ""
+msgstr "(*) Гобанион"
 
 #: simulation/templates/structures/brit/fortress.xml:12
 #: simulation/templates/structures/gaul/fortress.xml:5
 msgid "Dunon"
-msgstr ""
+msgstr "(*) Дунон"
 
 #: simulation/templates/structures/brit/fortress.xml:13
 #: simulation/templates/structures/cart/fortress.xml:10
@@ -352,27 +352,27 @@ msgstr ""
 #: simulation/templates/structures/mace/fortress.xml:10
 #: simulation/templates/structures/rome/fortress.xml:6
 msgid "Train Heroes. Garrison Soldiers for additional arrows."
-msgstr ""
+msgstr "(*) Траин Хероес. Гарнисон Солдиерс за додатне стреле."
 
 #: simulation/templates/structures/brit/house.xml:9
 #: simulation/templates/structures/gaul/house.xml:5
 msgid "Tegia"
-msgstr ""
+msgstr "(*) Тегиа"
 
 #: simulation/templates/structures/brit/market.xml:12
 #: simulation/templates/structures/gaul/market.xml:12
 msgid "Magos"
-msgstr ""
+msgstr "(*) Магос"
 
 #: simulation/templates/structures/brit/outpost.xml:5
 #: simulation/templates/structures/gaul/outpost.xml:5
 msgid "Antosolicon"
-msgstr ""
+msgstr "(*) Антосолицон"
 
 #: simulation/templates/structures/brit/range.xml:5
 #: simulation/templates/structures/gaul/range.xml:8
 msgid "Budinadon"
-msgstr ""
+msgstr "(*) Будинадон"
 
 #: simulation/templates/structures/brit/rotarymill.xml:5
 msgid "Melonas"
@@ -381,22 +381,22 @@ msgstr "Melonas"
 #: simulation/templates/structures/brit/stable.xml:11
 #: simulation/templates/structures/gaul/stable.xml:11
 msgid "Eposton"
-msgstr ""
+msgstr "(*) Епостон"
 
 #: simulation/templates/structures/brit/storehouse.xml:8
 #: simulation/templates/structures/gaul/storehouse.xml:8
 msgid "Capanon"
-msgstr ""
+msgstr "(*) Цапанон"
 
 #: simulation/templates/structures/brit/temple.xml:18
 #: simulation/templates/structures/gaul/temple.xml:18
 msgid "Nemeton"
-msgstr ""
+msgstr "(*) Неметон"
 
 #: simulation/templates/structures/brit/wall_gate.xml:9
 #: simulation/templates/structures/gaul/wall_gate.xml:9
 msgid "Duoricos"
-msgstr ""
+msgstr "(*) Дуорицос"
 
 #: simulation/templates/structures/brit/wall_long.xml:9
 #: simulation/templates/structures/brit/wall_medium.xml:9
@@ -407,15 +407,15 @@ msgstr ""
 #: simulation/templates/structures/gaul/wall_short.xml:9
 #: simulation/templates/structures/gaul/wallset_stone.xml:5
 msgid "Rate"
-msgstr ""
+msgstr "(*) Рате"
 
 #: simulation/templates/structures/brit/wonder.xml:9
 msgid "Emain Macha"
-msgstr ""
+msgstr "(*) Емаин Мацха"
 
 #: simulation/templates/structures/cart/apartment.xml:23
 msgid "Apartment Building"
-msgstr ""
+msgstr "(*) Стамбена зграда"
 
 #: simulation/templates/structures/cart/apartment.xml:24
 #: simulation/templates/structures/cart/house.xml:8
@@ -451,7 +451,7 @@ msgstr "Namel"
 
 #: simulation/templates/structures/cart/embassy.xml:19
 msgid "Train Mercenaries and research Mercenary technologies."
-msgstr ""
+msgstr "(*) Обучите плаћенике и истражите технологије плаћеника."
 
 #: simulation/templates/structures/cart/embassy_celtic.xml:17
 msgid "Celtic Embassy"
@@ -459,7 +459,7 @@ msgstr "Келтска амбасада"
 
 #: simulation/templates/structures/cart/embassy_celtic.xml:18
 msgid "Train Celtic Mercenaries and research Mercenary technologies."
-msgstr ""
+msgstr "(*) Обучите келтске плаћенике и истражите технологије плаћеника."
 
 #: simulation/templates/structures/cart/embassy_iberian.xml:10
 msgid "Iberian Embassy"
@@ -467,15 +467,15 @@ msgstr "Иберска амбасада"
 
 #: simulation/templates/structures/cart/embassy_iberian.xml:11
 msgid "Train Iberian Mercenaries and research Mercenary technologies."
-msgstr ""
+msgstr "(*) Обучите иберијске плаћенике и истражите технологије плаћеника."
 
 #: simulation/templates/structures/cart/embassy_italic.xml:17
 msgid "Italic Embassy"
-msgstr ""
+msgstr "(*) Италијанска амбасада"
 
 #: simulation/templates/structures/cart/embassy_italic.xml:18
 msgid "Train Italic Mercenaries and research Mercenary technologies."
-msgstr ""
+msgstr "(*) Обучавајте италске плаћенике и истражујте технологије плаћеника."
 
 #: simulation/templates/structures/cart/farmstead.xml:8
 msgid "Aḥuzāh"
@@ -537,7 +537,7 @@ msgstr "Maqdaš"
 
 #: simulation/templates/structures/cart/temple.xml:10
 msgid "Train Healers and Champion Infantry and research healing technologies."
-msgstr ""
+msgstr "(*) Обучите исцелитеље и пјешаке прваке и истражите технологије лијечења."
 
 #: simulation/templates/structures/cart/tophet.xml:18
 msgid "Sacrificial Temple"
@@ -608,27 +608,27 @@ msgstr "камена ограда"
 
 #: simulation/templates/structures/gaul/assembly.xml:27
 msgid "Assembly of Princes"
-msgstr ""
+msgstr "(*) Скупштина кнежева"
 
 #: simulation/templates/structures/gaul/assembly.xml:28
 msgid "Remogantion"
-msgstr ""
+msgstr "(*) Ремогантион"
 
 #: simulation/templates/structures/gaul/assembly.xml:29
 msgid "Train Champion Trumpeters and Heroes."
-msgstr ""
+msgstr "(*) Обучите шампиона трубаче и хероје."
 
 #: simulation/templates/structures/gaul/barracks.xml:18
 msgid "Coriosedlon"
-msgstr ""
+msgstr "(*) Цориоседлон"
 
 #: simulation/templates/structures/gaul/civil_centre.xml:12
 msgid "Lissos"
-msgstr ""
+msgstr "(*) Лиссос"
 
 #: simulation/templates/structures/gaul/rotarymill.xml:5
 msgid "Brauon"
-msgstr ""
+msgstr "(*) Брауон"
 
 #: simulation/templates/structures/gaul/tavern.xml:20
 msgid "Tavern"
@@ -640,11 +640,11 @@ msgstr "Taberna"
 
 #: simulation/templates/structures/gaul/wonder.xml:9
 msgid "Sanctuary of Corent"
-msgstr ""
+msgstr "(*) Светиште Корента"
 
 #: simulation/templates/structures/gaul/wonder.xml:10
 msgid "Celicnon"
-msgstr ""
+msgstr "(*) Целицнон"
 
 #: simulation/templates/structures/generic_field.xml:8
 msgid "Wheat Field"
@@ -660,7 +660,7 @@ msgstr "Naos Parthenos"
 
 #: simulation/templates/structures/hellenic_epic_temple.xml:25
 msgid "Garrison units to heal them at a quick rate."
-msgstr ""
+msgstr "(*) Гарнизонске јединице да их брзо лече."
 
 #: simulation/templates/structures/hellenic_propylaea.xml:20
 msgid "Portico"
@@ -761,87 +761,87 @@ msgstr "Иштар Капија Вавилона"
 
 #: simulation/templates/structures/ishtar_gate.xml:26
 msgid "Territory root."
-msgstr ""
+msgstr "(*) Територијални корен."
 
 #: simulation/templates/structures/kush/arsenal.xml:5
 msgid "Pr-ỉwn n ms"
-msgstr ""
+msgstr "(*) Пр-а »‰ вн н мс"
 
 #: simulation/templates/structures/kush/barracks.xml:9
 msgid "pr-msʿyw"
-msgstr ""
+msgstr "(*) пр-мсЕ¿ив"
 
 #: simulation/templates/structures/kush/camp_blemmye.xml:22
 msgid "Blemmye Camp"
-msgstr ""
+msgstr "(*) Блеммие Цамп"
 
 #: simulation/templates/structures/kush/camp_blemmye.xml:23
 msgid "Train Blemmye Mercenaries."
-msgstr ""
+msgstr "(*) Обучите Блеммие плаћенике."
 
 #: simulation/templates/structures/kush/camp_noba.xml:22
 msgid "Noba Village"
-msgstr ""
+msgstr "(*) Ноба Виллаге"
 
 #: simulation/templates/structures/kush/camp_noba.xml:23
 msgid "Train Noba Mercenaries."
-msgstr ""
+msgstr "(*) Обучите плаћенике Ноба."
 
 #: simulation/templates/structures/kush/civil_centre.xml:9
 msgid "Pr-nsw"
-msgstr ""
+msgstr "(*) Пр-нсв"
 
 #: simulation/templates/structures/kush/corral.xml:9
 msgid "ihy"
-msgstr ""
+msgstr "(*) ихи"
 
 #: simulation/templates/structures/kush/defense_tower.xml:5
 msgid "tsmt ʿȝ"
-msgstr ""
+msgstr "(*) тсмт Е¿Е"
 
 #: simulation/templates/structures/kush/dock.xml:9
 msgid "Mryt"
-msgstr ""
+msgstr "(*) Мрит"
 
 #: simulation/templates/structures/kush/elephant_stable.xml:5
 msgid "Ỉḥ Abu"
-msgstr ""
+msgstr "(*) а »ˆа¸ ¥ Абу"
 
 #: simulation/templates/structures/kush/farmstead.xml:9
 msgid "snwt"
-msgstr ""
+msgstr "(*) снвт"
 
 #: simulation/templates/structures/kush/field.xml:5
 msgid "sht"
-msgstr ""
+msgstr "(*) схт"
 
 #: simulation/templates/structures/kush/forge.xml:5
 msgid "hmw hʿy n rȝ-ʿ"
-msgstr ""
+msgstr "(*) хмв хЕ¿и н рЕ -Е¿"
 
 #: simulation/templates/structures/kush/fortress.xml:9
 msgid "Htm"
-msgstr ""
+msgstr "(*) Хтм"
 
 #: simulation/templates/structures/kush/house.xml:5
 msgid "Pr"
-msgstr ""
+msgstr "(*) Пр"
 
 #: simulation/templates/structures/kush/market.xml:9
 msgid "Pr-sbt"
-msgstr ""
+msgstr "(*) Пр-сбт"
 
 #: simulation/templates/structures/kush/outpost.xml:5
 msgid "trtr"
-msgstr ""
+msgstr "(*) тртр"
 
 #: simulation/templates/structures/kush/pyramid_large.xml:26
 msgid "Large Pyramid"
-msgstr ""
+msgstr "(*) Велика пирамида"
 
 #: simulation/templates/structures/kush/pyramid_large.xml:27
 msgid "mr ʿȝ"
-msgstr ""
+msgstr "(*) мр Е¿Е"
 
 #: simulation/templates/structures/kush/pyramid_large.xml:29
 #: simulation/templates/structures/kush/pyramid_small.xml:29
@@ -854,35 +854,35 @@ msgstr "Мала Пирамида"
 
 #: simulation/templates/structures/kush/pyramid_small.xml:27
 msgid "mr"
-msgstr ""
+msgstr "(*) господин"
 
 #: simulation/templates/structures/kush/range.xml:8
 msgid "Pr-Pdt"
-msgstr ""
+msgstr "(*) Пр-Пдт"
 
 #: simulation/templates/structures/kush/sentry_tower.xml:5
 msgid "tsmt"
-msgstr ""
+msgstr "(*) тсмт"
 
 #: simulation/templates/structures/kush/shrine.xml:13
 msgid "ḥwt-nṯr"
-msgstr ""
+msgstr "(*) а¸ ¥ вт-на¹¯р"
 
 #: simulation/templates/structures/kush/stable.xml:9
 msgid "Ỉḥ Ssmt"
-msgstr ""
+msgstr "(*) а »ˆа¸ ¥ Ссмт"
 
 #: simulation/templates/structures/kush/storehouse.xml:5
 msgid "wdȝt"
-msgstr ""
+msgstr "(*) вдЕ т"
 
 #: simulation/templates/structures/kush/temple.xml:8
 msgid "Temple of Apedemak"
-msgstr ""
+msgstr "(*) Апедемаков храм"
 
 #: simulation/templates/structures/kush/temple.xml:9
 msgid "Pr-ʿIprmk"
-msgstr ""
+msgstr "(*) Пр-Е¿Ипрмк"
 
 #: simulation/templates/structures/kush/temple.xml:10
 msgid ""
@@ -891,42 +891,42 @@ msgstr ""
 
 #: simulation/templates/structures/kush/temple.xml:11
 msgid "TempleOfApedemak"
-msgstr ""
+msgstr "(*) ТемплеОфАпедемак"
 
 #: simulation/templates/structures/kush/temple_amun.xml:27
 msgid "Grand Temple of Amun"
-msgstr ""
+msgstr "(*) Велики храм Амона"
 
 #: simulation/templates/structures/kush/temple_amun.xml:28
 msgid "Pr-ʿImn"
-msgstr ""
+msgstr "(*) Пр-Е¿Имн"
 
 #: simulation/templates/structures/kush/temple_amun.xml:29
 msgid "Train Amun Champions and Elite Healers. Research healing technologies."
-msgstr ""
+msgstr "(*) Обучите шампионе Амуна и елитне исцелитеље. Истражите технологије лечења."
 
 #: simulation/templates/structures/kush/temple_amun.xml:31
 msgid "TempleOfAmun"
-msgstr ""
+msgstr "(*) ТемплеОфАмун"
 
 #: simulation/templates/structures/kush/wall_gate.xml:9
 msgid "ʿryt"
-msgstr ""
+msgstr "(*) Е¿рит"
 
 #: simulation/templates/structures/kush/wall_long.xml:9
 #: simulation/templates/structures/kush/wall_medium.xml:9
 #: simulation/templates/structures/kush/wall_short.xml:9
 #: simulation/templates/structures/kush/wallset_stone.xml:5
 msgid "sbty"
-msgstr ""
+msgstr "(*) сбти"
 
 #: simulation/templates/structures/kush/wall_tower.xml:9
 msgid "sȝwt"
-msgstr ""
+msgstr "(*) сЕ вт"
 
 #: simulation/templates/structures/kush/wonder.xml:9
 msgid "Mnw nht"
-msgstr ""
+msgstr "(*) Мнв нхт"
 
 #: simulation/templates/structures/mace/library.xml:5
 #: simulation/templates/structures/ptol/library.xml:5
@@ -936,7 +936,7 @@ msgstr "Библиотека"
 
 #: simulation/templates/structures/mace/wonder.xml:9
 msgid "Hieron tou Dios tou Olympiou"
-msgstr ""
+msgstr "(*) Хиерон тоу Диос тоу Олимпиоу"
 
 #: simulation/templates/structures/maur/barracks.xml:15
 msgid "Sainyavasa"
@@ -1005,7 +1005,7 @@ msgstr "Harmya"
 
 #: simulation/templates/structures/maur/palace.xml:21
 msgid "Territory root. Train Maiden Guards and Heroes."
-msgstr ""
+msgstr "(*) Територијални корен. Обучите девојачке страже и хероје."
 
 #: simulation/templates/structures/maur/pillar_ashoka.xml:32
 msgid "Edict Pillar of Ashoka"
@@ -1030,7 +1030,7 @@ msgstr "Devalaya"
 
 #: simulation/templates/structures/maur/tower_double.xml:16
 msgid "Rampart Tower"
-msgstr ""
+msgstr "(*) Рампарт Товер"
 
 #: simulation/templates/structures/maur/tower_double.xml:18
 msgid ""
@@ -1060,11 +1060,11 @@ msgstr "Велика Ступа"
 
 #: simulation/templates/structures/mausoleum.xml:8
 msgid "Mausoleum at Halicarnassus"
-msgstr ""
+msgstr "(*) Маузолеј у Халикарнасу"
 
 #: simulation/templates/structures/mausoleum.xml:9
 msgid "Mausōleion"
-msgstr ""
+msgstr "(*) МаусА леион"
 
 #: simulation/templates/structures/merc_camp_egyptian.xml:6
 #: simulation/templates/structures/ptol/mercenary_camp.xml:6
@@ -1073,12 +1073,12 @@ msgstr "Камп Плаћеника"
 
 #: simulation/templates/structures/merc_camp_egyptian.xml:28
 msgid "Egyptian Mercenary Camp"
-msgstr ""
+msgstr "(*) Египатски плаћенички камп"
 
 #: simulation/templates/structures/merc_camp_egyptian.xml:29
 #: simulation/templates/structures/ptol/mercenary_camp.xml:28
 msgid "Stratopedeia Misthophorōn"
-msgstr ""
+msgstr "(*) Стратопедеиа МистхопхорА н"
 
 #: simulation/templates/structures/merc_camp_egyptian.xml:31
 msgid "Capture this structure to train mercenaries from Hellenistic Egypt."
@@ -1103,15 +1103,15 @@ msgstr "капија палисаде"
 #: simulation/templates/structures/palisades_gate.xml:22
 #: simulation/templates/structures/palisades_long.xml:31
 msgid "Allow units access through Palisades. Can be locked to prevent access."
-msgstr ""
+msgstr "(*) Дозволите јединицама приступ кроз Палисадес. Може се закључати ради спречавања приступа."
 
 #: simulation/templates/structures/palisades_long.xml:17
 msgid "Can be converted into a Palisade Gate."
-msgstr ""
+msgstr "(*) Може се претворити у Палисаде врата."
 
 #: simulation/templates/structures/palisades_spike_angle.xml:17
 msgid "Angle Spike"
-msgstr ""
+msgstr "(*) Англе Спике"
 
 #: simulation/templates/structures/palisades_spikes_small.xml:17
 msgid "Small Spikes"
@@ -1127,16 +1127,16 @@ msgstr "осматрачница"
 
 #: simulation/templates/structures/pers/apadana.xml:26
 msgid "Throne Hall"
-msgstr ""
+msgstr "(*) Тхроне Халл"
 
 #: simulation/templates/structures/pers/apadana.xml:27
 msgid "Apadāna"
-msgstr ""
+msgstr "(*) Ападна"
 
 #: simulation/templates/structures/pers/apadana.xml:28
 #: simulation/templates/structures/spart/syssiton.xml:25
 msgid "Train Champions and Heroes."
-msgstr ""
+msgstr "(*) Обучите шампионе и хероје."
 
 #: simulation/templates/structures/pers/apartment_block.xml:12
 msgid "Apartment Block"
@@ -1186,15 +1186,15 @@ msgstr "Didā"
 
 #: simulation/templates/structures/pers/hall.xml:23
 msgid "Gate of All Nations"
-msgstr ""
+msgstr "(*) Капија свих нација"
 
 #: simulation/templates/structures/pers/hall.xml:24
 msgid "Duvarθi Visadahyu"
-msgstr ""
+msgstr "(*) ДуварИ¸и Висадахиу"
 
 #: simulation/templates/structures/pers/hall.xml:25
 msgid "Hall"
-msgstr ""
+msgstr "(*) Халл"
 
 #: simulation/templates/structures/pers/house.xml:8
 msgid "Huvādā"
@@ -1227,11 +1227,11 @@ msgstr "Taçara"
 
 #: simulation/templates/structures/pers/temple.xml:12
 msgid "Āyadanam"
-msgstr ""
+msgstr "(*) А € иаданам"
 
 #: simulation/templates/structures/pers/wall_gate.xml:9
 msgid "Duvarθiš"
-msgstr ""
+msgstr "(*) ДуварИ¸иА¡"
 
 #: simulation/templates/structures/pers/wall_long.xml:9
 #: simulation/templates/structures/pers/wall_medium.xml:9
@@ -1251,7 +1251,7 @@ msgstr "Висећи Вртови Вавилона"
 #: simulation/templates/structures/ptol/elephant_stable.xml:5
 #: simulation/templates/structures/sele/elephant_stable.xml:5
 msgid "Stathmos tōn Elepantōn"
-msgstr ""
+msgstr "(*) Статхмос тАн ЕлепантА н"
 
 #: simulation/templates/structures/ptol/lighthouse.xml:25
 #: simulation/templates/structures/ptol/lighthouse.xml:29
@@ -1260,7 +1260,7 @@ msgstr "Светионик"
 
 #: simulation/templates/structures/ptol/lighthouse.xml:26
 msgid "Pharos"
-msgstr ""
+msgstr "(*) Пхарос"
 
 #: simulation/templates/structures/ptol/lighthouse.xml:27
 msgid ""
@@ -1281,7 +1281,7 @@ msgstr ""
 #: simulation/templates/structures/ptol/military_colony.xml:9
 #: simulation/templates/structures/sele/military_colony.xml:9
 msgid "Klērouchia"
-msgstr ""
+msgstr "(*) Клароуцхиа"
 
 #: simulation/templates/structures/ptol/tower_artillery.xml:9
 msgid "mktr-n-ḏw"
@@ -1289,11 +1289,11 @@ msgstr "mktr-n-ḏw"
 
 #: simulation/templates/structures/ptol/wonder.xml:9
 msgid "Hieron tou Hōrou"
-msgstr ""
+msgstr "(*) Хиерон тоу ХА роу"
 
 #: simulation/templates/structures/rome/amphitheater_pompeii.xml:6
 msgid "Amphitheātrum"
-msgstr ""
+msgstr "(*) Амфитечка труба"
 
 #: simulation/templates/structures/rome/arch.xml:22
 msgid "Triumphal Arch"
@@ -1301,11 +1301,11 @@ msgstr "Тријумфални Лук"
 
 #: simulation/templates/structures/rome/arch.xml:23
 msgid "Arcus Triumphālis"
-msgstr ""
+msgstr "(*) Арцус ТриумпхАлис"
 
 #: simulation/templates/structures/rome/arch.xml:24
 msgid "TriumphalArch"
-msgstr ""
+msgstr "(*) Славолук"
 
 #: simulation/templates/structures/rome/army_camp.xml:72
 msgid "Army Camp"
@@ -1313,7 +1313,7 @@ msgstr "Војни Камп"
 
 #: simulation/templates/structures/rome/army_camp.xml:73
 msgid "Castra"
-msgstr ""
+msgstr "(*) Цастра"
 
 #: simulation/templates/structures/rome/army_camp.xml:74
 msgid ""
@@ -1328,7 +1328,7 @@ msgstr "Војни Камп"
 
 #: simulation/templates/structures/rome/arsenal.xml:5
 msgid "Ballistārium"
-msgstr ""
+msgstr "(*) БаллистАриум"
 
 #: simulation/templates/structures/rome/barracks.xml:12
 msgid "Castrum"
@@ -1346,7 +1346,7 @@ msgstr "Saeptum"
 #: simulation/templates/structures/rome/tower_artillery.xml:9
 #: simulation/templates/structures/rome/tower_bolt.xml:9
 msgid "Turris Laterīcia"
-msgstr ""
+msgstr "(*) Туррис Латерециа"
 
 #: simulation/templates/structures/rome/dock.xml:12
 msgid "Portus"
@@ -1354,7 +1354,7 @@ msgstr "Portus"
 
 #: simulation/templates/structures/rome/farmstead.xml:8
 msgid "Vīlla"
-msgstr ""
+msgstr "(*) ВА «лла"
 
 #: simulation/templates/structures/rome/field.xml:5
 msgid "Ager"
@@ -1362,7 +1362,7 @@ msgstr "Ager"
 
 #: simulation/templates/structures/rome/forge.xml:5
 msgid "Armāmentārium"
-msgstr ""
+msgstr "(*) АрмА ментАриум"
 
 #: simulation/templates/structures/rome/fortress.xml:5
 msgid "Castellum"
@@ -1374,15 +1374,15 @@ msgstr "Domus"
 
 #: simulation/templates/structures/rome/market.xml:12
 msgid "Mercātus"
-msgstr ""
+msgstr "(*) Мерцтус"
 
 #: simulation/templates/structures/rome/outpost.xml:5
 msgid "Vigilārium"
-msgstr ""
+msgstr "(*) ВигилАриум"
 
 #: simulation/templates/structures/rome/sentry_tower.xml:5
 msgid "Turris Līgnea"
-msgstr ""
+msgstr "(*) Туррис Лагнеа"
 
 #: simulation/templates/structures/rome/siege_wall_gate.xml:22
 msgid "Siege Wall Gate"
@@ -1390,7 +1390,7 @@ msgstr "Капија Опсадних Зидина"
 
 #: simulation/templates/structures/rome/siege_wall_gate.xml:23
 msgid "Porta Circummūnītiōnis"
-msgstr ""
+msgstr "(*) Порта ЦирцуммА «натиА¡нис"
 
 #: simulation/templates/structures/rome/siege_wall_gate.xml:24
 #: simulation/templates/structures/rome/siege_wall_long.xml:25
@@ -1399,7 +1399,7 @@ msgstr ""
 #: simulation/templates/structures/rome/siege_wall_tower.xml:29
 #: simulation/templates/structures/rome/wallset_siege.xml:9
 msgid "SiegeWall"
-msgstr ""
+msgstr "(*) СиегеВалл"
 
 #: simulation/templates/structures/rome/siege_wall_long.xml:23
 #: simulation/templates/structures/rome/siege_wall_medium.xml:23
@@ -1413,7 +1413,7 @@ msgstr "Опсадне Зидине"
 #: simulation/templates/structures/rome/siege_wall_short.xml:24
 #: simulation/templates/structures/rome/wallset_siege.xml:6
 msgid "Mūrus Circummūnītiōnis"
-msgstr ""
+msgstr "(*) М «рус ЦирцуммА« натитинис"
 
 #: simulation/templates/structures/rome/siege_wall_tower.xml:26
 msgid "Siege Wall Tower"
@@ -1421,19 +1421,19 @@ msgstr "Ступ Опсадних Зидина"
 
 #: simulation/templates/structures/rome/siege_wall_tower.xml:27
 msgid "Turris Circummūnītiōnis"
-msgstr ""
+msgstr "(*) Туррис ЦирцуммА «натиА¡нис"
 
 #: simulation/templates/structures/rome/stable.xml:5
 msgid "Equīle"
-msgstr ""
+msgstr "(*) Једнако"
 
 #: simulation/templates/structures/rome/storehouse.xml:8
 msgid "Receptāculum"
-msgstr ""
+msgstr "(*) РецептА цулум"
 
 #: simulation/templates/structures/rome/temple.xml:9
 msgid "Aedēs"
-msgstr ""
+msgstr "(*) АедА'с"
 
 #: simulation/templates/structures/rome/temple_mars.xml:12
 msgid "Temple of Mars"
@@ -1441,11 +1441,11 @@ msgstr "Храм бога Марса"
 
 #: simulation/templates/structures/rome/temple_mars.xml:13
 msgid "Aedēs Mārtiālis"
-msgstr ""
+msgstr "(*) Аед'с Мартилис"
 
 #: simulation/templates/structures/rome/temple_mars.xml:14
 msgid "TempleOfMars"
-msgstr ""
+msgstr "(*) ТемплеОфМарс"
 
 #: simulation/templates/structures/rome/temple_vesta.xml:18
 msgid "Temple of Vesta"
@@ -1453,11 +1453,11 @@ msgstr "Храм богиње Весте"
 
 #: simulation/templates/structures/rome/temple_vesta.xml:19
 msgid "Aedēs Vestālis"
-msgstr ""
+msgstr "(*) Аед'с ВестАлис"
 
 #: simulation/templates/structures/rome/temple_vesta.xml:21
 msgid "TempleOfVesta"
-msgstr ""
+msgstr "(*) ТемплеОфВеста"
 
 #: simulation/templates/structures/rome/tent.xml:25
 msgid "Tabernāculum"
@@ -1484,15 +1484,15 @@ msgstr "Turris Lapidea"
 
 #: simulation/templates/structures/rome/wallset_siege.xml:7
 msgid "Wall off an area. Build in own, neutral, or enemy territory."
-msgstr ""
+msgstr "(*) Зидите подручје. Градите на сопственој, неутралној или непријатељској територији."
 
 #: simulation/templates/structures/rome/wonder.xml:9
 msgid "Aedēs Iovis Optimi Maximi"
-msgstr ""
+msgstr "(*) Аед'с Иовис Оптими Макими"
 
 #: simulation/templates/structures/sele/wonder.xml:9
 msgid "Hieron tou Apollōnos Pythiou"
-msgstr ""
+msgstr "(*) Хиерон тоу АполлА нос Питхиоу"
 
 #: simulation/templates/structures/sele_colonnade.xml:11
 msgid "Colonnade"
@@ -1504,20 +1504,20 @@ msgstr "Коринтска колонада"
 
 #: simulation/templates/structures/shrine_egyptian.xml:5
 msgid "Sanctuary Kiosk"
-msgstr ""
+msgstr "(*) Киоск светилишта"
 
 #: simulation/templates/structures/shrine_italian.xml:9
 msgid "Temple of Healing"
-msgstr ""
+msgstr "(*) Храм исцељења"
 
 #: simulation/templates/structures/shrine_italian.xml:10
 msgid "Aedēs Sanitatem"
-msgstr ""
+msgstr "(*) Аед'с Санитатем"
 
 #: simulation/templates/structures/kush/shrine.xml:12
 #: simulation/templates/structures/shrine_kushite.xml:5
 msgid "Shrine"
-msgstr ""
+msgstr "(*) Светилиште"
 
 #: simulation/templates/structures/spart/gerousia.xml:22
 msgid "Spartan Senate"
@@ -1525,7 +1525,7 @@ msgstr "Спартански Сенат"
 
 #: simulation/templates/structures/spart/gerousia.xml:23
 msgid "Gerousia"
-msgstr ""
+msgstr "(*) Героусиа"
 
 #: simulation/templates/structures/spart/gerousia.xml:24
 msgid "Train Heroes."
@@ -1541,11 +1541,11 @@ msgstr "Сиситија"
 
 #: simulation/templates/structures/spart/syssiton.xml:27
 msgid "Syssiton"
-msgstr ""
+msgstr "(*) Сисситон"
 
 #: simulation/templates/structures/spart/wonder.xml:9
 msgid "Hieron tēs Artemidos Orthias"
-msgstr ""
+msgstr "(*) Хиерон Артемидос Ортхиас"
 
 #: simulation/templates/structures/stall_big.xml:11
 msgid "Big stall"
@@ -1579,7 +1579,7 @@ msgstr "квадратни сто"
 
 #: simulation/templates/structures/tent_desert.xml:35
 msgid "Desert Army Tent"
-msgstr ""
+msgstr "(*) Шатор пустињске војске"
 
 #: simulation/templates/structures/rome/tent.xml:24
 #: simulation/templates/structures/tent_desert.xml:36
@@ -1599,23 +1599,23 @@ msgstr "Привремено склониште за војнике. +5 попу
 
 #: simulation/templates/structures/tent_mace.xml:35
 msgid "Macedonian Army Tent"
-msgstr ""
+msgstr "(*) Шатор македонске војске"
 
 #: simulation/templates/structures/tent_rome.xml:35
 msgid "Roman Army Tent"
-msgstr ""
+msgstr "(*) Шатор римске војске"
 
 #: simulation/templates/structures/trading_post_celtic.xml:9
 msgid "Celtic Tavern"
-msgstr ""
+msgstr "(*) Келтска кафана"
 
 #: simulation/templates/structures/trading_post_desert.xml:9
 msgid "Desert Bazaar"
-msgstr ""
+msgstr "(*) Десерт Базаар"
 
 #: simulation/templates/structures/uffington_horse.xml:10
 msgid "Uffington White Horse"
-msgstr ""
+msgstr "(*) Уффингтон Вхите Хорсе"
 
 #: simulation/templates/template_structure_civic.xml:5
 msgid "Civic Structure"
@@ -1710,7 +1710,7 @@ msgstr "храм"
 
 #: simulation/templates/template_structure_civic_temple.xml:31
 msgid "Train Healers and research healing technologies."
-msgstr ""
+msgstr "(*) Обучите исцелитеље и истражите технологије лечења."
 
 #: simulation/templates/template_structure_defensive.xml:4
 msgid "Defensive Structure"
@@ -1725,7 +1725,7 @@ msgstr "предстража"
 
 #: simulation/templates/template_structure_defensive_outpost.xml:30
 msgid "Build in own or neutral territory."
-msgstr ""
+msgstr "(*) Градите на сопственој или неутралној територији."
 
 #: simulation/templates/structures/wallset_palisade.xml:4
 #: simulation/templates/structures/wallset_palisade.xml:6
@@ -1737,13 +1737,13 @@ msgstr "палисада"
 #: simulation/templates/structures/wallset_palisade.xml:5
 #: simulation/templates/template_structure_defensive_palisade.xml:15
 msgid "Wall off an area. Build in own or neutral territory."
-msgstr ""
+msgstr "(*) Зидите подручје. Градите на сопственој или неутралној територији."
 
 #: simulation/templates/template_structure_defensive_tower.xml:36
 #: simulation/templates/template_structure_defensive_tower.xml:52
 #: simulation/templates/template_structure_defensive_tower.xml:53
 msgid "Tower"
-msgstr ""
+msgstr "(*) Товер"
 
 #: simulation/templates/template_structure_defensive_tower_artillery.xml:5
 msgctxt "Name of an attack, usually the weapon."
@@ -1756,20 +1756,20 @@ msgstr "Артиљеријска Кула"
 
 #: simulation/templates/template_structure_defensive_tower_artillery.xml:52
 msgid "ArtilleryTower"
-msgstr ""
+msgstr "(*) Артиљеријска кула"
 
 #: simulation/templates/template_structure_defensive_tower_bolt.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bolt"
-msgstr ""
+msgstr "(*) Завртањ"
 
 #: simulation/templates/template_structure_defensive_tower_bolt.xml:47
 msgid "Bolt Tower"
-msgstr ""
+msgstr "(*) Болт Товер"
 
 #: simulation/templates/template_structure_defensive_tower_bolt.xml:49
 msgid "BoltTower"
-msgstr ""
+msgstr "(*) БолтТовер"
 
 #: simulation/templates/template_structure_defensive_tower_sentry.xml:28
 msgid "Sentry Tower"
@@ -1792,7 +1792,7 @@ msgstr "Појачај каменом и унапреди у одбрамбен�
 
 #: simulation/templates/template_structure_defensive_tower_stone.xml:26
 msgid "Stone Tower"
-msgstr ""
+msgstr "(*) Камена кула"
 
 #: simulation/templates/template_structure_defensive_tower_stone.xml:29
 msgid "StoneTower"
@@ -1801,7 +1801,7 @@ msgstr "Камена Кула"
 #: simulation/templates/template_structure_defensive_wall.xml:12
 #: simulation/templates/template_structure_defensive_wall.xml:15
 msgid "Wall"
-msgstr ""
+msgstr "(*) Зид"
 
 #: simulation/templates/template_structure_defensive_wall.xml:14
 msgid "Wall off your town for a stout defense."
@@ -1816,11 +1816,11 @@ msgstr "капија"
 #: simulation/templates/template_structure_defensive_wall_gate.xml:24
 #: simulation/templates/template_structure_defensive_wall_long.xml:26
 msgid "Allow units access through Walls. Can be locked to prevent access."
-msgstr ""
+msgstr "(*) Дозволите јединицама приступ кроз зидове. Може се закључати ради спречавања приступа."
 
 #: simulation/templates/template_structure_defensive_wall_long.xml:17
 msgid "Can be converted into a Gate."
-msgstr ""
+msgstr "(*) Може се претворити у капију."
 
 #: simulation/templates/template_structure_defensive_wall_tower.xml:22
 msgid "Wall Turret"
@@ -1843,7 +1843,7 @@ msgstr "Земљорадничко Газдинство"
 
 #: simulation/templates/template_structure_economic_farmstead.xml:28
 msgid "Research food gathering technologies."
-msgstr ""
+msgstr "(*) Истражите технологије прикупљања хране."
 
 #: simulation/templates/template_structure_economic_market.xml:24
 #: simulation/templates/template_structure_economic_market.xml:28
@@ -1868,7 +1868,7 @@ msgstr "Складиште"
 
 #: simulation/templates/template_structure_economic_storehouse.xml:26
 msgid "Research gathering technologies."
-msgstr ""
+msgstr "(*) Технологије прикупљања истраживања."
 
 #: simulation/templates/template_structure_military.xml:10
 msgid "Military Structure"
@@ -1881,7 +1881,7 @@ msgstr "Војска"
 #: simulation/templates/template_structure_military_arsenal.xml:25
 #: simulation/templates/template_structure_military_arsenal.xml:28
 msgid "Arsenal"
-msgstr ""
+msgstr "(*) Арсенал"
 
 #: simulation/templates/template_structure_military_arsenal.xml:27
 msgid ""
@@ -1908,7 +1908,7 @@ msgstr "касарна"
 
 #: simulation/templates/template_structure_military_barracks.xml:28
 msgid "Train Infantry and research Infantry technologies."
-msgstr ""
+msgstr "(*) Обучите пешадију и истражите пешадијске технологије."
 
 #: simulation/templates/template_structure_military_dock.xml:24
 #: simulation/templates/template_structure_military_dock.xml:27
@@ -1925,19 +1925,19 @@ msgstr ""
 #: simulation/templates/structures/cart/super_dock.xml:43
 #: simulation/templates/template_structure_military_dock.xml:27
 msgid "Naval"
-msgstr ""
+msgstr "(*) Навал"
 
 #: simulation/templates/template_structure_military_elephant_stable.xml:26
 msgid "Elephant Stable"
-msgstr ""
+msgstr "(*) Елепхант Стабле"
 
 #: simulation/templates/template_structure_military_elephant_stable.xml:28
 msgid "Train Elephants and research Elephant technologies."
-msgstr ""
+msgstr "(*) Обучите слонове и истражите технологије слонова."
 
 #: simulation/templates/template_structure_military_elephant_stable.xml:29
 msgid "ElephantStable"
-msgstr ""
+msgstr "(*) ЕлепхантСтабле"
 
 #: simulation/templates/structures/cart/embassy.xml:18
 #: simulation/templates/template_structure_military_embassy.xml:22
@@ -1948,11 +1948,11 @@ msgstr "амбасада"
 #: simulation/templates/template_structure_military_forge.xml:22
 #: simulation/templates/template_structure_military_forge.xml:26
 msgid "Forge"
-msgstr ""
+msgstr "(*) Форге"
 
 #: simulation/templates/template_structure_military_forge.xml:24
 msgid "Research attack damage and damage resistance technologies."
-msgstr ""
+msgstr "(*) Истражите оштећења од напада и технологије отпорности на оштећења."
 
 #: simulation/templates/template_structure_military_fortress.xml:35
 #: simulation/templates/template_structure_military_fortress.xml:65
@@ -1962,15 +1962,15 @@ msgstr "тврђава"
 
 #: simulation/templates/template_structure_military_fortress.xml:67
 msgid "Garrison Soldiers for additional arrows."
-msgstr ""
+msgstr "(*) Гарнисон Солдиерс за додатне стреле."
 
 #: simulation/templates/template_structure_military_range.xml:22
 msgid "Practice Range"
-msgstr ""
+msgstr "(*) Вјежбалиште"
 
 #: simulation/templates/template_structure_military_range.xml:24
 msgid "Train Ranged Infantry and research technologies."
-msgstr ""
+msgstr "(*) Пешадија на даљинском возу и истраживачке технологије."
 
 #: simulation/templates/template_structure_military_range.xml:25
 msgid "Range"
@@ -1983,7 +1983,7 @@ msgstr "Штала"
 
 #: simulation/templates/template_structure_military_stable.xml:28
 msgid "Train Cavalry and research Cavalry technologies."
-msgstr ""
+msgstr "(*) Обучите коњицу и истражите технологије коњице."
 
 #: simulation/templates/template_structure_resource.xml:4
 msgid "Resource Structure"
@@ -2000,7 +2000,7 @@ msgstr "Тор за стоку "
 
 #: simulation/templates/template_structure_resource_corral.xml:20
 msgid "Raise Domestic Animals for food."
-msgstr ""
+msgstr "(*) Узгајајте домаће животиње за исхрану."
 
 #: simulation/templates/template_structure_resource_field.xml:18
 #: simulation/templates/template_structure_resource_field.xml:20
@@ -2014,7 +2014,7 @@ msgstr ""
 
 #: simulation/templates/template_structure_special.xml:19
 msgid "Special Structure"
-msgstr ""
+msgstr "(*) Посебна структура"
 
 #: simulation/templates/structures/rome/amphitheater_pompeii.xml:5
 #: simulation/templates/template_structure_special_amphitheater.xml:18
@@ -2033,7 +2033,7 @@ msgstr "Ротирајући Млин"
 
 #: simulation/templates/template_structure_special_rotarymill.xml:21
 msgid "RotaryMill"
-msgstr ""
+msgstr "(*) РотариМилл"
 
 #: simulation/templates/template_structure_special_theater.xml:25
 #: simulation/templates/template_structure_special_theater.xml:27

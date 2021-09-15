@@ -143,7 +143,7 @@ msgstr "Величанствена експанзија"
 
 #: simulation/data/auras/structures/xp_trickle.jsonauraDescription
 msgid "Units gain experience while garrisoned inside the building."
-msgstr ""
+msgstr "(*) Јединице стичу искуство док су у згради у гарнизону."
 
 #: simulation/data/auras/structures/xp_trickle.jsonauraName
 msgid "Rigorous Training"
@@ -151,7 +151,7 @@ msgstr "Строга обука"
 
 #: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraDescription
 msgid "Warships −25% construction time."
-msgstr ""
+msgstr "(*) Ратни бродови имају 25% времена изградње."
 
 #: simulation/data/auras/teambonuses/athen_player_teambonus.jsonauraName
 msgid "Delian League"
@@ -159,7 +159,7 @@ msgstr "Делска лига"
 
 #: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraDescription
 msgid "Healers −20% resource costs."
-msgstr ""
+msgstr "(*) Исцелитељи имају 20% трошкова ресурса."
 
 #: simulation/data/auras/teambonuses/brit_player_teambonus.jsonauraName
 msgid "Druids"
@@ -167,7 +167,7 @@ msgstr "Друиди"
 
 #: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraDescription
 msgid "+10% international trade bonus."
-msgstr ""
+msgstr "(*) +10% бонуса за међународну трговину."
 
 #: simulation/data/auras/teambonuses/cart_player_teambonus.jsonauraName
 msgid "Trademasters"
@@ -183,7 +183,7 @@ msgstr "Продукти од Гала"
 
 #: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraDescription
 msgid "Citizen Javelineers −10% resource costs."
-msgstr ""
+msgstr "(*) Цитизен Јавелинеерс - 10% трошкова ресурса."
 
 #: simulation/data/auras/teambonuses/iber_player_teambonus.jsonauraName
 msgid "Saripeko"
@@ -191,7 +191,7 @@ msgstr "Сарипеко"
 
 #: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraDescription
 msgid "Elephants −20% resource costs and training time."
-msgstr ""
+msgstr "(*) Слонови имају 20% трошкова ресурса и времена за обуку."
 
 #: simulation/data/auras/teambonuses/kush_player_teambonus.jsonauraName
 msgid "Elephant Suppliers"
@@ -199,7 +199,7 @@ msgstr "Добављачи Слонова"
 
 #: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraDescription
 msgid "+20% barter sell prices."
-msgstr ""
+msgstr "(*) +20% бартер продајне цене."
 
 #: simulation/data/auras/teambonuses/mace_player_teambonus.jsonauraName
 msgid "Standardized Currency"
@@ -217,7 +217,7 @@ msgstr "Ашокина Верска Подршка"
 
 #: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraDescription
 msgid "Land Traders +15% trade gain."
-msgstr ""
+msgstr "(*) Трговци земљиштем +15% трговинске добити."
 
 #: simulation/data/auras/teambonuses/pers_player_teambonus.jsonauraName
 msgid "The Royal Road"
@@ -225,7 +225,7 @@ msgstr "Царски Пут"
 
 #: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraDescription
 msgid "+1.0 food trickle rate."
-msgstr ""
+msgstr "(*) +1,0 стопа цурења хране."
 
 #: simulation/data/auras/teambonuses/ptol_player_teambonus.jsonauraName
 msgid "Breadbasket of the Mediterranean"
@@ -233,7 +233,7 @@ msgstr "Медитеранска Житница"
 
 #: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraDescription
 msgid "Citizen Infantry −10% training time."
-msgstr ""
+msgstr "(*) Грађанска пешадија има 10% времена обуке."
 
 #: simulation/data/auras/teambonuses/rome_player_teambonus.jsonauraName
 msgid "Conscription"
@@ -241,7 +241,7 @@ msgstr "Војна Обавеза"
 
 #: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraDescription
 msgid "Civil Centers −20% resource costs."
-msgstr ""
+msgstr "(*) Цивилни центри 20% трошкова ресурса."
 
 #: simulation/data/auras/teambonuses/sele_player_teambonus.jsonauraName
 msgid "Syrian Tetrapolis"
@@ -249,7 +249,7 @@ msgstr "Сиријски Тетраполис"
 
 #: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraDescription
 msgid "Citizen Infantry Spearmen +10% health."
-msgstr ""
+msgstr "(*) Грађански пешадијски копљаници +10% здравља."
 
 #: simulation/data/auras/teambonuses/spart_player_teambonus.jsonauraName
 msgid "Peloponnesian League"
@@ -501,7 +501,7 @@ msgstr "Гвоздени пеланорс"
 
 #: simulation/data/auras/units/elephant_worker.jsonauraDescription
 msgid "Builders +25% build rate."
-msgstr ""
+msgstr "(*) Градитељи +25% стопе изградње."
 
 #: simulation/data/auras/units/elephant_worker.jsonauraName
 msgid "Elephant Workers"
@@ -527,7 +527,7 @@ msgstr "реформе пелтаста"
 
 #: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraDescription
 msgid "Builders +15% build rate."
-msgstr ""
+msgstr "(*) Градитељи +15% стопе изградње."
 
 #: simulation/data/auras/units/heroes/athen_hero_pericles_1.jsonauraName
 msgid "Periclean Building Program"
@@ -864,7 +864,7 @@ msgstr "непријатељски хероји -10% здравље."
 
 #: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraDescription
 msgid "Builders +10% build rate."
-msgstr ""
+msgstr "(*) Градитељи +10% стопе изградње."
 
 #: simulation/data/auras/units/heroes/ptol_hero_ptolemy_i_1.jsonauraName
 msgid "Patron of Construction"

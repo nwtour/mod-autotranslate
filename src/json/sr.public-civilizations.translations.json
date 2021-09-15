@@ -1,11 +1,95 @@
 {
+   "01136c19b97f2a5a48cd06abf79065ef" : {
+      "english" : "Roman Legionaries can form a Testudo.",
+      "translation" : "Римски легионари могу формирати Тестудо."
+   },
+   "03f093da88e3bfeee7bf6257cee1d8eb" : {
+      "english" : "Philip I Philadelphus",
+      "translation" : "Пхилип И Пхиладелпхус"
+   },
+   "03f5bbedf5db2c578eb5fea25a91dcb6" : {
+      "english" : "Bindusara Maurya",
+      "translation" : "Биндусара Мауриа"
+   },
+   "04e52b2fd2abd94213726e35ae9b12ce" : {
+      "english" : "Atlanersa",
+      "translation" : "Атланерса"
+   },
+   "0561e4c8a40d7dd9f023f6ed99d74aa7" : {
+      "english" : "Dasharatha Maurya",
+      "translation" : "Дасхаратха Мауриа"
+   },
    "06323aa87da9d351e07c112776de609f" : {
       "english" : "Darayavahush I",
       "translation" : "Дараиавахусх И"
    },
+   "07d2cb86d22a824d2e11c1205a997e0b" : {
+      "english" : "Antiochus VI Dionysus",
+      "translation" : "Антиох ВИ Дионис"
+   },
+   "09dccb9bb02a770187ad2f08872bee45" : {
+      "english" : "Haxamanish",
+      "translation" : "Хакаманисх"
+   },
+   "0bba29d6688d72744601082f1626ebb0" : {
+      "english" : "Shabaka",
+      "translation" : "Схабака"
+   },
+   "128769e5660d85455cd2ba9db897c656" : {
+      "english" : "Cleopatra Thea",
+      "translation" : "Клеопатра Теа"
+   },
    "17c6b6246c4bb8812381b44c03440267" : {
       "english" : "The Ptolemaic dynasty was a Macedonian Greek royal family which ruled the Ptolemaic Empire in Egypt during the Hellenistic period. Their rule lasted for 275 years, from 305 BC to 30 BC. They were the last dynasty of ancient Egypt.",
       "translation" : "Династија Птоломеја била је македонска грчка краљевска породица која је владала Птоломејским царством у Египту током хеленистичког периода. Њихова владавина трајала је 275 година, од 305. пре Христа до 30. пре Христа. Они су били последња династија старог Египта."
+   },
+   "181f945aafa7fb66d77c0a91a86ad745" : {
+      "english" : "Land Traders +25% trade gain.",
+      "translation" : "Трговци земљиштем +25% трговинске добити."
+   },
+   "1d73bf57e9c94ccceb9b7b6181d0cb9a" : {
+      "english" : "Starting Walls",
+      "translation" : "Почетни зидови"
+   },
+   "1e1347d7134caa3616f55db5d4502384" : {
+      "english" : "Shanakdakhete",
+      "translation" : "Сханакдакхете"
+   },
+   "1ed613df2455d7c12abfa58e00770fd1" : {
+      "english" : "Antiochus VII Sidetes",
+      "translation" : "Антиох ВИИ Сидетес"
+   },
+   "255541636b64c92ddf0fe8fce4439c1e" : {
+      "english" : "Nasalsa",
+      "translation" : "Насалса"
+   },
+   "2b6eaaec7ef700af7bcfd58ac58494fc" : {
+      "english" : "Macedonia was an ancient Greek kingdom, centered in the northeastern part of the Greek peninsula. Under the leadership of Alexander the Great, Macedonian forces and allies took over most of the world they knew, including Egypt, Persia and parts of the Indian subcontinent, allowing a diffusion of Hellenic and eastern cultures for years to come.",
+      "translation" : "Македонија је била старогрчко краљевство са центром у североисточном делу грчког полуострва. Под вођством Александра Великог, македонске снаге и савезници заузели су већи део света који су познавали, укључујући Египат, Персију и делове индијског потконтинента, омогућавајући ширење хеленске и источне културе у годинама које долазе."
+   },
+   "2b70658a207cafeb6a0a50a821eb9ca2" : {
+      "english" : "Darayavahush III",
+      "translation" : "Дараиавахусх ИИИ"
+   },
+   "2dad67cf82545f167682a19cfcce4d58" : {
+      "english" : "Seleucus VII Kybiosaktes",
+      "translation" : "Селеук ВИИ Кибиосактес"
+   },
+   "300b0c598f90848b9c01a622d608d7e2" : {
+      "english" : "Seleucus V Philometor",
+      "translation" : "Селеук В Филометор"
+   },
+   "301c5c70861433f3fa8bafb59f27cfcc" : {
+      "english" : "Shebitku",
+      "translation" : "Схебитку"
+   },
+   "30df80982b06f9bd6c410d9c498cf1a2" : {
+      "english" : "Takahatenamun",
+      "translation" : "Такахатенамун"
+   },
+   "34cd610c7b189eac1375860f7b92ad92" : {
+      "english" : "Cleopatra Selene",
+      "translation" : "Клеопатра Селене"
    },
    "35d440a34c220239c857ef48cadd8c04" : {
       "english" : "Ptolemy Epigone",
@@ -19,21 +103,73 @@
       "english" : "Ditalcus",
       "translation" : "Диталцус"
    },
+   "3a811459436feb5e59ba2093def73333" : {
+      "english" : "Ptolemy Neos Dionysos",
+      "translation" : "Птоломеј Неос Дионис"
+   },
+   "3e1af45314f94773b39ec226e9b72a3c" : {
+      "english" : "Berenice Epiphaneia",
+      "translation" : "Беренице Епипханеиа"
+   },
    "3ef889a26e6075e3f41c477cba36ae34" : {
       "english" : "Antiochus VIII Grypus",
       "translation" : "Антиох ВИИИ Грипус"
+   },
+   "405cbf020f0b5c9b32895767a9964ed0" : {
+      "english" : "Ptolemy Eurgetes",
+      "translation" : "Птоломеј Еургетес"
+   },
+   "445a753bb0ec78da7396756278796220" : {
+      "english" : "Commercial Acumen",
+      "translation" : "Цоммерциал Ацумен"
+   },
+   "474ee403c7fa8e8191e721f88dc1af11" : {
+      "english" : "Arsinoe IV",
+      "translation" : "Арсиное ИВ"
    },
    "476bcd273e742efd861255ec2c52bc96" : {
       "english" : "Qalhata",
       "translation" : "Калхата"
    },
+   "47d056720cc250458be3e2110b0e52ac" : {
+      "english" : "Gaius Servilius Structus Ahala",
+      "translation" : "Гај Сервилиус Струцтус Ахала"
+   },
+   "4845230deb271b7890761d8318cb4d91" : {
+      "english" : "Antiochus XIII Asiaticus",
+      "translation" : "Антиох КСИИИ Азијатик"
+   },
+   "4a5f5e36a1464759c27a9098b3e35b39" : {
+      "english" : "Aulus Manlius Capitolinus",
+      "translation" : "Аулус Манлиус Цапитолинус"
+   },
    "4e68e227a89ca22a530691e4109c4691" : {
       "english" : "Antiochus I Soter",
       "translation" : "Антиох И Сотер"
    },
+   "55a063aae3c6fa17d72742055014d40f" : {
+      "english" : "Bolt Shooters −33% attack damage and −33% attack time.",
+      "translation" : "Стрелци са стрелом а''33% штете од напада и а''33% времена напада."
+   },
+   "57fd5728bad14f4ec0d1692039f4ddea" : {
+      "english" : "Minurus",
+      "translation" : "Минурус"
+   },
    "5a25521b092a3036f206f4dd90b1253d" : {
       "english" : "Amanishakheto",
       "translation" : "Аманисхакхето"
+   },
+   "5c3741d88387db61ad46317958096dc9" : {
+      "english" : "Indibil",
+      "translation" : "Индибил"
+   },
+   "5d1d5262559a1cff6fc78fc080be1709" : {
+      "english" : "Arsinoe II",
+      "translation" : "Арсиное ИИ"
+   },
+   "5d62990cf13e97c65249adadab38ae08" : {
+      "english" : "Ptolemy Philadelphus",
+      "translation" : "Птоломеј Филаделф"
    },
    "5f150eeabfcb7242d614bd5cf9d0fbe6" : {
       "english" : "Brihadratha Maurya",
@@ -43,21 +179,125 @@
       "english" : "Publius Sempronius Tuditanus",
       "translation" : "Публије Семпроније Тудитан"
    },
+   "6134a759eca9122c3209ef2836035925" : {
+      "english" : "Echestratus",
+      "translation" : "Ецхестратус"
+   },
+   "620f9c3db1f783f8011901d488fa1bb5" : {
+      "english" : "Berenice Philopater",
+      "translation" : "Беренице Пхилопатер"
+   },
+   "64a0eed482456a66b1a1628712982510" : {
+      "english" : "Antiochus III Megas",
+      "translation" : "Антиох ИИИ Мегас"
+   },
+   "68036852a72034c411dac1d9e428a482" : {
+      "english" : "Seleucus VI Epiphanes",
+      "translation" : "Селеук ВИ Епифан"
+   },
+   "699a8a0a3db1e08586490fa38f21e8b4" : {
+      "english" : "Philip II Philoromaeus",
+      "translation" : "Филип ИИ Филоромеј"
+   },
+   "6a4a42379793086533c31bb3709eb363" : {
+      "english" : "Quintus Caecilius Metellus Pius",
+      "translation" : "Квинта Цецилија Метела Пија"
+   },
+   "6b38a7a365a68c9f095d5e8c72c71977" : {
+      "english" : "Bardiya",
+      "translation" : "Бардииа"
+   },
+   "6bbdf38cb136b9a8a93102634ec95750" : {
+      "english" : "Seleucus IV Philopator",
+      "translation" : "Селеук ИВ Филопатор"
+   },
+   "6dc273ed6310bba9b79f374ff78b3277" : {
+      "english" : "Demetrius II Nicator",
+      "translation" : "Деметрије ИИ Никатор"
+   },
+   "723ac876a1ad282ea1626b2ed1bf0ea5" : {
+      "english" : "Demetrius I Soter",
+      "translation" : "Димитрија И Сотера"
+   },
+   "734cae499b84c658b24f7d9a1f758589" : {
+      "english" : "Harsiotef",
+      "translation" : "Харсиотеф"
+   },
    "74195c56f062a41365d289f98632cfa6" : {
       "english" : "The Macedonian-Greek dynasty that ruled most of Alexander's former empire.",
       "translation" : "Македонско-грчка династија која је владала већином Александровог бившег царства."
+   },
+   "7436bbfe39ebb7e7317ffee8a24ab586" : {
+      "english" : "Ptolemy Alexander",
+      "translation" : "Птоломеј Александар"
    },
    "7501992323693467459cbb88ab650249" : {
       "english" : "Large Rams",
       "translation" : "Велики овнови"
    },
+   "75c4813f1ea7068fe53667f6c242786c" : {
+      "english" : "Ptolemy Soter",
+      "translation" : "Птоломеј Сотер"
+   },
+   "77b33f7244471678d2b2e17aa980d048" : {
+      "english" : "The Britons were the Celtic tribes of the British Isles. Using chariots, longswordsmen and powerful melee soldiers, they staged fearsome revolts against Rome to protect their customs and interests. Also, they built thousands of unique structures such as hill forts, crannogs and brochs.",
+      "translation" : "Британци су били келтско племе Британских острва. Користећи кола, дуге мачеве и моћне војнике у сукобу, подигли су застрашујуће побуне против Рима како би заштитили своје обичаје и интересе. Такође су изградили хиљаде јединствених грађевина као што су градине, крањи и брошеви."
+   },
+   "7930bc4f8861979927299be475a61f01" : {
+      "english" : "Artaxshacha III",
+      "translation" : "Артаксхацха ИИИ"
+   },
+   "7aac1e6ee1df1c580d8a618aeeafbb6c" : {
+      "english" : "Ptolemy Philopater",
+      "translation" : "Птоломеј Филопатер"
+   },
+   "7bc285b713e1aaf5698d37ccc5305b82" : {
+      "english" : "Antiochus IV Epiphanes",
+      "translation" : "Антиох ИВ Епифан"
+   },
+   "7c0c065cde6644336630156f4a522e12" : {
+      "english" : "Legionary Engineers",
+      "translation" : "Инжењери легионари"
+   },
+   "8070b0d47fe4e1521d6dd010d14dcba5" : {
+      "english" : "The Gauls were the Celtic tribes of continental Europe. Dominated by a priestly class of Druids, they featured a sophisticated culture of advanced metalworking, agriculture, trade and even road engineering. With heavy infantry and cavalry, Gallic warriors valiantly resisted Caesar's campaign of conquest and Rome's authoritarian rule.",
+      "translation" : "Гали су били келтска племена континенталне Европе. У њима доминира свештеничка класа друида, одликовали су се софистицираном културом напредне обраде метала, пољопривреде, трговине, па чак и цестоградње. Уз тешку пешадију и коњицу, галски ратници храбро су се одупирали Цезаровој освајачкој кампањи и ауторитарној власти Рима."
+   },
+   "814606bfdec1050121d78a4a8458dbaa" : {
+      "english" : "Audax",
+      "translation" : "Аудак"
+   },
+   "81daba2d75160fa4605010d41ed53e74" : {
+      "english" : "Alexander II Zabinas",
+      "translation" : "Александар ИИ Забинас"
+   },
+   "86acc0728e1f58e92fa6286127c0a17c" : {
+      "english" : "Antiochus IX Cyzicenus",
+      "translation" : "Антиох ИКС Цизиценус"
+   },
+   "8820a60026549798237552f7ed4d2292" : {
+      "english" : "Antiochus XII Dionysus",
+      "translation" : "Антиох КСИИ Дионис"
+   },
    "8a317b156c462521862274160096a848" : {
       "english" : "Kurush II the Great",
       "translation" : "Куруш ИИ Велики"
    },
+   "8bee69f512714dc7c9a077a55edfa77d" : {
+      "english" : "Malewiebamani",
+      "translation" : "Малевиебамани"
+   },
+   "8c4a5b83bde19c7e86e7358075c819d3" : {
+      "english" : "Publius Cornelius Rufinus",
+      "translation" : "Публије Корнелије Руфин"
+   },
    "909cf8ca92c0093d93d94c30e8a25348" : {
       "english" : "Gaius Iulius Iullus",
       "translation" : "Гај Иулије Иул"
+   },
+   "935b373276ea6cb60f3938ccc7513ac1" : {
+      "english" : "The Iberians were a people of mysterious origins and language, with a strong tradition of horsemanship and metalworking. A relatively peaceful culture, they usually fought in other's battles only as mercenaries. However, they proved tenacious when Rome sought to take their land and freedom from them, and employed pioneering guerrilla tactics and flaming javelins as they fought back.",
+      "translation" : "Ибери су били људи тајанственог поријекла и језика, са јаком традицијом коњарства и обраде метала. Релативно мирољубива култура, они су се у другим биткама обично борили само као плаћеници. Међутим, показали су се упорни када је Рим покушао да им одузме њихову земљу и слободу, те су употријебили пионирску герилску тактику и запаљиве копље док су узвраћали."
    },
    "947195c5cc88490bf05d846acb31bc71" : {
       "english" : "Antiochus V Eupator",
@@ -67,17 +307,45 @@
       "english" : "Karos",
       "translation" : "Карос"
    },
+   "9657c4f22b5c4440bf86b91da6cf2885" : {
+      "english" : "Ptolemy Philometor",
+      "translation" : "Птоломеј Филометор"
+   },
    "967cc6a868e693309913ebb477c53a0b" : {
       "english" : "Shatadhanvan Maurya",
       "translation" : "Схатадханван Мауриа"
+   },
+   "96939fd2b3e7cb2dcb185a6047dc2459" : {
+      "english" : "Diodotus Tryphon",
+      "translation" : "Диодот Трифон"
    },
    "97eb2c3d0567d5bdbbf2b4c904882119" : {
       "english" : "Carthage, a city-state in modern-day Tunisia, was a formidable force in the western Mediterranean, eventually taking over much of North Africa and modern-day Spain in the third century B.C. The sailors of Carthage were among the fiercest contenders on the high seas, and masters of naval trade. They deployed towered War Elephants on the battlefield to fearsome effect, and had defensive walls so strong, they were never breached.",
       "translation" : "Картагина, град-држава у данашњем Тунису, била је велика сила у западном Медитерану, која је на крају заузела већи део Северне Африке и данашње Шпаније у трећем веку пре нове ере. Поморци из Картагине били су међу најжешћим претендентима на отвореном мору и мајстори поморске трговине. Распоредили су ратне слонове на бојном пољу са застрашујућим ефектом и имали су тако јаке одбрамбене зидове да никада нису пробијени."
    },
+   "97efcfa735e5cc6ce0518be35d098a7f" : {
+      "english" : "Eurycrates",
+      "translation" : "Еурицратес"
+   },
+   "9824e6b3f5fbf8edffec049c2153357e" : {
+      "english" : "Alexander I Balas",
+      "translation" : "Александар И Балас"
+   },
    "9ab19f6e6eafc9e49abf9a1f4d5d5d05" : {
       "english" : "Founded in 322 B.C. by Chandragupta Maurya, the Mauryan Empire was the first to rule most of the Indian subcontinent, and was one of the largest and most populous empires of antiquity. Its military featured bowmen who used the long-range bamboo longbow, fierce female warriors, chariots, and thousands of armored war elephants. Its philosophers, especially the famous Acharya Chanakya, contributed to such varied fields such as economics, religion, diplomacy, warfare, and good governance. Under the rule of Ashoka the Great, the empire saw 40 years of peace, harmony, and prosperity.",
       "translation" : "Основан 322. године п.н.е. аутора Цхандрагупта Мауриа, Маурианско царство је било прво које је владало већином индијског потконтинента и било је једно од највећих и најмногољуднијих царстава антике. У њеној војсци су били стријелци који су користили дугачки бамбусов дуг лук, жестоке ратнице, кола и хиљаде оклопних ратних слонова. Његови филозофи, посебно чувени Ацхариа Цханакиа, допринели су тако различитим областима као што су економија, религија, дипломатија, ратовање и добро управљање. Под владавином Ашоке Великог, царство је видело 40 година мира, слоге и просперитета."
+   },
+   "9c0255e8c6a33ca96eda69429f4a7b5a" : {
+      "english" : "The Romans controlled one of the largest empires of the ancient world, stretching at its peak from southern Scotland to the Sahara Desert, and containing between 60 million and 80 million inhabitants, one quarter of the Earth's population at that time. Rome also remained one of the strongest nations on earth for almost 800 years. The Romans were the supreme builders of the ancient world, excelled at siege warfare and had an exquisite infantry and navy.",
+      "translation" : "Римљани су контролисали једно од највећих царстава древног света, које се простирало на свом врхунцу од јужне Шкотске до пустиње Сахаре и које је садржавало између 60 и 80 милиона становника, што је била четвртина тадашњег становништва Земље. Рим је такође остао једна од најјачих нација на земљи скоро 800 година. Римљани су били врхунски градитељи античког света, истицали су се у опсадном рату и имали су изузетну пешадију и морнарицу."
+   },
+   "9c171d7812ea36283389769cec5109fd" : {
+      "english" : "Ptolemy Neos Philopater",
+      "translation" : "Птоломеј Неос Филопатер"
+   },
+   "9d1ac321656300ac65fda00fe3cad49a" : {
+      "english" : "Female Citizens +40% health and +50% melee attack hack damage.",
+      "translation" : "Грађанке +40% здравља и +50% напада халером хаковања."
    },
    "a2cf049812ac573df46055fbcf2da630" : {
       "english" : "Tantamani",
@@ -87,24 +355,152 @@
       "english" : "Alara",
       "translation" : "Алара"
    },
+   "a5abc9c15d66a2ad800a421f9c2a03b5" : {
+      "english" : "Mauryas",
+      "translation" : "Мауриас"
+   },
+   "a6427f58f53da439f9c848d4f79655e1" : {
+      "english" : "Samprati Maurya",
+      "translation" : "Сампрати Мауриа"
+   },
    "aa6bddf653254be0b60cd903889efd5d" : {
       "english" : "Xsayarsa I",
       "translation" : "Кссаиарса И"
+   },
+   "ace32d620235b6068108b1e49c1e473b" : {
+      "english" : "Seleucus III Ceraunus",
+      "translation" : "Селеук ИИИ Цераун"
    },
    "aceae1dd3ea19058b45dea4c92ada738" : {
       "english" : "The Persian Empire, when ruled by the Achaemenid dynasty, was one of the greatest empires of antiquity, stretching at its zenith from the Indus Valley in the east to Greece in the west. The Persians were the pioneers of empire-building of the ancient world, successfully imposing a centralized rule over various peoples with different customs, laws, religions and languages, and building a cosmopolitan army made up of contingents from each of these nations.",
       "translation" : "Персијско царство, под владавином династије Ахеменида, било је једно од највећих античких царстава, које се у зениту простирало од долине Инда на истоку до Грчке на западу. Персијанци су били пионири изградње царства древног света, успешно намећући централизовану власт над различитим народима са различитим обичајима, законима, религијама и језицима, и градећи космополитску војску коју чине контингенти из сваког од ових народа."
    },
+   "ae23c0758df8d89953c430af8c8325b3" : {
+      "english" : "Artaxshacha I",
+      "translation" : "Артаксхацха И"
+   },
+   "b12a5ee6ad5ad00bbc66053bc48cfb85" : {
+      "english" : "Xsayarsa II",
+      "translation" : "Кссаиарса ИИ"
+   },
+   "b37da9c1614224812e966f2d7e46a06c" : {
+      "english" : "Antiochus X Eusebes",
+      "translation" : "Антиох Кс Еузебес"
+   },
+   "b4acc9f89bf1964916ce238a7ff5d5db" : {
+      "english" : "Cambyses II",
+      "translation" : "Камбиз ИИ"
+   },
+   "b4b3d91304765a1da827e490279de7a0" : {
+      "english" : "Iberians start with City Walls around their base on most maps.",
+      "translation" : "Ибери почињу са градским зидинама око своје базе на већини карата."
+   },
+   "b73f0b3b846f6930416de0a53c043db4" : {
+      "english" : "Stone Towers −50% wood cost, +150% stone cost, +33% build time, +60% health, +3 garrison capacity, and +1 default arrow count.",
+      "translation" : "Камене куле - 50% цене дрвета, +150% цене камена, +33% времена изградње, +60% здравља, +3 капацитета гарнизона и +1 подразумевани број стрела."
+   },
+   "b97fe3182a4e106cf5af98b2b2b230e8" : {
+      "english" : "Antiochus II Theos",
+      "translation" : "Антиох ИИ Теос"
+   },
+   "bb498803725aa2c1d29ac8dff967a14d" : {
+      "english" : "Massive Towers",
+      "translation" : "Масивне куле"
+   },
    "c3ba390dd37e90ea95c22eb644a983d0" : {
       "english" : "Battering Rams +20% attack damage and +2 garrison capacity.",
       "translation" : "Овнови за ударање +20% оштећења у нападу и +2 капацитета гарнизона."
+   },
+   "c6a1cf6fea14e1a47d9b41c94e0b392b" : {
+      "english" : "Demetrius III Eucaerus",
+      "translation" : "Деметрије ИИИ Еукаер"
+   },
+   "ce198647f32e49c3bcf3aa5d0f204a42" : {
+      "english" : "Antiochus XI Epiphanes",
+      "translation" : "Антиох КСИ Епифан"
+   },
+   "cee5198ac746d4401dc5f4e28ce81402" : {
+      "english" : "Shalishuka Maurya",
+      "translation" : "Схалисхука Мауриа"
+   },
+   "d2821149c93288384f4012a67f195b02" : {
+      "english" : "Darayavahush II",
+      "translation" : "Дараиавахусх ИИ"
+   },
+   "d4cbfdd00a2aad10bbc9e13a79907357" : {
+      "english" : "Lucius Papirius Cursor",
+      "translation" : "Луције Папирије Курсор"
+   },
+   "d707c4f322fa00a0b9e76c209a5a6b1f" : {
+      "english" : "Seleucus II Callinicus",
+      "translation" : "Селеук ИИ Цаллиницус"
+   },
+   "d8289138c03f4abe91f03377f33a3f7f" : {
+      "english" : "Eucleidas",
+      "translation" : "Еуклеида"
+   },
+   "d92f35f1074c40cfec9a07385e4e0eca" : {
+      "english" : "Seleucus I Nicator",
+      "translation" : "Селеук И Никатор"
+   },
+   "d9a9627c26ab1d328ba4197d2b9717ef" : {
+      "english" : "Darics",
+      "translation" : "Дарицс"
    },
    "dd134f8bf9d8bd1db1fb0b925830c28c" : {
       "english" : "Battering Rams +20% attack damage. Stone Throwers +10% attack damage.",
       "translation" : "Отоци за ударање +20% оштећења од напада. Бацачи камена +10% оштећења од напада."
    },
+   "df2248a7d7447fc05180cba4ac45f8a0" : {
+      "english" : "Spartan Women",
+      "translation" : "Спартан Вомен"
+   },
+   "e32203e68b72c01192abb4f47a408c4a" : {
+      "english" : "Ptolemy Eupator",
+      "translation" : "Птоломеј Еупатор"
+   },
+   "eacbcf7c228f34fa644489fb048c6101" : {
+      "english" : "The Romans commonly used the Testudo or 'turtle' formation for defense: Legionaries were formed into hollow squares with twelve men on each side, standing so close together that their shields overlapped like fish scales.",
+      "translation" : "Римљани су за одбрану обично користили формацију Тестудо или 'корњачу': легионари су формирани у шупље квадрате са по дванаест људи са сваке стране, који су стајали тако близу један до другог да су им се штитови преклапали попут рибљих крљушти."
+   },
+   "ec26b88c01cd9220b7393cb94390f61e" : {
+      "english" : "Artaxshacha II",
+      "translation" : "Артаксхацха ИИ"
+   },
+   "ec5a91d99ec75df36fd1031aad3c3390" : {
+      "english" : "Cleopatra Tryphaena",
+      "translation" : "Клеопатра Трипхаена"
+   },
    "ecaabf413c362d205e2b3907dad46cfc" : {
       "english" : "Devavarman Maurya",
       "translation" : "Деваварман Мауриа"
+   },
+   "ecbaa3ef91b89604fb4c14484d7b0db9" : {
+      "english" : "Marcus Cornelius Cethegus",
+      "translation" : "Марка Корнелија Цетега"
+   },
+   "ed5ae51d73f45902ccfe70c34d4a56a9" : {
+      "english" : "Cleopatra II Philometora Soteira",
+      "translation" : "Клеопатра ИИ Пхилометора Сотеира"
+   },
+   "f1849402f9b51a5952ed5083baf8df4c" : {
+      "english" : "Tautalus",
+      "translation" : "Тауталус"
+   },
+   "f40e47166f25399eae5e97bfa7fc8998" : {
+      "english" : "Testudo Formation",
+      "translation" : "Формација Тестудо"
+   },
+   "f90b50ac6ec98e19e9e9ae134279a60e" : {
+      "english" : "Ptolemy Epiphanes",
+      "translation" : "Птоломеј Епифан"
+   },
+   "fba279b4b6d6de64ee125dd33d7c9763" : {
+      "english" : "Cleopatra Philopater",
+      "translation" : "Клеопатра Филопатер"
+   },
+   "ff3eb10e929b86193f368ed3ac1b34df" : {
+      "english" : "Kashta",
+      "translation" : "Касхта"
    }
 }

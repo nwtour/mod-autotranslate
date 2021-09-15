@@ -1,31 +1,455 @@
 {
+   "001472b6447d35285a370f7a58adea3f" : {
+      "english" : "“Let us now end the anxiety of the Romans, who can't wait for the death of an old man.” \\\\n— Hannibal's last words before his suicide, in exile with Flaminius pressuring the local ruler to hand him over (Livy, “History of Rome”, XXXIX. 51)",
+      "translation" : "„Прекинимо сада са стрепњом Римљана, који једва чекају смрт старца.“\\\\n- Последње Ханибалове речи пре самоубиства, у егзилу са Фламинијем који је вршио притисак на локалног владара да га преда (Ливије, „Историја Рима“, КСКСКСИКС. 51)"
+   },
+   "016b98c3eef7eb80e62e3224cc0aecea" : {
+      "english" : "“The Ethiopians make their gods black and snub-nosed, the Thracians say theirs have blue eyes and red hair.” \\\\n— Xenophanes (fragment 16)",
+      "translation" : "„Етиопљани чине своје богове црним и грбавим носом, Трачани кажу да њихови имају плаве очи и црвену косу.“\\\\n- Ксенофан (фрагмент 16)"
+   },
+   "01d4e727cafc856931b6a45b253481c2" : {
+      "english" : "“Wait for the wisest of all counsellors, time.” \\\\n— Pericles, a cautious politician who avoided war (Plutarch, “Parallel Lives”, “Pericles”, sec. 18)",
+      "translation" : "„Сачекајте време са најмудријим од свих саветника.“\\\\n„Перикле, опрезан политичар који је избегао рат (Плутарх,„ Паралелни животи “,„ Перикле “, секција 18)"
+   },
+   "01feb9439d1dfd5453308fe50eb44c10" : {
+      "english" : "“A war is never undertaken by the ideal State, except in defense of its honor or its safety.” \\\\n— Cicero (“De Re Publica”, III., 23)",
+      "translation" : "„Идеална држава никада не предузима рат, осим у одбрану своје части или своје безбедности.“\\\\n“Цицерон („ Де Ре Публица “, ИИИ., 23)"
+   },
+   "0327c3c4aa5a3c7b70ab2e45ce2274d0" : {
+      "english" : "“Instead of looking on discussion as a stumbling block in the way of action, we think it an indispensable preliminary to any wise action at all.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 40.2)",
+      "translation" : "„Уместо да на дискусију гледамо као на камен спотицања у начину деловања, сматрамо да је она неопходна предуслов за било какву мудру акцију.“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 40.2)"
+   },
+   "0464feb0fe7f648b05537a1d3a29a05d" : {
+      "english" : "“It is thrifty to prepare today for the wants of tomorrow.” \\\\n— Aesop (“The Ant and the Grasshopper”)",
+      "translation" : "„Штедљиво је припремити се данас за потребе сутрашњице.“\\\\n„Езоп („ Мрав и скакавац “)"
+   },
+   "047563a5195c6852fadd14732d423ea0" : {
+      "english" : "“The agora is an established place for men to cheat one another, and behave covetously.” \\\\n— Anacharsis, a Scythian philosopher who traveled to Greece (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Anacharsis”, sec. 5)",
+      "translation" : "„Агора је устаљено место за мушкарце да варају једни друге и да се понашају похлепно.“\\\\n- Анахарзис, скитски филозоф који је путовао у Грчку (Диоген Лаертије, „Животи и мишљења угледних филозофа“, „Анахарзис“, одељак 5)"
+   },
+   "0781d311f86c79dec2ee2bb034a26f85" : {
+      "english" : "“Marry a good man, and bear good children.” \\\\n— Leonidas, to his wife who asked what to do if he died, before he left for Thermopylae (Plutarch, “Moralia”, “Sayings of Spartans”, 225a)",
+      "translation" : "„Удај се за доброг човека и роди добру децу“\\\\n„Леонида, његовој жени која је питала шта да уради ако умре, пре него што је отишао у Термопиле (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 225а)"
+   },
+   "0a12410a34ff97f2fe1ae247c518bcdc" : {
+      "english" : "“He has not acquired a fortune; the fortune has acquired him.” \\\\n— Bion of Borysthenes, referring to a wealthy miser (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Bion”, sec. 50)",
+      "translation" : "„Није стекао богатство; богатство га је стекло. “\\\\nБион Борстен, који се односи на богатог шкрца (Диоген Лаертије, „Животи и мишљења угледних филозофа“, „Бион“, одељак 50)"
+   },
    "0aa026cbe831f438d8aef29bbd8e241a" : {
       "english" : "“Most of the Romans were trampled to death by the enormous weight of the elephants; the rest were shot down in their ranks by the numerous cavalry: and there were only a very few who attempted to save themselves by flight.” \\\\n— Polybius on the Battle of Bagradas where a Roman army was annihilated during the First Punic War (“Histories”, I. 34)",
       "translation" : "„Већина Римљана је згажена огромном тежином слонова; остале је у својим редовима оборила бројна коњица: а било је само неколико њих који су покушали да се спасу бекством. “\\\\n- Полибије у битци за Баградас, где је римска војска уништена током Првог пунског рата („Историја“, И. 34)"
+   },
+   "0b14fac4d27b25c9f9672ffa54ea5169" : {
+      "english" : "“Thrusting his spear into Mithridates' face, he \\\\[Alexander] hurled him to the ground. Then Rhoesaces \\\\[a Persian] \\\\[…] struck him on the head with his sword. \\\\[…] Alexander hurled him too to the ground, piercing with his lance through his breastplate into his chest. Sphithridates \\\\[a Persian] had already raised his sword against Alexander from behind when Clitus \\\\[…] cut his arm off.” \\\\n— Arrian about the Battle of the Granicus (“The Anabasis of Alexander”, 1.15)",
+      "translation" : "„Убацујући копље у Митридатово лице, он\\\\nАлександар] га је бацио на земљу. Затим Рхоесацес\\\\[персијски]\\\\[а € ¦] ударио га мачем по глави.\\\\[“Александар је и њега бацио на тло, пробовши копљем кроз напрсник у груди. Сфиридат\\\\[Перзијанац] је већ подигао мач против Александра с леђа када је Клит\\\\[„одсекао му је руку“\\\\[„Аријан о бици код Граникуса („ Александрова Анабаза “, 1,15)"
+   },
+   "0d6f4fb042758db358a2a620a4ff2158" : {
+      "english" : "“Spartans do not ask how many, only where the enemy are.” \\\\n— Agis II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215d)",
+      "translation" : "„Спартанци не питају колико, већ само где су непријатељи“\\\\n„Агис ИИ од Спарте (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 215д)"
+   },
+   "0ddf5b47c39563356a5c44be9be6a433" : {
+      "english" : "“He did not even stand up to review his fleet when the ships were already at their fighting stations, but lay on his back and gazed up at the sky, never rising to show that he was alive until Marcus Agrippa had routed the enemy.” \\\\n— Mark Antony, taunting Augustus who delegated his duties as naval commander (Suetonius, “Divus Augustus”, sec. 16)",
+      "translation" : "„Није чак ни устао да прегледа своју флоту када су бродови већ били на својим борбеним станицама, већ је легао на леђа и гледао у небо, никада се не дижући да покаже да је жив све док Марцус Агриппа није уништио непријатеља. .а €\\\\n- Марк Антоније, ругао се Августу који је делегирао своје дужности поморског команданта (Светоније, „Див Август“, сек. 16)"
+   },
+   "100251fc4d816fc89a976fcc52ca44ee" : {
+      "english" : "“Give me a place to stand, and I shall move the world.” \\\\n— Archimedes, on his usage of the lever (Diodorus Siculus, “The Library of History”, fragments of book XXVI, sec. 18)",
+      "translation" : "„Дајте ми место за стајање и ја ћу померити свет.“\\\\n„Архимед, о употреби полуге (Диодорус Сицулус,„ Историјска библиотека “, фрагменти књиге КСКСВИ, одељак 18)"
+   },
+   "1152cd6356e69832c2717ea4def0b10c" : {
+      "english" : "“War is sweet to those who have no experience of it, but the experienced man fears its approach in his heart.” \\\\n— Pindar (fragment 110)",
+      "translation" : "„Рат је сладак онима који немају искуства у томе, али искусни човек се плаши његовог приступа у свом срцу.“\\\\n- Пиндар (фрагмент 110)"
+   },
+   "12a6cca95485f973288b5e01a3c43a42" : {
+      "english" : "“The victor is not victorious if the vanquished does not consider himself so.” \\\\n— Ennius (“Annales”, fragment 31.493)",
+      "translation" : "„Победник неће победити ако победјени себе не сматра таквим.“\\\\n- Енниус („Аналес“, фрагмент 31.493)"
+   },
+   "13b4955a39fedf363d1f021dfe117995" : {
+      "english" : "“Man is by nature a political animal.” \\\\n— Aristotle (“Politics”, I. 1253a.2)",
+      "translation" : "„Човек је по природи политичка животиња.“\\\\n“Аристотел („ Политика “, И. 1253а.2)"
    },
    "143b6594327b87cab7b1919ec2e6c142" : {
       "english" : "“Never trust advice from a man in the throes of his own difficulty.” \\\\n— Aesop (“The Fox and the Goat”)",
       "translation" : "„Никада не верујте саветима човека у мукама.“\\\\n„Езоп („ Лисица и коза “)"
    },
+   "160931b22a064fabe3ef459aeafc409a" : {
+      "english" : "“Physical strength is only noble in cattle, it is strength of character that is noble in men.” \\\\n— Democritus (fragment)",
+      "translation" : "„Физичка снага је племенита само код стоке, то је снага карактера која је племенита код мушкараца.“\\\\n- Демокрит (фрагмент)"
+   },
    "16e1f00f8bdebe9c637684897a5cf318" : {
       "english" : "“Men willingly believe what they wish.” \\\\n— Caesar (“De Bello Gallico”, III. 18)",
       "translation" : "„Мушкарци вољно верују у шта желе.“\\\\n„Цезар („ Де Белло Галлицо “, ИИИ. 18)"
+   },
+   "175b8edf784f68cf968dfa9660cea82b" : {
+      "english" : "“It is your concern when your neighbor's wall is on fire.” \\\\n— Horace (“Epistles”, epistle XVIII., 84)",
+      "translation" : "„Ваша је брига када гори зид вашег комшије.“\\\\n“Хорације („ Посланице “, посланица КСВИИИ., 84)"
+   },
+   "18753a5469c8b8c63dfc3de5ae49ccbb" : {
+      "english" : "“I am Cyrus, who won for the Persians their empire. Therefore do not begrudge me this bit of earth that covers my bones.” \\\\n— Cyrus the Great's epitaph (Plutarch, “Parallel Lives”, “Alexander”, sec. 69)",
+      "translation" : "„Ја сам Кир, који сам освојио за Персијанце своје царство. Зато ми немој замјерити овај комадић земље који ми прекрива кости. “\\\\n- Натпис Кира Великог (Плутарх, „Паралелни животи“, „Александар“, сек. 69)"
    },
    "190fad9e39e171089147904503279d25" : {
       "english" : "“Set a thief to catch a thief.” \\\\n— Callimachus (“Epigrams”, 44)",
       "translation" : "„Поставите лопова да ухвати лопова.“\\\\n„Цаллимацхус („ Епиграми “, 44)"
    },
+   "19879fc1d1fa07f458b2b2225bfc96d2" : {
+      "english" : "“It is a general rule of human nature that people despise those who treat them well, and look up to those who make no concessions.” \\\\n— Thucydides (“History of the Peloponnesian War”, III. 39.5)",
+      "translation" : "„Опште је правило људске природе да људи презиру оне који се према њима добро односе и угледају се на оне који не праве уступке.“\\\\n“Тукидид („ Историја Пелопонеског рата “, ИИИ. 39.5)"
+   },
+   "19fd549b007e67efb08017e1f3a5ac84" : {
+      "english" : "“We alone do not think that a man ignorant of politics interferes with nothing, we think he is good for nothing.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 40.2)",
+      "translation" : "„Ми сами не мислимо да се човек који не зна за политику меша у ништа, ми мислимо да је ни за шта добар.“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 40.2)"
+   },
+   "1ab27cbb7d016379c8c5ce9ca29e2ee5" : {
+      "english" : "“Sex and sleep alone make me conscious that I am mortal.” \\\\n— Alexander the Great (Plutarch, “Parallel Lives”, “Alexander”, sec. 22)",
+      "translation" : "„Секс и само спавање ме чине свесним да сам смртна.“\\\\n„Александар Велики (Плутарх,„ Паралелни животи “,„ Александар “, одељак 22)"
+   },
+   "1ca12bd0dd26dab3315d6d02b2d11f5a" : {
+      "english" : "“But the enemy \\\\[…] displayed such great courage, that when the front rank had fallen the men behind them stood on them and continue the fight from on top of the corpses; when these were killed the pile of bodies grew higher, while the survivors used the heap as a vantage point for throwing missiles at our men, or catching our spears and throwing them back.” \\\\n— Caesar about the Battle of the Sabis (“De Bello Gallico”, II. 27)",
+      "translation" : "„Али непријатељ\\\\nа € ¦] исказали су тако велику храброст, да су, кад је пао предњи чин, људи иза њих стали на њих и наставили борбу с врха лешева; када су они убијени, гомила тела се повећала, док су преживели гомилу користили као полазиште за бацање пројектила на наше људе, или хватање наших копља и њихово бацање назад. “\\\\[„Цезар о битци код Сабиса („ Де Белло Галлицо “, ИИ. 27)"
+   },
    "1e6c1a3efb725eed04127288793b2cfc" : {
       "english" : "“All the centurions of the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself.” \\\\n— Caesar about the Battle of the Sabis (“De Bello Gallico”, II. 25)",
       "translation" : "„Сви центуриони четврте кохорте су побијени, а носилац заставе убијен, сам стандард је изгубљен, готово сви центуриони других кохорти су рањени или побијени, а међу њима и главни центурион легије, Публије Секстиј Бацулус, веома храбар човек, који је био толико исцрпљен многим и тешким ранама, да већ није могао да се издржава. “\\\\n„Цезар о битци код Сабиса („ Де Белло Галлицо “, ИИ. 25)"
+   },
+   "1ed424b12d4ec4172c471f7a690d456d" : {
+      "english" : "“Familiarity breeds contempt; acquaintance softens prejudices.” \\\\n— Aesop (“The Fox and the Lion”)",
+      "translation" : "„Познавање рађа презир; познанство ублажава предрасуде. “\\\\n„Езоп („ Лисица и лав “)"
+   },
+   "1f9b2ecadb88499f0637cb04bf69ea9d" : {
+      "english" : "“To the strongest!” \\\\n— Alexander the Great, on his death bed, when asked who should succeed him as king (Arrian, “The Anabasis of Alexander”, 7.26)",
+      "translation" : "„До најјачих!“\\\\n„Александар Велики, на самрти, на питање ко би требало да га наследи као краља (Аријан,„ Александрова Анабаза “, 7.26)"
+   },
+   "1fbd01b4e938f4693766a7440f8f70a8" : {
+      "english" : "“This is the bitterest pain among men, to have much knowledge but no power.” \\\\n— Herodotus (“The Histories”, IX. 16)",
+      "translation" : "„Ово је најгорчи бол међу људима, имати много знања, али немати моћ.“\\\\n“Херодот („ Историја “, ИКС. 16)"
+   },
+   "2301bda2cedca962dcfb35ad19f80c5f" : {
+      "english" : "“This was the greatest action that happened in all this war, and all others that we have heard of amongst the Greeks, being to the victors most glorious and most calamitous to the vanquished. For they were utterly and at all points defeated, and their sufferings were many. Army and fleet and all they ever had perished, nothing was saved and few of so many ever returned home. Thus ended the Sicilian expedition.” \\\\n— Thucydides (“History of the Peloponnesian War”, VII. 87.6–7)",
+      "translation" : "„Ово је била највећа акција која се догодила у целом овом рату, и све остале за које смо чули међу Грцима, а које су победницима биле најславније и најопасније за поражене. Јер били су потпуно и у сваком тренутку поражени, а њихове патње су биле многе. Војска и флота и све што су икада погинули, ништа није спасено и ретки су се од толико вратили кући. Тако је завршила сицилијанска експедиција. “\\\\n„Тукидид („ Историја Пелопонеског рата “, ВИИ. 87,6–7)"
+   },
+   "2324af7698a2ba8dd0595ff3512b20ca" : {
+      "english" : "“I for one think that to a brave man there is no end to labors except the labors themselves, provided they lead to glorious achievements.” \\\\n— Alexander the Great, addressing his troops (Arrian, “The Anabasis of Alexander”, 5.26)",
+      "translation" : "„Ја мислим да један храбар човек нема краја трудовима осим труда, под условом да доведу до славних достигнућа.“\\\\n„Александар Велики, обраћајући се својим трупама (Аријан,„ Александрова Анабаза “, 5,26)"
+   },
+   "2356a02681c70b0bf690ebc6806ce9f9" : {
+      "english" : "“It is hard to be governed by one's inferior.” \\\\n— Democritus (fragment)",
+      "translation" : "„Тешко је управљати својим инфериорним.“\\\\n- Демокрит (фрагмент)"
+   },
+   "239eb13838fb4e44782073077bff61c0" : {
+      "english" : "“If I have done anything noble, that is a sufficient memorial; if I have not, all the statues in the world will not preserve my memory.” \\\\n— Agesilaus II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215a)",
+      "translation" : "„Ако сам учинио нешто племенито, то је довољан спомен; ако немам, све статуе на свету неће сачувати моје сећање. “\\\\n„Агесилај ИИ Спартански (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 215а)"
+   },
+   "23b046dd07c5df042da6e43a38d46dc4" : {
+      "english" : "“I am a citizen of the world.” \\\\n— Diogenes of Sinope (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Diogenes”, sec. 63)",
+      "translation" : "„Ја сам грађанин света.“\\\\n„Диоген Синопски (Диоген Лаерције,„ Животи и мишљења угледних филозофа “,„ Диоген “, одељак 63)"
+   },
+   "24a5586bfd12016594272ec049e87886" : {
+      "english" : "“War is a matter not so much of arms as of money.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 83.2)",
+      "translation" : "„Рат није ствар толико оружја колико новца“\\\\n“Тукидид („ Историја Пелопонеског рата “, И. 83.2)"
+   },
+   "24ab2bf7a53cabb60fb5542b24c4b019" : {
+      "english" : "“That, Senators, is what a favour from gangs amounts to. They refrain from murdering someone; then they boast that they have spared him!” \\\\n— Cicero, condemning Mark Anthony who had not killed him (yet) (“Philippics”, II., sec. 5)",
+      "translation" : "„То је, сенатори, оно што чини услуга група. Уздржавају се од убиства некога; онда се хвале да су га поштедели! “\\\\n“Цицерон, осуђујући Марка Антонија који га још није убио („ Филипљани “, ИИ., одељак 5)"
+   },
+   "258425bc3ddd1100aa615cbec1a7abcd" : {
+      "english" : "“Do not say few things in many words, but many things in few words.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 24)",
+      "translation" : "„Не говорите мало ствари са много речи, већ много ствари у неколико речи.“\\\\n„Питагора (Стобаеус,„ Флорилегиум “, 24)"
+   },
+   "25bfca9f5d9438b4c8cbc66642b10e8b" : {
+      "english" : "“No guest is so welcome in a friend's house that he will not become a nuisance after three days.” \\\\n— Plautus (“The Swaggering Soldier”, Act III, scene 1, 146)",
+      "translation" : "„Ниједан гост није толико добродошао у кућу пријатеља да неће постати сметња након три дана.“\\\\n“Плаутус („ Тхе Сваггеринг Солдиер “, Ацт ИИИ, сцене 1, 146)"
+   },
+   "25eef3715b740e537148ddaf5bdfc253" : {
+      "english" : "“There lay thousands upon thousands of Romans \\\\[…]. Here and there amidst the slain rose a gory figure whose wounds had begun to throb with the chill of dawn, and was cut down by his enemies.” \\\\n— Livy, describing the aftermath of the Battle of Cannae, where Hannibal inflicted the greatest defeat on the Romans in all their history (“History of Rome”, XXII. 51)",
+      "translation" : "„На хиљаде и хиљаде Римљана\\\\nа € ¦]. Ту и тамо усред убијених издизала се крвава фигура чије су ране почеле да лупају са хладноћом зоре, а посекли су га непријатељи. “\\\\[- Ливије, која описује последице битке код Кане, где је Ханибал нанео највећи пораз Римљанима у целој њиховој историји („Историја Рима“, КСКСИИ. 51)"
+   },
+   "26f0871d97916fca0ed1080a23be6dd2" : {
+      "english" : "“Delivery, delivery, delivery.” \\\\n— Demosthenes, when asked what were the three most important elements of rhetoric (Cicero, “De Oratore”, 3.213)",
+      "translation" : "„Достава, достава, достава“\\\\n„Демостен, на питање која су три најважнија елемента реторике (Цицерон,„ Де Ораторе “, 3.213)"
+   },
+   "273f36ff35da73000b5c7ca854e5909b" : {
+      "english" : "“War is the father and king of all things: some he has made gods, and some men; some slaves and some free.” \\\\n— Heraclitus (Hippolytus, “The Refutation of all Heresies”, IX. 4)",
+      "translation" : "„Рат је отац и краљ свега: неке је направио боговима, а неке људе; неки робови, а неки бесплатни. “\\\\n“Хераклит (Хиполит,„ Побијање свих јереси “, ИКС. 4)"
+   },
+   "2a10b1871cd758e4e1d91ed5dcc78192" : {
+      "english" : "“Self-conceit may lead to self-destruction.” \\\\n— Aesop (“The Frog and the Ox”)",
+      "translation" : "Асабра БактриА¡\\\\nАсабра БактриА¡"
+   },
+   "2ae10d040e97f7da80faebf62abd978d" : {
+      "english" : "“He \\\\[Alexander] thought nothing invincible for the courageous, and nothing secure for the cowardly.” \\\\n— Plutarch (“Parallel Lives”, “Alexander”, sec. 58)",
+      "translation" : "„Он\\\\nАлександар] није сматрао ништа непобедивим за храбре, а ништа сигурно за кукавичке. “\\\\[„Плутарх („ Паралелни животи “,„ Александар “, сек. 58)"
+   },
+   "2aebf3ded14ea401e87abc70e3fd1bed" : {
+      "english" : "“Some were discovered lying there alive, with thighs and tendons slashed, baring their necks and throats and bidding their conquerors drain the remnant of their blood. Others were found with their heads buried in holes dug in the ground. They had apparently made these pits for themselves.” \\\\n— Livy, describing the aftermath of the Battle of Cannae, where Hannibal inflicted the greatest defeat on the Romans in all their history (“History of Rome”, XXII. 51)",
+      "translation" : "„Неки су откривени да тамо леже живи, са пререзаним бутинама и тетивама, разголићујући врат и грло, те су својим освајачима налагали да испиру остатке крви. Други су пронађени са главама закопаним у рупама ископаним у земљи. Очигледно су сами себи направили ове јаме. “\\\\n- Ливије, која описује последице битке код Кане, где је Ханибал нанео највећи пораз Римљанима у целој њиховој историји („Историја Рима“, КСКСИИ. 51)"
+   },
+   "2d20bbaa961907e0070b95afdc521e3f" : {
+      "english" : "“Phraortes was captured and brought before me. I cut off his nose, his ears, and his tongue, and I put out one eye, and he was kept in chains at my palace entrance, and all the people saw him. Then I crucified him in Ecbatana; and the men who were his foremost followers \\\\[…] I flayed and hung out their skins, stuffed with straw.” \\\\n— Darius I (Behistun inscription, column II, 32)",
+      "translation" : "„Пхраортес је ухваћен и изведен преда мном. Одсекао сам му нос, уши и језик, и извадио једно око, а он је био држан у ланцима на улазу у моју палату, и сви људи су га видели. Затим сам га разапео у Ецбатани; и људи који су му били највећи следбеници\\\\nа € ¦] Ја сам им се љуштио и вешао им кожу, пуњену сламом. “\\\\[- Дариус И (Бехистунски натпис, колона ИИ, 32)"
+   },
+   "2ebb8eda350a2fad09bb784613409657" : {
+      "english" : "“Strike, if you will, but listen.” \\\\n— Themistocles, in a heated discussion with the Spartan fleet commander who threatened to beat him with his staff, before the Battle of Salamis (Plutarch, “Parallel Lives”, “Themistocles”, sec. 11)",
+      "translation" : "„Штрајк, ако хоћете, али слушајте.“\\\\n“Темистокле, у жучној расправи са командантом спартанске флоте који му је претио батинама са штабом, пре битке код Саламине (Плутарх,„ Паралелни животи “,„ Тхемистоцлес “, секција 11)"
    },
    "32309c6456562bf6dc6f8cacd2d93b52" : {
       "english" : "No selected map",
       "translation" : "Нема изабране карте"
    },
+   "32b254725e43445c20ffac05eca437c1" : {
+      "english" : "“When you realize the power of Athens, consider it was won by valiant men who knew their duty, had a sense of dishonor in fight and, if their enterprises failed, would rather give their lives than lack in civic virtue.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.2)",
+      "translation" : "„Када схватите моћ Атине, сматрајте да су је освојили храбри људи који су знали своју дужност, имали осећај нечасти у борби и, ако им предузећа пропадну, радије би дали своје животе него недостатак грађанске врлине.“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 43.2)"
+   },
+   "33b2414c17c1355aca870538b4b03080" : {
+      "english" : "“His resolve is not to seem, but to be, the best.” \\\\n— Aeschylus (“Seven Against Thebes”, 592)",
+      "translation" : "„Његова одлука није да изгледа, већ да буде најбоља.“\\\\nЕсхил (Седам против Тебе, 592)"
+   },
+   "33dc0228650c0792f0cc1f9c5f3b39ab" : {
+      "english" : "“We did not flinch but gave our lives to save Greece when her fate hung on a razor's edge.” \\\\n— Corinthian epitaph to their fallen of the Persian Wars (Plutarch, “Moralia”, “On the Malice of Herodotus”, 870e)",
+      "translation" : "„Нисмо се трзнули, већ смо дали животе да спасимо Грчку када је њена судбина висила о бритвици.“\\\\n„Коринтски натпис за њихове падове из Персијских ратова (Плутарх,„ Моралија “,„ На Херодотовој злоби “, 870е)"
+   },
+   "34f337c0df30e85c92e3fbcf262dc4a4" : {
+      "english" : "“My men have turned into women, and my women into men!” \\\\n— Xerxes, watching Artemisia ram a ship while most of his fleet suffered the reverse, not knowing that the sunk vessel was his own (Herodotus, “The Histories”, VIII. 88)",
+      "translation" : "Антиох И Сотер (Спаситељ)\\\\n- Ксеркс, гледајући Артемисију како набија брод док је већина његове флоте патила уназад, не знајући да је потонули брод његов (Херодот, „Историја“, ВИИИ, 88)"
+   },
+   "366f4d8293b3ae90f9464e10f4ccf52d" : {
+      "english" : "“Yes, stand a little out of my sunshine.” \\\\n— Diogenes of Sinope to Alexander the Great, who asked if he could help in in any way (Plutarch, “Parallel Lives”, “Alexander”, sec. 14)",
+      "translation" : "„Да, стани мало даље од мог сунца.“\\\\n„Диоген Синопски Александру Великом, који га је питао да ли може на било који начин помоћи (Плутарх,„ Паралелни животи “,„ Александар “, секција 14)"
+   },
+   "3759c3b5a0c0ec41fb9bf42f6d6bcba9" : {
+      "english" : "“The Roman order on the other hand is flexible: for every Roman, once armed and on the field, is equally well equipped for every place, time, or appearance of the enemy. He is, moreover, quite ready and needs to make no change, whether he is required to fight in the main body, or in a detachment, or in a single maniple, or even by himself.” \\\\n— Polybius, explaining how the Romans can defeat the Macedonian phalanx (“Histories”, XVIII. 32)",
+      "translation" : "„С друге стране, римски поредак је флексибилан: сваки Римљанин, једном наоружан и на терену, једнако је добро опремљен за свако место, време или појаву непријатеља. Штавише, он је сасвим спреман и не мора ништа да промени, било да се од њега тражи да се бори у главном телу, у одреду, или у једном манипу, или чак сам. “\\\\n“Полибије, објашњавајући како Римљани могу победити македонску фалангу („ Историја “, КСВИИИ. 32)"
+   },
+   "388da303ba758078ff3cf699d3e58ee0" : {
+      "english" : "“Union gives strength.” \\\\n— Aesop (“The Bundle of Sticks”)",
+      "translation" : "„Синдикат даје снагу.“\\\\n„Езоп („ Пакет штапова “)"
+   },
+   "39b3205695e72340323b13d006abded9" : {
+      "english" : "“A prosperous fool is a grievous burden.” \\\\n— Aeschylus (fragment 383)",
+      "translation" : "„Успешна будала је тежак терет.“\\\\n- Есхил (фрагмент 383)"
+   },
+   "3b8cce93c4d3b168a3d51a2d90df709f" : {
+      "english" : "“One \\\\[…] shot an arrow at him with such accuracy and force that it pierced his breastplate and got stuck in his ribs. \\\\[…] Alexander recoiled and sank to his knees. \\\\[…] At last Alexander killed the barbarian. But he received many wounds, at last was struck on the neck with a mace, and leaned against the city wall, his eyes still fixed upon his foes.” \\\\n— Plutarch about the Mallian Campaign (“Parallel Lives”, “Alexander”, sec. 63)",
+      "translation" : "„Један\\\\nа € |\\\\[а € ¦] Александар је устукнуо и пао на колена.\\\\[а € ¦] Најзад је Александар убио варвара. Али добио је многе ране, најзад је ударен топузом по врату и наслонио се на градски зид, очију још увек упртих у непријатеље. “\\\\[„Плутарх о кампањи за Маллије („ Паралелни животи “,„ Александар “, одељак 63)"
+   },
+   "3d6cff0bb0bfe15a391ae6e164f92d68" : {
+      "english" : "“I do not steal victory.” \\\\n— Alexander the Great, when suggested to raid the Persians at night (Plutarch, “Parallel Lives”, “Alexander”, sec. 31)",
+      "translation" : "„Не крадем победу.“\\\\n„Александар Велики, када му је предложено да ноћу изврши претрес Персијанаца (Плутарх,„ Паралелни животи “,„ Александар “, одељак 31)"
+   },
+   "3e51aef01ecbd537730138e48a7ffdab" : {
+      "english" : "“In peace the sons bury their fathers, but in war the fathers bury their sons.” \\\\n— Croesus, king of Lydia (Herodotus, “The Histories”, I. 87)",
+      "translation" : "„У миру синови сахрањују своје очеве, али у рату очеви сахрањују своје синове.“\\\\n„Крез, краљ Лидије (Херодот,„ Историја “, И. 87)"
+   },
+   "411b51bd45b162a1fadf49d5005ed3b3" : {
+      "english" : "“I'd rather be the first man here than the second man in Rome.” \\\\n— Caesar, when passing through a barbarian village in the Alps (Plutarch, “Parallel Lives”, “Caesar”, sec. 11)",
+      "translation" : "„Радије бих био први човек овде него други човек у Риму.“\\\\n„Цезар, када је пролазио кроз варварско село у Алпима (Плутарх,„ Паралелни животи “,„ Цезар “, секција 11)"
+   },
+   "437b5ffc0de41019ce3af481ab58e017" : {
+      "english" : "“I do not know how to tune the lyre or play the harp, but I do know how to raise a city that was small and unimportant to glory and greatness.” \\\\n— Themistocles, defending his lack of cultural sophistication (Plutarch, “Parallel Lives”, “Themistocles”, sec. 2)",
+      "translation" : "„Не знам како да подесим лиру или свирам харфу, али знам како да подигнем град који је био мали и неважан за славу и величину.“\\\\n„Темистокле, бранећи свој недостатак културне софистицираности (Плутарх,„ Паралелни животи “,„ Темистокле “, одељак 2)"
+   },
+   "4394d8c754d06a6e064c63e7b3639ae8" : {
+      "english" : "“For a thinking man is where Wisdom is at home.” \\\\n— Zoroaster, founder of the Zoroastrian religion (“Ahunuvaiti Gatha”, yasna 30.9)",
+      "translation" : "„За мислећег човека је тамо где је Мудрост код куће.“\\\\n“Зороастер, оснивач зороастријске религије („ Ахунуваити Гатха “, иасна 30.9)"
+   },
+   "4401f3ec5af5d88d94f2f096ad5d9e0a" : {
+      "english" : "“Both oligarch and tyrant mistrust the people, and therefore deprive them of their arms.” \\\\n— Aristotle (“Politics, V. 1311a.11)",
+      "translation" : "„И олигарх и тиранин не верују народу и зато им одузимају оружје.“\\\\n“Аристотел („ Политика, В. 1311а.11)"
+   },
+   "44a6cafedf1a94d5c30a0461e2873ef9" : {
+      "english" : "Toggle whether heroes can be garrisoned.",
+      "translation" : "Укључите се да ли хероји могу бити у гарнизону."
+   },
+   "450e9d4cf034dcf0faddf3ba4200d0c8" : {
+      "english" : "“It is very servile to live in luxury, but very royal to toil. \\\\[…] Don't you know that the end and object of conquest is to avoid the vices and infirmities of the subdued?” \\\\n— Alexander the Great (Plutarch, “Parallel Lives”, “Alexander”, sec. 40)",
+      "translation" : "„Врло је сервилно живети у луксузу, али врло краљевски се мучити.\\\\nа € ¦] Зар не знате да је циљ и циљ освајања да се избегну пороци и слабости покорених? “\\\\[„Александар Велики (Плутарх,„ Паралелни животи “,„ Александар “, секција 40)"
+   },
+   "48da83cd0da152d642496f8ac4e9cfb4" : {
+      "english" : "“It is from their foes, not their friends, that cities learn the lesson of building high walls and ships of war.” \\\\n— Aristophanes (“Birds”)",
+      "translation" : "„Градови од својих непријатеља, а не од пријатеља, уче лекцију о изградњи високих зидина и ратних бродова.“\\\\n„Аристофан („ птице “)"
+   },
+   "49efe0cad63b8cf5dd79784907b65b26" : {
+      "english" : "“Whoever imposes severe punishment becomes repulsive to the people; while he who awards mild punishment becomes contemptible. But whoever imposes punishment as deserved becomes respectable.”\\\\n— Kauṭilya (“Arthashastra”, I.4.8–10)",
+      "translation" : "„Ко изриче строгу казну, људима постаје одбојан; док онај ко изриче благу казну постаје презиран. Али ко изриче заслужену казну, постаје угледан. “\\\\n- Кауа¹илиа („Артхасхастра“, И.4.8 - 10)"
+   },
+   "4c3bacabd7f20f13a3cb9f1211b663ac" : {
+      "english" : "“Fortune favors the bold.” \\\\n— Terence in a play about a great Athenian admiral (“Phormio”, 203)",
+      "translation" : "„Фортуне фаворизује храбре.“\\\\n“Теренце у драми о великом атинском адмиралу („ Формио “, 203)"
+   },
+   "4c8b3de869bfa4ea32f92c25f053eddd" : {
+      "english" : "“Walls and ships are nothing without men living together inside them.” \\\\n— Sophocles (“Oedipus Rex”)",
+      "translation" : "„Зидови и бродови нису ништа без да људи у њима живе заједно.“\\\\n“Софокле („ Едипус Рек “)"
+   },
+   "4f0262bb7066abb1788739c98e066c11" : {
+      "english" : "“The unexamined life is not worth living.” Socrates, in his defense when trialled for corrupting the youth and not worshipping the proper gods (he later drank hemlock after the death sentence) \\\\n— Plato (“Apology”, 38a)",
+      "translation" : "„Неиспитани живот није вредан живљења.“ Сократ, у своју одбрану када му је суђено да је покварио младе људе и да није обожавао праве богове (касније је попио кукуту после смртне пресуде)\\\\n“Платон („ Апологија “, 38а)"
+   },
+   "5049bd8304b2e2d126f15a77292f2687" : {
+      "english" : "“It is not that I am mad, it is only that my head is different from yours.” \\\\n— Diogenes of Sinope (Stobaeus, “Florilegium”, 51)",
+      "translation" : "„Нисам ја луд, само што се моја глава разликује од твоје.“\\\\n„Диоген Синопски (Стобај,„ Флорилегијум “, 51)"
+   },
+   "53f047b60db302d9fdb2f7be80cfa881" : {
+      "english" : "“Whom the Gods love dies young.” \\\\n— Menander (“The Double Deceiver”, fragment 4)",
+      "translation" : "„Кога Божија љубав умире млада“\\\\n“Менандер („ Двоструки преварант “, фрагмент 4)"
+   },
+   "5489c2f7dc9cc27c32b7ea0e0f6cebc9" : {
+      "english" : "“But tactical science is only one part of generalship. A general must be capable of equipping his forces and providing for his men. He must also be inventive, hardworking, and watchful, bullheaded and brilliant, friendly and fierce, straightforward and subtle.” \\\\n— Socrates (Xenophon, “Memorabilia”, 3.1.6)",
+      "translation" : "„Али тактичка наука је само један део генералства. Генерал мора бити способан опремити своје снаге и опскрбити своје људе. Он такође мора бити инвентиван, вредан и опрезан, с главом и бриљантним, пријатељским и жестоким, директним и суптилним. “\\\\n„Сократ (Ксенофон,„ Успомене “, 3.1.6)"
+   },
+   "54bc9427184f50c5b74354d16029a1ca" : {
+      "english" : "“A prudent commander will never take risks unnecessarily, except when it is clear beforehand that he will have the advantage.” \\\\n— Xenophon (“The Cavalry General”, 4.13)",
+      "translation" : "„Разборит командант никада неће непотребно ризиковати, осим ако је унапред јасно да ће имати предност.“\\\\n„Ксенофон („ Коњички генерал “, 4,13)"
+   },
+   "54eefc9acabbea969d97823e2580418f" : {
+      "english" : "“It is sweet and honorable to die for one's country.” \\\\n— Horace (“Odes”, III., ode II., 13)",
+      "translation" : "„Слатко је и часно умрети за своју земљу“\\\\n- Хорације („Одеса“, ИИИ., оде ИИ., 13)"
+   },
+   "5515af32ed3d43ed7c88205544da159e" : {
+      "english" : "“In my nineteenth year, on my own initiative and at my own expense, I raised an army with which I liberated the state, which was oppressed by the tyranny of a faction.” \\\\n— Augustus, in his autobiography (“Res Gestae Divi Augusti”, sec. 1)",
+      "translation" : "„У својој деветнаестој години, на сопствену иницијативу и о свом трошку, подигао сам војску са којом сам ослободио државу, коју је угњетавала тиранија фракције.“\\\\n- Аугустус, у својој аутобиографији („Рес Гестае Диви Аугусти“, одељак 1)"
+   },
+   "56e4818a2343f4a426668d589475ba59" : {
+      "english" : "“Quintilius Varus, give me back my legions!” \\\\n— Augustus, after three legions were annihilated in the Battle of the Teutoburg Forest (Suetonius, “Divus Augustus”, sec. 23)",
+      "translation" : "„Квинтилије Варус, врати ми моје легије!“\\\\n- Август, након што су три легије уништене у битци код Теутобуршке шуме (Светоније, „Див Аугуст“, секција 23)"
+   },
+   "579062553a6bf89d3f52924bca03be27" : {
+      "english" : "“She \\\\[Helen] brought to Ilium her dowry, destruction.” \\\\n— Aeschylus (“Agamemnon”, 406)",
+      "translation" : "„Она\\\\nХелен] је донела у Илиум свој мираз, уништење. “\\\\[Есхил („Агамемнон“, 406)"
+   },
+   "59289feaac0856a1b6f9f50f86a13355" : {
+      "english" : "“He \\\\[King Darius] asked one of his servants every day, when his dinner was spread, three times to repeat to him: Master, remember the Athenians!” \\\\n— Herodotus, narrating how the Athenian support for the Ionian revolt lead to the Persian Wars (“The Histories”, V. 105)",
+      "translation" : "„Он\\\\nКраљ Дариус] је сваког дана, када је вечера распрострањена, три пута тражио од једног од својих слугу да му понови: Учитељу, сети се Атињана! “\\\\[“Херодот, који приповеда како је атинска подршка јонској побуни довела до Перзијских ратова („ Историја “, В. 105)"
+   },
+   "5a7701fbb015b5445f642dac805a51e1" : {
+      "english" : "“I suppose you understand, men, that pursuing, dealing blows and death, plunder, fame, freedom, power – all these are prizes for the winners; the cowardly, of course, suffer the reverse.” \\\\n— Xenophon (“The Education of Cyrus”, 7.1.13)",
+      "translation" : "„Претпостављам да разумете, људи, да су гоњење, наношење удараца и смрти, пљачка, слава, слобода, моћ“ све ово награде за победнике; кукавички, наравно, трпи обрнуто. “\\\\n„Ксенофон („ Кирско образовање “, 7.1.13)"
+   },
+   "5dbb5a04cfb1eb6c7d8e1837a1db953f" : {
+      "english" : "“Cowards do not count in battle; they are there, but not in it.” \\\\n— Euripides (“Meleager”)",
+      "translation" : "„Кукавице се не рачунају у борби; они су ту, али не и у њему. “\\\\n„Еурипид („ Милеагер “)"
+   },
+   "5ed227c2d862a3be36539bc49baa3fd5" : {
+      "english" : "“Robbery, slaughter, plunder, they \\\\[the Romans] deceivingly name empire; they make a wasteland and call it peace.” \\\\n— Calgacus, Caledonian chieftain in a speech before the Battle of Mons Graupius (Tacitus, “Agricola”, 30)",
+      "translation" : "„Пљачка, клање, пљачка, они\\\\nРимљани] обмањујуће именују царство; праве пустош и називају је миром. “\\\\[- Калгак, каледонски поглавица у говору пре битке код Монс Граупија (Тацит, „Агрицола“, 30)"
+   },
+   "5ff18a24fdb53a49fc365f1b365e138c" : {
+      "english" : "“Let's not give them enough time to arrange a defense, or to even recognize that we are human beings! We've got to appear to them like an uncontrollable nightmare of shields, swords, battle-axes and spears!” \\\\n— Xenophon (“The Education of Cyrus”, 4.2.22)",
+      "translation" : "„Не дајмо им довољно времена да организују одбрану, или чак да препознају да смо људска бића! Морамо им се чинити као неконтролисана мора штитова, мачева, борбених секира и копља! “\\\\n„Ксенофон („ Кирско образовање “, 4.2.22)"
+   },
+   "65471e2d52ccd5b1ab99d9b943935dd4" : {
+      "english" : "“Prepare for war, since you have been unable to endure a peace.” \\\\n— Scipio Africanus, replying to Hannibal's offer of peace terms before the Battle of Zama (Livy, “History of Rome”, XXX. 31)",
+      "translation" : "„Припремите се за рат, јер нисте могли да издржите мир.“\\\\n“Сципио Африцанус, одговарајући на Ханибалову понуду мировних услова пре битке код Заме (Ливије,„ Историја Рима “, КСКСКС. 31)"
+   },
+   "66e99c063381135d51843eb50ed09d31" : {
+      "english" : "“If a king is energetic, his subjects will be equally energetic.”\\\\n— Kauṭilya (“Arthashastra” I.19.1)",
+      "translation" : "„Ако је краљ енергичан, његови поданици ће бити подједнако енергични.“\\\\n„Кауа¹илиа („ Артхасхастра “И.19.1)"
+   },
+   "66fefa6ecf248e6223bc6e228d9f0900" : {
+      "english" : "“Weep not for me, as I suffer unjustly, I am in a happier situation than my murderers.” \\\\n— Agis IV of Sparta upon seeing one of his executioners cry (Plutarch, “Parallel Lives”, “Agis”, sec. 20)",
+      "translation" : "„Не плачите за мене, јер патим неправедно, у сретнијој сам ситуацији од својих убица.“\\\\n„Агис ИВ од Спарте када је видео како један од његових џелата плаче (Плутарх,„ Паралелни животи “,„ Агис “, секција 20)"
+   },
+   "67b7c6fe0d31749793fce5c37b8ce1f8" : {
+      "english" : "“Although he \\\\[Xerxes] had plenty of troops he had few men.” \\\\n— Herodotus (“The Histories”, VII. 210)",
+      "translation" : "„Иако је он\\\\nКсеркс] је имао доста трупа, имао је мало људи. “\\\\[“Херодот („ Историја “, ВИИ. 210)"
+   },
+   "68d2e3524e8f8fa9bb7061b6a7383232" : {
+      "english" : "“All mankind rules its women, and we rule all mankind, but our women rule us.” \\\\n— Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198e)",
+      "translation" : "„Све човечанство влада својим женама, а ми управљамо читавим човечанством, али наше жене владају нама.“\\\\n„Катон Старији (Плутарх,„ Моралија “,„ Изреке Римљана “, 198е)"
+   },
+   "6946b4beb525d6a729ef165d6968ed4e" : {
+      "english" : "“Being informed \\\\[…] that when the Barbarians discharged their arrows they obscured the light of the sun by the multitude of the arrows, he \\\\[Dieneces] \\\\[…] said that their guest \\\\[…] brought them very good news, for if the Medes obscured the light of the sun, the battle against them would be in the shade and not in the sun.” \\\\n— Herodotus describing Dieneces, reputedly the bravest Spartan soldier at Thermopylae (Polybius, “Histories”, VII. 226)",
+      "translation" : "„Будите информисани\\\\nа € ¦] да су, кад су варвари испустили своје стреле, заклонили светлост сунца мноштвом стрела, он је\\\\[Диенецес]\\\\[а € ¦] рекао је да је њихов гост\\\\[а € |\\\\[“Херодот описује Диенецес -а, наводно најхрабрији спартански војник у Термопилима (Полибије,„ Историја “, ВИИ. 226)"
+   },
+   "69ddf30ca4eb965a4b24e214151e1656" : {
+      "english" : "“It is better to be envied than to be pitied.” \\\\n— Herodotus (“The Histories”, III. 52)",
+      "translation" : "„Боље је завидети него бити сажаљен.“\\\\n“Херодот („ Историја “, ИИИ. 52)"
+   },
+   "6b84fd3848bc984ae2a2c5adc5beaa83" : {
+      "english" : "“Slow and steady wins the race.” \\\\n— Aesop (“The Hare and the Tortoise”)",
+      "translation" : "„Полако и упорно побеђује у трци.“\\\\n„Езоп („ Зец и корњача “)"
+   },
+   "6bd08d7d42aecd62bad4aed3730059b0" : {
+      "english" : "“None can be free who is a slave to, and ruled by, his passions.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 18)",
+      "translation" : "„Нико не може бити слободан ко робује својим страстима и којим управља.“\\\\n„Питагора (Стобаеус,„ Флорилегиум “, 18)"
+   },
+   "6c0c3946c62cb7ad0ab5679710d0786b" : {
+      "english" : "“If I were not Alexander, I should wish to be Diogenes \\\\[of Sinope].” \\\\n— Alexander the Great, impressed by the simplicity of the philosopher he had met (Plutarch, “Moralia”, “On the Fortunes of Alexander the Great”, 332a–b)",
+      "translation" : "„Да нисам Александар, волео бих да будем Диоген\\\\nСинопе]. €\\\\[„Александар Велики, импресиониран једноставношћу филозофа кога је срео (Плутарх,„ Моралија “,„ На богатству Александра Великог “, 332аа б)"
+   },
+   "6cabae7e59bbbadd3f3fd0aa6001f520" : {
+      "english" : "“Do not trust the horse, Trojans! I fear the Greeks even when they bring gifts.” \\\\n— Virgil (“Aeneid”, II. 48–49)",
+      "translation" : "„Не верујте коњу, Тројанци! Плашим се Грка чак и кад доносе дарове. “\\\\n„Вергилије („ Енеида “, ИИ. 48–49)"
+   },
+   "6d0d2deb8f2abcd308508f55dc23f621" : {
+      "english" : "“The die is cast.” \\\\n— Caesar, when crossing the Rubicon river with his legion into Italy, a capital offense that led to his civil war against Pompey (Suetonius, “The Lives of the Twelve Caesars”, 32)",
+      "translation" : "„Умро је бачено.“\\\\n- Цезар, када је са својом легијом прелазио реку Рубикон у Италију, што је био тежак прекршај који је довео до његовог грађанског рата против Помпеја (Светоније, „Животи дванаест цезара“, 32)"
+   },
    "715446f580d3dc13a8c22320c01ddb1f" : {
       "english" : "“Let your speech be better than silence, or be silent.” \\\\n— Pythagoras (Stobaeus, “Florilegium”, 24)",
       "translation" : "„Нека ваш говор буде бољи од ћутања или нека ћути.“\\\\n„Питагора (Стобаеус,„ Флорилегиум “, 24)"
+   },
+   "745141443338fafb700c220a5dbddb20" : {
+      "english" : "“Endless money forms the sinews of war.” \\\\n— Cicero (“Philippics”, V., sec. 5)",
+      "translation" : "„Бескрајан новац чини ратне тетиве.“\\\\n„Цицерон („ Пхилиппицс “, В., секција 5)"
+   },
+   "74c5b4b16722163dc0a17ff15c29d3b8" : {
+      "english" : "“Understand that happiness depends on freedom, and freedom depends on courage.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.4)",
+      "translation" : "„Схватите да срећа зависи од слободе, а слобода зависи од храбрости“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 43.4)"
+   },
+   "78901a5f046bd329c47a2f2ea6bbc210" : {
+      "english" : "“We live, not as we wish to, but as we can.” \\\\n— Menander (“Lady of Andros”, fragment 50)",
+      "translation" : "„Живимо, не како желимо, већ како можемо.“\\\\n“Менандер („ Госпођа Андросова “, фрагмент 50)"
+   },
+   "79c133bda74e2c8099f76ebdf5028e29" : {
+      "english" : "“Homer and Hesiod ascribed to their Gods all things that are a disgrace among mortals: stealing, adultery, deceiving one another.” \\\\n— Xenophanes (fragment 11)",
+      "translation" : "„Хомер и Хесиод су својим боговима приписали све ствари које су срамота међу смртницима: крађу, прељубу, обмањивање једни других.“\\\\n- Ксенофан (фрагмент 11)"
+   },
+   "7be8ab329f85c711df2f18fc6b26b86c" : {
+      "english" : "“As the world goes, justice is only a matter between equals, while the strong do what they can and the weak suffer what they must.” \\\\n— Thucydides, describing Athenians addressing the defeated Melians who are unwilling to surrender (“History of the Peloponnesian War”, V. 89.1)",
+      "translation" : "„Како свет иде, правда је само питање међу једнакима, док јаки чине оно што могу, а слаби трпе оно што морају.“\\\\n“Тукидид, који описује Атињане који се обраћају пораженим Мелијанима који се не желе предати („ Историја Пелопонеског рата “, В. 89.1)"
+   },
+   "7e792d8259e9dc0082e18c37668b5463" : {
+      "english" : "“I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over the self.” \\\\n— Aristotle (Stobaeus, “Florilegium”, 223)",
+      "translation" : "„Рачунам га храбријег који савладава своје жеље од оног који побеђује своје непријатеље, јер је најтежа победа над самим собом.“\\\\n„Аристотел (Стобај,„ Флорилегијум “, 223)"
+   },
+   "7e889c8c53e407c68bf00901ebeeb46c" : {
+      "english" : "“So little pains does the mob take in finding out the truth, accepting readily the first story at hand.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 21.3)",
+      "translation" : "„Мафија не улаже много труда у откривању истине, прихватајући одмах прву причу при руци.“\\\\n„Тукидид („ Историја Пелопонеског рата “, И. 21.3)"
+   },
+   "7f3f3a8274ff511f4001f5c75e882dc9" : {
+      "english" : "“You could not step twice into the same river.” \\\\n— Heraclitus (Plato, “Cratylus”, 402a)",
+      "translation" : "„Ниси могао двапут да закорачиш у исту реку.“\\\\n„Хераклит (Платон,„ Кратил “, 402а)"
+   },
+   "8374316dbc01399d94c7cf44e40ec764" : {
+      "english" : "“Conquered Greece took captive her savage conqueror and brought her arts into rustic Latium.” \\\\n— Horace (“Epistles”, epistle I., 156–157)",
+      "translation" : "„Освојена Грчка је заробила свог дивљачког освајача и донела своју уметност у рустикални Лацијум.“\\\\n“Хорације („ Посланице “, посланица И., 156–157)"
+   },
+   "83d5c417430b13876e0e8c8cfc71ce2c" : {
+      "english" : "“It is not possible to found a lasting power upon injustice, perjury, and treachery.” \\\\n— Demosthenes, in one of his many speeches against the rising Philip II of Macedon (“Olynthiac II”, 10)",
+      "translation" : "„Није могуће успоставити трајну моћ над неправдом, кривоклетством и издајом.“\\\\n„Демостен, у једном од својих многобројних говора против растућег Филипа ИИ Македонског („ Олинтијак ИИ “, 10)"
+   },
+   "83fa7f9711469e93a70a1170dc53f3a3" : {
+      "english" : "“The worst ruler is one who cannot rule himself.” \\\\n— Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198f)",
+      "translation" : "„Најгори владар је онај који не може сам да влада.“\\\\n„Катон Старији (Плутарх,„ Моралија “,„ Изреке Римљана “, 198ф)"
+   },
+   "84275d20799aa4510272d08572ee7812" : {
+      "english" : "“The judgment given to Croesus by each of the two oracles \\\\[Delphi and Thebes] was the same: If he sent an army against the Persians, he would destroy a great empire.” \\\\n— Herodotus, later mentioning that the empire Croesus destroyed was his own (“The Histories”, I. 53)",
+      "translation" : "„Пресуда коју је Крезу изрекло свако од два пророчишта\\\\nДелфи и Теба] су били исти: Ако би послао војску против Персијанаца, уништио би велико царство. “\\\\[“Херодот, који је касније споменуо да је царство које је уништио Крез његово („ Историја “, И. 53)"
+   },
+   "861ca527b78aaedc1583fdbcf917d7ce" : {
+      "english" : "“Battles are decided more by the morale of men than their physical strength.” \\\\n— Xenophon (“The Education of Cyrus”, 3.3.20)",
+      "translation" : "„О биткама више одлучује морал људи него њихова физичка снага“\\\\n„Ксенофон („ Кирско образовање “, 3.3.20)"
+   },
+   "86295a4a83f7909aabebab4bd3ef6952" : {
+      "english" : "“In his campaigns during summer the general must show that he can endure the sun better than the soldiers, in winter he must show he can endure cold better; and throughout all difficulties that he can endure hardships better. This will help to make him loved by his men.” \\\\n— Xenophon (“The Education of Cyrus”, 1.6.25)",
+      "translation" : "„У својим кампањама током лета генерал мора показати да може издржати сунце боље од војника, зими мора показати да може боље поднети хладноћу; и кроз све тешкоће да може боље да поднесе тешкоће. Ово ће му помоћи да га људи заволе. “\\\\n„Ксенофон („ Кирско образовање “, 1.6.25)"
+   },
+   "87a56052ff940013c7fa98c3b31747e1" : {
+      "english" : "“One more such victory and the cause is lost!” \\\\n— Pyrrhus of Epirus after the Battle of Asculum, in which the Romans lost twice as many men but he lost a greater share of his armed forces (Plutarch, “Parallel Lives”, “Pyrrhus”, sec. 21)",
+      "translation" : "„Још једна таква победа и циљ је изгубљен!“\\\\n- Пир из Епира након битке код Аскулума, у којој су Римљани изгубили двоструко више људи, али је изгубио и већи део својих оружаних снага (Плутарх, „Паралелни животи“, „Пир“, сек. 21)"
+   },
+   "88c5cb98d557080f24cbfa51c5d8fba3" : {
+      "english" : "“These are the right questions to ask, in winter around the fire \\\\[…]: Who are you, friend? What is your land? And how old were you when the Medes \\\\[Persians] came?” \\\\n— Xenophanes, likely referring to a punitive expedition against Greek cities in Ionia (fragment 17)",
+      "translation" : "„Ово су права питања која треба поставити зими око ватре\\\\nа € ¦]: Ко си ти, пријатељу? Која је ваша земља? А колико сте имали година када су Медијци\\\\[Персијанци] дошли? “\\\\[- Ксенофан, вероватно се односи на казнену експедицију против грчких градова у Јонији (фрагмент 17)"
    },
    "88cd8ce021f049952338de55a3ba9003" : {
       "english" : "“Glorious are the deeds of those who undergo labor and run the risk of danger; and it is delightful to live a life of valor and to die leaving behind immortal glory.” \\\\n— Alexander the Great, addressing his troops (Arrian, “The Anabasis of Alexander”, 5.26)",
@@ -35,13 +459,105 @@
       "english" : "“Themistocles robbed his fellow citizens of spear and shield, and degraded the people of Athens to the rowing-pad and the oar.” \\\\n— Plato, no friend of the Athenian navy (Plutarch, “Parallel Lives”, “Themistocles”, sec. 3)",
       "translation" : "„Тхемистоцлес је својим суграђанима опљачкао копље и штит, а становнике Атине деградирао на веслање и весло.“\\\\n„Платон, није пријатељ атинске морнарице (Плутарх,„ Паралелни животи “,„ Тхемистоцлес “, одељак 3)"
    },
+   "8912a4a322c8e2855327a5ae72ed132d" : {
+      "english" : "“Time in the long run teaches all things.” \\\\n— Aeschylus (“Prometheus Bound”, 981)",
+      "translation" : "„Време дугорочно учи све.“\\\\nес Есхил (а € œПрометхеус Боунда €, 981)"
+   },
+   "8b3fc622a762eb126f7b4616502a67ed" : {
+      "english" : "“Plato had defined man as an animal, biped and featherless, and was applauded. Diogenes \\\\[of Sinope] plucked a fowl and brought it into the lecture-room with the words: Here is Plato's man. In consequence of which there was added to the definition: having broad nails.” \\\\n— Diogenes Laertius (“The Lives and Opinions of Eminent Philosophers”, “Diogenes”, sec. 40)",
+      "translation" : "„Платон је човека дефинисао као животињу, двоножца и без перја, и добио је аплауз. Диоген\\\\nСинопе] је ишчупао живину и унео је у предаваоницу речима: Ево Платоновог човека. Као последица тога додата је дефиниција: имати широке нокте. “\\\\[„Диоген Лаерције („ Животи и мишљења угледних филозофа “,„ Диоген “, секција 40)"
+   },
+   "8b629b95a4a9707320e967b6a6699c95" : {
+      "english" : "“Unity strengthens even small states, while discord undermines the mightiest empires.” \\\\n— Sallust (“The Jugurthine War”, 10.6)",
+      "translation" : "„Јединство јача чак и мале државе, док неслога поткопава најмоћнија царства.“\\\\n„Салустија („ Југуртски рат “, 10,6)"
+   },
+   "8d6e1c4d49c3c6bf0f402402c11bb8dd" : {
+      "english" : "“The first duty of a man is the seeking after and the investigation of truth.” \\\\n— Cicero (“On Duties”, I., 13)",
+      "translation" : "„Прва дужност човека је тражење и истраживање истине.“\\\\n„Цицерон („ На дужностима “, И., 13)"
+   },
+   "8e0859f69d9e38bddeeff7f79db8bccb" : {
+      "english" : "“People are glad to obey the man whom they believe to be wiser than themselves in pursuing their interests.” \\\\n— Xenophon (“The Education of Cyrus”, 1.6.22)",
+      "translation" : "„Људима је драго да послушају човека за кога верују да су мудрији од њих самих у остваривању својих интереса.“\\\\n„Ксенофон („ Кирско образовање “, 1.6.22)"
+   },
+   "9051e31b8db11a42d0e17b4d775afea7" : {
+      "english" : "“In the phalanx, the men cannot turn around singly and defend themselves: this tribune, therefore, charged them \\\\[from behind] and killed all he could get at; until, unable to resist, they were forced to throw away their shields and flee.” \\\\n— Polybius, describing the defeat of Philip V. of Macedon by Flaminius in the Battle of Cynoscephalae (“Histories”, XVIII. 26)",
+      "translation" : "„У фаланги се мушкарци не могу сами окренути и бранити: ова трибина их је, дакле, оптужила\\\\nс леђа] и убио све до чега је могао доћи; све док, неспособни да се одупру, нису били приморани да баце штитове и побегну. “\\\\[- Полибије, који описује пораз Филипа В. Македонског од Фламинија у бици код Киноскефале („Историја“, КСВИИИ. 26)"
+   },
+   "91e43ac160b05b56e2a9db77959c547b" : {
+      "english" : "“To heroes all earth is their tomb, and their virtues are remembered far from home where an epitaph declares them, in an unwritten record of the mind that will outlast any monument.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 43.3)",
+      "translation" : "„За хероје цела земља је њихова гробница, а њихове врлине се сећају далеко од куће где их проглашава натпис, у неписаном запису ума који ће наџивети сваки споменик.“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 43.3)"
+   },
+   "92f7ff3d28483016e416c5a599671ab4" : {
+      "english" : "“Alexander himself, plagued by thirst, with great pain and difficulty nevertheless led the army on foot \\\\[…]. At this time a few of the light-armed soldiers \\\\[…] found some water \\\\[…], poured the water into a helmet and carried it to him. He took it, and commending the men who brought it, immediately poured it upon the ground in the sight of all.” \\\\n— Arrian about Alexander's march through the Gedrosian desert (“The Anabasis of Alexander”, 6.26)",
+      "translation" : "„Сам Александар, мучен жеђу, са великим болом и тешкоћама ипак је повео војску пешице\\\\nа € ¦]. У то време неколико лако наоружаних војника\\\\[а € ¦] нашао мало воде\\\\[а € ¦], сипао воду у шлем и однео му га. Узео га је и похвалио људе који су га донели, одмах га излио на земљу пред свима. “\\\\[Ариан о Александровом маршу кроз пустињу Гедросиан („Александрова Анабаза“, 6.26)"
+   },
    "9356bbf84f5be0164591cdba5e8c6eb7" : {
       "english" : "“Attack the enemy where he is weakest, even if that is a long way off, since hard work is less dangerous than a struggle against superior forces.” \\\\n— Xenophon (“The Cavalry General”, sec. 4.14)",
       "translation" : "„Нападните непријатеља тамо где је најслабији, чак и ако је то далеко, пошто је напоран рад мање опасан од борбе против надмоћних снага.“\\\\n„Ксенофон („ Коњички генерал “, одељак 4.14)"
    },
+   "94421f24e97962578b8ca325054eef6a" : {
+      "english" : "“If oxen and horses and lions had hands, and could paint, and produce works of art as men do, horses would paint the forms of the gods like horses, and oxen like oxen, and make their God's bodies each in their own image.” \\\\n— Xenophanes (fragment 15)",
+      "translation" : "„Да су волови, коњи и лавови имали руке и могли да сликају и производе уметничка дела као што то раде људи, коњи би насликали облике богова попут коња, а волове као волове и направили своја Божја тела свако у свом имаге.а €\\\\n- Ксенофан (фрагмент 15)"
+   },
+   "95dc51ac89af23a0cce41bcc0aa7393a" : {
+      "english" : "“Moderation in all things.” \\\\n— Terence (“The Girl from Andros”, 61)",
+      "translation" : "„Умереност у свим стварима.“\\\\n“Теренце („ Девојка из Андроса “, 61)"
+   },
+   "96c25175cb60f37ef1631937d9a5a35d" : {
+      "english" : "“Scipio \\\\[Aemilianus], when he looked upon the city \\\\[Carthage] as it was utterly perishing and in the last throes of its complete destruction, is said to have shed tears and wept openly for his enemies. And realized that all cities, nations, and authorities must, like men, meet their doom.” \\\\n— Polybius, eyewitness to the destruction of Carthage (“Histories”, XXXVIII. 22)",
+      "translation" : "„Сципио\\\\nАемилианус], када је погледао град\\\\[Картага], пошто је потпуно пропадала и у последњим мукама свог потпуног уништења, каже се да је пролила сузе и отворено плакала за својим непријатељима. И схватио је да сви градови, нације и власти морају, попут људи, дочекати своју пропаст. “\\\\[“Полибије, очевидац уништења Картагине („ Историја “, КСКСКСВИИИ. 22)"
+   },
+   "96dcdc173d7037b42ef91e276db94c56" : {
+      "english" : "“By desiring little, a poor man makes himself rich.” \\\\n— Democritus (fragment)",
+      "translation" : "„Желећи мало, сиромашан човек постаје богат.“\\\\n- Демокрит (фрагмент)"
+   },
+   "9841582a61388ba8f1fca6bb01bcf3f9" : {
+      "english" : "“Escape, yes, but this time with my hands, not my feet.” \\\\n— Brutus, before committing suicide after losing a battle against Caesar's avengers (Plutarch, “Parallel Lives”, “Brutus”, sec. 52)",
+      "translation" : "„Побећи, да, али овај пут рукама, а не ногама.“\\\\n„Брут, пре него што је извршио самоубиство након што је изгубио битку против Цезарових осветника (Плутарх,„ Паралелни животи “,„ Брут “, сек. 52)"
+   },
+   "9915e5bcf2d34a54c9a11bafffe5a54a" : {
+      "english" : "“Then the blood really flowed, for the two lines were so close that shield struck against shield, and they drove their swords into each other's faces. It was impossible for the weak or cowardly to retreat; man to man they fought like in single combat.” \\\\n— Curtius Rufus about the Battle of Issus (“Histories of Alexander the Great”, III. 11.5)",
+      "translation" : "„Тада је крв заиста потекла, јер су две линије биле толико близу да је штит ударио о штит, па су мачевима забили једно друго у лице. Слабима или кукавицама није било могуће да се повуку; међусобно су се борили као човек у једној борби. “\\\\n“Куртиус Руфус о битци код Иса („ Историја Александра Великог “, ИИИ. 11.5)"
+   },
+   "9b408fa6ff8697fbe3c4feff92a9dde0" : {
+      "english" : "“The hour of departure has arrived, and we go our ways – I to die, and you to live. Which is better God only knows.” Socrates, in his defense when trialled for corrupting the youth and not worshipping the proper gods (he later drank hemlock after the death sentence) \\\\n— Plato (“Apology”, 42a)",
+      "translation" : "„Дошао је час поласка и ми идемо својим путем“ ја да умрем, а ти да живиш. Шта је боље само Бог зна. “Сократ, у своју одбрану када му је суђено да је покварио омладину и није обожавао праве богове (касније је попио кукуту после смртне пресуде)\\\\n“Платон („ Апологија “, 42а)"
+   },
+   "9b5e604ee7b5c857aa1fe20550f63e5f" : {
+      "english" : "“I have gained this by philosophy: that I do without being commanded what others do only from fear of the law.” \\\\n— Aristotle (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Aristotle”, sec. 20)",
+      "translation" : "„Ово сам стекао филозофијом: чиним без наређења шта други раде само из страха од закона.“\\\\n„Аристотел (Диоген Лаерције,„ Животи и мишљења угледних филозофа “,„ Аристотел “, секција 20)"
+   },
+   "9ca68b9b4241deaa09659ccde2f070fb" : {
+      "english" : "“In soft regions are born soft men.” \\\\n— Herodotus (“The Histories”, IX. 122)",
+      "translation" : "„У меким регионима рађају се меки људи.“\\\\n“Херодот („ Историја “, ИКС. 122)"
+   },
    "9defff3be0f25767275d9a7c15cb606b" : {
       "english" : "“A coward turns away, but a brave man's choice is danger.” \\\\n— Euripides (“Iphigenia in Tauris”)",
       "translation" : "„Кукавица се окреће, али избор храброг човека је опасност.“\\\\n„Еурипид („ Ифигенија у Таурису “)"
+   },
+   "9e5d27ae82fc18266bdd1cade54c8cd6" : {
+      "english" : "“When the Lacedaemonians were no longer able to run after them, the skirmishers \\\\[…] all charged them at once, casting stones, arrows, and darts to the closest man at hand.” \\\\n— Thucydides, describing the Spartan disaster at the Battle of Sphacteria (“History of the Peloponnesian War”, IV. 34.2)",
+      "translation" : "„Када Лакедемонци више нису могли да трче за њима, окршаји\\\\nа € ¦] сви су их навалили одједном, бацајући камење, стреле и пикадо најближем човеку при руци. “\\\\[“Тукидид, који описује спартанску катастрофу у бици код Сфактерије („ Историја Пелопонеског рата “, ИВ. 34.2)"
+   },
+   "9ec154d3804edc12d75c3b409d34d0a8" : {
+      "english" : "“Laws are silent in time of war.” \\\\n— Cicero (“Pro Milone”, IV., sec. 11)",
+      "translation" : "„Закони ћуте у време рата“\\\\n„Цицерон („ Про Милоне “, ИВ., секција 11)"
+   },
+   "a109ac806bd45e232419f4fa069fbb1d" : {
+      "english" : "“Most inhuman and most arrogant of nations, they \\\\[the Romans] reckon the world as theirs and subject to their pleasure. With whom we are to be at war, with whom at peace, they think it right that they should determine.” \\\\n— Hannibal, addressing his troops (Livy, “History of Rome”, XXI. 44)",
+      "translation" : "„Они су били најнечовечнији и најарогантнији народ\\\\nРимљани] сматрају свет својим и подложним свом задовољству. С ким ми требамо бити у рату, с ким у миру, они сматрају да је исправно да они то одлуче. “\\\\[“Ханибал, обраћајући се својим трупама (Ливије,„ Историја Рима “, КСКСИ. 44)"
+   },
+   "a119d15e291197f411497369b7b9dad6" : {
+      "english" : "“The Macedonians first raised an unearthly shout followed by the Persians answering, so that the whole hillside bordering the battlefield echoed back the sound, and that second roar was louder than the Macedonian war cry as five hundred thousand men shouted with one voice.” \\\\n— Diodorus Siculus about the Battle of Issus (“The Library of History”, XVII., sec. 33)",
+      "translation" : "„Македонци су прво подигли неземаљски узвик, а затим су одговорили Персијанци, тако да је цело брдо које се граничило са бојним пољем одзвањало звуком, а та друга рика била је јача од македонског ратног поклича док је пет стотина хиљада људи викало у један глас. а €\\\\n- Диодор Сикулус о битци код Иса („Историјска библиотека“, КСВИИ., одељак 33)"
+   },
+   "a2bea1a5173132ed44adcebafe53767b" : {
+      "english" : "“Come and get them!” \\\\n— Leonidas, to the Persian messenger who demanded that he and his men lay down their arms (Plutarch, “Moralia”, “Sayings of Spartans”, 225c)",
+      "translation" : "„Дођите и набавите их!“\\\\n„Леонида, персијском гласнику који је захтевао да он и његови људи положе оружје (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 225ц)"
+   },
+   "a42c13cf39c90ea390e9d9633d8d7c03" : {
+      "english" : "Click to toggle the %(name)s settings tab.",
+      "translation" : "Кликните да бисте укључили или искључили %(name)s картицу подешавања."
    },
    "a431e12d552446438342a2d168b81e2e" : {
       "english" : "“Wars, both civil and foreign, I waged throughout the world, on sea and land, and when victorious I spared all citizens who sued for pardon. The foreign nations which could with safety be pardoned I preferred to save rather than to destroy.” \\\\n— Augustus, in his autobiography (“Res Gestae Divi Augusti”, sec. 3)",
@@ -51,20 +567,256 @@
       "english" : "“The soldiers fight and die to support others in wealth and luxury and they are called masters of the world without owning a single piece of farmland of their own.”\\\\n— Tiberius Gracchus, advocating for land reform to the benefit of homeless and unemployed veterans whose lands had often been bought up while they were on campaign. (Plutarch, “Parallel Lives”, “Tiberius Gracchus”, 9.5)",
       "translation" : "„Војници се боре и умиру како би подржали друге у богатству и луксузу, а називају се господарима света без да поседују иједан комад свог пољопривредног земљишта.“\\\\n- Тибериус Граццхус, залажући се за реформу земљишта у корист бескућника и незапослених ветерана чија су земљишта често откупљивана док су били у кампањи. (Плутарх, „Паралелни животи“, „Тиберије Грак“, 9,5)"
    },
+   "a872f389948878e083f1710d644560ce" : {
+      "english" : "“Stop quoting laws, we carry weapons!” \\\\n— Pompey (Plutarch, “Parallel Lives”, “Pompey”, sec. 10)",
+      "translation" : "„Престаните да цитирате законе, ми носимо оружје!“\\\\n„Помпеј (Плутарх,„ Паралелни животи “,„ Помпеј “, секција 10)"
+   },
+   "a997fdc7fe006d23f4541a666769f49e" : {
+      "english" : "“Let every man remind their descendants that they also are soldiers who must not desert the ranks of their ancestors, or retreat out of cowardice.” \\\\n— Aspasia (Plato, “Menexenus”, 246b)",
+      "translation" : "„Нека сваки човек подсети своје потомке да су и они војници који не смеју напустити редове својих предака или се повући из кукавичлука.“\\\\n„Аспазија (Платон,„ Менексен “, 246б)"
+   },
+   "aa12bf534ff652c22a003abae855b7b2" : {
+      "english" : "“Written laws are like spiders' webs; they will catch, it is true, the weak and poor, but will be torn in pieces by the rich and powerful.” \\\\n— Anacharsis (Plutarch, “Parallel Lives”, “Solon”, sec. 5)",
+      "translation" : "„Писани закони су попут паукове мреже; ухватиће, истина, слабе и сиромашне, али ће их богати и моћни растргати на комаде. “\\\\n„Анахарзис (Плутарх,„ Паралелни животи “,„ Солон “, одељак 5)"
+   },
+   "b03b10355f9aec76292b83a4b9f8e235" : {
+      "english" : "“The wild beasts of Italy have their caves to retire to, but the brave veterans who spilled their blood in her cause have nothing left but air and light. They wander around homeless with their wives and children.”\\\\n— Tiberius Gracchus, advocating for land reform to the benefit of homeless and unemployed veterans whose lands had often been bought up while they were on campaign. (Plutarch, “Parallel Lives”, “Tiberius Gracchus”, 9.4–5)",
+      "translation" : "„Италијанске дивље звери имају своје пећине у које се могу повући, али храбрим ветеранима који су у њу пролили своју крв није остало ништа осим ваздуха и светлости. Лутају по бескућницима са женама и дјецом. “\\\\n- Тибериус Граццхус, залажући се за реформу земљишта у корист бескућника и незапослених ветерана чија су земљишта често откупљивана док су били у кампањи. (Плутарх, „Паралелни животи“, „Тиберије Грак“, 9,4–5)"
+   },
+   "b09d2aee2fb14bb95c6222066a7a3dc5" : {
+      "english" : "“States are doomed when they are unable to distinguish good men from bad.” \\\\n— Antisthenes (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Antisthenes”, sec. 5)",
+      "translation" : "„Државе су осуђене на пропаст када нису у стању да разликују добре људе од лоших“\\\\n„Антистена (Диоген Лаертије,„ Животи и мишљења угледних филозофа “,„ Антистен “, одељак 5)"
+   },
+   "b205998e9cf67cb2bf251275512f896e" : {
+      "english" : "“Wise men learn more from fools than fools from the wise.” \\\\n— Cato the Elder (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 9)",
+      "translation" : "„Мудри људи уче више од будала него будале од мудрих.“\\\\n„Катон Старији (Плутарх,„ Паралелни животи “,„ Катон Старији “, секција 9)"
+   },
+   "b37cb1117af47aaba661b431d4eaefd9" : {
+      "english" : "“The fox knows many tricks; the hedgehog one good one.” \\\\n— Archilochus (fragment 201)",
+      "translation" : "„Лисица зна многе трикове; јеж један добар. “\\\\n- Архилох (фрагмент 201)"
+   },
+   "b3d04b567300660a039b72d493e17315" : {
+      "english" : "“In every tyrant's heart there springs in the end this poison, that he cannot trust a friend.” \\\\n— Aeschylus (“Prometheus Bound”, 224–225)",
+      "translation" : "„У срцу сваког тиранина на крају извире овај отров, који не може веровати пријатељу.“\\\\nес Есхил („Прометејева веза“, 224–225)"
+   },
+   "b6f1cc939446a8278533637afbbf9fdf" : {
+      "english" : "“No one is so old as to think that he cannot live one more year.” \\\\n— Cicero (“On Old Age”, sec. 24)",
+      "translation" : "„Нико није толико стар да помисли да не може живети још годину дана.“\\\\n“Цицерон („ На старост “, секција 24)"
+   },
+   "b7d3b564c222afad74784c9e3ab227a0" : {
+      "english" : "“Ungrateful fatherland, you will not even have my bones!” \\\\n— Scipio Africanus in his epitaph, after he who defeated Hannibal was repeatedly accused of crimes by the Roman Senate (Valerius Maximus, “Nine books on memorable deeds and sayings”, 5.3.2)",
+      "translation" : "„Незахвална отаџбине, нећете имати ни моје кости!“\\\\n„Сципион Африкан у свом епитафу, након што је онај који је победио Ханибала, римски сенат више пута оптужио за злочине (Валерије Максим,„ Девет књига о незаборавним делима и изрекама “, 5.3.2)"
+   },
    "b8982480d97bcc2e73a45f1655456a5f" : {
       "english" : "“I am Cyrus, king of the world…” \\\\n— Inscription (Cyrus Cylinder)",
       "translation" : "„Ја сам Кир, краљ света ...“\\\\n- натпис (Цирус цилиндар)"
+   },
+   "ba10cac67e8f146a3665999d1ad97aa9" : {
+      "english" : "“Any excuse will serve a tyrant.” \\\\n— Aesop (“The Wolf and the Lamb”)",
+      "translation" : "„Сваки изговор ће послужити тиранину.“\\\\n„Езоп („ Вук и јагње “)"
+   },
+   "bc0ab9285371460583f1a6a74a6fafc7" : {
+      "english" : "“The gods help those that help themselves.” \\\\n— Aesop (“Hercules and the Wagoner”)",
+      "translation" : "„Богови помажу онима који сами себи помажу.“\\\\n„Езоп („ Херкул и кола “)"
+   },
+   "be7110e07ac73309fecfb75a0cf6a47c" : {
+      "english" : "AI Difficulty",
+      "translation" : "АИ Тешкоће"
+   },
+   "bfa28526ee0a34be0eb9fb2bf2108552" : {
+      "english" : "“The Athenian people are always in the position of a ship without a commander. Fear of the enemy or a storm make the crew be of one mind and obey the helmsman, everything goes well; but if they recover \\\\[…] they quarrel with each other \\\\[…], and the result has often been that, after escaping the dangers of the widest seas and the most violent storms, they wreck their ship in harbor and close to shore.” \\\\n— Polybius on the Athenian constitution (“Histories”, VI. 44)",
+      "translation" : "„Атински народ је увек на положају брода без команданта. Страх од непријатеља или олује чине да посада буде једногласна и послуша кормилара, све иде добро; али ако се опораве\\\\nа € ¦] они се међусобно свађају\\\\[а € ¦], а резултат је често био да су, након што су избегли опасности од најширег мора и најжешћих олуја, разбили свој брод у луци и близу обале. “\\\\[„Полибије о атенском уставу („ Историја “, ВИ. 44)"
+   },
+   "c09c9cd437b2e98e3584a114d20b801a" : {
+      "english" : "“I have come not to make war on the Italians, but to aid the Italians against Rome.” \\\\n— Hannibal (Polybius, “Histories”, III. 85)",
+      "translation" : "„Нисам дошао да ратујем са Италијанима, већ да помогнем Италијанима против Рима.“\\\\n„Ханибал (Полибије,„ Историја “, ИИИ. 85)"
+   },
+   "c1cab7bfc5a9c6802082d8c8a45873dd" : {
+      "english" : "Failed to get local IP of the server (it was assumed to be on the same network).",
+      "translation" : "Преузимање локалног ИП сервера није успело (претпостављало се да је на истој мрежи)."
+   },
+   "c1f63c057d1859328417f6c3b1c678c3" : {
+      "english" : "“It is necessary to know the strength of the city and of the enemy, so that, if the city is stronger, one may recommend her to go to war, but if weaker than the enemy, may persuade her to beware.” \\\\n— Socrates (Xenophon, “Memorabilia”, 3.6.9)",
+      "translation" : "„Потребно је знати снагу града и непријатеља, тако да јој се, ако је град јачи, може препоручити да иде у рат, али ако је слабији од непријатеља, убедити је да се чува.“ €\\\\n„Сократ (Ксенофон,„ Меморабилија “, 3.6.9)"
+   },
+   "c31cc10b610cd915d16f1ca775088047" : {
+      "english" : "“It is obligatory, especially for a philosopher, to sacrifice even one's closest personal ties in defense of the truth.” \\\\n— Aristotle (“Nicomachean Ethics”, I. 1096a.11)",
+      "translation" : "„Обавезно је, посебно за филозофа, да жртвује чак и своје најближе личне везе у одбрану истине.“\\\\n“Аристотел („ Никомаховска етика “, И. 1096а.11)"
+   },
+   "c41127c47992451ed67ee6f0b90ffb12" : {
+      "english" : "“The Lacedaemonians \\\\[Spartans] fought a memorable battle; they made it quite clear that they were the experts, and that they were fighting against amateurs.” \\\\n— Herodotus (“The Histories”, VII. 211)",
+      "translation" : "„Лакедемонци\\\\nСпартанци] су водили незаборавну битку; јасно су ставили до знања да су они стручњаци и да се боре против аматера. “\\\\[„Херодот („ Историја “, ВИИ. 211)"
+   },
+   "c5494d5a5717511a8f9b6140eab1f0d4" : {
+      "english" : "“Choose the course which you adopt with deliberation; but when you have adopted it, then persevere in it with firmness.” \\\\n— Bias of Priene (Diogenes Laertius, “The Lives and Opinions of Eminent Philosophers”, “Bias”, sec. 5)",
+      "translation" : "„Одаберите курс који ћете усвојити с промишљањем; али кад га усвојите, истрајте у томе чврсто. “\\\\n„Пристрасност Приене (Диоген Лаерције,„ Животи и мишљења угледних филозофа “,„ Биас “, одељак 5)"
+   },
+   "c8e0f0396175c8d51e5c2908236fa384" : {
+      "english" : "“Moreover, I consider that Carthage should be destroyed.” \\\\n— Cato the Elder, who ended all speeches in his later life with this statement (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 27)",
+      "translation" : "„Штавише, сматрам да Картагину треба уништити.“\\\\n„Катон Старији, који је овом изјавом завршио све говоре у свом каснијем животу (Плутарх,„ Паралелни животи “,„ Катон Старији “, одељак 27)"
+   },
+   "c9b6c06674d946ce9cd5beb1ff4da817" : {
+      "english" : "“A city is well-fortified which has a wall of men instead of brick.” \\\\n— Lycurgus of Sparta (Plutarch, “Parallel Lives”, “Lycurgus”, sec. 19)",
+      "translation" : "„Град је добро утврђен и има зид од мушкараца уместо од опеке.“\\\\n„Ликург из Спарте (Плутарх,„ Паралелни животи “,„ Ликург “, сек. 19)"
+   },
+   "ce9b8eefccb309e26dd18c7ac6411315" : {
+      "english" : "“Better be wise by the misfortunes of others than by your own.” \\\\n— Aesop (“The Lion, the Ass, and the Fox Hunting”)",
+      "translation" : "„Боље буди мудар према туђој несрећи него према својој.“\\\\n„Езоп („ Лав, магарац и лов на лисице “)"
+   },
+   "cfbaf9cae0bd65acd9161aa34c07b001" : {
+      "english" : "“Woe to the Defeated!” \\\\n— Brennus, Gaulish chieftain who had seized Rome (with the exception of a garrison on Capitoline Hill). When Camillus arrived from Veii and besieged him, he negotiated his withdrawal for 1000 pounds of gold, but not without using false weights and adding the weight of his sword on the scale when the Romans complained (Polybius, “Histories”, II. 18)",
+      "translation" : "„Тешко пораженима!“\\\\n- Бреннус, галски поглавица који је заузео Рим (са изузетком гарнизона на Капитолинском брду). Кад је Камил стигао из Веије и опсео га, преговарао је о његовом повлачењу за 1000 фунти злата, али не без употребе лажних утега и додавања тежине мача на вагу када су се Римљани жалили (Полибије, „Историја“, ИИ. 18)"
+   },
+   "d05b1ac2e398d1d29d0687a569238f7a" : {
+      "english" : "“The growth of the power of Athens, and the alarm which this caused in Sparta, made war inevitable.” \\\\n— Thucydides (“History of the Peloponnesian War”, I. 23.6)",
+      "translation" : "„Раст моћи Атине и узбуна коју је ово изазвало у Спарти учинили су рат неизбежним.“\\\\n“Тукидид („ Историја Пелопонеског рата “, И. 23.6)"
+   },
+   "d08013387df3b3af8f6d4c2e7bdf5f9b" : {
+      "english" : "“You cannot eat your cake and have it too, unless you think your money is immortal.”\\\\n— Plautus (“Trinummus”, Act II, scene 4, 13–14)",
+      "translation" : "„Не можете да једете колач и да га једете, осим ако мислите да је ваш новац бесмртан.“\\\\n- Плаутус („Тринуммус“, Чин ИИ, сцена 4, 13 - 14)"
    },
    "d0fea32385eb4834b46385b901fd45a5" : {
       "english" : "“Chance fights ever on the side of the prudent.” \\\\n— Euripides (“Pirithous”)",
       "translation" : "„шанса се увек бори на страни разборитих“\\\\n„Еурипид („ Пиритхоус “)"
    },
+   "d50a79e8875dcbada53010f5903ca24c" : {
+      "english" : "“Enemies' promises were made to be broken.” \\\\n— Aesop (“The Nurse and the Wolf”)",
+      "translation" : "„Обећања непријатеља су направљена да би била прекршена.“\\\\n„Езоп („ Медицинска сестра и вук “)"
+   },
+   "d63da4850c5ec8a8b2379e698e10cc99" : {
+      "english" : "“O, the times, O, the customs!” \\\\n— Cicero (“Against Catiline”, I.)",
+      "translation" : "„О, времена, О, обичаји!“\\\\n“Цицерон („ Против Катилине “, И.)"
+   },
+   "d68745fa9e1501462f8c56c4878d0e3f" : {
+      "english" : "“It is not the well-fed long-haired man I fear, but the pale and the hungry looking.” \\\\n— Caesar (Plutarch, “Parallel Lives”, “Antony”, sec. 11)",
+      "translation" : "„Не бојим се ухрањеног дугокосог човека, већ бледог и гладног.“\\\\n„Цезар (Плутарх,„ Паралелни животи “,„ Антонија “, секција 11)"
+   },
+   "d8d6577c7adb83027cd989f7d943ae89" : {
+      "english" : "“When the pirates demanded a ransom of twenty talents for him, Caesar burst out laughing. They did not know, he said, who it was that they had captured, and he volunteered to pay fifty.” \\\\n— Plutarch, who mentions later that Caesar got his money back and had his captors crucified (“Parallel Lives”, “Caesar”, sec. 2)",
+      "translation" : "„Када су гусари за њега тражили откупнину од двадесет талената, Цезар је праснуо у смех. Рекао је да нису знали кога су заробили, а он се добровољно платио педесет. “\\\\n“Плутарх, који касније помиње да је Цезару враћен новац и да су му отмичари разапети („ Паралелни животи “,„ Цезар “, одељак 2)"
+   },
+   "d9e9f602aa2bf682ccc500d043762f33" : {
+      "english" : "“The Athenians command the rest of Greece, I command the Athenians; your mother commands me, and you command your mother.” \\\\n— Themistocles, jokingly to his infant son (Plutarch, “Parallel Lives”, “Themistocles”, sec. 18)",
+      "translation" : "„Атињани командују остатком Грчке, ја командујем Атињанима; твоја мајка ми заповеда, а ти својој мајци. “\\\\n„Тхемистоцлес, у шали са својим малим сином (Плутарх,„ Паралелни животи “,„ Тхемистоцлес “, секција 18)"
+   },
+   "daacdd53c945e6087339668305bf0717" : {
+      "english" : "“He could boast that he found a city of brick and left it a city of marble.”\\\\n— Suetonius, commenting on the many building projects of Augustus in Rome (“Divus Augustus”, 28.3)",
+      "translation" : "„Могао се похвалити да је пронашао град од цигле и оставио га градом мермера.“\\\\n“Светоније, коментаришући многе Аугустове грађевинске пројекте у Риму („ Дивус Август “, 28.3)"
+   },
+   "db5dece0738c5e8550abb58e45ac0c50" : {
+      "english" : "“I am Darius, the great king, king of kings, the king of Persia, the king of countries, \\\\[…] 23 lands in total.” \\\\n— Darius I (Behistun inscription, column I, 1–6)",
+      "translation" : "„Ја сам Дарије, велики краљ, краљ краљева, краљ Перзије, краљ земаља,\\\\nа € ¦] укупно 23 земљишта. €\\\\[- Дариус И (Бехистунски натпис, колона И, 1 - 6)"
+   },
+   "dc021c87cb31a765a564b3c5749aedc1" : {
+      "english" : "“If a man put out the eye of another man, his eye shall be put out.” \\\\n— Hammurabi (Hammurabi's Code, sec. 196)",
+      "translation" : "„Ако човек истисне око другом човеку, његово око ће се угасити.“\\\\n- Хамураби (Хамурабијев законик, сек. 196)"
+   },
+   "dc470e377ee804994aaaceceedee4972" : {
+      "english" : "“How stupid it was for the king to tear out his hair in grief, as if baldness were a cure for sorrow.” \\\\n— Bion of Borysthenes (Cicero, “Tusculan Disputations”, III. 26)",
+      "translation" : "„Како је било глупо да је краљ истргао косу у тузи, као да је ћелавост лек за тугу.“\\\\nБион Борстен (Цицерон, а € œТусцулан Диспутатионса €, ИИИ. 26)"
+   },
+   "dca9a09f4c6fa50193e66a37df36b276" : {
+      "english" : "“Stranger, go tell the Spartans that we lie here, obedient to their laws.” \\\\n— Epitaph at Thermopylae for Leonidas and his men (Herodotus, “The Histories”, VII. 228)",
+      "translation" : "„Странче, иди и реци Спартанцима да ми овде лежимо, послушни њиховим законима.“\\\\n- Епитаф у Термопилима за Леониду и његове људе (Херодот, „Историја“, ВИИ. 228)"
+   },
+   "ded39c6205863f9c1edf8ee58be5ee1c" : {
+      "english" : "“The man who runs may fight again.” \\\\n— Menander (“Monosticha”)",
+      "translation" : "„Човек који трчи могао би се поново борити.“\\\\n“Менандер („ Моностицха “)"
+   },
+   "def109e89ff31768eeff2df6b4c7c6f1" : {
+      "english" : "“Future ages will wonder at us, as the present age wonders at us now.” \\\\n— Pericles in his Funeral Oration for Athenians that died in the first year of the war (Thucydides, “History of the Peloponnesian War”, II. 41.5)",
+      "translation" : "„Будућа доба ће нам се чудити, као што се садашње доба чуди нама сада.“\\\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 41.5)"
+   },
+   "e03ffd46b8316367800b79ce2787faeb" : {
+      "english" : "“It was not by taking care of the fields, but of ourselves, that we acquired those fields.” \\\\n— Anaxandridas II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 217a)",
+      "translation" : "„Нисмо бринули о пољима, већ о себи, до тих поља смо дошли.“\\\\n„Анаксандрида ИИ Спартански (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 217а)"
+   },
+   "e0c6a4f6bb01abf40af0c3ff94d59898" : {
+      "english" : "“He \\\\[King Darius] asked who the Athenians were, and, being informed, called for his bow, and placing an arrow on the string, shot upward into the sky, saying, as he let fly the shaft: Grant me, Zeus, to revenge myself on the Athenians!” \\\\n— Herodotus, narrating how the Athenian support for the Ionian revolt caught the wrath of Darius I, the Persian king (“The Histories”, V. 105)",
+      "translation" : "„Он\\\\nКраљ Дариус] упитао је ко су Атињани и, пошто је био обавештен, позвао је свој лук и ставио стрелу на жицу, пао је према горе у небо, рекавши, док је пуштао вратило: Дај ми, Зеус, да се осветим на Атињане! “\\\\[“Херодот, који приповеда како је атинска подршка јонској побуни изазвала гнев Дарија И, персијског краља („ Историја “, В. 105)"
+   },
+   "e1899827a4c93e5689d6b0022d35a316" : {
+      "english" : "“Brasidas, taking his stand on the gangway, fought off from there the multitude of Athenians who converged upon him. And at the outset he slew many as they came at him, but after a while, as numerous missiles assailed him, he suffered many wounds on the front of his body.” \\\\n— Diodorus Siculus, on a brave Spartan at the Battle of Pylos (“The Library of History”, XXII., sec. 62)",
+      "translation" : "„Бразидас је, заузевши своје место на пролазу, одбранио одатле мноштво Атињана који су му се приближили. И на почетку је многе побио док су на њега наилазили, али је након неког времена, док су га нападале бројне ракете, задобио многе ране на предњем делу тела. “\\\\n- Диодор Сикулус, о храбром Спартанцу у битци на Пилосу („Историјска библиотека“, КСКСИИ., сек. 62)"
+   },
+   "e2722ba6015ce35de269d83535ec63af" : {
+      "english" : "“Return with your shield, or on it.” \\\\n— Farewell of Spartan women to their warriors, implying that cowards would throw away their shield in battle to flee (Plutarch, “Moralia”, “Sayings of Spartan Women”, 241f)",
+      "translation" : "„Вратите се са штитом или на њему.“\\\\n„Опроштај спартанских жена од њихових ратника, што подразумева да ће кукавице у борби одбацити свој штит да би побегле (Плутарх,„ Моралија “,„ изреке спартанских жена “, 241 ф)"
+   },
+   "e28bf6be06c40f2a995571efa012698c" : {
+      "english" : "“Your empire is now like a tyranny: it may have been wrong to take it; it is certainly dangerous to let it go.” \\\\n— Pericles, addressing the Athenian assembly after a plague had weakened the city (Thucydides, “History of the Peloponnesian War”, II. 63.3)",
+      "translation" : "„Ваше царство је сада попут тираније: можда је било погрешно узети га; свакако је опасно пустити је. “\\\\n„Перикле, обраћајући се атинској скупштини након што је куга ослабила град (Тукидид,„ Историја Пелопонеског рата “, ИИ. 63.3)"
+   },
+   "e3ddc54d8d311e9d42ca8cb0084bff08" : {
+      "english" : "“He should be inventive, ready to exploit all circumstances, to make a small force appear large and a large one small, to appear absent when close at hand, and within striking distance when a long way off.” \\\\n— Xenophon (“The Cavalry General”, sec. 5)",
+      "translation" : "„Требало би да буде инвентиван, спреман да искористи све околности, да мала сила изгледа велика, а велика мала, да изгледа одсутно кад му је при руци, а на великој удаљености када је то далеко“.\\\\n„Ксенофон („ Коњички генерал “, секција 5)"
+   },
    "e56c7347787346ed6eefde37cae8a76e" : {
       "english" : "“The Roman battle line is hard to break, since it allows every man to fight both individually and collectively; so that a formation can fight in any direction, with the maniples nearest to the point of danger wheeling around to face it.” \\\\n— Polybius (“Histories”, XV. 15)",
       "translation" : "„Римску борбену линију је тешко пробити, јер омогућава сваком човеку да се бори појединачно и колективно; тако да се формација може борити у било ком смеру, са манипулима најближим тачки опасности који се окрећу око ње. “\\\\n„Полибије („ Историја “, КСВ. 15)"
    },
+   "ea83b5ccaa6f0fa507cd97ee3d7dc242" : {
+      "english" : "“Hannibal gave the signal for attack; and at the same time sent orders to the troops lying in ambush on the hills to do the same, and thus delivered an assault upon the enemy at every point at once.” \\\\n— Polybius on the beginning of a Roman disaster at the Trasymene Lake (“Histories”, III. 84)",
+      "translation" : "„Ханибал је дао знак за напад; и у исто време послао наређења трупама које су заседале на брдима да учине исто, и тако извршиле напад на непријатеља у сваком тренутку одједном. “\\\\n- Полибије на почетку римске катастрофе на језеру Трасимене („Историја“, ИИИ, 84)"
+   },
+   "eadcf9cee4531441d69b032939d17b5c" : {
+      "english" : "“After fighting from noon almost to sunset, with victory doubtful, the Germans, on one side charged the enemy in a compact body, and drove them back; and, when they were put to flight, the archers were surrounded and cut to pieces.” \\\\n— Caesar about the Battle of Alesia (“De Bello Gallico”, VII. 80)",
+      "translation" : "Асабра БактриА¡\\\\nАсабра БактриА¡"
+   },
+   "ec56bc4c586744e1362c608dddc05dcc" : {
+      "english" : "Select a random landscape.",
+      "translation" : "Изаберите насумични пејзаж."
+   },
+   "ef301f2cc76d824de1b5da121a8286e9" : {
+      "english" : "“You must be brave and discard all hopes of anything but victory or death.” \\\\n— Hannibal, addressing his troops (Livy, “History of Rome”, XXI. 44)",
+      "translation" : "„Морате бити храбри и одбацити све наде у било шта осим у победу или смрт.“\\\\n“Ханибал, обраћајући се својим трупама (Ливије,„ Историја Рима “, КСКСИ. 44)"
+   },
+   "efe898af3423c1ccfa7afeb444e4fd02" : {
+      "english" : "“The greatest glory is won from the greatest dangers. When our fathers faced the Persians their resources could not compare to ours. In fact, they gave up even what they had. Then by wise counsels and daring deeds, not fortune and material advantages, they drove out the invaders and made our city what it is now.” \\\\n— Pericles (Thucydides, “History of the Peloponnesian War”, I. 144.3–4)",
+      "translation" : "„Највећа слава се осваја највећим опасностима. Када су се наши очеви суочили са Персијанцима, њихови ресурси се нису могли упоредити са нашим. У ствари, одрекли су се чак и онога што су имали. Затим су мудрим саветима и смелим делима, а не богатством и материјалним предностима, истерали освајаче и учинили наш град оваквим какав је сада. “\\\\n„Перикле (Тукидид,„ Историја Пелопонеског рата “, И. 144,3–4)"
+   },
+   "f02371c7598f05ee426ae32f3d681f3f" : {
+      "english" : "“They \\\\[the Romans] want the centurions not so much to be adventurous and daredevils, as to be natural leaders, of a steady and reliable spirit. They do not so much want men who will initiate attacks and open the battle, but men who will hold their ground when beaten and hard-pressed, and will be ready to die at their posts.” \\\\n— Polybius (“Histories”, VI. 24)",
+      "translation" : "„Они\\\\nРимљани] желе да центуриони не буду толико авантуристички и смели, колико природни вође, постојаног и поузданог духа. Они не желе толико људе који ће покренути нападе и отворити битку, већ мушкарце који ће остати при свом месту када буду претучени и под притиском, и који ће бити спремни да умру на својим положајима. “\\\\[„Полибије („ Историја “, ВИ. 24)"
+   },
+   "f17595c29d429ecd2c60429760fc1e9d" : {
+      "english" : "“Let the welfare of the people be the ultimate law.” \\\\n— Cicero (“On the Laws”, III., sec. 3)",
+      "translation" : "„Нека добробит људи буде крајњи закон.“\\\\n“Цицерон („ У законима “, ИИИ., одељак 3)"
+   },
+   "f20fde3405f311db9e30729b993e9093" : {
+      "english" : "Show the multiplayer lobby in a dialog window.",
+      "translation" : "Прикажите предворје за више играча у прозору за дијалог."
+   },
+   "f356a48c516ec39c20c5edb739d3cb1e" : {
+      "english" : "“I call a fig a fig, a spade a spade.” \\\\n— Menander (fragment 545 K)",
+      "translation" : "„Ја смокву називам смоквом, а лопату правим именом.“\\\\n- Менандер (фрагмент 545 К)"
+   },
+   "f3ebb2479103efbd1e0b6327ce7fbaca" : {
+      "english" : "“I came, I saw, I conquered.” \\\\n— Caesar, after routing Pharnaces II of Pontus in the first assault (Plutarch, “Parallel Lives”, “Caesar”, sec. 50)",
+      "translation" : "„Дошао сам, видео сам, победио.“\\\\n„Цезар, након што је у првом нападу преусмерио Пхарнацеа ИИ од Понта (Плутарх,„ Паралелни животи “,„ Цезар “, секција 50)"
+   },
+   "f43f282e51ac9d7f865ebf02489a0908" : {
+      "english" : "“Happiness depends on leisure; for we are busy to have leisure, and make war to live in peace.” \\\\n— Aristotle (“Nicomachean Ethics”, X. 1177b.4)",
+      "translation" : "„Срећа зависи од слободног времена; јер смо заузети слободом и ратујемо да бисмо живели у миру. “\\\\n“Аристотел („ Никомаховска етика “, Кс. 1177б.4)"
+   },
+   "f7756044cf821d294f2be723ccf9e37f" : {
+      "english" : "“Prepared for either alternative.” \\\\n— Virgil (“Aeneid”, II. 61)",
+      "translation" : "„Припремљен за било коју алтернативу.“\\\\n„Вергилије („ Енеида “, ИИ. 61)"
+   },
+   "f78ee5463605789b054692741e72b272" : {
+      "english" : "“The man who wants that must be scheming and cunning, wily and deceitful, a thief and a robber, overreaching the enemy at every point.” \\\\n— Xenophon on how best to gain advantage over the enemy (“The Education of Cyrus”, 1.6.26)",
+      "translation" : "„Човек који то жели мора да је сплеткаран и лукав, лукав и лажљив, лопов и разбојник, надмашујући непријатеља у сваком тренутку.“\\\\n- Ксенофон о томе како најбоље стећи предност над непријатељем („Образовање Кира“, 1.6.26)"
+   },
+   "f794827ee83443e18adf17fc04e9571f" : {
+      "english" : "“Anger is a momentary madness, so control your passion or it will control you.” \\\\n— Horace (“Epistles”, epistle II., 62)",
+      "translation" : "„Љутња је тренутно лудило, па контролишите своју страст или ће она контролисати вас“\\\\n“Хорације („ Посланице “, посланица ИИ., 62)"
+   },
    "f924e9c20662be8a661f47d6d5a161a0" : {
       "english" : "“We accepted an empire that was offered to us and refused to give it up under the pressure of three of the strongest motives: fear, honor and interest. It was not we who set the example, for it has always been the law that the weak should be subject to the strong.” \\\\n— Speech of an Athenian embassy in Sparta (Thucydides, “History of the Peloponnesian War”, I. 76.2)",
       "translation" : "„Прихватили смо царство које нам је понуђено и одбили смо да га се одрекнемо под притиском три најјача мотива: страха, части и интереса. Нисмо ми били ти који смо дали пример, јер је увек био закон да слаби треба да буду подложни јаким. “\\\\n„Говор атинске амбасаде у Спарти (Тукидид,„ Историја Пелопонеског рата “, И. 76.2)"
+   },
+   "fbfeea429760224f9cf730aeab973377" : {
+      "english" : "“Brave men are made bolder by ordeals, but cowards achieve nothing.” \\\\n— Euripides (“Iphigenia in Tauris”)",
+      "translation" : "„Храбри људи искушења постају храбрији, али кукавице ништа не постижу.“\\\\n„Еурипид („ Ифигенија у Таурису “)"
    }
 }

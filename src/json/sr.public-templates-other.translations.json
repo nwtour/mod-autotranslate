@@ -19,13 +19,25 @@
       "english" : "Infantry Hoplites only, requires at least 10.",
       "translation" : "Само за пешадијске хоплите, потребно је најмање 10."
    },
+   "0b77ab9a52c5b7a74f12984d2089f1ed" : {
+      "english" : "Acacia",
+      "translation" : "Багрем"
+   },
    "0bf9eae94b7e79462e05d88b698d8a86" : {
       "english" : "Holly Oak",
       "translation" : "Холли Оак"
    },
+   "0c5202facb047b90740bd206548f894f" : {
+      "english" : "Black Pine",
+      "translation" : "Црни бор"
+   },
    "119b5c90048fca49f07caca33e09e1f8" : {
       "english" : "Oryctolagus cuniculus",
       "translation" : "Орицтолагус цуницулус"
+   },
+   "12d3ae4231ac806cd84bfce429011b5c" : {
+      "english" : "This unit causes fire damage.",
+      "translation" : "Ова јединица узрокује оштећења од пожара."
    },
    "1304d7d24a2bc96d983aac8e7ac83df6" : {
       "english" : "Fir Sapling",
@@ -123,6 +135,10 @@
       "english" : "Doum Palm",
       "translation" : "Доум Палм"
    },
+   "356d0bb522c7347b9aaf493239879e80" : {
+      "english" : "African Bush Elephant Calf",
+      "translation" : "Афричко грмово слоново теле"
+   },
    "35d550cf7bbfa82c602ea610b434a01d" : {
       "english" : "Prickly Juniper",
       "translation" : "Бодљикава клека"
@@ -190,6 +206,10 @@
    "550c153b2bfc46932fa141ba2e4d82fc" : {
       "english" : "Tamarix",
       "translation" : "Тамарик"
+   },
+   "5787972b6c560fc9f3ba9edd999f29c0" : {
+      "english" : "Giraffa camelopardalis",
+      "translation" : "Гираффа цамелопардалис"
    },
    "598dc6cac8e88fcb24b8947ff0c8566e" : {
       "english" : "Cypress",
@@ -275,6 +295,10 @@
       "english" : "Apply Status",
       "translation" : "Примени статус"
    },
+   "87955c61a94a81ec193e83aeaac05500" : {
+      "english" : "Capra aegagrus hircus",
+      "translation" : "Цапра аегагрус хирцус"
+   },
    "8bb954075e196f2e2677c6ebcd865b55" : {
       "english" : "Camelus dromedarius",
       "translation" : "Цамелус дромедариус"
@@ -311,6 +335,10 @@
       "english" : "Rainforest Tree",
       "translation" : "Раинфорест Трее"
    },
+   "92c21511d7b383b2f8ba5b00c3c9a473" : {
+      "english" : "Bull",
+      "translation" : "Бик"
+   },
    "92daffd63b323c15abc88f2e3dbf19d5" : {
       "english" : "Catch fish for food.",
       "translation" : "Уловите рибу за храну."
@@ -334,6 +362,10 @@
    "9b65b2946554dd354229da9fc6e18bc4" : {
       "english" : "Toona",
       "translation" : "Тоона"
+   },
+   "9c98f05500930bb193517f10381aad32" : {
+      "english" : "Mastiff",
+      "translation" : "Мастиф"
    },
    "9cc2cf983074a34743824b3845e1d711" : {
       "english" : "Panthera tigris",
@@ -367,9 +399,17 @@
       "english" : "Tuna",
       "translation" : "Туна"
    },
+   "a8f81c7e3fec6ee829a29114d6270018" : {
+      "english" : "Cut Granite",
+      "translation" : "Исеците гранит"
+   },
    "aa4f333e8a7c4cc2a34e232c5be41c3f" : {
       "english" : "Hippopotamus",
       "translation" : "Нилски коњ"
+   },
+   "af0e92b06f96f76f7bb198b1e3d507e6" : {
+      "english" : "Zebu",
+      "translation" : "Зебу"
    },
    "b14320ecf6ed6b6132bcbc3da7aec128" : {
       "english" : "Ammon-Ra Ram Statue",
@@ -386,6 +426,10 @@
    "b487954a73c6b82bc42c176879e97d7f" : {
       "english" : "Apademak Lion Statue",
       "translation" : "Статуа лава Ападемак"
+   },
+   "b57e23375f94d30d3828cad4da24ad25" : {
+      "english" : "Equus ferus caballus",
+      "translation" : "Екуус ферус цабаллус"
    },
    "b5ac3ede152b71b9fb66975de8cbfd3f" : {
       "english" : "Tilapia",
@@ -431,6 +475,10 @@
       "english" : "Odobenus rosmarus",
       "translation" : "Одобенус росмарус"
    },
+   "c6483dcee4c2a7485e7b57eec8c2f7dd" : {
+      "english" : "Bos taurus africanus",
+      "translation" : "Бос таурус африцанус"
+   },
    "c7c8bb1ab6a7065ff39eb1a0ad160d21" : {
       "english" : "Loxodonta africana",
       "translation" : "Локодонта африцана"
@@ -450,6 +498,10 @@
    "d024c4b25bf0efa628dced70e3d8f1a6" : {
       "english" : "Asian Elephant Calf",
       "translation" : "Азијско теле слона"
+   },
+   "d0779e113226d1aa022105a3c77ac9c3" : {
+      "english" : "Black Bear",
+      "translation" : "Црни медвед"
    },
    "d080757314974eaea4984ee96ffdeeb9" : {
       "english" : "Shrine",
@@ -539,6 +591,10 @@
       "english" : "African Forest Elephant",
       "translation" : "Афрички шумски слон"
    },
+   "f1aa20219ce4ea234f16be08b32dd1b3" : {
+      "english" : "Black Poplar",
+      "translation" : "Црна топола"
+   },
    "f2b6dcdc344bf345a187b3c6c19af47e" : {
       "english" : "Oak",
       "translation" : "храст"
@@ -558,6 +614,14 @@
    "f911a8314b4f0ee622ff0b85ebaebdcd" : {
       "english" : "Damage caused by sharp pointy objects, like arrows or spears.",
       "translation" : "Оштећења изазвана оштрим шиљатим предметима, попут стрела или копља."
+   },
+   "f9e60310547a7e62c3f22a952dcbcde7" : {
+      "english" : "Areca Palm",
+      "translation" : "Ареца Палм"
+   },
+   "fa4543063c32652d93dff5ff09898ab1" : {
+      "english" : "Trunk",
+      "translation" : "Трунк"
    },
    "fbc4165a61aec526acfee08aa37970ef" : {
       "english" : "Quarry rock for stone.",

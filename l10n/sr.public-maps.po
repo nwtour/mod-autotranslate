@@ -143,7 +143,7 @@ msgstr ""
 
 #: maps/random/belgian_uplands.jsonsettings.Name
 msgid "Belgian Uplands"
-msgstr ""
+msgstr "(*) Белгиан Упландс"
 
 #: maps/random/botswanan_haven.jsonsettings.Description
 msgid ""
@@ -155,7 +155,7 @@ msgstr ""
 
 #: maps/random/botswanan_haven.jsonsettings.Name
 msgid "Botswanan Haven"
-msgstr ""
+msgstr "(*) Боцвана Хавен"
 
 #: maps/random/caledonian_meadows.jsonsettings.Description
 msgid ""
@@ -166,7 +166,7 @@ msgstr ""
 
 #: maps/random/caledonian_meadows.jsonsettings.Name
 msgid "Caledonian Meadows"
-msgstr ""
+msgstr "(*) Цаледониан Меадовс"
 
 #: maps/random/cantabrian_highlands.jsonsettings.Description
 msgid ""
@@ -230,7 +230,7 @@ msgstr "Кикладски архипелаг"
 
 #: maps/random/danubius.jsonsettings.Daytime[0].Description
 msgid "Bright daylight illuminates the scene."
-msgstr ""
+msgstr "(*) Јарко дневно светло осветљава сцену."
 
 #: maps/random/danubius.jsonsettings.Daytime[0].Name
 msgid "Day"
@@ -238,7 +238,7 @@ msgstr "Дан"
 
 #: maps/random/danubius.jsonsettings.Daytime[1].Description
 msgid "Attackers are covered by the darkness of the night."
-msgstr ""
+msgstr "(*) Нападаче прекрива ноћна тама."
 
 #: maps/random/danubius.jsonsettings.Daytime[1].Name
 msgid "Night"
@@ -291,7 +291,7 @@ msgstr ""
 
 #: maps/random/elephantine.jsonsettings.Name
 msgid "Elephantine"
-msgstr ""
+msgstr "(*) Елепхантине"
 
 #: maps/random/empire.jsonsettings.Description
 msgid ""
@@ -322,23 +322,23 @@ msgstr ""
 
 #: maps/random/extinct_volcano.jsonsettings.Name
 msgid "Extinct Volcano"
-msgstr ""
+msgstr "(*) Изумрли вулкан"
 
 #: maps/random/extinct_volcano_triggers.js:59
 msgid "It keeps on raining, we will have to evacuate soon!"
-msgstr ""
+msgstr "(*) Киша и даље пада, ускоро ћемо се морати евакуисати!"
 
 #: maps/random/extinct_volcano_triggers.js:60
 msgid "The rivers are standing high, we need to find a safe place!"
-msgstr ""
+msgstr "(*) Реке стоје високо, морамо пронаћи сигурно место!"
 
 #: maps/random/extinct_volcano_triggers.js:61
 msgid "We have to find dry ground, our lands will drown soon!"
-msgstr ""
+msgstr "(*) Морамо пронаћи суво тло, наше земље ће се ускоро утопити!"
 
 #: maps/random/extinct_volcano_triggers.js:62
 msgid "The lakes start swallowing the land, we have to find shelter!"
-msgstr ""
+msgstr "(*) Асабра БактриА¡"
 
 #: maps/random/fields_of_meroe.jsonsettings.Description
 msgid ""
@@ -351,7 +351,7 @@ msgstr ""
 
 #: maps/random/fields_of_meroe.jsonsettings.Name
 msgid "Fields of Meroë"
-msgstr ""
+msgstr "(*) Поља Мероа «"
 
 #: maps/random/flood.jsonsettings.Description
 msgid ""
@@ -381,11 +381,11 @@ msgstr "Граница"
 
 #: maps/random/gear.jsonsettings.Description
 msgid "A land with waterways decorated in a manner similar to spider web."
-msgstr ""
+msgstr "(*) Земља са воденим путевима уређена на начин сличан пауковој мрежи."
 
 #: maps/random/gear.jsonsettings.Name
 msgid "Gear"
-msgstr ""
+msgstr "(*) Геар"
 
 #: maps/random/guadalquivir_river.jsonsettings.Description
 msgid ""
@@ -432,7 +432,7 @@ msgstr ""
 
 #: maps/random/hellas.jsonsettings.Name
 msgid "Hellas"
-msgstr ""
+msgstr "(*) Хеллас"
 
 #: maps/random/hells_pass.jsonsettings.Description
 msgid ""
@@ -500,16 +500,16 @@ msgstr ""
 
 #: maps/random/jebel_barkal.jsonsettings.Name
 msgid "Jebel Barkal"
-msgstr ""
+msgstr "(*) Јебел Баркал"
 
 #: maps/random/jebel_barkal_triggers.js:592
 msgid "Napata is attacking!"
-msgstr ""
+msgstr "(*) Напата напада!"
 
 #: maps/random/jebel_barkal_triggers.js:602
 #, javascript-format
 msgid "Napata will attack in %(time)s!"
-msgstr ""
+msgstr "(*) Напата ће напасти %(time)s !"
 
 #: maps/random/kerala.jsonsettings.Description
 msgid ""
@@ -573,7 +573,7 @@ msgstr ""
 
 #: maps/random/lower_nubia.jsonsettings.Name
 msgid "Lower Nubia"
-msgstr ""
+msgstr "(*) Доња Нубија"
 
 #: maps/random/mainland.jsonsettings.Description
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[8].Description
@@ -599,7 +599,7 @@ msgstr ""
 
 #: maps/random/marmara.jsonsettings.Name
 msgid "Marmara"
-msgstr ""
+msgstr "(*) Мармара"
 
 #: maps/random/mediterranean.jsonsettings.Description
 msgid ""
@@ -659,7 +659,7 @@ msgstr ""
 
 #: maps/random/ngorongoro.jsonsettings.Name
 msgid "Ngorongoro"
-msgstr ""
+msgstr "(*) Нгоронгоро"
 
 #: maps/random/northern_lights.jsonsettings.Description
 msgid ""
@@ -704,19 +704,19 @@ msgstr "Феничански Левант"
 
 #: maps/random/polar_sea.jsonsettings.Daytime[0].Description
 msgid "Scattered sunlight illuminates the scenery in a vivid red tone."
-msgstr ""
+msgstr "(*) Раштркана сунчева светлост осветљава пејзаж живописним црвеним тоном."
 
 #: maps/random/polar_sea.jsonsettings.Daytime[0].Name
 msgid "Dawn"
-msgstr ""
+msgstr "(*) Давн"
 
 #: maps/random/polar_sea.jsonsettings.Daytime[1].Description
 msgid "The scenery is illuminated by direct or indirect sunlight."
-msgstr ""
+msgstr "(*) Пејзаж је осветљен директном или индиректном сунчевом светлошћу."
 
 #: maps/random/polar_sea.jsonsettings.Daytime[1].Name
 msgid "Daylight"
-msgstr ""
+msgstr "(*) Дневно светло"
 
 #: maps/random/polar_sea.jsonsettings.Description
 msgid ""
@@ -756,7 +756,7 @@ msgstr "Високе планине раздвајају непријатеље.
 
 #: maps/random/pyrenean_sierra.jsonsettings.Name
 msgid "Pyrenean Sierra"
-msgstr ""
+msgstr "(*) Пиренејска Сијера"
 
 #: maps/random/ratumacos.jsonsettings.Description
 msgid ""
@@ -769,7 +769,7 @@ msgstr ""
 
 #: maps/random/ratumacos.jsonsettings.Name
 msgid "Ratumacos"
-msgstr ""
+msgstr "(*) Ратумацос"
 
 #: maps/random/red_sea.jsonsettings.Description
 msgid ""
@@ -847,7 +847,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/aegean.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Aegean-Anatolian"
-msgstr ""
+msgstr "(*) Егејско-анатолијски"
 
 #: maps/random/rmbiome/generic/alpine.jsonDescription.Description
 msgctxt "biome definition"
@@ -861,7 +861,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/alpine.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Subalpine"
-msgstr ""
+msgstr "(*) Субалпине"
 
 #: maps/random/rmbiome/generic/arctic.jsonDescription.Description
 msgctxt "biome definition"
@@ -874,7 +874,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/arctic.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Arctic"
-msgstr ""
+msgstr "(*) Арктик"
 
 #: maps/random/rmbiome/generic/autumn.jsonDescription.Description
 msgctxt "biome definition"
@@ -888,7 +888,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/autumn.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Rhine Valley (Fall)"
-msgstr ""
+msgstr "(*) Долина Рајне (јесен)"
 
 #: maps/random/rmbiome/generic/india.jsonDescription.Description
 msgctxt "biome definition"
@@ -915,7 +915,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/nubia.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Nubia"
-msgstr ""
+msgstr "(*) Нубиа"
 
 #: maps/random/rmbiome/generic/sahara.jsonDescription.Description
 msgctxt "biome definition"
@@ -928,7 +928,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/sahara.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Sahara"
-msgstr ""
+msgstr "(*) Сахара"
 
 #: maps/random/rmbiome/generic/savanna.jsonDescription.Description
 msgctxt "biome definition"
@@ -942,7 +942,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/savanna.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Sudanian Savanna"
-msgstr ""
+msgstr "(*) Суданска савана"
 
 #: maps/random/rmbiome/generic/steppe.jsonDescription.Description
 msgctxt "biome definition"
@@ -955,7 +955,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/steppe.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Eurasian Steppe"
-msgstr ""
+msgstr "(*) Евроазијска степа"
 
 #: maps/random/rmbiome/generic/temperate.jsonDescription.Description
 msgctxt "biome definition"
@@ -969,7 +969,7 @@ msgstr ""
 #: maps/random/rmbiome/generic/temperate.jsonDescription.Title
 msgctxt "biome definition"
 msgid "Temperate"
-msgstr ""
+msgstr "(*) умерена"
 
 #: maps/random/rmbiome/gulf_of_bothnia/frozen_lake.jsonDescription.Description
 msgctxt "biome definition"
@@ -1082,7 +1082,7 @@ msgstr ""
 
 #: maps/random/scythian_rivulet.jsonsettings.Name
 msgid "Scythian Rivulet"
-msgstr ""
+msgstr "(*) Скитска река"
 
 #: maps/random/snowflake_searocks.jsonsettings.Description
 msgid "Many small islands connected to each other by narrow passages."
@@ -1090,7 +1090,7 @@ msgstr "Многобројна мала острва повезана уским
 
 #: maps/random/snowflake_searocks.jsonsettings.Name
 msgid "Snowflake Searocks"
-msgstr ""
+msgstr "(*) Сновфлаке Сеароцкс"
 
 #: maps/random/stronghold.jsonsettings.Description
 msgid ""
@@ -1126,11 +1126,11 @@ msgstr "Талас непријатеља напада!"
 #: maps/random/survivalofthefittest_triggers.js:292
 #, javascript-format
 msgid "%(player)s has been defeated (lost civic center)."
-msgstr ""
+msgstr "(*) %(player)s је поражен (изгубљен грађански центар)."
 
 #: maps/random/syria.jsonsettings.Description
 msgid "Players start in a plains with slightly rolling highlands."
-msgstr ""
+msgstr "(*) Играчи почињу у равницама са благо котрљајућим висоравнима."
 
 #: maps/random/syria.jsonsettings.Name
 msgid "Syria"
@@ -1152,7 +1152,7 @@ msgstr "Непознат."
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Description
 msgid "Choose a random land landscape"
-msgstr ""
+msgstr "(*) Одаберите насумични пејзаж земље"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[1].Description
 #: maps/skirmishes/corinthian_isthmus_2p.xml:Description:38
@@ -1164,15 +1164,15 @@ msgstr "Две медитеранске копнене масе повезане
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[1].Name
 msgid "Isthmus"
-msgstr ""
+msgstr "(*) Истхмус"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[2].Description
 msgid "A small central river."
-msgstr ""
+msgstr "(*) Мала централна река."
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[2].Name
 msgid "Central River"
-msgstr ""
+msgstr "(*) Централна река"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[3].Description
 msgid ""
@@ -1182,23 +1182,23 @@ msgstr ""
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[3].Name
 msgid "Edge Seas"
-msgstr ""
+msgstr "(*) Едге Сеас"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[4].Description
 msgid "Land shaped like a concrescent moon around a central lake."
-msgstr ""
+msgstr "(*) Земљиште у облику полумјесеца око централног језера."
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[4].Name
 msgid "Gulf"
-msgstr ""
+msgstr "(*) Гулф"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[5].Description
 msgid "Mainland style with some small random lakes."
-msgstr ""
+msgstr "(*) Копнени стил са неким малим насумичним језерима."
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[5].Name
 msgid "Lakes"
-msgstr ""
+msgstr "(*) Језера"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[6].Description
 msgid ""
@@ -1208,7 +1208,7 @@ msgstr ""
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[6].Name
 msgid "Passes"
-msgstr ""
+msgstr "(*) Пролази"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[7].Description
 msgid ""
@@ -1218,43 +1218,43 @@ msgstr ""
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Items[7].Name
 msgid "Lowlands"
-msgstr ""
+msgstr "(*) Низије"
 
 #: maps/random/unknown.jsonsettings.Landscapes[0].Name
 msgid "Random Land"
-msgstr ""
+msgstr "(*) Рандом Ланд"
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Description
 msgid "Choose a random naval landscape"
-msgstr ""
+msgstr "(*) Одаберите случајни поморски пејзаж"
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[0].Description
 msgid "A huge sea is dividing the map into two halves."
-msgstr ""
+msgstr "(*) Огромно море дели карту на две половине."
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[0].Name
 msgid "Naval: Central Sea"
-msgstr ""
+msgstr "(*) Морнарица: Централно море"
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[1].Description
 msgid "Players are scattered across island chains and disconnected islands."
-msgstr ""
+msgstr "(*) Играчи су разбацани по острвским ланцима и неповезаним острвима."
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[1].Name
 msgid "Naval: Archipelago"
-msgstr ""
+msgstr "(*) Морнарица: Архипелаг"
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[2].Description
 msgid "A central lake with rivers possibly separating neighboring players."
-msgstr ""
+msgstr "(*) Централно језеро са рекама које вероватно раздвајају суседне играче."
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Items[2].Name
 msgid "Naval: Lake and rivers"
-msgstr ""
+msgstr "(*) Поморски: Језеро и реке"
 
 #: maps/random/unknown.jsonsettings.Landscapes[1].Name
 msgid "Random Naval"
-msgstr ""
+msgstr "(*) Рандом Навал"
 
 #: maps/random/unknown.jsonsettings.Name
 msgid "Unknown"
@@ -1280,7 +1280,7 @@ msgstr "Зидине - демо"
 
 #: maps/random/wild_lake.jsonsettings.Description
 msgid "A lake surrounded by hills."
-msgstr ""
+msgstr "(*) Језеро окружено брдима."
 
 #: maps/random/wild_lake.jsonsettings.Name
 msgid "Wild Lake"
@@ -1527,19 +1527,19 @@ msgstr "Мапа кампање - Тест"
 
 #: maps/scenarios/cinema_demo.js:6
 msgid "Cutscene starts after 5 seconds"
-msgstr ""
+msgstr "(*) Цутсцене почиње након 5 секунди"
 
 #: maps/scenarios/cinema_demo.xml:Description:39
 msgid "Demo map for cinematic camera movements."
-msgstr ""
+msgstr "(*) Демо карта за покрете кинематографских камера."
 
 #: maps/scenarios/cinema_demo.xml:Name:39
 msgid "Cinema Demo"
-msgstr ""
+msgstr "(*) Цинема Демо"
 
 #: maps/scenarios/cinema_demo.xml:PlayerData[1].Name:39
 msgid "Xerxes I"
-msgstr ""
+msgstr "(*) Ксеркс И"
 
 #: maps/scenarios/cinema_demo.xml:PlayerData[2].Name:39
 msgid "You"
@@ -1658,7 +1658,7 @@ msgstr "Златна грозница"
 
 #: maps/scenarios/gorge.xml:Description:26
 msgid "A riparian gorge meanders its way through the South lands of Gaul."
-msgstr ""
+msgstr "(*) Обалска клисура вијуга својим путем кроз јужне земље Галије."
 
 #: maps/scenarios/gorge.xml:Name:26
 msgid "Gorge"
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: maps/scenarios/napata_reconstruction.xml:Name:39
 msgid "Napata Reconstruction"
-msgstr ""
+msgstr "(*) Реконструкција Напата"
 
 #: maps/scenarios/necropolis.xml:Description:38
 msgid ""
@@ -1733,7 +1733,7 @@ msgstr "Мапа за тестирање алгоритма кретања је�
 
 #: maps/scenarios/pathfinding_demo.xml:Name:38
 msgid "Pathfinding Demo"
-msgstr ""
+msgstr "(*) Патхфиндинг Демо"
 
 #: maps/scenarios/pathfinding_terrain_demo.xml:Description:26
 msgid ""
@@ -1743,11 +1743,11 @@ msgstr ""
 
 #: maps/scenarios/pathfinding_terrain_demo.xml:Name:26
 msgid "Pathfinding Terrain Demo"
-msgstr ""
+msgstr "(*) Патхфиндинг Терраин Демо"
 
 #: maps/scenarios/peloponnese.xml:Description:38
 msgid "A real-world map of the Greek homeland."
-msgstr ""
+msgstr "(*) Мапа стварног света грчке домовине."
 
 #: maps/scenarios/peloponnese.xml:Name:38
 msgid "Peloponnesian Wars"
@@ -1777,7 +1777,7 @@ msgstr ""
 
 #: maps/scenarios/pickup_test_map.xml:Name:39
 msgid "Pickup test map"
-msgstr ""
+msgstr "(*) Мапа тестирања преузимања"
 
 #: maps/scenarios/polynesia.xml:Description:39
 msgid "Demo map for new fancy water effects."
@@ -1797,7 +1797,7 @@ msgstr "Вануату"
 
 #: maps/scenarios/reservoir.xml:Description:26
 msgid "A demo showing water planes."
-msgstr ""
+msgstr "(*) Демо који приказује водене авионе."
 
 #: maps/scenarios/reservoir.xml:Name:26
 msgid "Reservoir"
@@ -1813,11 +1813,11 @@ msgstr "Демо - Ресурси"
 
 #: maps/scenarios/road_demo.xml:Description:26
 msgid "Demo map showcasing Temperate Road decals."
-msgstr ""
+msgstr "(*) Демо мапа која приказује налепнице за Умерени пут."
 
 #: maps/scenarios/road_demo.xml:Name:26
 msgid "Road Decals Demo"
-msgstr ""
+msgstr "(*) Роад Децалс Демо"
 
 #: maps/scenarios/saharan_oases.xml:Description:26
 msgid ""
@@ -1834,7 +1834,7 @@ msgstr "Ситуирано на јужној страни планиског в�
 
 #: maps/scenarios/sahel.xml:PlayerData[0].Name:38
 msgid "Aulus Manlius Capitolinus"
-msgstr ""
+msgstr "(*) Аулус Манлиус Цапитолинус"
 
 #: maps/scenarios/sahel.xml:PlayerData[1].Name:38
 msgid "Hasdrubal the Fair"
@@ -1842,11 +1842,11 @@ msgstr "Хаздрубал Лепи"
 
 #: maps/scenarios/sahel.xml:PlayerData[2].Name:38
 msgid "Artaxshacha II"
-msgstr ""
+msgstr "(*) Артаксхацха ИИ"
 
 #: maps/scenarios/sahel.xml:PlayerData[3].Name:38
 msgid "Tautalus"
-msgstr ""
+msgstr "(*) Тауталус"
 
 #: maps/scenarios/sandbox_athenians.xml:Description:38
 msgid ""
@@ -1926,11 +1926,11 @@ msgstr "Sandbox - Иберци"
 
 #: maps/scenarios/sandbox_kushites.xml:Description:39
 msgid "Play the Kushites faction in a non-threatening sandbox scenario."
-msgstr ""
+msgstr "(*) Играјте фракцију Кусхитес у сценарију песковника који није претећи."
 
 #: maps/scenarios/sandbox_kushites.xml:Name:39
 msgid "Sandbox - The Kushites"
-msgstr ""
+msgstr "(*) Пешчаник - Кушите"
 
 #: maps/scenarios/sandbox_kushites.xml:PlayerData[1].Name:39
 msgid "Kushites"
@@ -1955,11 +1955,11 @@ msgstr "Македонци"
 
 #: maps/scenarios/sandbox_mauryas.xml:Description:38
 msgid "Mauryan Indian faction showcase map."
-msgstr ""
+msgstr "(*) Мапа излога индијске фракције Мауриан."
 
 #: maps/scenarios/sandbox_mauryas.xml:Name:38
 msgid "Sandbox - The Mauryas"
-msgstr ""
+msgstr "(*) Пешчаник - Мауриас"
 
 #: maps/scenarios/sandbox_mauryas.xml:PlayerData[0].Name:38
 msgid "Mauryan Indians"
@@ -1996,7 +1996,7 @@ msgstr "Ptolemaios A' Soter"
 
 #: maps/scenarios/sandbox_ptolemies.xml:PlayerData[1].Name:38
 msgid "Kautilya"
-msgstr ""
+msgstr "(*) Каутилиа"
 
 #: maps/scenarios/sandbox_ptolemies_02.xml:Description:38
 msgid ""
@@ -2086,7 +2086,7 @@ msgstr "Персија"
 
 #: maps/scenarios/ship_formations.xml:Description:26
 msgid "Ship formations mockup."
-msgstr ""
+msgstr "(*) Макета бродских формација."
 
 #: maps/scenarios/ship_formations.xml:Name:26
 msgid "Ship Formations"
@@ -2116,7 +2116,7 @@ msgstr "Оаза Сива"
 
 #: maps/scenarios/temperate_map.xml:Name:26
 msgid "Base Temperate Map"
-msgstr ""
+msgstr "(*) База умјерене карте"
 
 #: maps/scenarios/territory_demo.xml:Description:26
 msgid "A demo map showing the territory effects of each type of structure."
@@ -2134,7 +2134,7 @@ msgstr ""
 
 #: maps/scenarios/test_foundation.xml:Name:39
 msgid "Foundation Testing Map"
-msgstr ""
+msgstr "(*) Мапа тестирања темеља"
 
 #: maps/scenarios/the_massacre_of_delphi.xml:Description:38
 msgid ""
@@ -2303,15 +2303,15 @@ msgstr ""
 
 #: maps/scenarios/unit_chasing_test.xml:Name:40
 msgid "Unit Chasing test"
-msgstr ""
+msgstr "(*) Тест јурњаве јединице"
 
 #: maps/scenarios/unit_dancing_test.xml:Description:40
 msgid "This map is designed to test a few different cases of 'Dancing'."
-msgstr ""
+msgstr "(*) Ова мапа је дизајнирана да тестира неколико различитих случајева 'плеса'."
 
 #: maps/scenarios/unit_dancing_test.xml:Name:40
 msgid "Unit Dancing test"
-msgstr ""
+msgstr "(*) Јединствени плесни тест"
 
 #: maps/scenarios/unit_motion_integration_test.xml:Description:39
 msgid ""
@@ -2323,7 +2323,7 @@ msgstr ""
 
 #: maps/scenarios/unit_motion_integration_test.xml:Name:39
 msgid "Unit Motion Integration Test"
-msgstr ""
+msgstr "(*) Тест интеграције кретања јединице"
 
 #: maps/scenarios/unit_pushing_test.xml:Description:40
 msgid ""
@@ -2333,7 +2333,7 @@ msgstr ""
 
 #: maps/scenarios/unit_pushing_test.xml:Name:40
 msgid "Unit Pushing test"
-msgstr ""
+msgstr "(*) Тест притиска јединице"
 
 #: maps/scenarios/units_demo.xml:Description:27
 msgid "Every unit in the game."
@@ -2357,7 +2357,7 @@ msgstr "Тест зидина"
 
 #: maps/scenarios/we_are_legion.xml:Description:26
 msgid "A quick battle demo map using Roman legionaries."
-msgstr ""
+msgstr "(*) Брза демо мапа битке помоћу римских легионара."
 
 #: maps/scenarios/we_are_legion.xml:Name:26
 msgid "We Are Legion"
@@ -2373,17 +2373,17 @@ msgstr ""
 #: maps/scripts/CaptureTheRelic.js:145
 #, javascript-format
 msgid "%(_player_)s has captured all relics and will win in %(time)s."
-msgstr ""
+msgstr "(*)  %(_player_)s је заробио све реликвије и победиће %(time)s ."
 
 #: maps/scripts/CaptureTheRelic.js:156
 #, javascript-format
 msgid "You and your allies have captured all relics and will win in %(time)s."
-msgstr ""
+msgstr "(*) Ви и ваши савезници сте заробили све реликвије и победићете %(time)s ."
 
 #: maps/scripts/CaptureTheRelic.js:157
 #, javascript-format
 msgid "You have captured all relics and will win in %(time)s."
-msgstr ""
+msgstr "(*) Ухватили сте све реликвије и победићете %(time)s ."
 
 #: maps/scripts/CaptureTheRelic.js:171
 #, javascript-format
@@ -2405,12 +2405,12 @@ msgstr[2] ""
 #: maps/scripts/Conquest.js:5
 #, javascript-format
 msgid "%(player)s has been defeated (lost all critical units and structures)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубио све критичне јединице и структуре)."
 
 #: maps/scripts/ConquestCivicCentres.js:5
 #, javascript-format
 msgid "%(player)s has been defeated (lost all civic centres)."
-msgstr ""
+msgstr "(*)  %(player)s поражен (изгубио све грађанске центре)."
 
 #: maps/scripts/ConquestCivicCentres.js:9
 #, javascript-format
@@ -2422,27 +2422,27 @@ msgstr ""
 #: maps/scripts/ConquestStructures.js:5
 #, javascript-format
 msgid "%(player)s has been defeated (lost all structures)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубио све структуре)."
 
 #: maps/scripts/ConquestStructures.js:9
 #, javascript-format
 msgid "%(player)s has been defeated (lost all structures and critical units)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубио све структуре и критичне јединице)."
 
 #: maps/scripts/ConquestUnits.js:5
 #, javascript-format
 msgid "%(player)s has been defeated (lost all units)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубио све јединице)."
 
 #: maps/scripts/ConquestUnits.js:9
 #, javascript-format
 msgid "%(player)s has been defeated (lost all units and critical structures)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубио све јединице и критичне структуре)."
 
 #: maps/scripts/Regicide.js:130
 #, javascript-format
 msgid "%(player)s has been defeated (lost hero)."
-msgstr ""
+msgstr "(*)  %(player)s је поражен (изгубљен херој)."
 
 #: maps/scripts/WonderVictory.js:80
 #, javascript-format
@@ -2454,22 +2454,22 @@ msgstr ""
 #: maps/scripts/WonderVictory.js:81
 #, javascript-format
 msgid "%(_player_)s owns a Wonder and will win in %(time)s."
-msgstr ""
+msgstr "(*)  %(_player_)s поседује чудо и победиће %(time)s ."
 
 #: maps/scripts/WonderVictory.js:92
 #, javascript-format
 msgid "%(_player_)s owns a Wonder and you will win in %(time)s."
-msgstr ""
+msgstr "(*)  %(_player_)s поседује чудо и победићете %(time)s ."
 
 #: maps/scripts/WonderVictory.js:104
 #, javascript-format
 msgid "You own a Wonder and you and your allies will win in %(time)s."
-msgstr ""
+msgstr "(*) Ви поседујете чудо и ви и ваши савезници ћете победити %(time)s ."
 
 #: maps/scripts/WonderVictory.js:105
 #, javascript-format
 msgid "You own a Wonder and will win in %(time)s."
-msgstr ""
+msgstr "(*) Поседујете Вондер и победићете %(time)s ."
 
 #: maps/scripts/WonderVictory.js:150
 #, javascript-format
@@ -2529,7 +2529,7 @@ msgstr ""
 
 #: maps/skirmishes/atlas_valleys_8p.xml:Name:39
 msgid "Atlas Valleys (8)"
-msgstr ""
+msgstr "(*) Атлас долине (8)"
 
 #: maps/skirmishes/bactria_2p.xml:Description:39
 msgid ""
@@ -2542,7 +2542,7 @@ msgstr ""
 
 #: maps/skirmishes/bactria_2p.xml:Name:39
 msgid "Bactriana (2)"
-msgstr ""
+msgstr "(*) Бактријана (2)"
 
 #: maps/skirmishes/barcania_3p.xml:Description:26
 msgid ""
@@ -2575,7 +2575,7 @@ msgstr ""
 
 #: maps/skirmishes/butana_steppe_2p.xml:Name:39
 msgid "Island of Meroë (2)"
-msgstr ""
+msgstr "(*) Острво МероА «(2)"
 
 #: maps/skirmishes/butana_steppe_2p.xml:PlayerData[0].Name:39
 msgid "West Player"
@@ -2605,7 +2605,7 @@ msgstr ""
 
 #: maps/skirmishes/cisalpine_winter_2p.xml:Name:39
 msgid "Cisalpine Winter (2)"
-msgstr ""
+msgstr "(*) Цисалпинска зима (2)"
 
 #: maps/skirmishes/corinthian_isthmus_2p.xml:Name:38
 msgid "Corinthian Isthmus (2)"
@@ -2635,7 +2635,7 @@ msgstr ""
 
 #: maps/skirmishes/crocodilopolis_4p.xml:Name:39
 msgid "Crocodilopolis (4)"
-msgstr ""
+msgstr "(*) Цроцодилополис (4)"
 
 #: maps/skirmishes/cycladic_archipelago_2p.xml:Description:38
 msgid "A \"small island\"-style map set in the Aegean Sea."
@@ -2722,7 +2722,7 @@ msgstr ""
 
 #: maps/skirmishes/egypt_3pv3p.xml:Name:39
 msgid "Egypt (3v3)"
-msgstr ""
+msgstr "(*) Египат (3в3)"
 
 #: maps/skirmishes/egypt_3pv3p.xml:PlayerData[0].Name:39
 msgid "Alexandria"
@@ -2730,7 +2730,7 @@ msgstr "Александрија"
 
 #: maps/skirmishes/egypt_3pv3p.xml:PlayerData[2].Name:39
 msgid "Siwa"
-msgstr ""
+msgstr "(*) Сива"
 
 #: maps/skirmishes/egypt_3pv3p.xml:PlayerData[3].Name:39
 msgid "Sinai"
@@ -2738,19 +2738,19 @@ msgstr "Синај"
 
 #: maps/skirmishes/egypt_3pv3p.xml:PlayerData[4].Name:39
 msgid "Memphis"
-msgstr ""
+msgstr "(*) Мемпхис"
 
 #: maps/skirmishes/egypt_3pv3p.xml:PlayerData[5].Name:39
 msgid "Cyrene"
-msgstr ""
+msgstr "(*) Цирене"
 
 #: maps/skirmishes/farmland_2p.xml:Description:39
 msgid "Farmland in Eastern Europe."
-msgstr ""
+msgstr "(*) Пољопривредно земљиште у источној Европи."
 
 #: maps/skirmishes/farmland_2p.xml:Name:39
 msgid "Farmland (2)"
-msgstr ""
+msgstr "(*) Пољопривредно земљиште (2)"
 
 #: maps/skirmishes/forest_battle_4p.xml:Description:39
 msgid ""
@@ -2777,11 +2777,11 @@ msgstr "Галска поља (3)"
 
 #: maps/skirmishes/gallic_highlands_2p.xml:Description:39
 msgid "The Highlands of central Gaul."
-msgstr ""
+msgstr "(*) Горје у централној Галији."
 
 #: maps/skirmishes/gallic_highlands_2p.xml:Name:39
 msgid "Gallic Highlands (2)"
-msgstr ""
+msgstr "(*) Галско горје (2)"
 
 #: maps/skirmishes/gambia_river_3p.xml:Description:38
 msgid ""
@@ -2851,7 +2851,7 @@ msgstr ""
 
 #: maps/skirmishes/hindu_kush_2p.xml:Name:39
 msgid "Hindu Kush (2)"
-msgstr ""
+msgstr "(*) Хиндукуш (2)"
 
 #: maps/skirmishes/hydaspes_river_4p.xml:Description:39
 msgid ""
@@ -2862,17 +2862,17 @@ msgstr ""
 
 #: maps/skirmishes/hydaspes_river_4p.xml:Name:39
 msgid "Hydaspes River (4)"
-msgstr ""
+msgstr "(*) Река Хидаспес (4)"
 
 #: maps/skirmishes/hydaspes_river_4p.xml:PlayerData[1].Name:39
 #: maps/skirmishes/hydaspes_river_4p.xml:PlayerData[3].Name:39
 msgid "Macedonian Position"
-msgstr ""
+msgstr "(*) Македонски положај"
 
 #: maps/skirmishes/hydaspes_river_4p.xml:PlayerData[2].Name:39
 #: maps/skirmishes/hydaspes_river_4p.xml:PlayerData[4].Name:39
 msgid "Pauravan Position"
-msgstr ""
+msgstr "(*) Паураван Поситион"
 
 #: maps/skirmishes/libyan_oases_4p.xml:Description:38
 msgid ""
@@ -2920,7 +2920,7 @@ msgstr ""
 
 #: maps/skirmishes/magadha_2p.xml:Name:39
 msgid "Magadha (2)"
-msgstr ""
+msgstr "(*) Магадха (2)"
 
 #: maps/skirmishes/median_oasis_2p.xml:Description:38
 #: maps/skirmishes/median_oasis_4p.xml:Description:38
@@ -2956,7 +2956,7 @@ msgstr ""
 
 #: maps/skirmishes/miletus_peninsula_2p.xml:Name:39
 msgid "Miletus Peninsula (2)"
-msgstr ""
+msgstr "(*) Полуострво Милетус (2)"
 
 #: maps/skirmishes/neareastern_badlands_2p.xml:Description:38
 #: maps/skirmishes/neareastern_badlands_4p.xml:Description:38
@@ -3000,11 +3000,11 @@ msgstr "Северна острва (2)"
 
 #: maps/skirmishes/nubian_frontier_2p.xml:Description:39
 msgid "The arid and treacherous frontier between Nubia and Egypt."
-msgstr ""
+msgstr "(*) Сушна и издајничка граница између Нубије и Египта."
 
 #: maps/skirmishes/nubian_frontier_2p.xml:Name:39
 msgid "Nubian Frontier (2)"
-msgstr ""
+msgstr "(*) Нубијска граница (2)"
 
 #: maps/skirmishes/obedska_bog_4p.xml:Description:39
 #: maps/skirmishes/obedska_bog_night_4p.xml:Description:39
@@ -3016,19 +3016,19 @@ msgstr ""
 
 #: maps/skirmishes/obedska_bog_4p.xml:Name:39
 msgid "Obedska Bog (4)"
-msgstr ""
+msgstr "(*) Обедска Бог (4)"
 
 #: maps/skirmishes/obedska_bog_night_4p.xml:Name:39
 msgid "Obedska Bog Night (4)"
-msgstr ""
+msgstr "(*) Обедска мочвара (4)"
 
 #: maps/skirmishes/oceanside_2p.xml:Description:39
 msgid "A Lush temperate biome along an ocean. "
-msgstr ""
+msgstr "(*) Бујни умерен биом дуж океана."
 
 #: maps/skirmishes/oceanside_2p.xml:Name:39
 msgid "Oceanside (2)"
-msgstr ""
+msgstr "(*) Оцеансиде (2)"
 
 #: maps/skirmishes/persian_highlands_4p.xml:Description:38
 msgid ""
@@ -3038,7 +3038,7 @@ msgstr ""
 
 #: maps/skirmishes/persian_highlands_4p.xml:Name:38
 msgid "Persian Highlands (4)"
-msgstr ""
+msgstr "(*) Персијско горје (4)"
 
 #: maps/skirmishes/punjab_2p.xml:Description:39
 msgid ""
@@ -3061,7 +3061,7 @@ msgstr ""
 
 #: maps/skirmishes/saharan_oases_2p.xml:Name:39
 msgid "Saharan Oases (2)"
-msgstr ""
+msgstr "(*) Сахарске оазе (2)"
 
 #: maps/skirmishes/saharan_oases_4p.xml:Name:39
 msgid "Saharan Oases (4)"
@@ -3089,7 +3089,7 @@ msgstr ""
 
 #: maps/skirmishes/sahyadri_buttes_5p.xml:Name:39
 msgid "Sahyadri Buttes (5)"
-msgstr ""
+msgstr "(*) Сахиадри Буттес (5)"
 
 #: maps/skirmishes/savanna_river_2p.xml:Description:38
 msgid "A large savanna is bisected by a narrow jungle stream."
@@ -3108,7 +3108,7 @@ msgstr ""
 
 #: maps/skirmishes/scythia_4p.xml:Name:39
 msgid "Scythian Steppes (4)"
-msgstr ""
+msgstr "(*) Скитске степе (4)"
 
 #: maps/skirmishes/sicilia_2p.xml:Description:38
 msgid "The large Mediterranean island of Sicily is open for conquest."
@@ -3130,11 +3130,11 @@ msgstr "Сицилијски номад (2)"
 
 #: maps/skirmishes/skirmish_demo_2p.xml:Description:38
 msgid "A demo Skirmish map."
-msgstr ""
+msgstr "(*) Демо Скирмисх мап."
 
 #: maps/skirmishes/skirmish_demo_2p.xml:Name:38
 msgid "Skirmish Demo (2)"
-msgstr ""
+msgstr "(*) Скирмисх Демо (2)"
 
 #: maps/skirmishes/sporades_islands_2p.xml:Name:39
 msgid "Sporades Islands (2)"
@@ -3149,7 +3149,7 @@ msgstr "Јалова земља са нешто шуме и мало живот�
 
 #: maps/skirmishes/syria_2p.xml:Name:39
 msgid "Coele-Syria (2)"
-msgstr ""
+msgstr "(*) Ако га онемогућите, екран добродошлице ће се и даље појављивати једном, сваки пут када је доступна нова верзија. Увек га можете покренути из главног менија."
 
 #: maps/skirmishes/team_oasis_2pv2p.xml:Description:38
 msgid ""
@@ -3164,11 +3164,11 @@ msgstr "Оаза - Тим (2v2)"
 
 #: maps/skirmishes/temperate_roadway_2p.xml:Description:39
 msgid "Temperate zone map with plentiful resources. Map Size: Small"
-msgstr ""
+msgstr "(*) Мапа умерених зона са обилним ресурсима. Величина карте: Мала"
 
 #: maps/skirmishes/temperate_roadway_2p.xml:Name:39
 msgid "Temperate Roadway (2)"
-msgstr ""
+msgstr "(*) Умерени пут (2)"
 
 #: maps/skirmishes/thessalian_plains_4p.xml:Description:38
 msgid ""
@@ -3211,7 +3211,7 @@ msgstr ""
 
 #: maps/skirmishes/vesuvius_6p.xml:Name:39
 msgid "Vesuvius (6)"
-msgstr ""
+msgstr "(*) Везув (6)"
 
 #: maps/skirmishes/via_augusta_4p.xml:Description:39
 msgid ""
@@ -3220,7 +3220,7 @@ msgstr ""
 
 #: maps/skirmishes/via_augusta_4p.xml:Name:39
 msgid "Via Augusta (4)"
-msgstr ""
+msgstr "(*) Виа Аугуста (4)"
 
 #: maps/skirmishes/watering_holes_4p.xml:Description:38
 msgid ""
@@ -3246,7 +3246,7 @@ msgstr ""
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:Name:39
 msgid "White Cliffs of Dover (5)"
-msgstr ""
+msgstr "(*) Беле литице Довера (5)"
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:PlayerData[1].Name:39
 msgid "Britons"
@@ -3254,19 +3254,19 @@ msgstr "Брити"
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:PlayerData[2].Name:39
 msgid "Invader 1"
-msgstr ""
+msgstr "(*) Освајач 1"
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:PlayerData[3].Name:39
 msgid "Invader 2"
-msgstr ""
+msgstr "(*) Инвадер 2"
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:PlayerData[4].Name:39
 msgid "Invader 3"
-msgstr ""
+msgstr "(*) Освајач 3"
 
 #: maps/skirmishes/white_cliffs_of_dover_5p.xml:PlayerData[5].Name:39
 msgid "Invader 4"
-msgstr ""
+msgstr "(*) Инвадер 4"
 
 #: maps/skirmishes/zagros_mountains_2p.xml:Description:38
 msgid ""

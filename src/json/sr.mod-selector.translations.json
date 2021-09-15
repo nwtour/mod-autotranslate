@@ -1,15 +1,275 @@
 {
+   "0447ebe33b7ec14a825a63e3afba2488" : {
+      "english" : "GiB",
+      "translation" : "ГиБ"
+   },
+   "0c0d74ceac4ab2236f2f35822e858ab9" : {
+      "english" : "Filter valid mods",
+      "translation" : "Филтрирајте важеће модове"
+   },
+   "0ce16375b4c6ad202c0fd2bdc23aa838" : {
+      "english" : "The service is for users age 13 and over.",
+      "translation" : "Услуга је намењена корисницима старијим од 13 година."
+   },
+   "0d3627289b893d3eea08e52589ed06ae" : {
+      "english" : "Decline",
+      "translation" : "Одбити"
+   },
+   "119a628d1f6dcf226d8f65c400a58fa2" : {
+      "english" : "Document Date: 2018-10-12",
+      "translation" : "Датум документа: 2018-10-12"
+   },
+   "16088bd240b1b75a9e591b514ca9546b" : {
+      "english" : "Open %(url)s in the browser.",
+      "translation" : "Отвори %(url)s у прегледачу."
+   },
    "1aced5421e9b5155078f19dca6dbb9d0" : {
       "english" : "Change the order in which mods are launched. This should match the mods dependencies.",
       "translation" : "Промените редослед покретања модова. Ово би требало да одговара зависностима модова."
+   },
+   "1b95fe23457e382c26abb68fad88de25" : {
+      "english" : "Downloading “%(modname)s”",
+      "translation" : "Преузимање „ %(modname)s ”"
+   },
+   "1d40641c18318e207a0a1a578dc178bb" : {
+      "english" : "[/font]",
+      "translation" : "_ЛАЛАЛА_"
+   },
+   "2475753421dd595215300fa7a5af76c9" : {
+      "english" : "Incompatible mods",
+      "translation" : "Некомпатибилни модови"
+   },
+   "26dfe4554cb4de35f283ec7d217218c6" : {
+      "english" : "%(mod)s (%(version)s)",
+      "translation" : " %(mod)s  ( %(version)s )"
+   },
+   "290fbb324b01f10845ea6929faf9c763" : {
+      "english" : "File download failed.\\n\\n%(technicalDetails)s",
+      "translation" : "Преузимање датотеке није успело.\\n"
+   },
+   "32b169f72b293ef80d35435e9894f8e2" : {
+      "english" : "Initializing",
+      "translation" : "Иницијализација"
+   },
+   "36044ea63422e493266e2935bc2e7ab9" : {
+      "english" : "Enable at least 0ad mod",
+      "translation" : "Омогући најмање 0ад мод"
+   },
+   "36189a5d9492c942e099f47cbb9ec84b" : {
+      "english" : "Dependencies not met",
+      "translation" : "Зависности нису испуњене"
+   },
+   "3e26a2ae0bc40633b621b5a7dab55160" : {
+      "english" : "Modding Guide",
+      "translation" : "Моддинг Гуиде"
+   },
+   "3f90143e74ca092e046e8148e67c66bd" : {
+      "english" : "File verification error.\\n\\n%(technicalDetails)s",
+      "translation" : "Грешка при верификацији датотеке.\\n"
+   },
+   "59a73078ff9ccae6f520293f57c9ced1" : {
+      "english" : "Visit mod.io",
+      "translation" : "Посетите мод.ио"
+   },
+   "5d32f3653f44e744d5634f65e5d5698f" : {
+      "english" : "0 A.D. is designed to be easily modded. Mods are distributed in the form of .pyromod files, which can be opened like .zip files.",
+      "translation" : "0 А.Д. је дизајнирано да се лако модификује. Модови се дистрибуирају у облику .пиромод датотека, које се могу отворити попут .зип датотека."
+   },
+   "6909beea5b50605780e3411f879fe916" : {
+      "english" : "Updating",
+      "translation" : "Ажурирање"
+   },
+   "6a0ac04c1b1b1b7c317c604182dc46b3" : {
+      "english" : "Invalid mod: %(error)s",
+      "translation" : "Неважећи мод: %(error)s "
+   },
+   "6a26f548831e6a8c26bfbbd9f6ec61e0" : {
+      "english" : "Help",
+      "translation" : "Помоћ"
+   },
+   "6a7ee5f9b64cc9e196d60f1d06747ada" : {
+      "english" : "Game ID could not be retrieved.\\n\\n%(technicalDetails)s",
+      "translation" : "Преузимање игре није успело.\\n"
+   },
+   "6f3a095d077ee9673c392d7fe5740a86" : {
+      "english" : "For more information about modding the game, see the Modding Guide online (click the Modding Guide button below).",
+      "translation" : "За више информација о модификовању игре погледајте Водич за модерирање на мрежи (кликните дугме Моддинг Гуиде испод)."
+   },
+   "6fb6a96ef1862679844e4debe8264839" : {
+      "english" : "mod.io Terms",
+      "translation" : "мод.ио Услови"
+   },
+   "718963d62d83ca3eb747e66803f989c3" : {
+      "english" : "0 A.D. Empires Ascendant mod.io Disclaimer",
+      "translation" : "0 А.Д. Емпирес Асцендант мод.ио Одрицање од одговорности"
+   },
+   "7acc0499c9d7cafe0071d60bc81fd7fc" : {
+      "english" : "Download Mods",
+      "translation" : "Преузмите модове"
+   },
+   "7c3214e2af92eb0bef00b92207af2ae4" : {
+      "english" : "This service provides an easy way to download and install community-made mods and is provided by DBolical Pty Ltd, the company behind IndieDB and ModDB.",
+      "translation" : "Ова услуга пружа једноставан начин за преузимање и инсталирање модова направљених у заједници, а пружа је ДБолицал Пти Лтд, компанија која стоји иза ИндиеДБ и МодДБ."
+   },
+   "7d88a294dedf1256f47ad7fc48f98adb" : {
+      "english" : "Refresh List",
+      "translation" : "Освежи листу"
+   },
+   "7e19f1ee740529ca296cdbfe2ff16bbf" : {
+      "english" : "View online",
+      "translation" : "Погледај на мрежи"
    },
    "7e6ee6d35d0e74099238dee112805d20" : {
       "english" : "By using the service, you understand that mod.io's Terms of Use and Privacy Policy apply and that Wildfire Games is not liable for any damages resulting from this service.",
       "translation" : "Коришћењем услуге разумете да се примењују Услови коришћења и политика приватности мод.ио -а и да Вилдфире игре нису одговорне за било какву штету насталу овом услугом."
    },
+   "801ab24683a4a8c433c6eb40c48bcd9d" : {
+      "english" : "Download",
+      "translation" : "Преузимање"
+   },
+   "82163a4a99a0c66b6c4d85c695d9ac72" : {
+      "english" : "Filter compatible",
+      "translation" : "Компатибилан са филтером"
+   },
+   "85eee74f2003d4ab48896eea05f0970b" : {
+      "english" : "Initializing mod.io interface.",
+      "translation" : "Иницијализација интерфејса мод.ио."
+   },
+   "884a711f3269ae9404aabe1739580abd" : {
+      "english" : "Visit Website",
+      "translation" : "Посетите сајт"
+   },
+   "8ef8990f21f41304c17b8c0da2d8f5ab" : {
+      "english" : "Time Elapsed: %(elapsed)s\\nEstimated Time Remaining: %(remaining)s\\nAverage Speed: %(avgSpeed)s",
+      "translation" : "Време које је протекло:\\n\\nПроцењено преостало време: %(elapsed)s  %(remaining)s Просечна брзина: %(avgSpeed)s "
+   },
+   "90360535c9a538c6e85abac74b70b896" : {
+      "english" : "%(number)s %(unit)s/s",
+      "translation" : " %(number)s   %(unit)s Вацхии Гаја"
+   },
+   "93bb376b5d85fbd46572abb6710e924c" : {
+      "english" : "Verification Error",
+      "translation" : "Грешка при верификацији"
+   },
+   "975a4e81c5ea76e72ca9c91f39044e9e" : {
+      "english" : "Solve the compatibility issue by disabling invalid mods or enabling required dependencies. You can then save & start the game.",
+      "translation" : "Решите проблем компатибилности тако што ћете онемогућити неважеће модове или омогућити потребне зависности. Тада можете сачувати и покренути игру."
+   },
+   "9d5ed678fe57bcca610140957afab571" : {
+      "english" : "B",
+      "translation" : "Б"
+   },
+   "a00fe904aecabd4bff74d8776e6da2c5" : {
+      "english" : "File Size",
+      "translation" : "Величина фајла"
+   },
+   "a60852f204ed8028c1c58808b746d115" : {
+      "english" : "Ok",
+      "translation" : "У реду"
+   },
+   "aa7726967238b93ddce3cab9c88f286b" : {
+      "english" : "You are about to connect to the mod.io online service.",
+      "translation" : "Ускоро ћете се повезати са услугом мод.ио."
+   },
+   "acdb41238bdbdae809cc07da9192d343" : {
+      "english" : "Incompatible mods will appear in red in the list of enabled mods (bottom panel). Dependencies can be added by enabling them in the upper panel.",
+      "translation" : "Некомпатибилни модови појавит ће се црвеном бојом на листи омогућених модова (доња плоча). Зависности се могу додати омогућавањем на горњој табли."
+   },
+   "ad0a802ec8134e9210a5625933db50a7" : {
+      "english" : "Disclaimer",
+      "translation" : "Одрицање одговорности"
+   },
+   "ae83a7209598c56603c83d9894214273" : {
+      "english" : "%(current)s / %(total)s (%(percent)s%%)",
+      "translation" : " %(current)s  /  %(total)s  ( %(percent)s %%)"
+   },
+   "b07d0fce4245a94d18e95b6cfdbbb27a" : {
+      "english" : "[font=\\\"sans-bold-20\\\"]You tried to start the game with incompatible or missing mods![/font]",
+      "translation" : "[font=\\\"sans-bold-20\\\"]Покушали сте да покренете игру са некомпатибилним или недостајућим модовима![/font]"
+   },
+   "b7fed078d4523ec0662e562dcdcfe4d4" : {
+      "english" : "mod.io Privacy Policy",
+      "translation" : "мод.ио Политика приватности"
+   },
+   "bbea18a493f60ec61d061993f672a7f8" : {
+      "english" : "Cancel Update",
+      "translation" : "Откажи ажурирање"
+   },
+   "bcfaccebf745acfd5e75351095a5394a" : {
+      "english" : "Disable",
+      "translation" : "Онемогући"
+   },
+   "c3c0061baa08b1f98832b5f214691498" : {
+      "english" : "Opening %(url)s\\n in default web browser. Please wait…",
+      "translation" : "Отварање\\n %(url)s у подразумеваном веб прегледачу. Сачекајте ... ¦"
+   },
+   "c42e6fba4b47efb7c95f89eaf9efa184" : {
+      "english" : "%(filesize)s %(unit)s",
+      "translation" : " %(filesize)s   %(unit)s "
+   },
+   "c57d733cbcd82ce79965bf0b10d04cf6" : {
+      "english" : "Wildfire Games has taken care to make this connection secure and reviewed the mods for security flaws, but cannot guarantee that this does not pose any risks.",
+      "translation" : "Вилдфире Гамес се побринуо да ова веза буде сигурна и прегледао је модове за безбедносне недостатке, али не може гарантовати да то не представља никакав ризик."
+   },
+   "c7681e4b6aad942a23fe0097cda9dc05" : {
+      "english" : "This mod does not exist",
+      "translation" : "Овај мод не постоји"
+   },
+   "c7e71badf20a04f36d11be557ceb7a5b" : {
+      "english" : "Downloading",
+      "translation" : "Преузимање"
+   },
+   "cd156fa61ce7961e91b9e4ba620f083f" : {
+      "english" : "[font=\\\"sans-16\\\"]",
+      "translation" : "_ЛАЛАЛА_"
+   },
+   "d96d2eaa594dc32816de203d87b6728d" : {
+      "english" : "Download Error",
+      "translation" : "Грешка при преузимању"
+   },
+   "dbe9b1d066c1b54a4d42673c387d6900" : {
+      "english" : "mod.io Mods",
+      "translation" : "мод.ио Модс"
+   },
+   "e1806eeaa10a9ee49d347d46410f063d" : {
+      "english" : "The mod.io service is developed by DBolical, the company behind IndieDB and ModDB. Those websites have spread the word about 0 A.D. and other indie projects for a long time! Today, mod.io allows us to list and download all the mods that were verified by the team. Click \\\"Download Mods\\\" to try it out and install some!",
+      "translation" : "Услугу мод.ио је развила ДБолицал, компанија која стоји иза ИндиеДБ -а и МодДБ -а. Те веб странице већ дуго шире глас о 0 А.Д. и другим индие пројектима! Данас нам мод.ио омогућава да наведемо и преузмемо све модове које је верификовао тим. Кликните \\ \"Преузми модове \\\" да бисте испробали и инсталирали неке!"
+   },
+   "e64cb82119c812c7a2fc72022abfa6f2" : {
+      "english" : "MiB",
+      "translation" : "МиБ"
+   },
+   "e91c229f0261d9551794aed2069edab7" : {
+      "english" : "KiB",
+      "translation" : "КиБ"
+   },
+   "e9e73685678fb71b1669742f5dd3f85a" : {
+      "english" : "Mod List could not be retrieved.\\n\\n%(technicalDetails)s",
+      "translation" : "Попис модова није могуће преузети.\\n"
+   },
+   "ea04f1aa02b336770b4861218e5b61cf" : {
+      "english" : "Fetch Error",
+      "translation" : "Грешка при преузимању"
+   },
+   "ee49bf54db4904e7582231359b9ad0ec" : {
+      "english" : "Initialization Error",
+      "translation" : "Грешка при иницијализацији"
+   },
+   "f289f4818a0782f5d9ce21d1279154a8" : {
+      "english" : "Fetching and updating list of available mods.",
+      "translation" : "Преузимање и ажурирање листе доступних модова."
+   },
+   "f4a275fdc97e18e51e460df009545522" : {
+      "english" : "In order to install a mod, just open the file with 0 A.D. (either double-click on the file and choose to open it with the game, or run \\\"pyrogenesis file.pyromod\\\" in a terminal). The mod will then be available in the mod selector. You can enable it and disable it at will. You can delete the mod manually using your file browser if needed (see https://trac.wildfiregames.com/wiki/GameDataPaths).",
+      "translation" : "Да бисте инсталирали мод, само отворите датотеку са 0 А.Д. (или двапут кликните на датотеку и одаберите да је отворите игром, или покрените \\ \"пирогенесис филе.пиромод \\\" на терминалу). Мод ће тада бити доступан у бирачу модова. Можете га омогућити и онемогућити по вољи. Мод можете ручно избрисати помоћу прегледача датотека ако је потребно (погледајте хттпс://трац.вилдфирегамес.цом/вики/ГамеДатаПатхс)."
+   },
    "f6471e01cc01715f9814ba5589ec87cb" : {
       "english" : "Cancel Download",
       "translation" : "Откажи преузимање"
+   },
+   "f9c4a76f4a112bf76ae73520c66b9f29" : {
+      "english" : "Pyrogenesis Mod Selector",
+      "translation" : "Селектор модова пирогенезе"
    },
    "ff754705ebed686986e8a123d98673d6" : {
       "english" : "Save and Restart",

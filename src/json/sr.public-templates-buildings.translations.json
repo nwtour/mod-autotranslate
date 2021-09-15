@@ -1,7 +1,35 @@
 {
+   "003f91f6d88ec7aee2a74f166ea4623c" : {
+      "english" : "Garrison Infantry for additional arrows. Needs the “Murder Holes” technology to protect its foot.",
+      "translation" : "Гарнизон пешадије за додатне стреле. Потребна је технологија \"Мурдер Холес\" за заштиту стопала."
+   },
+   "00fd3c02a754b8e8ac4a89ea9ec2844d" : {
+      "english" : "TempleOfVesta",
+      "translation" : "ТемплеОфВеста"
+   },
+   "0115c3bbcaa109ba6695e5395cb72ac2" : {
+      "english" : "Naval",
+      "translation" : "Навал"
+   },
+   "049624b3018294e0c0a8590130ccc79e" : {
+      "english" : "Tigernotreba",
+      "translation" : "Тигернотреба"
+   },
+   "05dc0f72cd03d588ea51514089d30839" : {
+      "english" : "Nemeton",
+      "translation" : "Неметон"
+   },
    "0d57e5febd3cb64fea612f4b585a2288" : {
       "english" : "Train Blemmye Mercenaries.",
       "translation" : "Обучите Блеммие плаћенике."
+   },
+   "10d182cd3bf14a176490bd3c68bb3c7a" : {
+      "english" : "Duvarθiš",
+      "translation" : "ДуварИ¸иА¡"
+   },
+   "117ad0ad6307ebf221a222cdf6a9c884" : {
+      "english" : "Pr-ʿImn",
+      "translation" : "Пр-Е¿Имн"
    },
    "16f9991baf067f2b929a149ae38e268f" : {
       "english" : "Territory root.",
@@ -11,6 +39,82 @@
       "english" : "Research gathering technologies.",
       "translation" : "Технологије прикупљања истраживања."
    },
+   "19f62a202351c954ffd31ec05119b0e2" : {
+      "english" : "Duvarθi Visadahyu",
+      "translation" : "ДуварИ¸и Висадахиу"
+   },
+   "1a47643c940e13c84a754a6d295a20e2" : {
+      "english" : "Rampart Tower",
+      "translation" : "Рампарт Товер"
+   },
+   "1bb6c26ea51821ddf30b2843a78901a0" : {
+      "english" : "Train Healers and Apedemak Champions and research healing technologies.",
+      "translation" : "Обучите исцелитеље и шампионе Апедемака и истражите технологије лечења."
+   },
+   "1d9ec41a33b784a4e2c6fc93ae964583" : {
+      "english" : "Duoricos",
+      "translation" : "Дуорицос"
+   },
+   "1e9294044d173598d43653b51ab0c01a" : {
+      "english" : "Aedēs",
+      "translation" : "АедА'с"
+   },
+   "1ef88f99f8827e7720f39e921ebfbfbd" : {
+      "english" : "sbty",
+      "translation" : "сбти"
+   },
+   "1f992d3eac87c80136e1746f574672d9" : {
+      "english" : "Aedēs Iovis Optimi Maximi",
+      "translation" : "Аед'с Иовис Оптими Макими"
+   },
+   "20503e30a7c1b122f9f5bc6773556fb1" : {
+      "english" : "Train Infantry and research Infantry technologies.",
+      "translation" : "Обучите пешадију и истражите пешадијске технологије."
+   },
+   "2292559dd81405527195b83a4610b6f7" : {
+      "english" : "Agora",
+      "translation" : "Агора"
+   },
+   "233352615c8ee171e6fcd3b9055908af" : {
+      "english" : "Epaulos",
+      "translation" : "Епаулос"
+   },
+   "23b5053b13ba91936404cacbd6b0befa" : {
+      "english" : "Cranogion",
+      "translation" : "Цраногион"
+   },
+   "24233129e8302abadab3c8c14d15176f" : {
+      "english" : "Angle Spike",
+      "translation" : "Англе Спике"
+   },
+   "2465b7434cf8b50ff20c527b48f1858d" : {
+      "english" : "Pyrgion",
+      "translation" : "Пиргион"
+   },
+   "24bd733fb74088c1723860e5ca1b9ead" : {
+      "english" : "Macedonian Army Tent",
+      "translation" : "Шатор македонске војске"
+   },
+   "27a9463cfa8aebee3c5dfec4a3c4df7b" : {
+      "english" : "Buta",
+      "translation" : "Бута"
+   },
+   "28001cf0c0bd79d3a80cfbbb4c0e8a7e" : {
+      "english" : "Mausoleum at Halicarnassus",
+      "translation" : "Маузолеј у Халикарнасу"
+   },
+   "295863ef42664afbeb9ed17310bd30d9" : {
+      "english" : "hmw hʿy n rȝ-ʿ",
+      "translation" : "хмв хЕ¿и н рЕ -Е¿"
+   },
+   "2a408f8c5c5c117bd8ab08ea6ad7f645" : {
+      "english" : "Limēn",
+      "translation" : "ЛимА “н"
+   },
+   "2af6f8b7211386a0810e6768c9da180e" : {
+      "english" : "Mryt",
+      "translation" : "Мрит"
+   },
    "2b6ffe2a2ff4eea940d11ef032cdd56d" : {
       "english" : "Coriosessa",
       "translation" : "Цориосесса"
@@ -19,37 +123,229 @@
       "english" : "Train Healers and research healing technologies.",
       "translation" : "Обучите исцелитеље и истражите технологије лечења."
    },
+   "2d6cfe650ede023d1c42cff395401aa1" : {
+      "english" : "Sanctuary of Corent",
+      "translation" : "Светиште Корента"
+   },
+   "2e8447005d8e1904cc0969a8d22bc334" : {
+      "english" : "Pyrgidion",
+      "translation" : "Пиргидион"
+   },
+   "2f2108f284f1d05d6c1bdf053f17e87d" : {
+      "english" : "sȝwt",
+      "translation" : "сЕ вт"
+   },
+   "2fcdedf45a3c9ccfdec2d1b001c8ff43" : {
+      "english" : "wdȝt",
+      "translation" : "вдЕ т"
+   },
+   "307e7d91cfbddeb965fdd22d5c4a4b57" : {
+      "english" : "Noba Village",
+      "translation" : "Ноба Виллаге"
+   },
+   "312c00a8369dcd1130e2f975d4d88a00" : {
+      "english" : "Pr-sbt",
+      "translation" : "Пр-сбт"
+   },
+   "32160ea45fe59838cb59acc03ce24ace" : {
+      "english" : "Grand Temple of Amun",
+      "translation" : "Велики храм Амона"
+   },
+   "32a2a78345a5a5511f610cab35de82c1" : {
+      "english" : "Temple of Apedemak",
+      "translation" : "Апедемаков храм"
+   },
+   "32d557c6ea008bf201b5a9103c94bf84" : {
+      "english" : "Pr-nsw",
+      "translation" : "Пр-нсв"
+   },
    "354f13ee0546c6826d2a99aa2014934f" : {
       "english" : "Pylai",
       "translation" : "Пилаи"
+   },
+   "357df3944f900da3cad99bde5ec110e1" : {
+      "english" : "Uffington White Horse",
+      "translation" : "Уффингтон Вхите Хорсе"
    },
    "359a78733baae67d46270de6f704a6dc" : {
       "english" : "Cagion",
       "translation" : "Цагион"
    },
+   "368b9c276e79f2d7ca88f0cecadff1f8" : {
+      "english" : "Temple of Healing",
+      "translation" : "Храм исцељења"
+   },
+   "3898afdd62ed48ef9cef20181d4216a2" : {
+      "english" : "Train Elephants and research Elephant technologies.",
+      "translation" : "Обучите слонове и истражите технологије слонова."
+   },
+   "3a4f872b01c6e0d3f24411f206cd2943" : {
+      "english" : "Āyadanam",
+      "translation" : "А € иаданам"
+   },
+   "3b46268eba1e357cd6e71b36fd4c7e2a" : {
+      "english" : "Celtic Tavern",
+      "translation" : "Келтска кафана"
+   },
+   "3df4caf95deb1bbc8c20e3ebde78e09f" : {
+      "english" : "Can be converted into a Palisade Gate.",
+      "translation" : "Може се претворити у Палисаде врата."
+   },
+   "3e6c8f6f3fcba31a7d35e205205e0867" : {
+      "english" : "Elephant Stable",
+      "translation" : "Елепхант Стабле"
+   },
+   "42579f38a5f5609b7b74d4d92c5cf25d" : {
+      "english" : "ElephantStable",
+      "translation" : "ЕлепхантСтабле"
+   },
+   "42e4a6b2f01cd2dfaef55870806d868d" : {
+      "english" : "Hieron tou Hōrou",
+      "translation" : "Хиерон тоу ХА роу"
+   },
+   "43317684460b3dd359f4748b7671664b" : {
+      "english" : "Mūrus Circummūnītiōnis",
+      "translation" : "М «рус ЦирцуммА« натитинис"
+   },
+   "46ef3c957426f9fbcbdb7c20888234bc" : {
+      "english" : "Pharos",
+      "translation" : "Пхарос"
+   },
+   "4769d69933555e856de2cd329f272d70" : {
+      "english" : "Equīle",
+      "translation" : "Једнако"
+   },
+   "48b22199b53214bb0af61fd91f31cd35" : {
+      "english" : "Train Champions and Heroes.",
+      "translation" : "Обучите шампионе и хероје."
+   },
    "495f7d4afc7e60564439e27e908624f9" : {
       "english" : "Train Champion Infantry Crossbowmen, construct Siege Engines, and research Siege Engine technologies.",
       "translation" : "Обучите шампионске пешачке самострелце, конструишите опсадне моторе и истражите технологије опсадних машина."
+   },
+   "49ab502de73e97ded1e3bdadef700a7a" : {
+      "english" : "Hieron tēs Artemidos Orthias",
+      "translation" : "Хиерон Артемидос Ортхиас"
    },
    "4a08910004d61013e7db59c255ce81b6" : {
       "english" : "Emain Macha",
       "translation" : "Емаин Мацха"
    },
+   "4b87f347c22c37bfd245100124c1e4f4" : {
+      "english" : "Turris Circummūnītiōnis",
+      "translation" : "Туррис ЦирцуммА «натиА¡нис"
+   },
+   "4d5594cf50af14e936591afbc9a4fb04" : {
+      "english" : "Build upon a shoreline in own, neutral, or allied territory. Acquire large tracts of territory. Territory root. Construct Warships and research technologies.",
+      "translation" : "Градите на обали на сопственој, неутралној или савезничкој територији. Добијте велике територије. Територијални корен. Конструисати ратне бродове и истраживачке технологије."
+   },
+   "4f7c31e5e7d05673e014ce8f4431c1f1" : {
+      "english" : "tsmt",
+      "translation" : "тсмт"
+   },
    "4fc9baf210346939946d5a49f255588b" : {
       "english" : "Arsenal",
       "translation" : "Арсенал"
+   },
+   "502d090f49046977c31bbfaae550e6d6" : {
+      "english" : "Desert Army Tent",
+      "translation" : "Шатор пустињске војске"
+   },
+   "52a51bb0eb7f1c5c3f60e1691b76698a" : {
+      "english" : "Brauon",
+      "translation" : "Брауон"
+   },
+   "5678bc3d90668715dc4a3293eb3c9308" : {
+      "english" : "pr-msʿyw",
+      "translation" : "пр-мсЕ¿ив"
+   },
+   "56f200f65895b50bc3eb02ed6593a49d" : {
+      "english" : "Emporion",
+      "translation" : "Емпорион"
+   },
+   "58d2e01c997ab4b6ff60a6c6302db207" : {
+      "english" : "Antosolicon",
+      "translation" : "Антосолицон"
    },
    "5adae361c673df2cee749e844c156b8e" : {
       "english" : "Roman Army Tent",
       "translation" : "Шатор римске војске"
    },
+   "5bbb2d06a7c09042b377155a95e413af" : {
+      "english" : "Garrison units to heal them at a quick rate.",
+      "translation" : "Гарнизонске јединице да их брзо лече."
+   },
+   "5bbb44ad27405ad5d29a8158cdbf4093" : {
+      "english" : "Train Mercenaries and research Mercenary technologies.",
+      "translation" : "Обучите плаћенике и истражите технологије плаћеника."
+   },
    "60d9bdde94c092e27a7d6b9d9542200e" : {
       "english" : "Htm",
       "translation" : "Хтм"
    },
+   "60f97a9fdc976391d891dea9825df1f8" : {
+      "english" : "Forge",
+      "translation" : "Форге"
+   },
+   "6548c6bfbb9f62cedc8fe6532dc75cbb" : {
+      "english" : "Sanctuary Kiosk",
+      "translation" : "Киоск светилишта"
+   },
+   "658c027ec0253278c48123bce14204ec" : {
+      "english" : "Hieron tou Apollōnos Pythiou",
+      "translation" : "Хиерон тоу АполлА нос Питхиоу"
+   },
+   "67caa071ed29648920f9f5097840cc99" : {
+      "english" : "Higher health tower with ramparts for up to 16 archers. Visibly garrisoned archers recieve a range and armor bonus. Only archers can garrison. Needs the murder holes tech to protect its foot.",
+      "translation" : "Виши здравствени торањ са бедемима за до 16 стрелаца. Видљиво заробљени стрелци добијају бонус за домет и оружарство. Гарнизовати могу само стреличари. Потребна је технологија рупа за убиства како би заштитио своје стопало."
+   },
+   "6d3cfaeee7d996c7a9a25195a29de6aa" : {
+      "english" : "Gate of All Nations",
+      "translation" : "Капија свих нација"
+   },
+   "6d419e154f88ba054e2aee31d379040e" : {
+      "english" : "Turris Laterīcia",
+      "translation" : "Туррис Латерециа"
+   },
+   "71247e5d7e8094ad9eaee882c63a34a1" : {
+      "english" : "Capanon",
+      "translation" : "Цапанон"
+   },
+   "720290352ef0871c6e26f41c6a6e5c3c" : {
+      "english" : "Stratopedon tōn Psilōn",
+      "translation" : "Стратопедон тАн ПсилАн"
+   },
+   "72a83b512ba5c9d64c59346185af595c" : {
+      "english" : "Train Healers and Champion Infantry and research healing technologies.",
+      "translation" : "Обучите исцелитеље и пјешаке прваке и истражите технологије лијечења."
+   },
+   "75002fe48442a02a55971f48cebbe3e4" : {
+      "english" : "Hall",
+      "translation" : "Халл"
+   },
+   "75178970208974ee0640ae1461405077" : {
+      "english" : "Barter resources. Establish trade routes. Train Traders and research trade and barter technologies.",
+      "translation" : "Бартер ресурси. Успоставите трговачке путеве. Трговци возовима и истраживање трговачке и бартер технологије."
+   },
    "754c338681185a6eeb65688bc2b6de60" : {
       "english" : "Territory root. Train Maiden Guards and Heroes.",
       "translation" : "Територијални корен. Обучите девојачке страже и хероје."
+   },
+   "787fb930adfb3d569212b079efbff076" : {
+      "english" : "Train Champion Trumpeters and Heroes.",
+      "translation" : "Обучите шампиона трубаче и хероје."
+   },
+   "7ff538db76d7c06de43558ae77560bc9" : {
+      "english" : "Stratopedeia Misthophorōn",
+      "translation" : "Стратопедеиа МистхопхорА н"
+   },
+   "80d8f3d5166d5d100a5f14079fc1a94f" : {
+      "english" : "SiegeWall",
+      "translation" : "СиегеВалл"
+   },
+   "816c9406ec70f9ce41c6303f726a0be5" : {
+      "english" : "Build in own or neutral territory.",
+      "translation" : "Градите на сопственој или неутралној територији."
    },
    "81a9a26fee54d384b62d5fae6a00405b" : {
       "english" : "Celicnon",
@@ -59,25 +355,437 @@
       "english" : "Chalkeōn",
       "translation" : "ЦхалкеА н"
    },
+   "8403e5edf9a9d459a4b293e2865acaad" : {
+      "english" : "Counos",
+      "translation" : "Цоунос"
+   },
+   "842ce398b1702101f875c12f96474778" : {
+      "english" : "Council",
+      "translation" : "Савет"
+   },
+   "84734388006f7fbeaa63d21371d99c9c" : {
+      "english" : "Raise Domestic Animals for food.",
+      "translation" : "Узгајајте домаће животиње за исхрану."
+   },
+   "8508aca471f0d2568c171004f819e046" : {
+      "english" : "Aedēs Sanitatem",
+      "translation" : "Аед'с Санитатем"
+   },
+   "85a61720ab993c2aa3efea544a6b1eb3" : {
+      "english" : "Receptāculum",
+      "translation" : "РецептА цулум"
+   },
+   "8692831044e2efb36b17362edaba3c8c" : {
+      "english" : "Agros",
+      "translation" : "Агрос"
+   },
+   "88d7641305021999398ff1ca1d880823" : {
+      "english" : "Olca",
+      "translation" : "Олца"
+   },
+   "8a9922c820f579c577e646f9ad08dc1b" : {
+      "english" : "Ỉḥ Ssmt",
+      "translation" : "а »ˆа¸ ¥ Ссмт"
+   },
    "8ab5c7635f3d758175acf420337cdb7d" : {
       "english" : "Garrison Soldiers for additional arrows.",
       "translation" : "Гарнисон Солдиерс за додатне стреле."
+   },
+   "8be027b1752f3fb1e134f888c952339a" : {
+      "english" : "Bolt",
+      "translation" : "Завртањ"
+   },
+   "8d28ec7acb0f1b698c37fee4b31516bd" : {
+      "english" : "Pyrgos",
+      "translation" : "Пиргос"
+   },
+   "8e9a0d55b5f65aca9c4d9eb20bbfb5f4" : {
+      "english" : "Italic Embassy",
+      "translation" : "Италијанска амбасада"
+   },
+   "8ef8f405aeee75a79e6f057d018b7ad2" : {
+      "english" : "Pr-Pdt",
+      "translation" : "Пр-Пдт"
+   },
+   "8f8ad7a6b1848f4ce35991661e37a6c9" : {
+      "english" : "snwt",
+      "translation" : "снвт"
+   },
+   "8f8b35b2b5f50b489f1e528f89bdd6e4" : {
+      "english" : "Tower",
+      "translation" : "Товер"
+   },
+   "8fd28fb8a129de798b6f413ac3720bc9" : {
+      "english" : "Build in neutral or enemy territory. Train Advanced Melee Infantry. Construct Rams. Garrison Soldiers for additional arrows.",
+      "translation" : "Градите на неутралној или непријатељској територији. Обучите напредну пешадију у блиској борби. Конструишите овнове. Гарнисон Солдиерс за додатне стреле."
+   },
+   "90df7deeb1a43affed8a9ebb197458a5" : {
+      "english" : "Cheap Barracks-like structure that is buildable in neutral territory, but casts no territory influence. Train Mercenaries.",
+      "translation" : "Јефтина касарна структура која се може градити на неутралној територији, али не оставља никакав утицај на територију. Обучите плаћенике."
+   },
+   "9112d51bb0fdc8ae40a8fd748930a0de" : {
+      "english" : "Build upon a shoreline in own, neutral, or allied territory. Very large vision range.",
+      "translation" : "Градите на обали на сопственој, неутралној или савезничкој територији. Врло велики домет вида."
+   },
+   "91a1f133900747275a5dd1f73dc996af" : {
+      "english" : "Pr-ʿIprmk",
+      "translation" : "Пр-Е¿Ипрмк"
+   },
+   "91d13d087e6f5aa30bf7fc355238c8e8" : {
+      "english" : "Apothēkē",
+      "translation" : "АпотхА “кА“"
+   },
+   "9365491a7024fed1bc53f6f448d9dc64" : {
+      "english" : "Stone Tower",
+      "translation" : "Камена кула"
+   },
+   "949d0dc3164a4eca65ca8ee452b09259" : {
+      "english" : "Aedēs Mārtiālis",
+      "translation" : "Аед'с Мартилис"
+   },
+   "94e8a499539d1a472f3b5dbbb85508c0" : {
+      "english" : "Wall",
+      "translation" : "Зид"
+   },
+   "95fc4afe62193cb38300687531f2987b" : {
+      "english" : "ʿryt",
+      "translation" : "Е¿рит"
+   },
+   "967628a2aade6bac8d223c62da741aaf" : {
+      "english" : "Egyptian Mercenary Camp",
+      "translation" : "Египатски плаћенички камп"
+   },
+   "97ee1e64afcb0fc81ac59e4c67f5de3a" : {
+      "english" : "Miletucerdon",
+      "translation" : "Милетуцердон"
+   },
+   "99549cfb482cf350c328a49ead79fc22" : {
+      "english" : "Naos",
+      "translation" : "Наос"
+   },
+   "9c9ba1066d23ceca44b1a8cee120b4de" : {
+      "english" : "Train Amun Champions and Elite Healers. Research healing technologies.",
+      "translation" : "Обучите шампионе Амуна и елитне исцелитеље. Истражите технологије лечења."
+   },
+   "9d104735b7466a278ccd79cf4ca93722" : {
+      "english" : "Arcus Triumphālis",
+      "translation" : "Арцус ТриумпхАлис"
+   },
+   "9e79e8b5400527134f59a495f7fca8aa" : {
+      "english" : "Hippōn",
+      "translation" : "ХиппА н"
    },
    "9e96fcff82500e6ed2795bf894971951" : {
       "english" : "ArtilleryTower",
       "translation" : "Артиљеријска кула"
    },
+   "9e9c658d6379ec4c2eee0ec94f5f7d30" : {
+      "english" : "ḥwt-nṯr",
+      "translation" : "а¸ ¥ вт-на¹¯р"
+   },
+   "a17c663b5fe8d64c7da5d4ec365213f3" : {
+      "english" : "Train Ranged Infantry and research technologies.",
+      "translation" : "Пешадија на даљинском возу и истраживачке технологије."
+   },
+   "a187d0fc1b55058a47a8009fd7c90e2c" : {
+      "english" : "Coriosedlon",
+      "translation" : "Цориоседлон"
+   },
+   "a221865eaf90cd80b986a9450edbf1d3" : {
+      "english" : "Lissos",
+      "translation" : "Лиссос"
+   },
+   "a2c6168ccd6601979c4088438e04e96c" : {
+      "english" : "Train Heroes and research technologies.",
+      "translation" : "Обучите хероје и истраживачке технологије."
+   },
+   "a39ea536e5155976b764773d954c83b5" : {
+      "english" : "Apartment Building",
+      "translation" : "Стамбена зграда"
+   },
+   "a4ef1c1d2cc402762235fb9388558c1d" : {
+      "english" : "Blemmye Camp",
+      "translation" : "Блеммие Цамп"
+   },
+   "a5109e511d8dc2f86c44c3126941c652" : {
+      "english" : "Hieron tou Dios tou Olympiou",
+      "translation" : "Хиерон тоу Диос тоу Олимпиоу"
+   },
+   "a62893cfc71f2142b02722e49bbbc175" : {
+      "english" : "Budinadon",
+      "translation" : "Будинадон"
+   },
+   "a6c1f4ea1e119d2375281343f796ec96" : {
+      "english" : "Allow units access through Palisades. Can be locked to prevent access.",
+      "translation" : "Дозволите јединицама приступ кроз Палисадес. Може се закључати ради спречавања приступа."
+   },
+   "a888dc8b2317721193a5169e501151ac" : {
+      "english" : "Prophylagma",
+      "translation" : "Профилактика"
+   },
+   "a8bd39b33e9f74b50303d8c5839d9c09" : {
+      "english" : "Mausōleion",
+      "translation" : "МаусА леион"
+   },
+   "ab5d1508c8274b86a673c11fa33e54e9" : {
+      "english" : "Klērouchia",
+      "translation" : "Клароуцхиа"
+   },
+   "ad18fc096ba3950a75556e29fc5ad645" : {
+      "english" : "Mercātus",
+      "translation" : "Мерцтус"
+   },
+   "ad599bd7997a90ac0e81959dd23f0208" : {
+      "english" : "Vīlla",
+      "translation" : "ВА «лла"
+   },
+   "ae6314276c147add4b03ecd43ff245c8" : {
+      "english" : "Pr-ỉwn n ms",
+      "translation" : "Пр-а »‰ вн н мс"
+   },
+   "ae89879e3980985e16070e9e4706b1d7" : {
+      "english" : "Gerousia",
+      "translation" : "Героусиа"
+   },
+   "b14685cb19fb78dc00db2b29bb4f8368" : {
+      "english" : "Special Structure",
+      "translation" : "Посебна структура"
+   },
+   "b1625dee629551af6d9b16d687654525" : {
+      "english" : "Allow units access through Walls. Can be locked to prevent access.",
+      "translation" : "Дозволите јединицама приступ кроз зидове. Може се закључати ради спречавања приступа."
+   },
+   "b2ed6c8a40578a1005f8a9a706d2455e" : {
+      "english" : "Dunon",
+      "translation" : "Дунон"
+   },
+   "b336701bd893d0d58d2f33172ad6b1d0" : {
+      "english" : "Epoikion",
+      "translation" : "Епоикион"
+   },
+   "b7388b6f2630a0df88b10dbb2d89bb9e" : {
+      "english" : "Bolt Tower",
+      "translation" : "Болт Товер"
+   },
+   "b880d0c794e13103084be8a4a8bfe394" : {
+      "english" : "Oikos",
+      "translation" : "Оикос"
+   },
+   "bad098cd4cb742506bba28293ca58f44" : {
+      "english" : "Desert Bazaar",
+      "translation" : "Десерт Базаар"
+   },
+   "bb17fc8ecf947279911e814c8e48f8a7" : {
+      "english" : "Pr",
+      "translation" : "Пр"
+   },
+   "bb5a54e4f691cc887853d47a3d7a57ba" : {
+      "english" : "Vigilārium",
+      "translation" : "ВигилАриум"
+   },
+   "bbcfd9f5a08c0698dca5339dbc1f87ee" : {
+      "english" : "Build in own or neutral territory. Acquire large tracts of territory. Territory root. Train Citizens and research technologies. Garrison Soldiers for additional arrows.",
+      "translation" : "Градите на сопственој или неутралној територији. Добијте велике територије. Територијални корен. Обука грађана и истраживачке технологије. Гарнисон Солдиерс за додатне стреле."
+   },
+   "bc56d01d9a363802cbf4b65c2d1e807c" : {
+      "english" : "Apadāna",
+      "translation" : "Ападна"
+   },
+   "bcdcc79fe6f0d386b67d99f72864d5ec" : {
+      "english" : "Train Champions.",
+      "translation" : "Траин Цхампионс."
+   },
+   "bcea1ee54a6a0fed9b863256eb422278" : {
+      "english" : "Stathmos tōn Elepantōn",
+      "translation" : "Статхмос тАн ЕлепантА н"
+   },
+   "bda28c0b1170e2f37fef030d0386ecd8" : {
+      "english" : "Syssiton",
+      "translation" : "Сисситон"
+   },
+   "bfc03d78128a2def02c2e9bbe12fa824" : {
+      "english" : "Armāmentārium",
+      "translation" : "АрмА ментАриум"
+   },
+   "c0a9efa4e669e8c1875723a9893d10b1" : {
+      "english" : "TempleOfApedemak",
+      "translation" : "ТемплеОфАпедемак"
+   },
+   "c16ca0b9dea903199154a0af160d3f51" : {
+      "english" : "Aedēs Vestālis",
+      "translation" : "Аед'с ВестАлис"
+   },
+   "c186dec5c7c661bbf7ffcc7d00ac0764" : {
+      "english" : "Ballistārium",
+      "translation" : "БаллистАриум"
+   },
    "c42513cae8832df2fd0a0b5ec769fd55" : {
       "english" : "Research food gathering technologies.",
       "translation" : "Истражите технологије прикупљања хране."
+   },
+   "c6552ea92e0bfb5870bd420b81dc1db2" : {
+      "english" : "Large Pyramid",
+      "translation" : "Велика пирамида"
+   },
+   "cbe484422f1df744e627284c01d03021" : {
+      "english" : "Mnw nht",
+      "translation" : "Мнв нхт"
+   },
+   "cef8eb6f6de06a1476e327b56516c1ea" : {
+      "english" : "Magos",
+      "translation" : "Магос"
+   },
+   "d080757314974eaea4984ee96ffdeeb9" : {
+      "english" : "Shrine",
+      "translation" : "Светилиште"
    },
    "d24e413ca28f8f5ac2a73e64bbc3e931" : {
       "english" : "Parthenōn",
       "translation" : "ПартхенА н"
    },
+   "d26ca56565de4316af5f9dec93b06160" : {
+      "english" : "Ỉḥ Abu",
+      "translation" : "а »ˆа¸ ¥ Абу"
+   },
+   "d46bd559d669a3bf921c52b60cadef69" : {
+      "english" : "Train Cavalry and research Cavalry technologies.",
+      "translation" : "Обучите коњицу и истражите технологије коњице."
+   },
+   "d692fc6f08e9910c9b6803f1b26dc7e3" : {
+      "english" : "Train Iberian Mercenaries and research Mercenary technologies.",
+      "translation" : "Обучите иберијске плаћенике и истражите технологије плаћеника."
+   },
+   "d8bec912addaece946ed6924974c36e0" : {
+      "english" : "Porta Circummūnītiōnis",
+      "translation" : "Порта ЦирцуммА «натиА¡нис"
+   },
+   "d9394066970e44ae252fd0347e58c03e" : {
+      "english" : "mr",
+      "translation" : "господин"
+   },
+   "dbc28e6a50bccff2f9764a12950e38df" : {
+      "english" : "tsmt ʿȝ",
+      "translation" : "тсмт Е¿Е"
+   },
+   "dcb66ff6e4a2517ade22183779939c9d" : {
+      "english" : "Rate",
+      "translation" : "Рате"
+   },
+   "dd537a28a89a134e211387a1355d3304" : {
+      "english" : "RotaryMill",
+      "translation" : "РотариМилл"
+   },
+   "def20db7429215bd046d094343d29ffa" : {
+      "english" : "Practice Range",
+      "translation" : "Вјежбалиште"
+   },
+   "df09e6b25ae335febd8ba69ee7daa07b" : {
+      "english" : "trtr",
+      "translation" : "тртр"
+   },
+   "df7682ce346e5f570ab18838bbe45e67" : {
+      "english" : "TempleOfAmun",
+      "translation" : "ТемплеОфАмун"
+   },
+   "e1464159b9d734e638b6d87546bf6873" : {
+      "english" : "Teichos",
+      "translation" : "Теицхос"
+   },
+   "e14caa1776c59be98cbf777b41cf4bf1" : {
+      "english" : "Build upon a shoreline in own, neutral, or allied territory. Establish trade routes. Construct Ships and research Ship technologies.",
+      "translation" : "Градите на обали на сопственој, неутралној или савезничкој територији. Успоставите трговачке путеве. Конструисати бродове и истраживати Бродске технологије."
+   },
+   "e1be5afd0b0f44c5c42501c515874cf2" : {
+      "english" : "Train Italic Mercenaries and research Mercenary technologies.",
+      "translation" : "Обучавајте италске плаћенике и истражујте технологије плаћеника."
+   },
+   "e307b25272b6c505624cca4c2cb339d3" : {
+      "english" : "Harvest grain for food. Each subsequent gatherer works less efficiently.",
+      "translation" : "Жање жито за храну. Сваки следећи сакупљач ради мање ефикасно."
+   },
+   "e31f497477bd5d7d30eaf0312f8afa18" : {
+      "english" : "Remogantion",
+      "translation" : "Ремогантион"
+   },
    "e34cce61e74971b68c11701e97def4f7" : {
       "english" : "BoltTower",
       "translation" : "БолтТовер"
+   },
+   "e4943f6a4e8e63cee52d090175d15fd2" : {
+      "english" : "mr ʿȝ",
+      "translation" : "мр Е¿Е"
+   },
+   "e4ce4409a1518c852c1a23f7bd50764e" : {
+      "english" : "ihy",
+      "translation" : "ихи"
+   },
+   "e6bc4de854eac7662fc9c0d6db4b083e" : {
+      "english" : "Tegia",
+      "translation" : "Тегиа"
+   },
+   "e935488d175615a4c272f6421945c6dc" : {
+      "english" : "Train Heroes. Garrison Soldiers for additional arrows.",
+      "translation" : "Траин Хероес. Гарнисон Солдиерс за додатне стреле."
+   },
+   "e98ab6fc407b55b9f02867e211c342ca" : {
+      "english" : "Wall off an area. Build in own or neutral territory.",
+      "translation" : "Зидите подручје. Градите на сопственој или неутралној територији."
+   },
+   "ea1f345d65ac75bb7de68eaa947b269f" : {
+      "english" : "Wall off an area. Build in own, neutral, or enemy territory.",
+      "translation" : "Зидите подручје. Градите на сопственој, неутралној или непријатељској територији."
+   },
+   "ec1d84d8b2ae91a5cd0db93460c1c087" : {
+      "english" : "Train Celtic Mercenaries and research Mercenary technologies.",
+      "translation" : "Обучите келтске плаћенике и истражите технологије плаћеника."
+   },
+   "ee9eb2abcfd6c74b04f236340814aac7" : {
+      "english" : "Castra",
+      "translation" : "Цастра"
+   },
+   "eef0d7c7b44a411ed319ad62fb4037d7" : {
+      "english" : "TempleOfMars",
+      "translation" : "ТемплеОфМарс"
+   },
+   "ef63c2cebe365f81f899327a2f044988" : {
+      "english" : "sht",
+      "translation" : "схт"
+   },
+   "f088210743bb9c33a6f0b1a7f31664a5" : {
+      "english" : "Train Noba Mercenaries.",
+      "translation" : "Обучите плаћенике Ноба."
+   },
+   "f0fca8dbc8ca9f8dd2ecf9263b8edd0c" : {
+      "english" : "Hoplothēkē",
+      "translation" : "ХоплотхА “кА“"
+   },
+   "f1e0365c880aac3114c89bebe2ef755e" : {
+      "english" : "Assembly of Princes",
+      "translation" : "Скупштина кнежева"
+   },
+   "f2131fd15557cd497cdbd965d07816d3" : {
+      "english" : "Turris Līgnea",
+      "translation" : "Туррис Лагнеа"
+   },
+   "f2900e542a8b391c402eda38c1c69255" : {
+      "english" : "Research attack damage and damage resistance technologies.",
+      "translation" : "Истражите оштећења од напада и технологије отпорности на оштећења."
+   },
+   "f3420878dba37c89f3c27cfd8fdf0cee" : {
+      "english" : "Amphitheātrum",
+      "translation" : "Амфитечка труба"
+   },
+   "f534b0671fed34dfb9c5c26a97613d29" : {
+      "english" : "Throne Hall",
+      "translation" : "Тхроне Халл"
+   },
+   "f5fdfee9d81b4c7826c1a8e0e58269f4" : {
+      "english" : "Uxelon",
+      "translation" : "Укелон"
+   },
+   "f6298e069c3ba6ade250bc43356cda1b" : {
+      "english" : "Gobanion",
+      "translation" : "Гобанион"
    },
    "f7a7b0f684039a3a3c7354534f1d98b6" : {
       "english" : "Can be converted into a Gate.",
@@ -90,5 +798,13 @@
    "fbe664996db5b2a65a68946be40f8d65" : {
       "english" : "Stratopedon",
       "translation" : "Стратопедон"
+   },
+   "fd689ca6376965eb7d6bb45b27658a76" : {
+      "english" : "Build upon a shoreline in own, neutral, or allied territory. Acquire large tracts of territory. Territory root. Train Citizens, construct Ships, and research technologies. Garrison Soldiers for additional arrows.",
+      "translation" : "Градите на обали на сопственој, неутралној или савезничкој територији. Добијте велике територије. Територијални корен. Обучавати грађане, конструисати бродове и истраживати технологије. Гарнисон Солдиерс за додатне стреле."
+   },
+   "ff8a525197afec1f32ddf07ea64cc909" : {
+      "english" : "TriumphalArch",
+      "translation" : "Славолук"
    }
 }

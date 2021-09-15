@@ -1,31 +1,107 @@
 {
+   "01620c64121115eb202820da3aa901c8" : {
+      "english" : "  hotkey.session.togglehealrange – Toggle heal range visualizations of selected units",
+      "translation" : "  hotkey.session.togglehealrange- Укључите / искључите визуализације опсега лечења изабраних јединица"
+   },
+   "028350fa041a64a73489bcf63351acde" : {
+      "english" : "• [font=\\\"sans-bold-14\\\"]Skirmish map[font=\\\"sans-14\\\"] – A map created by map designers but where the civilizations can be chosen",
+      "translation" : "• [font=\\\"sans-bold-14\\\"]Карта окршаја[font=\\\"sans-14\\\"]- Мапа коју су направили дизајнери мапа, али на којој се могу изабрати цивилизације"
+   },
+   "0999b44401e7b2e92cf5a05aa9bc5eb2" : {
+      "english" : "  hotkey.camera.left – Pan screen left",
+      "translation" : "  hotkey.camera.left- Померите екран лево"
+   },
    "0abc961d71384519897c0892b15c740d" : {
       "english" : "  Triple Left Click \\\\[on unit] – Select all of your units of the same kind and the same rank on the screen",
       "translation" : "Троструки леви клик\\\\[на јединици] - Изаберите све своје јединице исте врсте и истог ранга на екрану"
    },
+   "0ea6830461416e479e360104ff96e7b0" : {
+      "english" : "  hotkey.session.gui.barter.toggle – Toggle in-game barter and trade panel",
+      "translation" : "  hotkey.session.gui.barter.toggle-Укључите траку за размену и трговину у игри"
+   },
    "0eb88a24bd6a21dca9c6c422c1aef6d5" : {
       "english" : "  hotkey.camera.up – Pan screen up",
-      "translation" : "хоткеи.цамера.уп - Померајте екран нагоре"
+      "translation" : "  hotkey.camera.up- Померите екран нагоре"
+   },
+   "0ffc2bef7159452b7be8250141ef1fc2" : {
+      "english" : "  hotkey.selection.group.save.1 – Create control group 1 (by default, respectively 2,3, ...) from the selected unit(s)/structure(s)",
+      "translation" : "   hotkey.selection.group.save.1 - Направите контролну групу 1 (подразумевано, односно 2,3, ...) од изабраних јединица/структура/структура"
+   },
+   "10541ab133d8dc917855ffe30803e006" : {
+      "english" : "  hotkey.camera.rotate.wheel.ccw – Rotate camera counter-clockwise around terrain",
+      "translation" : "   hotkey.camera.rotate.wheel.ccw -Ротирајте камеру у смеру супротном од казаљке на сату око терена"
    },
    "11a364e29ff0ec06c518a9294b4ee41f" : {
       "english" : "  hotkey.cancel – Close all dialogs (chat, menu)",
-      "translation" : "хоткеи.цанцел - Затворите све дијалоге (ћаскање, мени)"
+      "translation" : "   hotkey.cancel - Затворите све дијалоге (ћаскање, мени)"
+   },
+   "128e50e4d217eddde8412ffc77136b6a" : {
+      "english" : "  hotkey.session.garrison + Right Click on structure – Garrison",
+      "translation" : "   hotkey.session.garrison + Десни клик на структуру - Гаррисон"
+   },
+   "13d9804b26ded6ae6961136206c04eab" : {
+      "english" : "  hotkey.selection.add + Left Click or Left Drag over unit on map – Add unit to selection",
+      "translation" : "   hotkey.selection.add + Леви клик или леви тастер Превуците преко јединице на мапи - Додајте јединицу у избор"
+   },
+   "181d3075bff3c97078fe82453b40b8e3" : {
+      "english" : "  hotkey.selection.militaryonly + Left Drag over units on map – Only select military units",
+      "translation" : "  hotkey.selection.militaryonly+ Лијево Повуците јединице на карти - само одаберите војне јединице"
+   },
+   "190574dd1745c0d2874fcfd5030eb168" : {
+      "english" : "  hotkey.civinfo – Toggle civilization info panel",
+      "translation" : "   hotkey.civinfo - Укључите / искључите информативни панел цивилизације"
    },
    "193dd2f16f28815d538fa69136ff8490" : {
       "english" : "  hotkey.session.rotate.cw – Rotate structure 15 degrees clockwise",
-      "translation" : "хоткеи.сессион.ротате.цв - Ротирајте структуру за 15 степени у смеру казаљке на сату"
+      "translation" : "   hotkey.session.rotate.cw - Ротирајте структуру за 15 степени у смеру казаљке на сату"
+   },
+   "19c999a6d3cd774ee840ff7917a452f9" : {
+      "english" : "  hotkey.session.backtowork – The unit will go back to work",
+      "translation" : "  hotkey.session.backtowork- Уређај ће се вратити на посао"
+   },
+   "1f6a3fdf16886a628fafd7676828a03b" : {
+      "english" : "  hotkey.session.batchtrain + Left Click when training units – Add units in batches (the batch size is 5 by default and can be changed in the options)",
+      "translation" : "   hotkey.session.batchtrain + Леви клик при обучавању јединица - Додајте јединице у серијама (величина серије је подразумевано 5 и може се променити у опцијама)"
+   },
+   "1fce1c6be5322e3a3c377f1506b826e5" : {
+      "english" : "  hotkey.session.rotate.ccw – Rotate structure 15 degrees counter-clockwise",
+      "translation" : "  hotkey.session.rotate.ccw-Ротирајте структуру за 15 степени у смеру супротном од казаљке на сату"
+   },
+   "222e56d35592ac53bd9d4ed9a1ae7cfb" : {
+      "english" : "  hotkey.camera.rotate.cw – Rotate camera clockwise around terrain",
+      "translation" : "  hotkey.camera.rotate.cw- Ротирајте камеру у смеру казаљке на сату око терена"
+   },
+   "225997ca76b9d844db8f4ae7d964b7a8" : {
+      "english" : "  hotkey.session.kill – Delete currently selected unit(s)/structure(s), ask for confirmation",
+      "translation" : "  hotkey.session.kill- Избришите тренутно изабране јединице/структуре, тражите потврду"
+   },
+   "252913f5cae5a87f77ebd42e6272e05d" : {
+      "english" : "  hotkey.quicksave – Quicksave",
+      "translation" : "   hotkey.quicksave - Куицксаве"
    },
    "25eed341792a08bc85f35ecfbbcd0569" : {
       "english" : "  hotkey.selection.add – Modifier – add to selection (works with clicking and hotkeys, e.g. the idle hotkeys)",
-      "translation" : "хоткеи.селецтион.адд - „Модификатор“ - додати у избор (ради са кликом и интервентним тастерима, нпр. типке у мировању)"
+      "translation" : "   hotkey.selection.add - „Модификатор“ - додавање у избор (ради са кликом и интервентним тастерима, нпр. типке у мировању)"
    },
    "28d944ebf2b8867cd85ce12882830032" : {
       "english" : "  hotkey.session.attackmoveUnit + Right Click with unit(s) selected – Attack move, only units along the way are targeted",
-      "translation" : "хоткеи.сессион.аттацкмовеУнит + Десни клик са изабраним јединицама / јединицама - Напад се креће, циљају се само јединице успут"
+      "translation" : "   hotkey.session.attackmove Јединица + Десни клик са изабраним јединицама (јединицама) - Напад се креће, циљају се само јединице на путу"
+   },
+   "2993f2693c8cf55cc03722c73d183bad" : {
+      "english" : "  hotkey.session.devcommands.toggle – Toggle developer overlay (with developer options)",
+      "translation" : "  hotkey.session.devcommands.toggle- Укључите / искључите преклапање програмера (са опцијама за програмере)"
+   },
+   "2aa1759f305e337e3eeeecba8d6c74cb" : {
+      "english" : "  hotkey.screenshot – Take screenshot (in .png format, location is displayed in the top left of the GUI after the file has been saved, and can also be seen in the console/logs if you miss it there)",
+      "translation" : "   hotkey.screenshot - Снимите снимак екрана (у .пнг формату, локација се приказује у горњем левом углу графичког интерфејса након што је датотека сачувана, а може се видети и у конзоли/евиденцијама ако је тамо пропустите)"
    },
    "2c7c3ebbddbd546a95326367f682b960" : {
       "english" : "  hotkey.session.diplomacycolors – Toggle diplomacy colors",
-      "translation" : "хоткеи.сессион.дипломацицолорс - Укључивање / искључивање боја дипломатије"
+      "translation" : "   hotkey.session.diplomacycolors - Укључите боје дипломатије"
+   },
+   "310d56d35246cdaea4e80a91a2fcb4f8" : {
+      "english" : "Finally change the settings. For random maps this includes the number of players, the size of a map, etc. For scenarios you can only select who controls which player (decides where you start on the map etc.). The options are either a human player, an AI or no player at all (the opponent will just be idle).",
+      "translation" : "Коначно промените подешавања. За насумичне карте ово укључује број играча, величину карте итд. За сценарије можете само изабрати ко контролише који играч (одлучује одакле ћете почети на мапи итд.). Опције су или људски играч, вештачка интелигенција или уопште нема играча (противник ће само бити беспослен)."
    },
    "35f860b776aa590a74db1418b91ba999" : {
       "english" : "To set up a multiplayer game, one player must select the “Host game” option. The game uses UDP port 20595, so the host must configure their NAT/firewall/etc. to allow this. Other players can then select “Join game” and enter the host's IP address.",
@@ -33,62 +109,370 @@
    },
    "3f017411de70ba99fbc82606fbf642bb" : {
       "english" : "  hotkey.selection.idleworker – Select idle worker (including citizen-soldiers)",
-      "translation" : "хоткеи.селецтион.идлеворкер-Изаберите незапосленог радника (укључујући грађане-војнике)"
+      "translation" : "   hotkey.selection.idleworker -Изаберите беспосленог радника (укључујући грађане-војнике)"
+   },
+   "3f1905fe982d34abb363f8c3712f6cfc" : {
+      "english" : "  hotkey.exit – Immediately close the game, without asking for confirmation",
+      "translation" : "   hotkey.exit - Одмах затворите игру, не тражећи потврду"
+   },
+   "40e1084b1ca094c87e0fc4919ce19bb4" : {
+      "english" : "  hotkey.camera.rotate.up – Rotate camera to look upward",
+      "translation" : "   hotkey.camera.rotate.up - Окрените камеру да погледате нагоре"
+   },
+   "424640735e753c95ff82f9480848420c" : {
+      "english" : "  hotkey.camera.jump.1 – Move the camera to a marked position. Jump back to the last location if the camera is already over the marked position",
+      "translation" : "  hotkey.camera.jump.1- Померите камеру на означено место. Скочите назад на последњу локацију ако је камера већ изнад означеног положаја"
+   },
+   "4248b647133c1bb3ad72aef750933a1b" : {
+      "english" : "  hotkey.session.gui.tutorial.toggle – Toggle in-game tutorial panel",
+      "translation" : "   hotkey.session.gui.tutorial.toggle -Укључите / искључите панел са упутствима у игри"
+   },
+   "4cf2b70431ca4a59465f05aec7c58516" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Modify mouse action[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Измените радњу миша[font=\\\"sans-14\\\"]"
+   },
+   "4e4251a33de16cf11ac322b5bcb31414" : {
+      "english" : "  highlightguarding.showstatusbars – See all status bars (which would also show the building progress)",
+      "translation" : "хигхлигхтгуардинг.сховстатусбарс - Погледајте све статусне траке (које би такође показале напредак изградње)"
+   },
+   "4e443fc65f64f99c059916c8c641335b" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]During Structure Placement[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Током постављања структуре[font=\\\"sans-14\\\"]"
+   },
+   "55773e6ff09877bc9c11c055d711fd80" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]Hotkeys[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Хоткеис[font=\\\"sans-14\\\"]"
+   },
+   "5815a369bd66057572f69369f1c9f537" : {
+      "english" : "  hotkey.structree – Toggle structure tree panel",
+      "translation" : "  hotkey.structree• Укључивање / искључивање стабла структуре"
+   },
+   "5a85181131cb2b9441a121a7fc3b2e6a" : {
+      "english" : "  hotkey.console.toggle – Toggle console",
+      "translation" : "   hotkey.console.toggle - Укључите / искључите конзолу"
+   },
+   "5ba6ed20fd97a57631fe605c9a8adbfc" : {
+      "english" : "  hotkey.session.patrol + Right Click – Patrol",
+      "translation" : "  hotkey.session.patrol+ Десни клик - Патрола"
+   },
+   "6106d198fb8d0fb89c226b5a2aa5a473" : {
+      "english" : "When you are ready to start, click the “Start game” button.",
+      "translation" : "Када будете спремни за почетак, кликните на дугме „Покрени игру“."
+   },
+   "622cf98cba3edfaf4e712a7a9ef28480" : {
+      "english" : "  hotkey.session.queueunit.1, hotkey.session.queueunit.2, hotkey.session.queueunit.3, hotkey.session.queueunit.4, hotkey.session.queueunit.5, hotkey.session.queueunit.6, hotkey.session.queueunit.7 – With training structure selected. Add the 1st, 2nd, … unit shown to the training queue for all the selected structures",
+      "translation" : "   hotkey.session.queueunit.1 ,  hotkey.session.queueunit.2 ,  hotkey.session.queueunit.3 ,  hotkey.session.queueunit.4 ,  hotkey.session.queueunit.5 ,  hotkey.session.queueunit.6 ,  hotkey.session.queueunit.7 - Са одабраном структуром обуке. Додајте 1., 2., а € ¦ јединицу приказану у ред обуке за све изабране структуре"
+   },
+   "64ce9117ee095606f9974d73cc853ba3" : {
+      "english" : "  hotkey.camera.zoom.out, hotkey.camera.zoom.wheel.out – Zoom out (keep pressed for continuous zoom)",
+      "translation" : "   hotkey.camera.zoom.out ,  hotkey.camera.zoom.wheel.out - Умањивање (држите притиснутим за непрекидно зумирање)"
    },
    "64ceb28aeef04257c7899fc4f7aaf6b1" : {
       "english" : "  hotkey.selection.group.select.1 – Select the unit(s)/structure(s) in control group 1",
-      "translation" : "хоткеи.селецтион.гроуп.селецт.1 - Изаберите јединицу (е)/структуру (е) у контролној групи 1"
+      "translation" : "  hotkey.selection.group.select.1- Одаберите јединице/структуре у контролној групи 1"
+   },
+   "660755a015c64612eb31b89e3de5c416" : {
+      "english" : "  hotkey.selection.idleonly + Left Drag over units on map – Only select idle units",
+      "translation" : "   hotkey.selection.idleonly + Лијево Повуците јединице на карти - само одаберите јединице у стању мировања"
+   },
+   "68cb7f925a92fc4b6543b09fc801a26a" : {
+      "english" : "  hotkey.privatechat – Chat with the previously selected private chat partner",
+      "translation" : "   hotkey.privatechat - Ћаскајте са претходно изабраним приватним партнером за ћаскање"
+   },
+   "68f5d3da29ae386e2aa51eba466894ab" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]When loading a saved game[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Приликом учитавања сачуване игре[font=\\\"sans-14\\\"]"
    },
    "69327de14c6d5ec1102fe57bdc01b42d" : {
       "english" : "  hotkey.session.gui.menu.toggle – Toggle menu",
-      "translation" : "хоткеи.сессион.гуи.мену.тоггле - Пребацивање менија"
+      "translation" : "   hotkey.session.gui.menu.toggle - Пребацивање менија"
+   },
+   "7272fb9c6931df801e68981965c2b7c3" : {
+      "english" : "  hotkey.session.repair + Right Click on structure – Repair",
+      "translation" : "   hotkey.session.repair + Десни клик на структуру - Поправите"
+   },
+   "7852408c45ac718f19d05580ca66960d" : {
+      "english" : "  hotkey.session.garrison + Right Click with unit(s) selected – Garrison (If the cursor is over an own or allied structure)",
+      "translation" : "   hotkey.session.garrison + Десни клик са одабраним јединицама - Гаррисон (Ако је курсор изнад сопствене или сродне структуре)"
+   },
+   "7b71570fb0920e30c3220bce587c670f" : {
+      "english" : "  hotkey.tab.prev – Switch to the previous tab",
+      "translation" : "   hotkey.tab.prev - Пређите на претходну картицу"
+   },
+   "7dece502bc166d26b272432438c2db15" : {
+      "english" : "  hotkey.session.gui.diplomacy.toggle – Toggle in-game diplomacy panel",
+      "translation" : "   hotkey.session.gui.diplomacy.toggle -Укључите панел за дипломатију у игри"
+   },
+   "80b394807fcc8d44406cc6e0e83b50bd" : {
+      "english" : "  hotkey.selection.idlebuilder – Select idle builder",
+      "translation" : "   hotkey.selection.idlebuilder - Изаберите неактивног градитеља"
    },
    "81a7048f68255672f70d1d44eeac4455" : {
       "english" : "  hotkey.selection.idleunit – Select idle unit",
-      "translation" : "хоткеи.селецтион.идлеунит - Изаберите јединицу у стању мировања"
+      "translation" : "  hotkey.selection.idleunit- Одаберите јединицу у стању мировања"
+   },
+   "84918cb674912b651c5e31b608adf466" : {
+      "english" : "  hotkey.camera.rotate.ccw – Rotate camera counter-clockwise around terrain",
+      "translation" : "  hotkey.camera.rotate.ccw-Ротирајте камеру у смеру супротном од казаљке на сату око терена"
+   },
+   "85f6272df87be18e542c219d4e483f21" : {
+      "english" : "  hotkey.camera.down – Pan screen down",
+      "translation" : "   hotkey.camera.down - Померите екран надоле"
+   },
+   "86dcc4e0e46fb7d181746e5628ad6d37" : {
+      "english" : "  hotkey.session.unload – Unload the garrisoned units of the selected structure(s)",
+      "translation" : "   hotkey.session.unload - Истоварите гарнизоване јединице изабране структуре (структура)"
+   },
+   "890449c6f102cb8796947c8b37be0e10" : {
+      "english" : "  hotkey.confirm – Open chat or send message",
+      "translation" : "   hotkey.confirm - Отворите цхат или пошаљите поруку"
+   },
+   "89cd3840b240fed60b7543f3501f4c08" : {
+      "english" : "  hotkey.session.snaptoedges + Mouse Move near structures – Align the new structure with an existing nearby structure",
+      "translation" : "   hotkey.session.snaptoedges + Миш Померите се близу структура - Поравнајте нову структуру са постојећом структуром у близини"
+   },
+   "8ccd83de3dc58c4e9c46efe8181494e3" : {
+      "english" : "  hotkey.session.queue + Right Click – Queue the move/build/gather/etc. order",
+      "translation" : "   hotkey.session.queue + Десни клик - Ставите у ред за премештање/изградњу/окупљање/итд. ред"
+   },
+   "8e72fa6d3b4088da0d152ce63fc5cd8c" : {
+      "english" : "  hotkey.selection.offscreen – Modifier – add all units, including offscreen units, to selection.",
+      "translation" : "   hotkey.selection.offscreen „Модификатор“ - додајте све јединице, укључујући јединице изван екрана, у избор."
    },
    "8fdfa3696f7e1c10d372f80fd7465c34" : {
       "english" : "  hotkey.selection.remove + Left Click or Left Drag over unit on map – Remove unit from selection",
-      "translation" : "хоткеи.селецтион.ремове + Леви клик или лево Превуците јединицу на мапи - Уклоните јединицу из избора"
+      "translation" : "   hotkey.selection.remove + Леви клик или леви тастер Превуците јединицу на мапи - Уклоните јединицу из избора"
+   },
+   "906f2c4fbc7014a3d1f34beb980a04fd" : {
+      "english" : "  Alt + Double Left Click \\\\[on unit] – Select all your units of the same kind on the entire map (even if they have different ranks)",
+      "translation" : "Алт + двоструки леви клик\\\\[на јединици] - Одаберите све своје јединице исте врсте на цијелој карти (чак и ако имају различите рангове)"
+   },
+   "936ff845bd39a36b345ac31ccda98de0" : {
+      "english" : "  hotkey.camera.reset – Reset camera zoom and orientation",
+      "translation" : "   hotkey.camera.reset - Ресетујте зумирање и оријентацију камере"
+   },
+   "93fd123099bd9979408fa7336fa8856b" : {
+      "english" : "  hotkey.selection.remove – Modifier – remove from selection (works with clicking and hotkeys, e.g. the idle hotkeys)",
+      "translation" : "   hotkey.selection.remove „Модификатор“ - уклоните из избора (ради са кликом и интервентним тастерима, нпр. неактивним интервентним тастерима)"
+   },
+   "94f4dcae73913d4c7891aff287d8819e" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Overlays[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Оверлаис[font=\\\"sans-14\\\"]"
+   },
+   "99bd945d206b80ad65a80b84824888af" : {
+      "english" : "  hotkey.session.flare + Right Click – Send a flare to your allies",
+      "translation" : "  hotkey.session.flare+ Десни клик - пошаљите сигнал својим савезницима"
+   },
+   "9e64f2518fead6af06ea4d175a48b027" : {
+      "english" : "  Alt + Triple Left Click \\\\[on unit] – Select all your units of the same kind and rank on the entire map",
+      "translation" : "Алт + троструки леви клик\\\\[на јединици] - Одаберите све своје јединице исте врсте и рангирајте их на цијелој карти"
+   },
+   "9f8839deb5652946b6c602fafcbae437" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Camera manipulation[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Манипулација камером[font=\\\"sans-14\\\"]"
+   },
+   "9ff56c3b3e4944ec2836c2ff9f62badd" : {
+      "english" : "  hotkey.session.gui.toggle – Toggle the GUI",
+      "translation" : "   hotkey.session.gui.toggle • Укључите / искључите графички интерфејс"
+   },
+   "a02f61ce68ba667baa483e298a2a0f86" : {
+      "english" : "  hotkey.cancel – Cancel",
+      "translation" : "  hotkey.cancel- Откажи"
    },
    "a2f2f3b318280499d9dcfb8080b28438" : {
       "english" : "  hotkey.lobby – Show the multiplayer lobby in a dialog window",
-      "translation" : "хоткеи.лобби - Прикажите предворје за више играча у прозору за дијалог"
+      "translation" : "   hotkey.lobby - Прикажите предворје за више играча у прозору за дијалог"
+   },
+   "a605c30f5509eaed6075c89c85d5b7d5" : {
+      "english" : "You may change hotkeys in [font=\\\"sans-bold-14\\\"]Options > Hotkeys[font=\\\"sans-14\\\"] to suit your liking.",
+      "translation" : "Можете да промените интервентне тастере[font=\\\"sans-bold-14\\\"]Опције> Интервентни тастери[font=\\\"sans-14\\\"]да одговара вашем укусу."
    },
    "a668a6fb331140d8982f770c058b1f7b" : {
       "english" : "  hotkey.quickload – Quickload",
-      "translation" : "хоткеи.куицклоад - Куицклоад"
+      "translation" : "   hotkey.quickload - Брзо учитавање"
+   },
+   "afd6e999282698930775ebf19bfa0ea1" : {
+      "english" : "  hotkey.session.toggleaurasrange – Toggle aura range visualizations of selected units and structures",
+      "translation" : "   hotkey.session.toggleaurasrange - Укључивање / искључивање визуелизације опсега ауре изабраних јединица и структура"
+   },
+   "b08733852df7ad54bea0f3525b466eb4" : {
+      "english" : "  hotkey.camera.jump.set.1 – Mark the current camera position, for jumping back to later (by default, there are 4 possible positions)",
+      "translation" : "   hotkey.camera.jump.set.1 - Означите тренутну позицију камере за скок на касније (подразумевано постоје 4 могуће позиције)"
+   },
+   "b200dfa2aec71e5fe9da8790bb213ddb" : {
+      "english" : "  hotkey.session.highlightguarding with unit(s)/structure(s) selected – Highlight the unit(s) guarding the selection",
+      "translation" : "   hotkey.session.highlightguarding са изабраним јединицама/структурама - означите јединице које чувају избор"
+   },
+   "b26e6b3833502a8c969ef34f84774400" : {
+      "english" : "  hotkey.camera.right – Pan screen right",
+      "translation" : "  hotkey.camera.right- Окрените екран десно"
    },
    "b6c2d53ef0d50c485a312a20c1f922d5" : {
       "english" : "  hotkey.camera.follow – Follow the selected unit (move the camera to stop following the unit)",
-      "translation" : "хоткеи.цамера.фоллов - Пратите изабрану јединицу (померите камеру да престане да прати јединицу)"
+      "translation" : "   hotkey.camera.follow - Пратите изабрану јединицу (померите камеру да престане да прати јединицу)"
+   },
+   "b719fca913458709ffbee24da2811b92" : {
+      "english" : "  hotkey.fps.toggle – Toggle frame counter (FPS)",
+      "translation" : "   hotkey.fps.toggle - Укључивање / искључивање бројача оквира (ФПС)"
+   },
+   "b85503e903602456629618ebe995523d" : {
+      "english" : "  hotkey.profile.save – Save current profiler data to “logs/profile.txt”",
+      "translation" : "  hotkey.profile.save• Сачувајте тренутне податке о профилисању у „логс/профиле.ткт“"
+   },
+   "bdf719ce25baf3271c16b7b3bcf0366c" : {
+      "english" : "  hotkey.summary – Toggle summary window",
+      "translation" : "   hotkey.summary • Укључивање / искључивање прозора са резимеом"
+   },
+   "be4657fb1b764041b7e821cbeaa6f737" : {
+      "english" : "  hotkey.session.stop – Stop (halt) the currently selected units",
+      "translation" : "   hotkey.session.stop - Зауставите (зауставите) тренутно изабране јединице"
+   },
+   "bfd3c2670ae9f26b426564555d5acfe4" : {
+      "english" : "  hotkey.silhouettes – Toggle unit silhouettes (might give a small performance boost)",
+      "translation" : "   hotkey.silhouettes - Укључивање / искључивање силуета јединица (може дати мали учинак)"
+   },
+   "c18c065a0d03029d3490f4815d3f7d3c" : {
+      "english" : "• [font=\\\"sans-bold-14\\\"]Single-player[font=\\\"sans-14\\\"] – Play a sandbox game or against one or more computer players (AI). The default AI (Petra) is under development and may not always be up to date on the new features, but you can play the game with or against it nonetheless.",
+      "translation" : "• [font=\\\"sans-bold-14\\\"]За једног играча[font=\\\"sans-14\\\"]- Играјте игру у сандбок -у или против једног или више рачунарских играча (АИ). Подразумевани АИ (Петра) је у развоју и можда неће увек бити у току са новим функцијама, али ипак можете играти игру са или против ње."
+   },
+   "c223c1f648a41a46b3e053df22b49ba4" : {
+      "english" : "    • With hotkey.session.savedgames.noconfirmation – Don't ask for confirmation",
+      "translation" : "а € ¢ Са hotkey.session.savedgames.noconfirmation - Не тражите потврду"
+   },
+   "c3977f85dd3aa9cd0c5fdb578b863556" : {
+      "english" : "  hotkey.profile.toggle – Toggle real-time profiler (cycles through the displays of information)",
+      "translation" : "  hotkey.profile.toggle-Укључите / искључите профил у реалном времену (кружи кроз приказе информација)"
+   },
+   "c4cf3ba9c9355d56fc927556c1e4ab00" : {
+      "english" : "  Left Drag – Rotate structure using mouse (foundation will be placed on mouse release)",
+      "translation" : "Превуците лево - Ротирајте структуру помоћу миша (темељ ће бити постављен на отпуштање миша)"
+   },
+   "c586eb793c4681b0e1a370b577711bdc" : {
+      "english" : "  hotkey.session.highlightguarded with unit(s) selected – Highlight the unit(s)/structure(s) guarded by the selection",
+      "translation" : "   hotkey.session.highlightguarded са изабраним јединицама - Означите јединице/структуре заштићене избором"
+   },
+   "c59dee81d8c98dc2aa2dec50ffe7acf4" : {
+      "english" : "  hotkey.pause – Pause or resume the game",
+      "translation" : "   hotkey.pause - Паузирајте или наставите игру"
+   },
+   "c6d7cd231c0331e6c2509abce9df4cee" : {
+      "english" : "  hotkey.session.attack + Right Click with unit(s) selected – Attack (instead of capture or gather)",
+      "translation" : "   hotkey.session.attack + Десни клик са изабраним јединицама / јединицама - Напад (уместо хватања или прикупљања)"
+   },
+   "c7876e4c6146a2d656732adbab0446d6" : {
+      "english" : "  hotkey.teamchat – Send team chat",
+      "translation" : "  hotkey.teamchat- Пошаљите тимски разговор"
+   },
+   "c7967922c9f0c16b7bc5ea1cd97c2962" : {
+      "english" : "  hotkey.session.savedgames.delete – Delete the selected saved game, ask for confirmation",
+      "translation" : "   hotkey.session.savedgames.delete - Избришите изабрану сачувану игру, тражите потврду"
+   },
+   "c7aa85d9ef81706c8cd6d4aceaac1a59" : {
+      "english" : "  hotkey.tab.next – Switch to the next tab",
+      "translation" : "  hotkey.tab.next- Пређите на следећу картицу"
+   },
+   "ca6b89a76cbb8b24c4900e5a6637b884" : {
+      "english" : "• Mouse wheel, or “hotkey.camera.zoom.in” and “hotkey.camera.zoom.out” keys, to zoom",
+      "translation" : "„Точак миша“ или „хоткеи.цамера.зоом.ин“ и „хоткеи.цамера.зоом.оут“ тастери за зумирање"
+   },
+   "cb6525ca643f44b700ce8e6951843283" : {
+      "english" : "  hotkey.selection.group.add.1 – Add control group 1 (to 0) to the selected unit(s)/structure(s)",
+      "translation" : "  hotkey.selection.group.add.1- Додајте контролну групу 1 (на 0) изабраним јединицама/структурама"
+   },
+   "cb7e72d395895cd0be776d513b83aa10" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]In Game[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]У игри[font=\\\"sans-14\\\"]"
+   },
+   "cd132c238c65389a38018899e5b96db9" : {
+      "english" : "  hotkey.camera.zoom.in, hotkey.camera.zoom.wheel.in – Zoom in (keep pressed for continuous zoom)",
+      "translation" : "хоткеи.цамера.зоом.ин,hotkey.camera.zoom.wheel.in- Зумирање (држите притиснутим за непрекидно зумирање)"
    },
    "d3fd9eac5fe61b9c44291c203b0e8128" : {
       "english" : "  hotkey.selection.woundedonly + Left Drag over units on map – Only select wounded units",
-      "translation" : "хоткеи.селецтион.воундедонли + Лево Превуците јединице на мапи - само изаберите рањене јединице"
+      "translation" : "  hotkey.selection.woundedonly+ Лијево Повуците јединице на карти - Само одаберите рањене јединице"
+   },
+   "d501b337f791952ebb843766f763c77e" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]Game setup[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Подешавање игре[font=\\\"sans-14\\\"]"
+   },
+   "d6a3a956fd164a77c51a0ced93431d7d" : {
+      "english" : "  hotkey.camera.rotate.down – Rotate camera to look downward",
+      "translation" : "   hotkey.camera.rotate.down - Окрените камеру да гледате надоле"
+   },
+   "da36f790879c411af9b5c36194c49672" : {
+      "english" : "  hotkey.togglefullscreen – Toggle between fullscreen and windowed",
+      "translation" : "  hotkey.togglefullscreen- Пребацивање између приказа преко целог екрана и прозора"
+   },
+   "dcf89ef048ce8ec556981ec9116abe91" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Program-wide[font=\\\"sans-14\\\"]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Широм програма[font=\\\"sans-14\\\"]"
+   },
+   "dec66b0343ff79ee6ab4d084be77e2b4" : {
+      "english" : "  hotkey.timeelapsedcounter.toggle – Toggle time elapsed counter",
+      "translation" : "   hotkey.timeelapsedcounter.toggle - Укључите / искључите бројач протеклог времена"
+   },
+   "e0447b8841fed999cc5a0a3ae22caeb4" : {
+      "english" : "  Right Click with a structure(s) selected – Set a rally point for units created/ungarrisoned from that structure",
+      "translation" : "Десни клик са изабраним структурама (структурама) - Поставите тачку окупљања јединица креираних/неограничених из те структуре"
+   },
+   "e2fbc2d98d65180ec9a4cc35f6c07a96" : {
+      "english" : "  hotkey.selection.idlewarrior – Select idle fighter",
+      "translation" : "   hotkey.selection.idlewarrior - Изаберите празног борца"
+   },
+   "e3b7c52385cfbd6d72d3a16c81a89726" : {
+      "english" : "  Double Left Click \\\\[on unit] – Select all of your units of the same kind on the screen (even if they're different ranks)",
+      "translation" : "Двоструки леви клик\\\\[на јединици] - Изаберите све своје јединице исте врсте на екрану (чак и ако су различитих рангова)"
    },
    "e471664ada74219bf32410318d0d67a2" : {
       "english" : "  hotkey.camera.pan – Keep pressed and move the mouse to pan",
-      "translation" : "хоткеи.цамера.пан - Држите притиснутим и померите миш за померање"
+      "translation" : "   hotkey.camera.pan - Држите притиснуто и померите миша за померање"
+   },
+   "e4d1a1d43f4ba5f887a4cfe776f87ecf" : {
+      "english" : "  hotkey.session.toggleattackrange – Toggle attack range visualizations of selected units and structures",
+      "translation" : "   hotkey.session.toggleattackrange - Укључите / искључите визуализацију распона напада изабраних јединица и структура"
+   },
+   "e560aaef4ff29a8fd44b50ada480a4bc" : {
+      "english" : "  hotkey.selection.nonmilitaryonly + Left Drag over units on map – Only select non-military units",
+      "translation" : "   hotkey.selection.nonmilitaryonly + Лијево Повуците јединице на карти-само одаберите невојне јединице"
    },
    "e60859bc6dcf6b1c91a40a188fb31ec0" : {
       "english" : "    • With hotkey.session.noconfirmation – Immediately delete currently selected unit(s)/structure(s), without asking for confirmation",
-      "translation" : "с хоткеи.сессион.ноцонфирматион - Одмах избришите тренутно одабране јединице/структуре, без тражења потврде"
+      "translation" : "а € ¢ Са hotkey.session.noconfirmation - Одмах избришите тренутно одабране јединице/структуре, без тражења потврде"
+   },
+   "e746666b0ad9fc9b5daa38bab5e04141" : {
+      "english" : "  hotkey.session.gui.objectives.toggle – Toggle in-game objectives panel",
+      "translation" : "  hotkey.session.gui.objectives.toggle-Укључите / искључите таблу циљева у игри"
    },
    "e919d5f3e8a1b35f88ba59d557b79bcc" : {
       "english" : "  hotkey.session.attackmove + Right Click with unit(s) selected – Attack move (by default all enemy units and structures along the way are targeted)",
-      "translation" : "хоткеи.сессион.аттацкмове + Десни клик са одабраним јединицама - потез напада (подразумевано се циљају све непријатељске јединице и структуре на путу)"
+      "translation" : "  hotkey.session.attackmove+ Десни клик са одабраним јединицама / јединицама - Покрет за напад (подразумевано се циљају све непријатељске јединице и структуре на путу)"
    },
    "f16fadb3dc4627b57c451ddea71b7366" : {
       "english" : "Then the maps can be further filtered. The default maps are generally playable maps. Naval maps are maps where not all opponents can be reached over land and demo maps are maps used for testing purposes (generally not useful to play on). The “All Maps” filter shows all maps together in one list.",
       "translation" : "Затим се карте могу додатно филтрирати. Подразумеване мапе су генерално мапе за репродукцију. Поморске карте су карте на којима није могуће доћи до свих противника са копна, а демо карте су карте које се користе за тестирање (опћенито није корисно за игру). Филтер „Све мапе“ приказује све карте заједно на једној листи."
    },
+   "f4ba67b9340d3f6e8251717cb6963ea9" : {
+      "english" : "  hotkey.bigscreenshot – Take huge screenshot (6400×4800 pixels, in .bmp format, location is displayed in the top left of the GUI after the file has been saved, and can also be seen in the console/logs if you miss it there)",
+      "translation" : "  hotkey.bigscreenshot- Направите велики снимак екрана (6400 × 4800 пиксела, у .бмп формату, локација је приказана у горњем левом углу графичког интерфејса након што је датотека сачувана, а може се видети и на конзоли/евиденцијама ако је тамо пропустите)"
+   },
    "f4c9d4e162e09a3ba0abac62e2f51db9" : {
       "english" : "• [font=\\\"sans-bold-14\\\"]Scenario map[font=\\\"sans-14\\\"] – A map created by map designers and with fixed civilizations",
-      "translation" : "[фонт u003d \\ \"санс-болд-14 \\\"] Мапа сценарија [фонт u003d \\ \"санс-14 \\\"]-Мапа коју су направили дизајнери мапа и са фиксним цивилизацијама"
+      "translation" : "• [font=\\\"sans-bold-14\\\"]Мапа сценарија[font=\\\"sans-14\\\"]- Мапа коју су створили дизајнери карата и са непокретним цивилизацијама"
+   },
+   "f55a29af444ebe7a67379aa9dc47e9df" : {
+      "english" : "  hotkey.session.orderone + Right Click – Order one unit from the current selection to move/build/gather/etc. and unselect it. Used to quickly dispatch units with specific tasks",
+      "translation" : "   hotkey.session.orderone + Десни клик - Наручите једну јединицу из тренутног избора за премјештање/изградњу/прикупљање/итд. и опозовите избор. Користи се за брзо слање јединица са одређеним задацима"
+   },
+   "f89fc8c7a2909c4a8eebda19e2ab9ef2" : {
+      "english" : "  hotkey.selection.cancel – Unselect all units, cancel building placement.",
+      "translation" : "  hotkey.selection.cancel- Поништите одабир свих јединица, откажите постављање зграде."
    },
    "fb961edf3bdb3a95caf77390906ae190" : {
       "english" : "  hotkey.camera.rotate.wheel.cw – Rotate camera clockwise around terrain",
-      "translation" : "хоткеи.цамера.ротате.вхеел.цв - Ротирајте камеру у смеру казаљке на сату око терена"
+      "translation" : "   hotkey.camera.rotate.wheel.cw - Ротирајте камеру у смеру казаљке на сату око терена"
+   },
+   "fe024155eea5571078ee27a988133f97" : {
+      "english" : "  hotkey.wireframe – Toggle wireframe mode (press once to get wireframes overlaid over the textured models, twice to get just the wireframes colored by the textures, thrice to get back to normal textured mode)",
+      "translation" : "   hotkey.wireframe - Укључите / искључите жичани оквир (притисните једном како бисте жичане оквире прекрили преко текстурираних модела, двапут да бисте само жичане оквире обојили по текстурама, три пута да бисте се вратили у нормални текстурирани режим)"
    }
 }

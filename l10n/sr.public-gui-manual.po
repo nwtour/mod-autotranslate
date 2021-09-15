@@ -117,7 +117,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:25
 msgid "[font=\"sans-bold-16\"]Game setup[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-16\"]Подешавање игре[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:26
 msgid "In a multiplayer game, only the host can alter the game setup options."
@@ -165,11 +165,11 @@ msgstr ""
 
 #: gui/manual/intro.txt:37
 msgid "When you are ready to start, click the “Start game” button."
-msgstr ""
+msgstr "(*) Када будете спремни за почетак, кликните на дугме „Покрени игру“."
 
 #: gui/manual/intro.txt:39
 msgid "[font=\"sans-bold-16\"]Hotkeys[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-16\"]Хоткеис[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:40
 msgid ""
@@ -179,7 +179,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:42
 msgid "[font=\"sans-bold-14\"]Program-wide[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Широм програма[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:43
 msgid ""
@@ -188,15 +188,15 @@ msgstr ""
 
 #: gui/manual/intro.txt:44
 msgid "  hotkey.togglefullscreen – Toggle between fullscreen and windowed"
-msgstr ""
+msgstr "(*)   hotkey.togglefullscreen- Пребацивање између приказа преко целог екрана и прозора"
 
 #: gui/manual/intro.txt:45
 msgid "  hotkey.console.toggle – Toggle console"
-msgstr ""
+msgstr "(*)    hotkey.console.toggle - Укључите / искључите конзолу"
 
 #: gui/manual/intro.txt:46
 msgid "  hotkey.fps.toggle – Toggle frame counter (FPS)"
-msgstr ""
+msgstr "(*)    hotkey.fps.toggle - Укључивање / искључивање бројача оквира (ФПС)"
 
 #: gui/manual/intro.txt:47
 msgid ""
@@ -225,15 +225,15 @@ msgstr ""
 
 #: gui/manual/intro.txt:51
 msgid "  hotkey.tab.next – Switch to the next tab"
-msgstr ""
+msgstr "(*)   hotkey.tab.next- Пређите на следећу картицу"
 
 #: gui/manual/intro.txt:52
 msgid "  hotkey.tab.prev – Switch to the previous tab"
-msgstr ""
+msgstr "(*)    hotkey.tab.prev - Пређите на претходну картицу"
 
 #: gui/manual/intro.txt:54
 msgid "[font=\"sans-bold-14\"]In Game[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]У игри[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:55
 msgid ""
@@ -261,31 +261,31 @@ msgstr ""
 
 #: gui/manual/intro.txt:59
 msgid "  hotkey.quicksave – Quicksave"
-msgstr ""
+msgstr "(*)    hotkey.quicksave - Куицксаве"
 
 #: gui/manual/intro.txt:60
 msgid "  hotkey.quickload – Quickload"
-msgstr ""
+msgstr "(*)    hotkey.quickload - Брзо учитавање"
 
 #: gui/manual/intro.txt:61
 msgid "  hotkey.session.gui.menu.toggle – Toggle menu"
-msgstr ""
+msgstr "(*)    hotkey.session.gui.menu.toggle - Пребацивање менија"
 
 #: gui/manual/intro.txt:62
 msgid "  hotkey.timeelapsedcounter.toggle – Toggle time elapsed counter"
-msgstr ""
+msgstr "(*)    hotkey.timeelapsedcounter.toggle - Укључите / искључите бројач протеклог времена"
 
 #: gui/manual/intro.txt:63
 msgid "  hotkey.cancel – Close all dialogs (chat, menu)"
-msgstr ""
+msgstr "(*)    hotkey.cancel - Затворите све дијалоге (ћаскање, мени)"
 
 #: gui/manual/intro.txt:64
 msgid "  hotkey.confirm – Open chat or send message"
-msgstr ""
+msgstr "(*)    hotkey.confirm - Отворите цхат или пошаљите поруку"
 
 #: gui/manual/intro.txt:65
 msgid "  hotkey.teamchat – Send team chat"
-msgstr ""
+msgstr "(*)   hotkey.teamchat- Пошаљите тимски разговор"
 
 #: gui/manual/intro.txt:66
 msgid ""
@@ -295,7 +295,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:67
 msgid "  hotkey.pause – Pause or resume the game"
-msgstr ""
+msgstr "(*)    hotkey.pause - Паузирајте или наставите игру"
 
 #: gui/manual/intro.txt:68
 msgid ""
@@ -334,11 +334,11 @@ msgstr ""
 
 #: gui/manual/intro.txt:74
 msgid "  hotkey.selection.idlebuilder – Select idle builder"
-msgstr ""
+msgstr "(*)    hotkey.selection.idlebuilder - Изаберите неактивног градитеља"
 
 #: gui/manual/intro.txt:75
 msgid "  hotkey.selection.idlewarrior – Select idle fighter"
-msgstr ""
+msgstr "(*)    hotkey.selection.idlewarrior - Изаберите празног борца"
 
 #: gui/manual/intro.txt:76
 msgid ""
@@ -348,15 +348,15 @@ msgstr ""
 
 #: gui/manual/intro.txt:77
 msgid "  hotkey.selection.idleunit – Select idle unit"
-msgstr ""
+msgstr "(*)   hotkey.selection.idleunit- Одаберите јединицу у стању мировања"
 
 #: gui/manual/intro.txt:78
 msgid "  hotkey.session.stop – Stop (halt) the currently selected units"
-msgstr ""
+msgstr "(*)    hotkey.session.stop - Зауставите (зауставите) тренутно изабране јединице"
 
 #: gui/manual/intro.txt:79
 msgid "  hotkey.session.backtowork – The unit will go back to work"
-msgstr ""
+msgstr "(*)   hotkey.session.backtowork- Уређај ће се вратити на посао"
 
 #: gui/manual/intro.txt:80
 msgid ""
@@ -423,15 +423,15 @@ msgstr ""
 
 #: gui/manual/intro.txt:90
 msgid "  hotkey.summary – Toggle summary window"
-msgstr ""
+msgstr "(*)    hotkey.summary • Укључивање / искључивање прозора са резимеом"
 
 #: gui/manual/intro.txt:91
 msgid "  hotkey.lobby – Show the multiplayer lobby in a dialog window"
-msgstr ""
+msgstr "(*)    hotkey.lobby - Прикажите предворје за више играча у прозору за дијалог"
 
 #: gui/manual/intro.txt:92
 msgid "  hotkey.session.gui.diplomacy.toggle – Toggle in-game diplomacy panel"
-msgstr ""
+msgstr "(*)    hotkey.session.gui.diplomacy.toggle -Укључите панел за дипломатију у игри"
 
 #: gui/manual/intro.txt:93
 msgid ""
@@ -445,31 +445,31 @@ msgstr ""
 
 #: gui/manual/intro.txt:95
 msgid "  hotkey.session.gui.tutorial.toggle – Toggle in-game tutorial panel"
-msgstr ""
+msgstr "(*)    hotkey.session.gui.tutorial.toggle -Укључите / искључите панел са упутствима у игри"
 
 #: gui/manual/intro.txt:96
 msgid "  hotkey.structree – Toggle structure tree panel"
-msgstr ""
+msgstr "(*)   hotkey.structree• Укључивање / искључивање стабла структуре"
 
 #: gui/manual/intro.txt:97
 msgid "  hotkey.civinfo – Toggle civilization info panel"
-msgstr ""
+msgstr "(*)    hotkey.civinfo - Укључите / искључите информативни панел цивилизације"
 
 #: gui/manual/intro.txt:99
 msgid "[font=\"sans-bold-14\"]Modify mouse action[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Измените радњу миша[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:100
 msgid "  hotkey.session.garrison + Right Click on structure – Garrison"
-msgstr ""
+msgstr "(*)    hotkey.session.garrison + Десни клик на структуру - Гаррисон"
 
 #: gui/manual/intro.txt:101
 msgid "  hotkey.session.repair + Right Click on structure – Repair"
-msgstr ""
+msgstr "(*)    hotkey.session.repair + Десни клик на структуру - Поправите"
 
 #: gui/manual/intro.txt:102
 msgid "  hotkey.session.patrol + Right Click – Patrol"
-msgstr ""
+msgstr "(*)   hotkey.session.patrol+ Десни клик - Патрола"
 
 #: gui/manual/intro.txt:103
 msgid ""
@@ -564,15 +564,15 @@ msgstr ""
 
 #: gui/manual/intro.txt:118
 msgid "  hotkey.session.flare + Right Click – Send a flare to your allies"
-msgstr ""
+msgstr "(*)   hotkey.session.flare+ Десни клик - пошаљите сигнал својим савезницима"
 
 #: gui/manual/intro.txt:120
 msgid "[font=\"sans-bold-14\"]Overlays[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Оверлаис[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:121
 msgid "  hotkey.session.gui.toggle – Toggle the GUI"
-msgstr ""
+msgstr "(*)    hotkey.session.gui.toggle • Укључите / искључите графички интерфејс"
 
 #: gui/manual/intro.txt:122
 msgid ""
@@ -595,7 +595,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:125
 msgid "  hotkey.session.diplomacycolors – Toggle diplomacy colors"
-msgstr ""
+msgstr "(*)    hotkey.session.diplomacycolors - Укључите боје дипломатије"
 
 #: gui/manual/intro.txt:126
 msgid ""
@@ -617,35 +617,35 @@ msgstr ""
 
 #: gui/manual/intro.txt:130
 msgid "[font=\"sans-bold-14\"]Camera manipulation[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Манипулација камером[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:131
 msgid "  hotkey.camera.up – Pan screen up"
-msgstr ""
+msgstr "(*)   hotkey.camera.up- Померите екран нагоре"
 
 #: gui/manual/intro.txt:132
 msgid "  hotkey.camera.down – Pan screen down"
-msgstr ""
+msgstr "(*)    hotkey.camera.down - Померите екран надоле"
 
 #: gui/manual/intro.txt:133
 msgid "  hotkey.camera.left – Pan screen left"
-msgstr ""
+msgstr "(*)   hotkey.camera.left- Померите екран лево"
 
 #: gui/manual/intro.txt:134
 msgid "  hotkey.camera.right – Pan screen right"
-msgstr ""
+msgstr "(*)   hotkey.camera.right- Окрените екран десно"
 
 #: gui/manual/intro.txt:135
 msgid "  hotkey.camera.rotate.up – Rotate camera to look upward"
-msgstr ""
+msgstr "(*)    hotkey.camera.rotate.up - Окрените камеру да погледате нагоре"
 
 #: gui/manual/intro.txt:136
 msgid "  hotkey.camera.rotate.down – Rotate camera to look downward"
-msgstr ""
+msgstr "(*)    hotkey.camera.rotate.down - Окрените камеру да гледате надоле"
 
 #: gui/manual/intro.txt:137
 msgid "  hotkey.camera.rotate.cw – Rotate camera clockwise around terrain"
-msgstr ""
+msgstr "(*)   hotkey.camera.rotate.cw- Ротирајте камеру у смеру казаљке на сату око терена"
 
 #: gui/manual/intro.txt:138
 msgid ""
@@ -671,7 +671,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:142
 msgid "  hotkey.camera.reset – Reset camera zoom and orientation"
-msgstr ""
+msgstr "(*)    hotkey.camera.reset - Ресетујте зумирање и оријентацију камере"
 
 #: gui/manual/intro.txt:143
 msgid ""
@@ -687,11 +687,11 @@ msgstr ""
 
 #: gui/manual/intro.txt:145
 msgid "  hotkey.camera.pan – Keep pressed and move the mouse to pan"
-msgstr ""
+msgstr "(*)    hotkey.camera.pan - Држите притиснуто и померите миша за померање"
 
 #: gui/manual/intro.txt:147
 msgid "[font=\"sans-bold-14\"]During Structure Placement[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Током постављања структуре[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:148
 msgid ""
@@ -700,7 +700,7 @@ msgstr ""
 
 #: gui/manual/intro.txt:149
 msgid "  hotkey.session.rotate.cw – Rotate structure 15 degrees clockwise"
-msgstr ""
+msgstr "(*)    hotkey.session.rotate.cw - Ротирајте структуру за 15 степени у смеру казаљке на сату"
 
 #: gui/manual/intro.txt:150
 msgid ""
@@ -710,11 +710,11 @@ msgstr ""
 
 #: gui/manual/intro.txt:152
 msgid "[font=\"sans-bold-14\"]When loading a saved game[font=\"sans-14\"]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Приликом учитавања сачуване игре[font=\"sans-14\"]"
 
 #: gui/manual/intro.txt:153
 msgid "  hotkey.cancel – Cancel"
-msgstr ""
+msgstr "(*)   hotkey.cancel- Откажи"
 
 #: gui/manual/intro.txt:154
 msgid ""

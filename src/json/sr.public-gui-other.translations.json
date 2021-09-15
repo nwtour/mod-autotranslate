@@ -1,63 +1,1759 @@
 {
+   "001b95c087a6c621b6db0fe3a7d5785f" : {
+      "english" : "Game rating column",
+      "translation" : "Колона са оценама игре"
+   },
+   "003c33a409ea12558fe47629d2886178" : {
+      "english" : "Modifier to barter bunch of resources.",
+      "translation" : "Модификатор за размену гомиле ресурса."
+   },
+   "018c4c70c409e316f8d9dc227369709d" : {
+      "english" : "%(hotkey)s: Toggle the multiplayer lobby in a dialog window.",
+      "translation" : " %(hotkey)s : Укључите / искључите предворје за више играча у прозору за дијалог."
+   },
    "0196fb040851adac7d8dd9e8746f70dc" : {
       "english" : "Civilization Overview",
       "translation" : "Преглед цивилизације"
+   },
+   "0223ea35da21da8dadfaf687767cc17d" : {
+      "english" : "Attack Move",
+      "translation" : "Аттацк Мове"
+   },
+   "02ecff0b319facc3e4fb82c1cfd91cc1" : {
+      "english" : "Game Setup",
+      "translation" : "Подешавање игре"
+   },
+   "03970a3bd7c0c6e1c34a90d9f58435f2" : {
+      "english" : "%(resourceFirstWord)s exchanged",
+      "translation" : " %(resourceFirstWord)s разменили"
+   },
+   "0399a729b478b76173e47a1be766470c" : {
+      "english" : "Decrease camera rotation speed.",
+      "translation" : "Смањите брзину ротације камере."
+   },
+   "03b5d18200a2f59ed9128c68a1ba21ff" : {
+      "english" : "Hotkey Description",
+      "translation" : "Тастерска пречица Опис"
+   },
+   "0420a3d606e7c3955da7ad7dda670230" : {
+      "english" : "Increases firepower with garrisoned infantry.",
+      "translation" : "Повећава ватрену моћ помоћу гарнизоване пешадије."
+   },
+   "051bd784820d3a35e47b44c55d249463" : {
+      "english" : "Start the economic tutorial.",
+      "translation" : "Започните економски водич."
+   },
+   "05316bb3e7e2302ba4d66d60ef8bcf22" : {
+      "english" : "\\n     %(description)s",
+      "translation" : "\\n      %(description)s "
+   },
+   "05cd8aa0fff5dac7ae036014ab3585e1" : {
+      "english" : "Set camera jump position 2.",
+      "translation" : "Подесите положај скока камере 2."
+   },
+   "060e8f0bc3690d87edf238f806d51e26" : {
+      "english" : "Set the balance between performance and visual appearance.",
+      "translation" : "Поставите равнотежу између перформанси и визуелног изгледа."
+   },
+   "0640b9e936fe4bc91b86b23cdfd7a186" : {
+      "english" : "Mass barter",
+      "translation" : "Масовна размена"
+   },
+   "06453b7daf66b79a3e6fe9ea46bc776b" : {
+      "english" : "Researches:",
+      "translation" : "Истраживања:"
+   },
+   "069effef0cbac8e3cca6f6f248d185ff" : {
+      "english" : "All displayed",
+      "translation" : "Све приказано"
+   },
+   "06ae07800ec94d287ca2f810d390174f" : {
+      "english" : "Modifier to attackmove targeting only units when clicking on a point.",
+      "translation" : "Модификатор напада за померање циља само јединице када кликнете на тачку."
+   },
+   "06cb91a407703eced029900a9f2dddb3" : {
+      "english" : "%(nick)s — %(name)s",
+      "translation" : " %(nick)s  —  %(name)s "
+   },
+   "0777c6ddf97789f49ee9d3bfe4a2465b" : {
+      "english" : "Toggle unit silhouettes.",
+      "translation" : "Укључите / искључите силуете јединица."
+   },
+   "081bc607c78e2d452e987504e1fc9a1b" : {
+      "english" : "Strongest infantry unit in the game.",
+      "translation" : "Најјача пешадијска јединица у игри."
+   },
+   "08ae4440216a4987883617ba4bba7d2f" : {
+      "english" : "When ON shadows cover the whole map and shadows cutoff distance is ignored. Useful for making screenshots of a whole map.",
+      "translation" : "Када УКЉУЧЕНЕ сенке покривају целу мапу, а гранична удаљеност сенки се занемарује. Корисно за прављење снимака екрана целе карте."
+   },
+   "0911a5ce8ed6d560a1b0c57cd092792d" : {
+      "english" : "Queue 7th unit",
+      "translation" : "Ред 7 јединица"
+   },
+   "0944556c5779de6d2fc8e04ee09589ef" : {
+      "english" : "Bribes",
+      "translation" : "Мито"
+   },
+   "096945571836bc8bcab794ef6d616d42" : {
+      "english" : "Zoom camera out.",
+      "translation" : "Умањи камеру."
+   },
+   "0a495ba7cff9e1c4861aeab58775c0dc" : {
+      "english" : "Maps that come with scripted events and potentially spawn enemy units.",
+      "translation" : "Мапе које долазе са скриптним догађајима и потенцијално стварају непријатељске јединице."
+   },
+   "0a927d29a4a6dd7c244bd33350470cae" : {
+      "english" : "Select only wounded units",
+      "translation" : "Одаберите само рањене јединице"
+   },
+   "0aafa497807d5ac9b509656bd13b5283" : {
+      "english" : "Greek",
+      "translation" : "Грчки"
+   },
+   "0b17105895a083938132c0e895e2d26e" : {
+      "english" : "MSAA (4×)",
+      "translation" : "МСАА (4А—)"
+   },
+   "0b4d078fd0e3615f19e0eb268aa140a8" : {
+      "english" : "Therefore select some units, press and hold the right mouse button, draw any line, then release the button.",
+      "translation" : "Зато изаберите неке јединице, притисните и држите десни тастер миша, исцртајте било коју линију, а затим отпустите дугме."
+   },
+   "0da0616d195432bad92d33616a5bf104" : {
+      "english" : "Show the previous tab.",
+      "translation" : "Прикажи претходну картицу."
+   },
+   "0e14f8ff31e4043208d729d52f708f54" : {
+      "english" : "Automatically assign joining clients to free player slots during the match setup.",
+      "translation" : "Аутоматски доделите клијенте који се придружују бесплатним слот играчима током подешавања меча."
+   },
+   "0e5cc8c1f1004e9b47d6fa483d0ee27d" : {
+      "english" : "Turn off Auto-Queue for selected structures.",
+      "translation" : "Искључите Ауто-Куеуе за изабране структуре."
+   },
+   "0e73f375a0720f24a67d2745fd005d72" : {
+      "english" : "Toggle game-time overlay",
+      "translation" : "Укључите / искључите преклапање времена игре"
+   },
+   "0eb21eccb2427ea582fc24b9654eacc6" : {
+      "english" : "Fast-forward (timewarp)",
+      "translation" : "Премотавање унапред (временски период)"
+   },
+   "0f063441abf5c4176c1ec5d5d0c862ef" : {
+      "english" : "Game Session",
+      "translation" : "Сесија игре"
+   },
+   "0f4763d8d54dc625bdf38e623db4642d" : {
+      "english" : "Jump to camera position 4 (see “Set camera jump 4”).",
+      "translation" : "Скочите на положај камере 4 (погледајте „Подесите скок камере 4“)."
+   },
+   "0f80e736c24c1431424e0ff1d8d65e8f" : {
+      "english" : "Turn on Auto-Queue for selected structures.",
+      "translation" : "Укључите Ауто-Куеуе за изабране структуре."
+   },
+   "0f86b9143fdf0d3b712d0186d2d4ae4a" : {
+      "english" : "Deselect unit type",
+      "translation" : "Поништите избор типа јединице"
+   },
+   "0fa1ebe72da80a6a949033694e8fb7a3" : {
+      "english" : "Historical characters, such as Xerxes, Leonidas, Pericles, Hannibal, Scipio, and Boudicca.",
+      "translation" : "Историјски ликови, попут Ксеркса, Леониде, Перикла, Ханибала, Сципиона и Боудике."
+   },
+   "105da9c5fa9f8ac7ff088af799b4f7d5" : {
+      "english" : "Although reasonably easy for an experienced player, the default AI level is quite challenging for new players yet to master the basic mechanisms of the game. Beginners are advised to start by playing against a lower level AI (Sandbox or Very Easy). Change the AI level by clicking the gear icon next to the player you want to modify in the selection panel above.",
+      "translation" : "Иако је прилично лак за искусног играча, подразумевани ниво АИ је велики изазов за нове играче који још нису савладали основне механизме игре. Почетницима се саветује да почну играњем против АИ нижег нивоа (Сандбок или Вери Еаси). Промените АИ ниво кликом на икону зупчаника поред плејера који желите да измените на горњој табли за избор."
+   },
+   "107773a1c506b594d38ad905efda865c" : {
+      "english" : "Garrison",
+      "translation" : "Гаррисон"
+   },
+   "1396537a21582776ad21f6bf3190349f" : {
+      "english" : "Toggle diplomacy colors",
+      "translation" : "Укључите / искључите боје дипломатије"
+   },
+   "142e3acd3610d6c670ac3f74b36347c6" : {
+      "english" : "Trumpet",
+      "translation" : "Труба"
    },
    "150d27178d8370ce455a7e7b8fc06333" : {
       "english" : "Delete before cursor",
       "translation" : "Избриши пре курсора"
    },
+   "15618f348b5165b42451e6ed81d40521" : {
+      "english" : "Select next idle worker.",
+      "translation" : "Изаберите следећег радника у празном ходу."
+   },
+   "15908e7cfab590c16f7a79f4b3ea0df5" : {
+      "english" : "Duration reduction: %(durationReduction)s%%",
+      "translation" : "Смањење трајања: %(durationReduction)s %%"
+   },
+   "1613bd779198e2a3af2273cf7f5da01e" : {
+      "english" : "Unsaved changes will be lost",
+      "translation" : "Несачуване промене ће бити изгубљене"
+   },
+   "1700a10a9ffc5c66b2fced54739510af" : {
+      "english" : "Dynamically sort players in the resources and population tooltip by value.",
+      "translation" : "Динамички сортирајте играче у опису ресурса и популације према вредности."
+   },
+   "17145f3925e725e0e2f80a6d5f892e48" : {
+      "english" : "Smooth shadows.",
+      "translation" : "Глатке сенке."
+   },
+   "17213acf4286da50c2acf7ec0aaa5aff" : {
+      "english" : "Hotkeys active in the game setup screen.",
+      "translation" : "Интервентни тастери су активни на екрану за подешавање игре."
+   },
+   "1734f2e80832426906586281916d30f0" : {
+      "english" : "Ambient volume",
+      "translation" : "Амбијентална јачина звука"
+   },
    "180c87f94cd4283802656e44f79bb3b4" : {
       "english" : "Increase camera rotation speed.",
       "translation" : "Повећајте брзину ротације камере."
+   },
+   "187cc59b4e15fc81760f20462ea36461" : {
+      "english" : "Pledgie Drive 2",
+      "translation" : "Пледгие Дриве 2"
+   },
+   "192da57a8203a5dfbc251c28aae92379" : {
+      "english" : "When observing a game, automatically speed up if you start lagging, to catch up with the live match.",
+      "translation" : "Када посматрате утакмицу, аутоматски убрзајте ако почнете да заостајете, да бисте надокнадили утакмицу уживо."
+   },
+   "1a0daeb5fe7075a83191e63b7dadf9d0" : {
+      "english" : "Diplomacy colors: enemy",
+      "translation" : "Боје дипломатије: непријатељ"
+   },
+   "1a4f7e7ff8c423cd29fc6d59f175fa5d" : {
+      "english" : "Toggle chat window in team chat mode.",
+      "translation" : "Укључите / искључите прозор за ћаскање у режиму тимског ћаскања."
+   },
+   "1aaccf6e29241028682657bfad47a2cd" : {
+      "english" : "Diplomacy colors: ally",
+      "translation" : "Боје дипломатије: савезник"
+   },
+   "1b735bb3de3ade49025301e2ffc9cee4" : {
+      "english" : "Entities appearance is randomized normally.",
+      "translation" : "Изглед ентитета је обично насумичан."
+   },
+   "1b9e9227b4960bceed4f0dad9d5e9fa7" : {
+      "english" : "Generally flat, with a few watering holes and rocky outcrops.",
+      "translation" : "Уопштено равна, са неколико рупа за заливање и каменитим изданцима."
+   },
+   "1ba3b784ebd6233ee65ce851e1fa072c" : {
+      "english" : "Resulting locale:",
+      "translation" : "Резултујући локалитет:"
+   },
+   "1ba4649b0381b6ef4b535b60956c4a5c" : {
+      "english" : "Pan camera",
+      "translation" : "Пан цамера"
+   },
+   "1c00eb63df37c7740f094dff73c44e17" : {
+      "english" : "Gain an advantage on the battleground by tactically positioning your units!",
+      "translation" : "Стекните предност на бојном пољу тактичким постављањем својих јединица!"
    },
    "1c14375aca24b022908e8e073f09eb9f" : {
       "english" : "General hotkeys.",
       "translation" : "Општи интервентни тастери."
    },
+   "1c210ae757991d9e50f6814001cf0c64" : {
+      "english" : "Go to the next page.",
+      "translation" : "Идите на следећу страницу."
+   },
+   "1d1ea000e263f4cef76258efa822743e" : {
+      "english" : "Pick Random Map",
+      "translation" : "Изаберите случајну мапу"
+   },
+   "1ed045b752bdcc54d06ec2a86d52cffa" : {
+      "english" : "Could not find an unused port for the enet STUN client.",
+      "translation" : "Није могуће пронаћи некоришћени порт за енет СТУН клијента."
+   },
+   "1f021da370015caccaa43bd8dcc2526a" : {
+      "english" : "Show a chat notification if an ally tributes resources to another team member if teams are locked, and all tributes in observer mode.",
+      "translation" : "Прикажите обавештење о ћаскању ако савезник одаје ресурсе другом члану тима ако су тимови закључани, а све поклоне у режиму посматрача."
+   },
+   "1fcd8d4eefe84d92b905b69d588009c8" : {
+      "english" : "Next tab",
+      "translation" : "Следећа картица"
+   },
+   "2239ce6f09ce2717c66871476d4308c2" : {
+      "english" : "Model quality setting.",
+      "translation" : "Подешавање квалитета модела."
+   },
+   "225de253076178b99d01efc01dc272c3" : {
+      "english" : "Garrison troops aboard to increase fire power.",
+      "translation" : "Гарнизонске трупе на броду за повећање ватрене моћи."
+   },
+   "226c91dde5949391b388256772f7d280" : {
+      "english" : "Special Ptolemaic structures to increase your vision range when built on the shore.",
+      "translation" : "Посебне птолемејске структуре за повећање видног поља при изградњи на обали."
+   },
+   "22b9f1407199f7f32fef12336050151c" : {
+      "english" : "Flare display duration",
+      "translation" : "Трајање приказа фларе"
+   },
+   "230e900963807f8392c58a730c38b57f" : {
+      "english" : "Available to: Carthaginians, Kushites, Mauryas, Persians, Ptolemies, and Seleucids.",
+      "translation" : "Доступно: Картагињанима, Кушитима, Маурима, Персијанцима, Птоломејима и Селеукидима."
+   },
+   "24aff4e5c59651ebf5f8c1ba74e4322f" : {
+      "english" : "Select next idle worker",
+      "translation" : "Изаберите следећег радника у празном ходу"
+   },
+   "250751e51c11ffa306f5fc8f9f0a4e20" : {
+      "english" : "Zoom in (step-by-step)",
+      "translation" : "Увећај (корак по корак)"
+   },
+   "26c6b2752edd93c16f322286a29a49e6" : {
+      "english" : "Focus the camera on the position of the last attack notification.",
+      "translation" : "Фокусирајте камеру на позицију последњег обавештења о нападу."
+   },
+   "26cfc820af61e0aa0bfbc499bdf26514" : {
+      "english" : "Decrease camera zoom speed.",
+      "translation" : "Смањите брзину зума камере."
+   },
+   "282fb8f2809fffa9a5c34798e57d1acb" : {
+      "english" : "Modifier to garrison when clicking on building.",
+      "translation" : "Модификатор гарнизона при клику на зграду."
+   },
+   "2840f0bc1f7983c45713b94c7eac4ba5" : {
+      "english" : "Garrison Size",
+      "translation" : "Гаррисон Сизе"
+   },
+   "28a41bcde07b2266d5c6411b698ad5ce" : {
+      "english" : "Filter compatible replays",
+      "translation" : "Репродукције компатибилне са филтером"
+   },
+   "28d2119e1203c3b8aa4f93dfc0cc5627" : {
+      "english" : "Network warnings",
+      "translation" : "Упозорења на мрежи"
+   },
+   "290dc5afaa7348a7d83ec15d75f45468" : {
+      "english" : "Chat notification barter",
+      "translation" : "Размена обавештења о ћаскању"
+   },
+   "2923351dfede6807499f634b5eab1dd9" : {
+      "english" : "Harvest from animals, berry bushes, fish, or fields.",
+      "translation" : "Бере се са животиња, грмова бобица, рибе или поља."
+   },
+   "294aed2f5e61c85aaad574927e185f84" : {
+      "english" : "Display only generic names for entities.",
+      "translation" : "Прикажите само генеричка имена за ентитете."
+   },
+   "29736cb3345c711dd03cee804d840f22" : {
+      "english" : "Click to visit 0 A.D. Trac to report a bug, crash, or error.",
+      "translation" : "Кликните да посетите 0 А.Д. Трац да пријавите грешку, пад или грешку."
+   },
+   "2a829e54f48627bb4827a1cd2ca68f83" : {
+      "english" : "%(primaryName)s",
+      "translation" : "_ЛАЛАЛА_"
+   },
+   "2b939c51190bf841e71c7b4516e0d51d" : {
+      "english" : "upload failed (%(errorCode)s)",
+      "translation" : "отпремање није успело ( %(errorCode)s )"
+   },
+   "2c5b2ea700cc706473fff871d3eb037d" : {
+      "english" : "Destroy without confirmation",
+      "translation" : "Уништити без потврде"
+   },
+   "2c944a1ec33f2b9e355302bf639e738a" : {
+      "english" : "FidelityFX CAS",
+      "translation" : "ФиделитиФКС ЦАС"
+   },
+   "2d6734eb23fa2415526cc6a86e3fbf5a" : {
+      "english" : "Units and Structures can be part of multiple control groups. This is useful to keep control groups for distinct armies and a control group for the entire army simultaneously.",
+      "translation" : "Јединице и структуре могу бити део више контролних група. Ово је корисно за одржавање контролних група за различите војске и контролне групе за целу војску истовремено."
+   },
+   "2df393ddd24f034419bc95a677a0825d" : {
+      "english" : "Resetting the options will erase your saved settings. Do you want to continue?",
+      "translation" : "Поништавањем опција избрисаћете сачуване поставке. Да ли желите да наставите?"
+   },
+   "2e9ff1d766d092182c674d522f3b1aa6" : {
+      "english" : "When hosting, pause the game if observers are lagging more than this many turns. If set to -1, observers are ignored.",
+      "translation" : "Приликом хостинга паузирајте игру ако посматрачи заостају више од оволико скретања. Ако је постављено на -1, посматрачи се занемарују."
+   },
+   "2edb87a110188c3e438f683bf68c8051" : {
+      "english" : "Walk/Patrol Only",
+      "translation" : "Само ходање/патрола"
+   },
+   "2efdceb6f3d9dea0e8fc8ca62034d018" : {
+      "english" : "Toggle private chat",
+      "translation" : "Укључите / искључите приватно ћаскање"
+   },
+   "2f957d0714873b28381eaf0693a6f733" : {
+      "english" : "Delete the selected replay using %(hotkey)s.",
+      "translation" : "Избришите изабрану репродукцију помоћу %(hotkey)s ."
+   },
+   "2fdf63ebe74fdb970cdcd44d817b2819" : {
+      "english" : "(stacks)",
+      "translation" : "(гомиле)"
+   },
+   "3061a43dfbf91dedd8703397b154e0e0" : {
+      "english" : "%(hotkey)s: Close map browser.",
+      "translation" : " %(hotkey)s : Затворите прегледач мапа."
+   },
+   "3098400643960a328d3d641e6fa9ff71" : {
+      "english" : "Search Map:",
+      "translation" : "Претражите мапу:"
+   },
+   "30e51e8efd59d60787bbd02356348ab4" : {
+      "english" : "Click to delete the hotkey",
+      "translation" : "Кликните да бисте избрисали интервентни тастер"
+   },
+   "316141033c974924555d8dec06a00799" : {
+      "english" : "Show a chat notification to observers when a player bartered resources.",
+      "translation" : "Прикажите обавештење о ћаскању посматрачима када играч замени ресурсе."
+   },
+   "329c457dcfaf8a3e52c35d8de931136b" : {
+      "english" : "Diplomacy colors: neutral",
+      "translation" : "Боје дипломатије: неутралне"
+   },
+   "3350f5b7c3a85e0a8b83f38c1af8fd00" : {
+      "english" : "Select Control Group 9",
+      "translation" : "Изаберите Контролна група 9"
+   },
+   "33a759ae8076953b308df4b7e67a6005" : {
+      "english" : "Only generic names",
+      "translation" : "Само генеричка имена"
+   },
+   "33d3d3ecd62102fae3a3024bf2c2a540" : {
+      "english" : "UI sound gain.",
+      "translation" : "Повећање звука у корисничком интерфејсу."
+   },
+   "33de75847e6f337fea7749bf342eb729" : {
+      "english" : "%(playerName)s (%(civ)s, %(AIdescription)s)",
+      "translation" : " %(playerName)s  ( %(civ)s ,  %(AIdescription)s )"
+   },
+   "35fcf14fb3fa7a5a939064ea9761170d" : {
+      "english" : "%(rangeLabel)s %(maxRange)s (%(relativeRange)s) %(rangeUnit)s",
+      "translation" : " %(rangeLabel)s   %(maxRange)s  ( %(relativeRange)s )  %(rangeUnit)s "
+   },
+   "361a04e81c6171f9f09c7323f170e253" : {
+      "english" : "In-game GUI",
+      "translation" : "ГУИ у игри"
+   },
+   "373eec3a38a08ce26a2005b4f767a02e" : {
+      "english" : "FORGE",
+      "translation" : "ФОРГЕ"
+   },
+   "37a4555170a77cf3d8318a3997c3d4ab" : {
+      "english" : "Trained by:",
+      "translation" : "Обучено од:"
+   },
+   "383ff86ff959e52d39e1ac4811c75403" : {
+      "english" : "Unassigned hotkey: %(hotkeyName)s",
+      "translation" : "Неодређени интервентни тастер: %(hotkeyName)s "
+   },
+   "38596a8378eada9a3938644bdcfdc3b7" : {
+      "english" : "Tightly packed groups of structures can also be used for obstructing raiding enemies.",
+      "translation" : "Чврсто набијене групе структура могу се такође користити за ометање напада непријатеља."
+   },
+   "392ef35d3d0f4b01292d616059a0c2db" : {
+      "english" : "The structure is available to some civilizations to train elephant units.",
+      "translation" : "Структура је доступна неким цивилизацијама за обуку јединица слонова."
+   },
+   "3a3761725dbb742ab5c36e1abd83fa5d" : {
+      "english" : "BIOMES",
+      "translation" : "БИОМЕС"
+   },
+   "3ac9486f3a52ed289aade49608f154dd" : {
+      "english" : "Number of shader effects. REQUIRES GAME RESTART",
+      "translation" : "Број ефеката сенчника. ЗАХТЕВА ПОНОВНО ПОКРЕТАЊЕ ИГРЕ"
+   },
    "3ad08db6a3bdef629e08102662ad2839" : {
       "english" : "Create a unique map with a different resource distribution each time. Freely select the number of players and teams.",
       "translation" : "Сваки пут направите јединствену мапу са другачијом расподелом ресурса. Слободно изаберите број играча и тимова."
+   },
+   "3afb672eeeb6041582f3b43fab73cb22" : {
+      "english" : "A quick, cheap wooden wall available to all factions.",
+      "translation" : "Брз, јефтин дрвени зид доступан свим фракцијама."
+   },
+   "3afbd9828e011526955ca93b48b57524" : {
+      "english" : "Screenshot",
+      "translation" : "Сцреенсхот"
+   },
+   "3b051905bd25558ba4a225712523064b" : {
+      "english" : "Activate fast-forward mode. Must have activated timewarp.",
+      "translation" : "Активирајте режим премотавања унапред. Мора да је активиран тимеварп."
+   },
+   "3dbb9dbbf5110c468303a311e9ed4e2f" : {
+      "english" : "Allow everybody or buddies only to join the game as observer after it started.",
+      "translation" : "Дозволите свима или пријатељима само да се придруже игри као посматрач након што је започела."
+   },
+   "3dbe227f4fdbaf903e92b20b620e1494" : {
+      "english" : "Networking / Lobby",
+      "translation" : "Умрежавање / Лоби"
+   },
+   "3df2ff92d7b2718a26eebb36538ae49f" : {
+      "english" : "Turret Positions",
+      "translation" : "Положаји купола"
+   },
+   "3ea349923f45e0adc697dfaf70f1c937" : {
+      "english" : "CITY WALLS",
+      "translation" : "ГРАДСКЕ ЗИДИНЕ"
+   },
+   "3f1fcda5409228ba77cf0f80c6b117e9" : {
+      "english" : "Add Control Group 8 to the current selection.",
+      "translation" : "Додајте контролну групу 8 тренутном избору."
+   },
+   "3f2509e9aa2938df865acb3f783216ab" : {
+      "english" : "Confirm the current command.",
+      "translation" : "Потврдите тренутну команду."
+   },
+   "3fcb6a814236dfd951b7db4cd363b33a" : {
+      "english" : "Biomes can be used on some random maps and determine which region of the world the map represents.",
+      "translation" : "Биоми се могу користити на неким насумичним картама и одредити који део света карта представља."
+   },
+   "3fd6c178e1ae74d9b620df6c8c9585a3" : {
+      "english" : "When OFF, use the lowest settings possible to render water. This makes other settings irrelevant.",
+      "translation" : "Када је искључено, користите најниже могуће поставке за исцртавање воде. Ово чини друга подешавања небитним."
+   },
+   "404785fe7f97950b89fb26e88b3ecd7b" : {
+      "english" : "Sort resources and population tooltip",
+      "translation" : "Објашњење ресурса и популације"
+   },
+   "42e6ce9b0e36b892fa1d59d380e2aef8" : {
+      "english" : "Variant (unused):",
+      "translation" : "Варијанта (некоришћена):"
+   },
+   "43cbc12247eec069e32e89ad9a67dd3c" : {
+      "english" : "Community and Management",
+      "translation" : "Заједница и менаџмент"
+   },
+   "43d452a29692ecf9ae74bee0c7c315e0" : {
+      "english" : "Set Control Group 2",
+      "translation" : "Поставите контролну групу 2"
+   },
+   "445d8a8c15da20085a5fa927c25ce536" : {
+      "english" : "Enable welcome screen",
+      "translation" : "Омогући екран добродошлице"
+   },
+   "44d62a25bdd0c64db5c6ff0c17907e04" : {
+      "english" : "They are countered by ranged units and swordsmen, so support your spearmen with slingers or cavalry.",
+      "translation" : "Супротстављају им се дометнуте јединице и мачеваоци, па подржите своје копљанике праћкама или коњицом."
+   },
+   "44d9eec4e26b25afb4b37cf3f62b259b" : {
+      "english" : "%(hotkey)s: Switch to Structure Tree.",
+      "translation" : " %(hotkey)s : Пребацивање на стабло структуре."
+   },
+   "44f8b8f5f9aabe6cc8cc9cac25607d62" : {
+      "english" : "Modifier to attackmove when clicking on a point.",
+      "translation" : "Модификатор за кретање напада када кликнете на тачку."
+   },
+   "45bb24be5e521704c326f7abc062cd3b" : {
+      "english" : "Server full.",
+      "translation" : "Сервер пун."
+   },
+   "46848f4ffcbbd0d1acf36bd78d0455f0" : {
+      "english" : "ELEPHANT STABLE",
+      "translation" : "СЛОН СТАБИЛАН"
+   },
+   "46c2f6a048dd043ac9075dac37b4621e" : {
+      "english" : "Flare (hold)",
+      "translation" : "Ракета (задржи)"
+   },
+   "46cf1d26a2d6c633292f19f7a7c9a14f" : {
+      "english" : "Toggle MP lobby",
+      "translation" : "Укључите / искључите предворје МП"
+   },
+   "4755dd2349a54b16093fcb99d6f55748" : {
+      "english" : "Select next idle unit.",
+      "translation" : "Изаберите следећу јединицу у стању мировања."
+   },
+   "4931a9584f9e9adafcbffa1cd2572e51" : {
+      "english" : "[imgleft=\\\"iconLag\\\"]The game can have performance problems, especially with large maps and a great number of units.",
+      "translation" : "[имглефт u003d \\ \"ицонЛаг \\\"] Игра може имати проблема са перформансама, посебно са великим мапама и великим бројем јединица."
+   },
+   "497d56f821a9bdab326903c2af2560e5" : {
+      "english" : "Decrease map preview size.",
+      "translation" : "Смањи величину прегледа карте."
+   },
+   "49c91d2fad9b143ba82f35102327aba5" : {
+      "english" : "Rotate counterclockwise",
+      "translation" : "Ротирајте супротно од казаљке на сату"
+   },
+   "4a0c0ddfba895afacb498e672d3b010e" : {
+      "english" : "Unknown Victory Condition",
+      "translation" : "Непознато стање победе"
+   },
+   "4a31a0e739d4930cbc30e951c1560163" : {
+      "english" : "Reverts to previous saved settings",
+      "translation" : "Враћа се на претходна сачувана подешавања"
+   },
+   "4ae44543f76f7ff3716126ee75e48a5d" : {
+      "english" : "%(label)s: %(turretsLimit)s",
+      "translation" : " %(label)s :  %(turretsLimit)s "
+   },
+   "4bcd4ccece1403b5d825704a9c181895" : {
+      "english" : "Save current selection as Control Group 9.",
+      "translation" : "Сачувајте тренутни избор као контролну групу 9."
+   },
+   "4dd924852c9ec6bcb8a7a42ea5436af3" : {
+      "english" : "%(hotkey)s: Launch the multiplayer lobby to join and host publicly visible games and chat with other players.",
+      "translation" : " %(hotkey)s : Покрените предворје за више играча да бисте се придружили и угостили јавно видљиве игре и разговарали с другим играчима."
+   },
+   "4eb9ed99d7faf851c882cadb0a527fdf" : {
+      "english" : "Copy to clipboard.",
+      "translation" : "Копирај у привремену меморију."
+   },
+   "4edd4ed2dab747da6868e605b7e2f271" : {
+      "english" : "Art lead",
+      "translation" : "Арт леад"
+   },
+   "50544a1639089c3250f62d59a61b9eab" : {
+      "english" : "Add first unit type to queue.",
+      "translation" : "Додајте први тип јединице у ред."
+   },
+   "505b5714d28f2d5a7451b3d5b672f18e" : {
+      "english" : "Increases firepower with garrisoned catapults.",
+      "translation" : "Повећава ватрену моћ са гарнизованим катапултима."
+   },
+   "5114fa91726b909bea633b55eb517783" : {
+      "english" : "Queue 1st unit",
+      "translation" : "Ред 1. јединица"
+   },
+   "51cf7e9e12caadb5361c23d1451ee2ee" : {
+      "english" : "Claim large tracts of territory.",
+      "translation" : "Захтевајте велике територије."
+   },
+   "52005ae5877995d43444f98f85a66a5f" : {
+      "english" : "Special thanks to:",
+      "translation" : "Посебна захвалност за:"
+   },
+   "520083a0ba692d145441bc8f20cdb01e" : {
+      "english" : "Nomad Mode",
+      "translation" : "Номад Моде"
+   },
+   "52b1f10ee0e382acbcf407e9eb2f8faa" : {
+      "english" : "PYRAMIDS OF MEROË",
+      "translation" : "ПИРАМИДЕ МЕРОЈА"
+   },
+   "52ebc26c2921d5b84fc670dff9891821" : {
+      "english" : "Zoom out",
+      "translation" : "Умањи"
+   },
+   "5324a9ddd7f2dae3644766a540f0e6f1" : {
+      "english" : "Can be de-activated by choosing “no formation” as the default.",
+      "translation" : "Може се деактивирати одабиром \"без формације\" као задане."
+   },
+   "5326e11997b7f5bc70a7c9c1b1f83982" : {
+      "english" : "Careful! Fish are not an infinite resource!",
+      "translation" : "Пажљиво! Рибе нису бесконачан ресурс!"
+   },
+   "53423027222b99e6e449e12bfc323275" : {
+      "english" : "New Campaign",
+      "translation" : "Нова кампања"
+   },
+   "53702e331341f00bc2c7e4df5fd0f7c5" : {
+      "english" : "Rotate building clockwise",
+      "translation" : "Ротирајте зграду у смеру казаљке на сату"
+   },
+   "540d9daed084f91ced59cfb811afeaa3" : {
+      "english" : "In-game hotkeys.",
+      "translation" : "Интервентни тастери у игри."
+   },
+   "5481d2822574f9c5854b5e6ae7021cff" : {
+      "english" : "Detailed tooltips",
+      "translation" : "Детаљни савети"
+   },
+   "557e63e83087261e309fc4629e4a1aa4" : {
+      "english" : "Toggle in-game menu.",
+      "translation" : "Укључите / искључите мени у игри."
+   },
+   "55f3a2ef83ce489a6239aa9b01d73800" : {
+      "english" : "%(colorIndicator)s %(playerListing)s",
+      "translation" : " %(colorIndicator)s   %(playerListing)s "
+   },
+   "55fc376922c546bf87fa753643f86e26" : {
+      "english" : "Toggle profiler2",
+      "translation" : "Укључите / искључите профил 2"
+   },
+   "568611919482c82a02325bc55c29300a" : {
+      "english" : "Set Control Group 4",
+      "translation" : "Подесите контролну групу 4"
+   },
+   "57042d9a4207b023ee109faa5244e8d5" : {
+      "english" : "Status Effects:",
+      "translation" : "Ефекти статуса:"
+   },
+   "57045c0ff697a98d3e0c1dbf9229a44e" : {
+      "english" : "Chat timestamp",
+      "translation" : "Временска ознака ћаскања"
+   },
+   "57a4f8fed0b5e17d1637e6448f4e595b" : {
+      "english" : "Default behavior of the AI.",
+      "translation" : "Подразумевано понашање АИ."
+   },
+   "580f554335bc9150188934730678e4ad" : {
+      "english" : "When your ranged infantry units are occupying the turrets, they have additional armor and can shoot at the enemy. ",
+      "translation" : "Када ваше пешадијске јединице са дометом заузму куполе, оне имају додатни оклоп и могу пуцати у непријатеља."
+   },
+   "59379bdc939f9ebd43cd7c54bf9a9145" : {
+      "english" : "The scenario editor is not available or failed to load. See the game logs for additional information.",
+      "translation" : "Уређивач сценарија није доступан или се није учитао. За додатне информације погледајте записе игара."
+   },
+   "593adf9a72f346b835afbc872849c06f" : {
+      "english" : "(unused)",
+      "translation" : "(некоришћено)"
+   },
+   "59d0a6370080a6200939d427cc8f6057" : {
+      "english" : "Delete without confirmation",
+      "translation" : "Избриши без потврде"
+   },
+   "5bc93926281094faf2267b389f46bc34" : {
+      "english" : "Delete word to the right of cursor.",
+      "translation" : "Избришите реч десно од курсора."
+   },
+   "5c6ba25104401c9ee0650230fc6ba413" : {
+      "english" : "Tab",
+      "translation" : "Таб"
+   },
+   "5d3b7e106cddc8622b0751bfa0bddd86" : {
+      "english" : "Toggle status bars",
+      "translation" : "Укључите / искључите статусне траке"
+   },
+   "5d3d95cb74ad59528ab385023f8a2a39" : {
+      "english" : "Save profile",
+      "translation" : "Сачувај профил"
+   },
+   "5dfd07cd80acb9a52100746ea59adc38" : {
+      "english" : "Dropsite for:",
+      "translation" : "Одлагалиште за:"
+   },
+   "5e0d7988522fa82dd4a2ccda843056f9" : {
+      "english" : "Order an entity to leave a turret point.",
+      "translation" : "Наредите ентитету да напусти торањ куполе."
+   },
+   "5e1a70865cd8b5b296a5e08ae601ac35" : {
+      "english" : "Slow, but high-quality antialiasing, uses eight samples per pixel. Supported for GL3.3+.",
+      "translation" : "Споро, али висококвалитетно антиалиасинг, користи осам узорака по пикселу. Подржано за ГЛ3.3+."
+   },
+   "5ed32a3bdbaead7176a325cd8703deaa" : {
+      "english" : "Toggle guarded highlight",
+      "translation" : "Укључивање / искључивање заштићеног истицања"
+   },
+   "5f38e392d6312011bea3c217bb2b7a11" : {
+      "english" : "Catafalque Overview",
+      "translation" : "Преглед катафалка"
+   },
+   "5f43a50fbeadcef9a63d36a1ec0a0b22" : {
+      "english" : "You have been kicked.",
+      "translation" : "Шутирани сте."
+   },
+   "5f476f671f597d5e705567392d126c3c" : {
+      "english" : "Gatherable by Fishing Boats after the whale is killed.",
+      "translation" : "Скупљају га рибарски чамци након што је кит убијен."
+   },
+   "5fa08527512b9f5c232e1309f8939735" : {
+      "english" : "Show a chat notification if you or an ally have started, aborted or completed a new phase, and phases of all players in observer mode.",
+      "translation" : "Прикажите обавештење о ћаскању ако сте ви или ваш савезник започели, прекинули или завршили нову фазу и фазе свих играча у режиму посматрача."
+   },
+   "5fa4b3a154fc9f21845df952099cf46d" : {
+      "english" : "Scroll forwards or rotate up.",
+      "translation" : "Померајте се унапред или ротирајте нагоре."
+   },
+   "60e3ace45c9aac6086068af92bf80c1d" : {
+      "english" : "%(damage)s %(damageType)s %(resistancePercentage)s",
+      "translation" : " %(damage)s   %(damageType)s   %(resistancePercentage)s "
+   },
+   "61077d468c2cd1f5aaba1a3d95d61074" : {
+      "english" : "Contrast adaptive sharpening, a fast, contrast based sharpening pass.",
+      "translation" : "Адаптивно оштрење са контрастом, брзо оштрење засновано на контрасту."
+   },
+   "62543b5008bfa4973d31448a18fb2215" : {
+      "english" : "Cut down from trees or groves.",
+      "translation" : "Посечено са дрвећа или гајева."
+   },
+   "62f3042f9b87cf361475b9210bf38c09" : {
+      "english" : "HEROES",
+      "translation" : "ХЕРОЈИ"
+   },
+   "63b5ac0ab9aa7e1fb533466b763a0803" : {
+      "english" : "Units gain experience while garrisoned inside the building.",
+      "translation" : "Јединице стичу искуство док су у згради у гарнизону."
+   },
+   "63bdad7bd2517d0ef04e305ded6ead4f" : {
+      "english" : "High-quality water effects",
+      "translation" : "Квалитетни ефекти воде"
+   },
+   "64f32220f957a337e38e670de613b936" : {
+      "english" : "Always show the remaining ceasefire time.",
+      "translation" : "Увек прикажи преостало време прекида ватре."
+   },
+   "6529ac10957a522a09d74c4387d18c40" : {
+      "english" : "Increase camera scroll speed.",
+      "translation" : "Повећајте брзину померања камере."
+   },
+   "652a50daf136c002c2ca8f7c8f952469" : {
+      "english" : "Roam around the oceans of the game and flee when attacked.",
+      "translation" : "Лутајте по океанима игре и бежите када вас нападну."
+   },
+   "6545115020ba75241d0e86b22460dcdd" : {
+      "english" : "Focus on last attack notification",
+      "translation" : "Фокусирајте се на обавештење о последњем нападу"
+   },
+   "6588b5d438cb5ca36aec99fe8083c486" : {
+      "english" : "A cheap dropsite for non-food resources (Wood, Stone, Metal).",
+      "translation" : "Јефтино место за слање непрехрамбених ресурса (дрво, камен, метал)."
+   },
+   "661743fe651d0844cad9ef3aa87d6046" : {
+      "english" : "Train all citizen soldiers. Some civilizations can unlock the training of champions as well.",
+      "translation" : "Обучите све грађане војнике. Неке цивилизације могу откључати и обуку шампиона."
+   },
+   "66322d6a3db9caada57d67b77933353f" : {
+      "english" : "Players: %(numberOfPlayers)s",
+      "translation" : "Играчи: %(numberOfPlayers)s "
+   },
+   "66ba162102bbf6ae31b522aec561735e" : {
+      "english" : "Single",
+      "translation" : "Једно"
+   },
+   "66c58125a4acc6bb96e94e2a473112e4" : {
+      "english" : "Wounded unit health",
+      "translation" : "Здравље рањене јединице"
+   },
+   "67bedd010aa3b6bd0a21588aaee49668" : {
+      "english" : "You have been defeated…",
+      "translation" : "Поражени сте ... ¦"
+   },
+   "67c1630ba573558f0027cd3e6680e1be" : {
+      "english" : "Camera-related hotkeys.",
+      "translation" : "Интервентни тастери повезани са камером."
+   },
+   "686014ec7d0936f80d5db17a173ecd9b" : {
+      "english" : "Show the Welcome Screen again. Useful if you hid it by mistake.",
+      "translation" : "Поново прикажите екран добродошлице. Корисно ако сте га грешком сакрили."
+   },
+   "688b113f739a629dfebe1ed96602712d" : {
+      "english" : "%(label)s %(costs)s",
+      "translation" : " %(label)s   %(costs)s "
+   },
+   "69029de23d212699963fd00f3a5d8b04" : {
+      "english" : "Toggle product/company watermark for official screenshots.",
+      "translation" : "Укључите/искључите водени жиг производа/компаније за званичне снимке екрана."
+   },
+   "690bf775621be0086de9bc786ec5de72" : {
+      "english" : "SNAPPING",
+      "translation" : "СНАППИНГ"
+   },
+   "69691c7bdcc3ce6d5d8a1361f22d04ac" : {
+      "english" : "M",
+      "translation" : "М."
+   },
+   "69780f2b803aa0ccc02b121af7602639" : {
+      "english" : "Increase scroll speed",
+      "translation" : "Повећајте брзину померања"
+   },
+   "69d917a1d7e6bfffceb6a1b213fd45b5" : {
+      "english" : "Change game options.",
+      "translation" : "Промените опције игре."
+   },
+   "69edde90a1c38b2efccc65419fc0e540" : {
+      "english" : "Cost:",
+      "translation" : "Цена:"
+   },
+   "6b4572cd68702f41c5aad06add0aa4d7" : {
+      "english" : "Decrease scroll speed",
+      "translation" : "Смањите брзину померања"
+   },
+   "6b884d2bd7c096d769be7511b8fdc676" : {
+      "english" : "Previous tab",
+      "translation" : "Претходна картица"
+   },
+   "6c31cb012f34ddd90a6126a71be2c811" : {
+      "english" : "%(health_min)s to %(health_max)s",
+      "translation" : " %(health_min)s до %(health_max)s "
+   },
+   "6c546b3e379802cd38a17bc5b9bac66f" : {
+      "english" : "Decent hack attack make them good front line troops.",
+      "translation" : "Пристојни хакерски напад чини их добрим трупама на првој линији фронта."
+   },
+   "6d9ee90dee302b56dc908a2a03a3abc8" : {
+      "english" : "Show current system time in top right corner.",
+      "translation" : "Прикажите тренутно системско време у горњем десном углу."
+   },
+   "6df20653275ffcfa47243b5433be378c" : {
+      "english" : "Good for transporting or fighting.",
+      "translation" : "Добро за транспорт или борбу."
+   },
+   "6ee032ed0c9edb8e62f82c93de53656a" : {
+      "english" : "Decide whether units can be part of multiple control groups.",
+      "translation" : "Одлучите да ли јединице могу бити део више контролних група."
+   },
+   "6f1216d21540cd6ae1cf52ff1d4f4759" : {
+      "english" : "Rebuild Cache",
+      "translation" : "Обнови кеш меморију"
+   },
+   "6f1bf85c9ebb3c7fa26251e1e335e032" : {
+      "english" : "Terms",
+      "translation" : "Услови"
+   },
+   "6f593c68e046ada3527d7a286030fad0" : {
+      "english" : "Change the hotkeys and close",
+      "translation" : "Промените интервентне тастере и затворите их"
+   },
+   "7021410a6f0d807c29e9e949f683c85d" : {
+      "english" : "Number of units trained per batch by default.",
+      "translation" : "Број јединица обучених по серији подразумевано."
+   },
+   "70661040cc65eccdabf395d5ae76d30d" : {
+      "english" : "Total score",
+      "translation" : "Крајњи резултат"
+   },
+   "70874f8ad860125514c5707a8bab71d9" : {
+      "english" : "If you disable it, the welcome screen will still appear once, each time a new version is available. You can always launch it from the main menu.",
+      "translation" : "Ако га онемогућите, екран добродошлице ће се и даље појављивати једном, сваки пут када је доступна нова верзија. Увек га можете покренути из главног менија."
+   },
+   "70c7f5b014c7266902bded07edcc0d73" : {
+      "english" : "Additional music, percussion, djembe, sampling",
+      "translation" : "Додатна музика, удараљке, дјембе, узорковање"
+   },
+   "711cf9861ab9ad7111a7b55c9cbbc334" : {
+      "english" : "Load the latest quicksaved game. Does nothing if no quicksaves exist.",
+      "translation" : "Учитајте најновију игру са брзим живом игром. Не чини ништа ако не постоје живи блатобрани."
+   },
+   "71e4d540db21d7abfccfde9b9d9f403f" : {
+      "english" : "New structures are aligned with nearby structures unless the hotkey is pressed.",
+      "translation" : "Нове структуре су поравнате са оближњим структурама осим ако се не притисне интервентни тастер."
+   },
+   "71ebbb6b313ca0e0a31da50f95eea3c6" : {
+      "english" : "Force attack",
+      "translation" : "Присилни напад"
+   },
+   "720f320118ef801896c26e75bc04a360" : {
+      "english" : "Replay Games",
+      "translation" : "Реплаи Гамес"
+   },
+   "7223e90f65f61f2ad1e004a0d291675e" : {
+      "english" : "Toggle in-game tutorial panel.",
+      "translation" : "Укључите / искључите панел са упутствима у игри."
+   },
+   "7249b087a9171225f4d916d2522a1b87" : {
+      "english" : "Flare (toggle)",
+      "translation" : "Ракета (пребацивање)"
+   },
+   "72879702f8aca238b4373a3f571dfedc" : {
+      "english" : "Select Control Group 6",
+      "translation" : "Изаберите контролну групу 6"
+   },
+   "737bfc38b37916102a883060f4f09a3a" : {
+      "english" : "The decay process can be slowed down or reversed by garrisoning some units in the structure.",
+      "translation" : "Процес распадања може се успорити или преокренути гарнизонирањем неких јединица у структури."
+   },
+   "737ecc85a90fbd849a056e67e41e32d9" : {
+      "english" : "Display the range of auras of selected units and structures. (It can also be toggled with the hotkey during a game).",
+      "translation" : "Прикажите распон аура одабраних јединица и структура. (Такође се може пребацити помоћу интервентног тастера током игре)."
+   },
+   "750dc5fd6c72408fbd7657a4b8eda55a" : {
+      "english" : "Default difficulty of the AI.",
+      "translation" : "Стандардна тешкоћа АИ."
+   },
+   "7628e92518308524b1d1b608d3468cf3" : {
+      "english" : "Built by:",
+      "translation" : "Изградио:"
+   },
+   "76be1220118ad41f3629c3c54812bdff" : {
+      "english" : "Model quality",
+      "translation" : "Квалитет модела"
+   },
+   "76d9c49b7dec652f22016c59aab713c9" : {
+      "english" : "Map Overview",
+      "translation" : "Преглед мапе"
+   },
+   "785bb55badf9a0a5732dd7359d232a8f" : {
+      "english" : "Include offscreen",
+      "translation" : "Укључите ван екрана"
+   },
+   "78ba49cae0debcec7944c0b9d4bb68b0" : {
+      "english" : "Train citizens: female citizens, infantry citizen-soldiers, and cavalry citizen-soldiers.",
+      "translation" : "Обучите грађане: грађанке, пешадијске грађане-војнике и коњске грађане-војнике."
+   },
+   "7966627bde0ccc3de451e49092070cee" : {
+      "english" : "Provide you with a resource boost, so keep an eye out for them as you explore.",
+      "translation" : "Омогућите вам повећање ресурса, па их припазите док истражујете."
+   },
+   "797aa0bab16d8fe22d369277bfd45534" : {
+      "english" : "Model appearance randomization",
+      "translation" : "Рандомизација изгледа модела"
+   },
+   "79840aaa22a39cc2efc73f886b8e33f3" : {
+      "english" : "Players joining the match will be assigned if there is a free slot.",
+      "translation" : "Играчи који се придруже утакмици биће додељени ако има слободног места."
+   },
+   "79f79dc41d15a49670755e553ddcfd0d" : {
+      "english" : "Take PNG screenshot.",
+      "translation" : "Направите ПНГ снимак екрана."
+   },
+   "7a1018106482207010a16e63c2392168" : {
+      "english" : "(%(resistancePercentage)s)",
+      "translation" : "( %(resistancePercentage)s )"
+   },
+   "7a4765bde982c9c622816dcaab410b00" : {
+      "english" : "Treasures",
+      "translation" : "Благо"
+   },
+   "7a76605affb10175953d116badf33f6e" : {
+      "english" : "Enable fog.",
+      "translation" : "Омогући маглу."
+   },
+   "7a81e662035a6b4be3703d290264f61a" : {
+      "english" : "Resistance:",
+      "translation" : "Отпор:"
+   },
+   "7b1c89713ac1e90c1a2bac1fef4bb705" : {
+      "english" : "Rotate camera clockwise around terrain - the effect depends on FPS.",
+      "translation" : "Ротирајте камеру у смеру казаљке на сату око терена - ефекат зависи од ФПС -а."
+   },
+   "7b3d022c78f876cf439865ace227b38a" : {
+      "english" : "Reduce aliasing effect on edges.",
+      "translation" : "Смањите ефекат преклапања на ивицама."
+   },
+   "7c0e5cba40ec02cfc231fd06abc839a9" : {
+      "english" : "Select Control Group 5",
+      "translation" : "Изаберите контролну групу 5"
+   },
+   "7d26da20cf0c373280232531c07d1cca" : {
+      "english" : "Select Control Group 4",
+      "translation" : "Изаберите Контролна група 4"
+   },
+   "7d3637658c43cd30c2abeb6e0b413f8f" : {
+      "english" : "%(primaryName)s (%(secondaryName)s)",
+      "translation" : " %(primaryName)s  ( %(secondaryName)s )"
+   },
+   "7d7be5b419120b568116d18b504175c9" : {
+      "english" : "Toggle in-game objectives page.",
+      "translation" : "Укључите / искључите страницу са циљевима у игри."
+   },
+   "7db32a15129586de5a212251b9ad8747" : {
+      "english" : "Collectible chests and bare resources on land and shipwrecks on the shore.",
+      "translation" : "Колекционарски сандуци и голи ресурси на копну и олупине брода на обали."
+   },
+   "7ee0ceabd1065b20af67175859951588" : {
+      "english" : "Group by team",
+      "translation" : "Група по тим"
+   },
+   "7fc1de6f33242c7e3876678d861c30d2" : {
+      "english" : "Available to Britons, Gauls, and Iberians.",
+      "translation" : "Доступно Британцима, Галима и Иберијцима."
+   },
+   "8032c149d0e48ad38ef6b60289f910cd" : {
+      "english" : "Persian",
+      "translation" : "Персијски"
+   },
+   "803fbda75ba6f90011497e1e256fb8c1" : {
+      "english" : "Capture points:",
+      "translation" : "Снимање тачака:"
+   },
+   "80f8800ff829fd471d100bcbbce168c4" : {
+      "english" : "Toggle structure tree",
+      "translation" : "Укључивање / искључивање стабла структуре"
+   },
+   "8125bc24b3ce506c7a8bffb26969b767" : {
+      "english" : "MAP FLARE",
+      "translation" : "МАП ФЛАРЕ"
+   },
+   "814225cef3a138c09df09af1b75154e6" : {
+      "english" : "Reset all hotkeys to default values?\\nWARNING: this cannot be reversed.",
+      "translation" : "Желите ли да вратите све пречице на подразумеване вредности?\\nУПОЗОРЕЊЕ: ово се не може поништити."
+   },
+   "8203428383b27fa1354dff2f6be44dfd" : {
+      "english" : "Start Replay",
+      "translation" : "Започни поновну репродукцију"
    },
    "831e141e8d371244317dce8cbde7c6c3" : {
       "english" : "%(projectileString)s / %(attackRateString)s",
       "translation" : " %(projectileString)s  /  %(attackRateString)s "
    },
+   "83d89d60bc9a05a5196b22ce3cfb7674" : {
+      "english" : "Start 0 A.D. in a window.",
+      "translation" : "Покрените 0 А.Д. у прозору."
+   },
+   "83e63048124e278921e409f22699f0fd" : {
+      "english" : "Close/Cancel",
+      "translation" : "Затвори/Откажи"
+   },
+   "84294bb9f215b10daf23df58b5411070" : {
+      "english" : "Un-select all units and cancel building placement.",
+      "translation" : "Поништите одабир свих јединица и откажите постављање зграде."
+   },
+   "8439615a0d07970cf90df44ad5a714ad" : {
+      "english" : "Right-click an icon to set the default formation: units that are ordered to walk or patrol will automatically use it.",
+      "translation" : "Кликните десним тастером миша на икону да бисте поставили подразумевану формацију: јединице којима је наређено да ходају или патролирају аутоматски ће је користити."
+   },
+   "84a54d7d4813d52beb44c517118e47e4" : {
+      "english" : "Open map browser",
+      "translation" : "Отворите прегледач мапа"
+   },
+   "85013019100cd48fa1958c050dde660b" : {
+      "english" : "Quickload",
+      "translation" : "Куицклоад"
+   },
+   "85474185abf541c4c436cd95cc4c29e5" : {
+      "english" : "OVERWRITE SAVE",
+      "translation" : "ПРЕПИШИТЕ САВЕ"
+   },
+   "85b9ccbfd1628037abfa0f9f8b3a9c4d" : {
+      "english" : "Set camera jump position 3.",
+      "translation" : "Подесите положај скока камере 3."
+   },
+   "86357a9b0f4bd75cce57287f25a0c80e" : {
+      "english" : "Close or cancel the current dialog box/popup.",
+      "translation" : "Затворите или откажите тренутни дијалошки оквир/искачући прозор."
+   },
+   "867a2f23a79e6f07e592515da955a9ad" : {
+      "english" : "More specific rendering settings.",
+      "translation" : "Специфичније поставке приказивања."
+   },
    "86fd1fc315495df8b8015537f47b6d3c" : {
       "english" : "Use a real water refraction map and not transparency.",
       "translation" : "Користите праву карту лома воде, а не транспарентност."
+   },
+   "8855346ad5d721abf266a8ea367c2f2e" : {
+      "english" : "Blocks %(name)s",
+      "translation" : "Блокови %(name)s "
+   },
+   "886d0d7e14e28ac4de5da88375070c75" : {
+      "english" : "These settings only affect the multiplayer.",
+      "translation" : "Ове поставке утичу само на више играча."
    },
    "8881d8b9c2efb6028968c11d95d85296" : {
       "english" : " (hold to register)",
       "translation" : "(задржите за регистрацију)"
    },
+   "8915e08ed836450153bf38b44b2daa08" : {
+      "english" : "Saved game will be permanently overwritten, are you sure?",
+      "translation" : "Сачувана игра ће бити трајно пребрисана, јесте ли сигурни?"
+   },
+   "898775029ed93c758e85a4b78ad69d60" : {
+      "english" : "Toggle heal ranges",
+      "translation" : "Укључите / искључите опсеге лечења"
+   },
+   "8b91e452cc9667a311043ebe79c2892d" : {
+      "english" : "Unload garrisoned units when a building/mechanical unit is selected.",
+      "translation" : "Истоварите гарнизоване јединице када је изабрана зграда/механичка јединица."
+   },
+   "8c4a6897e2e8911da37611e40cc00221" : {
+      "english" : "IBERIAN FIRESHIP",
+      "translation" : "ИБЕРИЈСКО ВАТРОГАСИЉЕ"
+   },
+   "8c4b2aff9769efb15c79168b371ce0e8" : {
+      "english" : "Slow, but high-quality antialiasing, uses sixteen samples per pixel. Supported for GL3.3+.",
+      "translation" : "Споро, али висококвалитетно антиалиасинг, користи шеснаест узорака по пикселу. Подржано за ГЛ3.3+."
+   },
+   "8ce4b16b22b58894aa86c421e8759df3" : {
+      "english" : "k",
+      "translation" : "к"
+   },
+   "8d35db13863e53238639022c660cf1cf" : {
+      "english" : "Blocks: %(blockPercentage)s%%, Duration reduction: %(durationReduction)s%%",
+      "translation" : "Блокови: %(blockPercentage)s %%, смањење трајања: %(durationReduction)s %%"
+   },
+   "8db21ee66d0ed1f6d24ce1b9c4274d4c" : {
+      "english" : "Hotkey",
+      "translation" : "Интервентни тастер"
+   },
+   "8dc42710ae7e3e706e1fa086ce40d708" : {
+      "english" : "Pause/unpause game.",
+      "translation" : "Паузирај/поништи игру."
+   },
+   "8e9d66c663cfb4826d5a7f5a0b0d4354" : {
+      "english" : "Enable Feedback",
+      "translation" : "Омогући повратне информације"
+   },
+   "8f9bbf5c7f3772f89978af3c2df60890" : {
+      "english" : "Add Control Group 1",
+      "translation" : "Додајте контролну групу 1"
+   },
+   "8fe883cd0791819c57516d753ecc26a2" : {
+      "english" : "Show current simulation time in top right corner.",
+      "translation" : "Прикажите тренутно време симулације у горњем десном углу."
+   },
+   "905c36f0cdefa05643de24dfe2950f6c" : {
+      "english" : "Special structures allowing you to hire mercenaries for your army.",
+      "translation" : "Посебне структуре које вам омогућавају да унајмите плаћенике за своју војску."
+   },
+   "90b09881dec2b5f230edc027d092be4c" : {
+      "english" : "OUTPOSTS",
+      "translation" : "ОУТПОСТС"
+   },
+   "9164905f53ca1ead97b367a01528f829" : {
+      "english" : "%(stackability)s",
+      "translation" : "_ЛАЛАЛА_"
+   },
+   "9175e0763c0f680321c79accb7f15159" : {
+      "english" : "Game time overlay",
+      "translation" : "Преклапање времена игре"
+   },
+   "922a9b370c7c1e6e018d67fcef6af93e" : {
+      "english" : "Persist match settings",
+      "translation" : "Трајна подешавања подударања"
+   },
+   "923f1290d5b3c0c6eff4547d29a8ed58" : {
+      "english" : "Adjust hotkeys.",
+      "translation" : "Подесите интервентне тастере."
+   },
+   "9293bdc3b0a1ccf66e86fb06f73d75a6" : {
+      "english" : "Resource Supply:",
+      "translation" : "Снабдевање ресурсима:"
+   },
+   "936a09d0a3bebbd0569a662511aca2d1" : {
+      "english" : "RESOURCE COUNTER",
+      "translation" : "БРОЈИЛО РЕСУРСА"
+   },
+   "93b269df0a4ddf35209e2ec0104c5646" : {
+      "english" : "Use higher-quality effects for water, rendering coastal waves, shore foam, and ships trails.",
+      "translation" : "Користите квалитетније ефекте за воду, исцртавање приобалних таласа, обалне пене и стаза бродова."
+   },
+   "94a8ad84b335148537c699cdf73af99a" : {
+      "english" : "Add Control Group 1 to the current selection.",
+      "translation" : "Додајте контролну групу 1 тренутном избору."
+   },
+   "94bd368bc46362bce5a8de0bda92bc23" : {
+      "english" : "Build in neutral or own territory.",
+      "translation" : "Градите на неутралној или сопственој територији."
+   },
+   "94c0c98dbb9dbe09ad30dd8854d7deb1" : {
+      "english" : "(extends)",
+      "translation" : "(продужава)"
+   },
+   "95e5af0f7121848d5bec290965ee93e1" : {
+      "english" : "Toggle current display of computer time.",
+      "translation" : "Укључите / искључите тренутни приказ рачунарског времена."
+   },
+   "9743e5a4d6cacb923b427631a826bc4c" : {
+      "english" : "Can be built in friendly and neutral territory.",
+      "translation" : "Може се градити на пријатељској и неутралној територији."
+   },
+   "98921133d10fbdb0fb6dbb7b2648befe" : {
+      "english" : "Head",
+      "translation" : "Глава"
+   },
+   "98dfe74908e64c6a3fb0fd396287a9c7" : {
+      "english" : "Add second unit type to queue.",
+      "translation" : "Додајте други тип јединице у ред."
+   },
+   "9973c0861c1decbc6c0fa938d64d480d" : {
+      "english" : "As defined by the map.",
+      "translation" : "Како је дефинисано на карти."
+   },
+   "99900ef401754680b4a3f7e1f738dcd1" : {
+      "english" : "Zoom camera in.",
+      "translation" : "Увећајте камеру."
+   },
+   "99a4e56c74ee22da0e4ee89304163ba0" : {
+      "english" : "To save CPU workload, throttle render frequency in running games. Set to maximum to disable throttling.",
+      "translation" : "Да бисте уштедели оптерећење процесора, при покретању игара пригушите фреквенцију приказивања. Поставите на максимум да бисте онемогућили пригушивање."
+   },
+   "99dfe2678d7d13f87ee39b78c7338927" : {
+      "english" : "In game ambient sound gain.",
+      "translation" : "Појачање амбијенталног звука у игри."
+   },
+   "9a588db8471730dbfebac65cd5467ad8" : {
+      "english" : "Filtering",
+      "translation" : "Филтрирање"
+   },
+   "9b101116c13a6c4b75f53552f6edcda5" : {
+      "english" : "Use the Spearmen as heavy infantry against cavalry. Use the Cavalry as heavy shock against siege weapons and skirmishers.",
+      "translation" : "Користите Копљанике као тешку пешадију против коњице. Употријебите Коњицу као тежак шок против опсадног оружја и окршаја."
+   },
+   "9c529a9d70ea2b493c0065e552e71025" : {
+      "english" : "upload failed (%(errorMessage)s)",
+      "translation" : "отпремање није успело ( %(errorMessage)s )"
+   },
+   "9d21f2f376d604bba76016eef9878ad3" : {
+      "english" : "Other orders will disband existing formations.",
+      "translation" : "Остале наредбе ће распустити постојеће формације."
+   },
+   "9dbe59623e6ba1ebfbfc2d890823142f" : {
+      "english" : "Focus the camera on the rally point of the selected building.",
+      "translation" : "Фокусирајте камеру на окупљалиште изабране зграде."
+   },
+   "9dc18cdd11b4973ecee8ea9d4ed30b63" : {
+      "english" : "Reward:",
+      "translation" : "Награда:"
+   },
+   "9e6d84a0a0066cea771bfcd820422a45" : {
+      "english" : "Continue Campaign",
+      "translation" : "Настави кампању"
+   },
+   "9e8869f7d77584bf9ffcd13629349f22" : {
+      "english" : "Other Hotkeys",
+      "translation" : "Отхер Хоткеис"
+   },
+   "9ed277a4502951e5a74732463c6710e9" : {
+      "english" : "Economy score",
+      "translation" : "Економски резултат"
+   },
+   "9f90cc93190f90702836af5b558ba89e" : {
+      "english" : "• %(name)s %(info_icon)s%(description)s",
+      "translation" : "•  %(name)s   %(info_icon)s "
+   },
+   "a0bf169f2539e893e00d7b1296bc4d8e" : {
+      "english" : "Multiple",
+      "translation" : "Вишеструко"
+   },
+   "a1855cb812bf6d345678aea978847588" : {
+      "english" : "Replays",
+      "translation" : "Репризе"
+   },
+   "a19129f7209c9ba0626e2f1ad8abb9a8" : {
+      "english" : "DEFAULT FORMATION",
+      "translation" : "ЗАДАНО ФОРМИРАЊЕ"
+   },
+   "a1c09d6540370e24698c03dc63ba1f99" : {
+      "english" : "Rotate camera to look downwards.",
+      "translation" : "Окрените камеру да гледате надоле."
+   },
+   "a28776866ea763f2d7c8a54ee9a0fd80" : {
+      "english" : "Upkeep:",
+      "translation" : "Одржавање:"
+   },
+   "a2a64dc9886a9a4fc8d58654c9c40215" : {
+      "english" : "Project Leaders",
+      "translation" : "Руководиоци пројекта"
+   },
    "a328f1ba5a0bd13ec9eb45cc145aad13" : {
       "english" : "EMBASSIES AND MERCENARY CAMPS",
       "translation" : "АМБАСАДЕ И МЕРЦЕНАРНИ ЛОГОРИ"
+   },
+   "a340218aa612d7e4d3d549e202ad1d81" : {
+      "english" : "Jump to camera 3",
+      "translation" : "Скочи на камеру 3"
+   },
+   "a3597e3857dee396d85f09227c46a685" : {
+      "english" : "Show rank icons above status bars.",
+      "translation" : "Иконе ранга приказујте изнад статусних трака."
+   },
+   "a35fa8dabe13447f2b1321516a19c8f3" : {
+      "english" : "Balancing",
+      "translation" : "Балансирање"
+   },
+   "a41002444bfc53a7562328c5a727e9eb" : {
+      "english" : "Assign players",
+      "translation" : "Доделите играче"
+   },
+   "a4383a2a5df1151ccae3878fd690a93d" : {
+      "english" : "%(captureLabel)s %(current)s / %(max)s",
+      "translation" : " %(captureLabel)s   %(current)s  /  %(max)s "
+   },
+   "a43e10aa2f6b9ea9ad36fcc8b78f4f32" : {
+      "english" : "Add Control Group 9 to the current selection.",
+      "translation" : "Додајте контролну групу 9 тренутном избору."
+   },
+   "a464df3dbe3a1a792b755bacad09af57" : {
+      "english" : "Random Map Scripts",
+      "translation" : "Скрипте случајних мапа"
+   },
+   "a59227b74bb8955b068dbb6989e1a8b9" : {
+      "english" : "Toggle wireframe mode",
+      "translation" : "Укључите / искључите жичани оквир"
+   },
+   "a612782072a3b8f151c5e2120ef20efd" : {
+      "english" : "Copy to clipboard",
+      "translation" : "Копирај у привремену меморију"
+   },
+   "a6e3fbba4ab6671c378c2b8eb87cce25" : {
+      "english" : "Specific names first",
+      "translation" : "Прво одређена имена"
+   },
+   "a86d5c75db86d1230739e9115c9e7107" : {
+      "english" : "0 A.D. Credits",
+      "translation" : "0 А.Д. кредити"
+   },
+   "a893c7afdf05dddd736e993c71668ffc" : {
+      "english" : "Toggle aura ranges",
+      "translation" : "Укључите / искључите опсеге ауре"
+   },
+   "a9f8197efa6359c8afe15b460318ffa5" : {
+      "english" : "Napatan",
+      "translation" : "Напатан"
+   },
+   "aa2d30a2e5057b7eaf5bb9bc36a9fc8e" : {
+      "english" : "Add Control Group 7",
+      "translation" : "Додајте контролну групу 7"
+   },
+   "aa35bb36b72fadd05c54f2de820b95a8" : {
+      "english" : "Entities will all look the same.",
+      "translation" : "Сви ентитети ће изгледати исто."
+   },
+   "aa9ebfd80da9bf23f763a63c052a452a" : {
+      "english" : "FXAA",
+      "translation" : "ФКСАА"
+   },
+   "aac0b62e8cbcc857efc70d2c4ca8fad1" : {
+      "english" : "Togge attack ranges",
+      "translation" : "Укључите / искључите домете напада"
+   },
+   "aac4746a7373138e42097a3e7df9b599" : {
+      "english" : "Toggle in-game barter/trade page.",
+      "translation" : "Укључите/искључите страницу за размену/размену у игри."
+   },
+   "abd546f3915666475dfbf9240140659c" : {
+      "english" : "Toggle unit silhouettes",
+      "translation" : "Укључите / искључите силуете јединица"
+   },
+   "ac8e996aaffad66ca3449f34702a13be" : {
+      "english" : "And thanks to the entire community for making 0 A.D. possible.",
+      "translation" : "И хвала целој заједници што је омогућила 0 А.Д."
+   },
+   "adbafcb2887e23ae69efca5026b81037" : {
+      "english" : "Follow Unit",
+      "translation" : "Пратите јединицу"
+   },
+   "ae0d366dcedf729e0fb97c49debf7441" : {
+      "english" : "Compare the bonuses of catafalques featured in 0 A.D.",
+      "translation" : "Упоредите бонусе катафалка приказане у 0 А.Д."
+   },
+   "ae26637d8a6bd924858d98aa5e08d46d" : {
+      "english" : "Increase rotation speed",
+      "translation" : "Повећајте брзину ротације"
+   },
+   "af13039994e13b1f05abd32edfd963be" : {
+      "english" : "Set Control Group 5",
+      "translation" : "Поставите контролну групу 5"
+   },
+   "af75d6f6bd7289d5d1d0a2823dc9c2e5" : {
+      "english" : "Available to: Kushites, Macedonians, Ptolemies, and Seleucids.",
+      "translation" : "Доступно: Кушитима, Македонцима, Птоломејима и Селеукидима."
+   },
+   "afa0cedd83f41e144e9cc27152356e57" : {
+      "english" : "Change the current selection to control group 5.",
+      "translation" : "Промените тренутни избор у контролну групу 5."
+   },
+   "afb4cf4e62d7a4117fa4014296b1c2b3" : {
+      "english" : "Modifier to deselect units when clicking group icon, instead of selecting.",
+      "translation" : "Модификатор за поништавање одабира јединица када кликнете на икону групе, уместо да изаберете."
+   },
+   "afe7d175c716253ddf6b6baf261a2086" : {
+      "english" : "Decrease rotation speed",
+      "translation" : "Смањите брзину ротације"
+   },
+   "aff4752584bd9c2ff2124f72ca7b1f37" : {
+      "english" : "Change the current selection to control group 4.",
+      "translation" : "Промените тренутни избор у контролну групу 4."
+   },
+   "b0470bca14352d358abda88b5445fc0f" : {
+      "english" : "Can transport up to 40 units.",
+      "translation" : "Може транспортовати до 40 јединица."
+   },
+   "b0f9dd9b948726675a1ebf7722d9833f" : {
+      "english" : "Display specific names before generic names.",
+      "translation" : "Прикажите одређена имена испред генеричких имена."
+   },
+   "b151a618393429f0c8bab3389397c4a0" : {
+      "english" : "Add Control Group 5",
+      "translation" : "Асабра БактриА¡"
+   },
+   "b2b0919dca50598372d19a17072cad48" : {
+      "english" : "Livestock bred",
+      "translation" : "Узгаја се стока"
+   },
+   "b36f62e8f50e7dde9b6841b7e9d89b1c" : {
+      "english" : "This savegame needs a different sequence of mods:",
+      "translation" : "Овој игри за чување је потребан другачији низ модова:"
+   },
+   "b3ab2a97886002cd7d9398c5eb49e3bb" : {
+      "english" : "Scroll batch increment ratio",
+      "translation" : "Однос повећања серије померања"
+   },
+   "b40d00f554245c11048f35814d30fa93" : {
+      "english" : "Decrease camera scroll speed.",
+      "translation" : "Смањите брзину померања камере."
+   },
+   "b43898a9a8c63c1e66cae04fb88f9771" : {
+      "english" : "%(userDesc)s - %(templateName)s",
+      "translation" : " %(userDesc)s  -  %(templateName)s "
+   },
+   "b4d235c4bbc0bf3be332826e059aa891" : {
+      "english" : "Game Lobby",
+      "translation" : "Лоби за игре"
+   },
+   "b50116ffecc72fae05a67cf372635618" : {
+      "english" : "Queue order",
+      "translation" : "Редослед у реду"
    },
    "b63148f54c8e3d3cfd0603baae351208" : {
       "english" : "∞",
       "translation" : "аˆж"
    },
+   "b6a734d8dadabf42b13d300baa39aa99" : {
+      "english" : "Queue 4th unit",
+      "translation" : "Ред 4. јединица"
+   },
+   "b8c1e52609c8d79371c7818e49679ff7" : {
+      "english" : "Entities will be less diverse.",
+      "translation" : "Ентитети ће бити мање разнолики."
+   },
+   "b8fcf58f8dd755e682e6dc1482bc58bd" : {
+      "english" : "[imgleft=\\\"iconMap\\\"]0 A.D. is Free Software: you can participate in its development.",
+      "translation" : "[имглефт u003d \\ \"ицонМап \\\"] 0 А.Д. је бесплатан софтвер: можете учествовати у његовом развоју."
+   },
+   "b9f15d4ddcca4e7e9b87a1558482d9a4" : {
+      "english" : "Incorrect network protocol version.",
+      "translation" : "Нетачна верзија мрежног протокола."
+   },
+   "bb60f04dd5dfa93d253c942b637bb657" : {
+      "english" : "Change options regarding the in-game settings.",
+      "translation" : "Промените опције у вези са поставкама у игри."
+   },
+   "bcc4bd434385e5f83d8e2f368111fa84" : {
+      "english" : "Toggle dev overlay",
+      "translation" : "Укључи / искључи преклапање за програмере"
+   },
+   "bcfaccebf745acfd5e75351095a5394a" : {
+      "english" : "Disable",
+      "translation" : "Онемогући"
+   },
+   "bd7c0a5f62ae166384afdd467c021b5c" : {
+      "english" : "Structures can be aligned by keeping the snap hotkey pressed during placement.",
+      "translation" : "Структуре се могу поравнати држањем притиснуте пречице за снап током постављања."
+   },
+   "be2e7b79019158c00e374a658ef4ebf8" : {
+      "english" : "Antialiasing",
+      "translation" : "Антиалиасинг"
+   },
+   "bea7dcc3bc27138633555cd6a3695fa5" : {
+      "english" : "Strong stone walls that help you protect your city.",
+      "translation" : "Чврсти камени зидови који вам помажу да заштитите свој град."
+   },
+   "bef14a691b71daefa818090ee1bd325b" : {
+      "english" : "Toggle wireframe mode.",
+      "translation" : "Укључите / искључите жичани оквир."
+   },
+   "c0b43191927d38818f94e5d2601d1519" : {
+      "english" : "Filter replays by typing one or more, partial or complete player names.",
+      "translation" : "Филтрирајте понављања тако што ћете откуцати једно или више, делимичних или потпуних имена играча."
+   },
+   "c0d2a45de500add6b5ade6d7612d3b03" : {
+      "english" : "Game is loading, please try again later.",
+      "translation" : "Игра се учитава, покушајте поново касније."
+   },
+   "c117907d14c8e673b6b2858560acfe46" : {
+      "english" : "%(label)s: %(garrisonSize)s %(extraSize)s",
+      "translation" : " %(label)s :  %(garrisonSize)s   %(extraSize)s "
+   },
+   "c12d6424b2ce4d46ad0056125af72a9e" : {
+      "english" : "Take large BMP screenshot.",
+      "translation" : "Направите велики снимак екрана БМП -а."
+   },
+   "c146a08e349984a88245e7c2d67f0faa" : {
+      "english" : "Start a new single-player game.",
+      "translation" : "Покрените нову игру за једног играча."
+   },
+   "c2791564e658ac3d3e5bad2490361827" : {
+      "english" : "Research technologies to improve the gathering capabilities of your citizens.",
+      "translation" : "Истражите технологије за побољшање могућности окупљања ваших грађана."
+   },
+   "c2cc7b55ed85f2884be1f8bbd7879b6a" : {
+      "english" : "Trains:",
+      "translation" : "Возови:"
+   },
+   "c2e154cd266e82962b4410e8a4b5b562" : {
+      "english" : "Chat backlog",
+      "translation" : "Заостаци у ћаскању"
+   },
+   "c30e86eb05a30e2ce700d4df0656dc38" : {
+      "english" : "Gaia",
+      "translation" : "Гаиа"
+   },
+   "c39f542679c6fdc9afe4a6b004d35e94" : {
+      "english" : "Select non-military only",
+      "translation" : "Изаберите само невојне"
+   },
+   "c3a6f8056da8d7b3b4da6d1bc192d020" : {
+      "english" : "FPS throttling in games",
+      "translation" : "Смањење ФПС -а у играма"
+   },
+   "c3e2f270b8ccb1b887af0c1b79a1dfc4" : {
+      "english" : "Save current selection as Control Group 7.",
+      "translation" : "Сачувајте тренутни избор као контролну групу 7."
+   },
+   "c413baf208d8fbfbabeaee19d2fae6f7" : {
+      "english" : "Rotate building counterclockwise",
+      "translation" : "Ротирајте зграду супротно од казаљке на сату"
+   },
    "c4889b34b37ec4f8e1ab18aa69006ce8" : {
       "english" : "Water effects",
       "translation" : "Ефекти воде"
+   },
+   "c59d226478fbbb2f1c24816e5bfe9026" : {
+      "english" : "Attack range visualization",
+      "translation" : "Визуализација опсега напада"
+   },
+   "c65ce109a62a95ddfe430e08f7acf1e3" : {
+      "english" : "Windowed mode",
+      "translation" : "Режим у прозорима"
+   },
+   "c7346936ab2c5c0952744443c7eb4912" : {
+      "english" : "Notice: This game is under development and many features have not been added yet.",
+      "translation" : "Напомена: Ова игра је у развоју и многе функције још нису додате."
    },
    "c77149b6d7fc9f952848ad44a4da38a4" : {
       "english" : "Publications",
       "translation" : "Публикације"
    },
+   "c7d58df5ed8375f16b03345d42774f1d" : {
+      "english" : "%(label)s\\n%(details)s",
+      "translation" : "_ЛАЛАЛА__ЛАЛАЛА__ЛАЛАЛА_"
+   },
+   "c7d820e640b0a94af9667147efa98ca7" : {
+      "english" : "Cavalry citizen-soldiers are faster gathering meat.",
+      "translation" : "Коњички грађани-војници брже скупљају месо."
+   },
+   "c877e5708405a66df1e8b97447eb7d5b" : {
+      "english" : "Rotate Down",
+      "translation" : "Ротирајте надоле"
+   },
    "c9983c09928c061ef2c9f200db4ef43f" : {
       "english" : "Are you sure you want to quit 0 A.D. and open the Scenario Editor?",
       "translation" : "Јесте ли сигурни да желите напустити 0 А.Д. и отворити уређивач сценарија?"
+   },
+   "c9e89115c6c7f277be5e7b6e7b5cbcc6" : {
+      "english" : "Default AI behavior",
+      "translation" : "Подразумевано понашање АИ"
+   },
+   "c9fa882ff996dd822b5a0fd007b70b4a" : {
+      "english" : "Playback previous games.",
+      "translation" : "Репродукујте претходне игре."
+   },
+   "ca37995e131636f4f5e6e0db66df9ebb" : {
+      "english" : "When the decay is completed, the structure will be given to the most influential neighbor.",
+      "translation" : "Када се распад заврши, структура ће бити дата најутицајнијем суседу."
+   },
+   "ca4c4bfe37fb45436d31398dcd8a7b05" : {
+      "english" : "Resets user settings to their game default",
+      "translation" : "Враћа корисничка подешавања на подразумеване вредности игре"
+   },
+   "ca561514ace0bd2ba428fb461435e01d" : {
+      "english" : "Add Control Group 2 to the current selection.",
+      "translation" : "Додајте контролну групу 2 тренутном избору."
+   },
+   "cb6512c84af66ea483d248c582dff007" : {
+      "english" : "The heaviest standard warship. Available to: Carthaginians, Ptolemies, Romans, and Seleucids.",
+      "translation" : "Најтежи стандардни ратни брод. Доступно: Картагињанима, Птоломејима, Римљанима и Селеукидима."
+   },
+   "cb8909786715cab89d03f1ab2a491ff4" : {
+      "english" : "Blocks: %(blockPercentage)s%%",
+      "translation" : "Блокови: %(blockPercentage)s %%"
+   },
+   "cc6221b752e326c764e5feeb75b5ea5f" : {
+      "english" : "Delete the selected savegame using %(hotkey)s.",
+      "translation" : "Избришите изабрану игру за чување помоћу %(hotkey)s ."
+   },
+   "ccf01ebb25c3c382ebc06a761c6013e9" : {
+      "english" : "Decrease zoom speed",
+      "translation" : "Смањите брзину зумирања"
+   },
+   "cd56a9c68c3b6503ccfb283c81775b07" : {
+      "english" : "Fog",
+      "translation" : "Магла"
+   },
+   "ce19243bca73c89a33e3954044e07c56" : {
+      "english" : "Generic names first",
+      "translation" : "Прво генеричка имена"
+   },
+   "cf3fb1ff52ea1eed3347ac5401ee7f0c" : {
+      "english" : "Ascending",
+      "translation" : "Узлазни"
+   },
+   "cf6c714e501850b0c139b6c373d27353" : {
+      "english" : "Randomly select a map from the list.",
+      "translation" : "Насумично изаберите мапу са листе."
    },
    "cf86b4649849e5805ed41dbc2c632b4e" : {
       "english" : "CAVALRY STABLE",
       "translation" : "КОЊАЧКА СТАБИЛНА"
    },
+   "d21622f0efeb1e323c5277c96510d2c0" : {
+      "english" : "Wood tends to be sparse, but consists of high-yield Baobab trees.",
+      "translation" : "Дрво је обично ретко, али се састоји од стабала баобаба високог приноса."
+   },
+   "d27af58c3ebbe5c0b1f40f693821aea8" : {
+      "english" : "Disable Feedback",
+      "translation" : "Онемогућите повратне информације"
+   },
    "d2bf2edc490014fa2ae8c4dd837ec143" : {
       "english" : "Toggle in-game diplomacy page.",
       "translation" : "Укључите / искључите страницу дипломатије у игри."
+   },
+   "d3aff23895d479019bfd38af9a50d0cd" : {
+      "english" : "Save current profiler data to logs/profile.txt.",
+      "translation" : "Сачувајте тренутне податке профилатора у логс/профиле.ткт."
+   },
+   "d41a97496bfb3c7e026fbc90c3de127b" : {
+      "english" : "Select next idle warrior",
+      "translation" : "Изаберите следећег ратника у празном ходу"
+   },
+   "d41d279af4b67cb60ccd2c64fe8489c3" : {
+      "english" : "Queue 6th unit",
+      "translation" : "Ред 6 јединица"
+   },
+   "d45ddadb8227166d7fa2463cd9aba69f" : {
+      "english" : "Hotkey to disable snapping",
+      "translation" : "Интервентни тастер за онемогућавање снаппинг -а"
+   },
+   "d45e5d06f1dc94daeef316d3c0161e58" : {
+      "english" : "AUTOQUEUE",
+      "translation" : "АУТОКУЕУЕ"
+   },
+   "d485d1e816e9673293527abb0c4ba063" : {
+      "english" : "Select Control Group 2",
+      "translation" : "Изаберите контролну групу 2"
+   },
+   "d4b4515f6838bf1ce45cff4053530267" : {
+      "english" : "Unsaved changes affect this session only",
+      "translation" : "Несачуване промене утичу само на ову сесију"
+   },
+   "d4d9110f9199b4a07fa531a60edee6b1" : {
+      "english" : "%(hotkey)s: Close Catafalque Bonuses.",
+      "translation" : " %(hotkey)s : Затвори Цатафалкуе бонусе."
+   },
+   "d5d789f5ea80da8abb5f670d106537e4" : {
+      "english" : "Select next idle builder.",
+      "translation" : "Изаберите следећег неактивног градитеља."
+   },
+   "d6081176077d3ff2e1075880ada85e2b" : {
+      "english" : "Naming of entities.",
+      "translation" : "Именовање ентитета."
+   },
+   "d7c8c85bf79bbe1b7188497c32c3b0ca" : {
+      "english" : "Failed",
+      "translation" : "Није успео"
+   },
+   "d7d7ca2831b48eecd8bf6926821d8a04" : {
+      "english" : "Right-click to view more information.",
+      "translation" : "Кликните десним тастером миша да бисте видели више информација."
+   },
+   "d7e603d89f39aa26e8b6c4efcd42c685" : {
+      "english" : "Ranged siege engines that are good against structures.",
+      "translation" : "Опсадни мотори са далекометним погоном који су добри против конструкција."
+   },
+   "d832ac14c53e450ad3f1febb3f3ce2b8" : {
+      "english" : "Exploration score",
+      "translation" : "Оцена истраживања"
+   },
+   "d83b770ada1e962c91a9a7ddf72edebc" : {
+      "english" : "Any victory condition",
+      "translation" : "Било који услов победе"
+   },
+   "d899172347f7a52b0fb827c968a82d29" : {
+      "english" : "Set Control Group 9",
+      "translation" : "Поставите контролну групу 9"
+   },
+   "d904fe06c133167d9a35dc7844b6e822" : {
+      "english" : "When adding a Unit or Structure to a control group, they are removed from other control groups. Use this choice if you want control groups to refer to distinct armies.",
+      "translation" : "Приликом додавања јединице или структуре контролној групи, они се уклањају из других контролних група. Користите овај избор ако желите да се контролне групе позивају на различите војске."
+   },
+   "d9b3fa8bec49e20d38834955e6d92a84" : {
+      "english" : "Error: Client simulated an unexpected game turn.",
+      "translation" : "Грешка: Клијент је симулирао неочекивани преокрет игре."
+   },
+   "d9ddd5f9013436d9d90fbe548e19a206" : {
+      "english" : "All Hotkeys",
+      "translation" : "Сви интервентни тастери"
+   },
+   "da2b3f8cb7b4d8415a6946e52e355a32" : {
+      "english" : "Cutoff distance",
+      "translation" : "Гранична удаљеност"
    },
    "da56543d798147e54af8c0d4be753dbf" : {
       "english" : "Toggle chat window.",
@@ -67,28 +1763,300 @@
       "english" : "Interval:",
       "translation" : "Интервал:"
    },
+   "daecf6f4ca1bff21200b3c10728b3e5f" : {
+      "english" : "Enable the autoqueue feature to automatically train units.",
+      "translation" : "Омогућите функцију аутоматског чекања за аутоматско обучавање јединица."
+   },
+   "db4d9d0fc0769bb42375c3270bdb7444" : {
+      "english" : "Order one unit",
+      "translation" : "Наручите једну јединицу"
+   },
+   "dc1dcb08a6b678b3f6999960d7b1962f" : {
+      "english" : "Set Control Group 1",
+      "translation" : "Поставите контролну групу 1"
+   },
+   "dc6c2d70ef4079de5cd4f95c301e1338" : {
+      "english" : "Move cursor to start of word to the right of cursor.",
+      "translation" : "Померите курсор на почетак речи десно од курсора."
+   },
+   "dce2a44c5a55b13c6ab364f5e6e01d26" : {
+      "english" : "Do not use antialiasing.",
+      "translation" : "Не користите антиалиасинг."
+   },
+   "dd69c095c7d4e784686c032c6a8d02b1" : {
+      "english" : "No historians were harmed during the development of this project.",
+      "translation" : "Ниједан историчар није оштећен током развоја овог пројекта."
+   },
+   "ddf519ff5a182ff61a45e9e960292d52" : {
+      "english" : "The Medium Warship.",
+      "translation" : "Средњи ратни брод."
+   },
+   "dfe33f775a61d6a0277b36797777685e" : {
+      "english" : "Prefer GLSL",
+      "translation" : "Радије ГЛСЛ"
+   },
+   "e0397278bf7e9b64db6ea6c487dc20a0" : {
+      "english" : "Modifier to train units in batches.",
+      "translation" : "Модификатор за обучавање јединица у серијама."
+   },
+   "e0626222614bdee31951d84c64e5e9ff" : {
+      "english" : "Select",
+      "translation" : "Изаберите"
+   },
+   "e07f20372b30cd8c4e7d298fdd31cee4" : {
+      "english" : "Hotkeys relating to modifying unit selection.",
+      "translation" : "Интервентни тастери у вези са изменом избора јединице."
+   },
+   "e191b001fcf9ec2b7733cb444a4c4289" : {
+      "english" : "Max lag for observers",
+      "translation" : "Максимално заостајање за посматраче"
+   },
    "e298c05f88cc29539c0e93ff425df05b" : {
       "english" : "%(splashShape)s Splash",
       "translation" : "%(спласхСхапе) с Спласх"
+   },
+   "e3277a95303554a813a543c27ce8c451" : {
+      "english" : "Rank icon above status bar",
+      "translation" : "Икона ранга изнад статусне траке"
+   },
+   "e52b9b5619a35d6bd3bab33a2d6fb3b5" : {
+      "english" : "In-game",
+      "translation" : "У игри"
+   },
+   "e5ba0db2fe0587d36ebbb1a385e3b8b2" : {
+      "english" : "%(statusName)s: %(statusInfo)s",
+      "translation" : " %(statusName)s :  %(statusInfo)s "
+   },
+   "e5dc4c2376ed127bd2d4edd52521aff5" : {
+      "english" : "Default: %(value)s",
+      "translation" : "Уобичајено: %(value)s "
+   },
+   "e5f71edc71bf40bcd64fea612721eb39" : {
+      "english" : "Garrison soldiers inside to add more firepower to its defense.",
+      "translation" : "Војници гарнизона унутра да додају више ватрене моћи у своју одбрану."
+   },
+   "e65462882a1e4d2e6483bb8deacd5a30" : {
+      "english" : "Toggle developer commands panel.",
+      "translation" : "Укључите / искључите таблу команди програмера."
+   },
+   "e6c043bc5f39d000923cfce25263332b" : {
+      "english" : "Capture:",
+      "translation" : "Снимање:"
+   },
+   "e6ea27c876e9fc2369b6d07d4de49816" : {
+      "english" : "This is often caused by UDP port 20595 not being forwarded on the host side, by a firewall, or anti-virus software.",
+      "translation" : "Ово је често узроковано тиме што УДП порт 20595 није прослеђен на страни домаћина, заштитним зидом или антивирусним софтвером."
+   },
+   "e7436d916abe684b429ef8d2e0ad44a5" : {
+      "english" : "Late observer joins",
+      "translation" : "Касни посматрач се придружује"
+   },
+   "e7b2ba27db401dc5f9f6aa0a568373ba" : {
+      "english" : "In game unit action sound gain.",
+      "translation" : "У јединици игре појачање звука."
+   },
+   "e86fcf966358f378b1af8098f39844fc" : {
+      "english" : "Use them as support in your army or for quick raids.",
+      "translation" : "Користите их као подршку у својој војсци или за брзе упаде."
+   },
+   "e88e8481e38cc78682e9d3a2b2f6731f" : {
+      "english" : "Deactivate auto-queue",
+      "translation" : "Деактивирајте аутоматски ред чекања"
+   },
+   "e8cae57347b599bfbd59df7f964cabc9" : {
+      "english" : "Batch training size",
+      "translation" : "Величина серијског тренинга"
+   },
+   "e8f739d4018430c13e426f575a219acf" : {
+      "english" : "Vulnerable to siege weapons like catapults, rams and war elephants.",
+      "translation" : "Рањиво за опсадно оружје попут катапулта, овнова и ратних слонова."
+   },
+   "e9cb55efcea4be3889b00ab9a4fa5345" : {
+      "english" : "Background pause",
+      "translation" : "Пауза у позадини"
+   },
+   "ea7f4159ad3cad33eb421661adfa2669" : {
+      "english" : "Buddies",
+      "translation" : "Другари"
+   },
+   "eac160845284142c4eebc70e4667f1bd" : {
+      "english" : "Toggle visibility of the in-game user interface.",
+      "translation" : "Укључите / искључите видљивост корисничког интерфејса у игри."
+   },
+   "eb74a7955a6422076fcf935ca5ee3aea" : {
+      "english" : "Change the current selection to control group 9.",
+      "translation" : "Промените тренутни избор у контролну групу 9."
+   },
+   "eb7a2ed98876a15da130ad8f5be4eac3" : {
+      "english" : "%(rangeLabel)s %(minRange)s to %(maxRange)s (%(relativeRange)s) %(rangeUnit)s",
+      "translation" : " %(rangeLabel)s   %(minRange)s до %(maxRange)s  ( %(relativeRange)s )  %(rangeUnit)s "
+   },
+   "ebceb3e0a7919531ed79c041869b3caa" : {
+      "english" : "Feedback is currently enabled.",
+      "translation" : "Повратне информације су тренутно омогућене."
+   },
+   "ec0363785f9c7ce7735163e96d41c9d0" : {
+      "english" : "Buildable in neutral or enemy territory. Good for building a secret base behind enemy lines or to consolidate gains within enemy territory.",
+      "translation" : "Може се градити на неутралној или непријатељској територији. Добро за изградњу тајне базе иза непријатељских линија или за учвршћивање добити унутар непријатељске територије."
+   },
+   "ece2dcb6a4e717aa48c3979be2c62fc0" : {
+      "english" : "Cancel selection",
+      "translation" : "Откажи избор"
+   },
+   "ed097d5649c33ef3ae888b9037edf7fa" : {
+      "english" : "Select next idle unit",
+      "translation" : "Изаберите следећу јединицу у стању мировања"
+   },
+   "ed9151f24326e9162e5a8661d2bc585d" : {
+      "english" : "TREASURES",
+      "translation" : "РИЗНИЦЕ"
+   },
+   "edbb77ea40a0e6929670c6990d98c02e" : {
+      "english" : "Change the current selection to control group 1.",
+      "translation" : "Промените тренутни избор у контролну групу 1."
+   },
+   "ef609a26090a437576fb5b07d03f803f" : {
+      "english" : "Garrison to fire arrows",
+      "translation" : "Гарнизон испаљује стреле"
+   },
+   "efed1c683356cfb879c1fa53de5dabc8" : {
+      "english" : "[font=\\\"sans-bold-20\\\"]  Thank you for installing 0 A.D. Empires Ascendant!",
+      "translation" : "[font=\\\"sans-bold-20\\\"]Хвала вам што сте инсталирали 0 А. Емпирес Асцендант!"
+   },
+   "f0dd7aa2332dc72e1d9a502142f91f35" : {
+      "english" : "Reduce blurry effects.",
+      "translation" : "Смањите замућене ефекте."
+   },
+   "f1117307e696cf5dc323c4f226d84e45" : {
+      "english" : "Filter:",
+      "translation" : "Филтер:"
+   },
+   "f14b2127b6787b7842ed1c74ab4cb8f9" : {
+      "english" : "Open the map browser.",
+      "translation" : "Отворите прегледач мапа."
+   },
+   "f20fde3405f311db9e30729b993e9093" : {
+      "english" : "Show the multiplayer lobby in a dialog window.",
+      "translation" : "Прикажите предворје за више играча у прозору за дијалог."
    },
    "f2531f031f59ae859f2606bab8ae2b58" : {
       "english" : "Fish the seas for a bountiful harvest.",
       "translation" : "Уловите мора за обилну жетву."
    },
+   "f2b291dcbdeedb2b08b5fdbffff938fd" : {
+      "english" : "Players start with a Civic Center.",
+      "translation" : "Играчи почињу са грађанским центром."
+   },
+   "f2c1786f0a5a091ea6b4da3b45dcf181" : {
+      "english" : "Add sixth unit type to queue.",
+      "translation" : "Додајте шести тип јединице у ред."
+   },
    "f34b3a8931ae2af89eac3fa0368e0a19" : {
       "english" : "Population Bonus:",
       "translation" : "Бонус за становништво:"
+   },
+   "f39ed8d2da6514e6242fbdc925c35499" : {
+      "english" : "The foundation of your new colony.",
+      "translation" : "Темељ ваше нове колоније."
+   },
+   "f3b350b739134cb26b57ee8e5d9269b5" : {
+      "english" : "Toggle Fullscreen",
+      "translation" : "Укључите / искључите приказ преко целог екрана"
    },
    "f457fdc26f87e3e497bc4a3ab2cabe0d" : {
       "english" : null,
       "translation" : ""
    },
+   "f4720ee2754d67525fb215550a67fc0f" : {
+      "english" : "Town Phase structure.",
+      "translation" : "Фазна структура града."
+   },
+   "f4f70727dc34561dfde1a3c529b6205c" : {
+      "english" : "Settings",
+      "translation" : "Подешавања"
+   },
+   "f524c346d2e9ef5f23f121bb1a6c369d" : {
+      "english" : "Its aura heals nearby units.",
+      "translation" : "Његова аура лечи оближње јединице."
+   },
+   "f525b5a5b36b03f9680f3526359f9063" : {
+      "english" : "Add eighth unit type to queue.",
+      "translation" : "Додајте осми тип јединице у ред."
+   },
+   "f525d0aaf1e6c9bdc02d45f9d3e50bf1" : {
+      "english" : "Persians also have access to a great number of structural and defensive technologies.",
+      "translation" : "Персијанци такође имају приступ великом броју структурних и одбрамбених технологија."
+   },
+   "f563c680751b67afdc64e901f021c6d4" : {
+      "english" : "The higher the level of a citizen-soldier (advanced, elite), the better he fights, but the less efficient he is at gathering resources.",
+      "translation" : "Што је виши ниво грађанина-војника (напреднији, елитни), он се боље бори, али је мање ефикасан у прикупљању ресурса."
+   },
+   "f577feb0c9d100f42c53ebfba290e2a4" : {
+      "english" : "In Memoriam",
+      "translation" : "У сећању"
+   },
+   "f6652b6ab6a7be712058a7477a3402f7" : {
+      "english" : "%(rangeLabel)s %(maxRange)s %(rangeUnit)s",
+      "translation" : " %(rangeLabel)s   %(maxRange)s   %(rangeUnit)s "
+   },
    "f681c005eb292c91c923781589d16895" : {
       "english" : "Select Control Group 1",
       "translation" : "Изаберите контролну групу 1"
    },
+   "f6b2d56a99af8b5590304aa7b8d05184" : {
+      "english" : "Build time lengthened by +20% as a consequence.",
+      "translation" : "Време градње је продужено за +20%."
+   },
    "f7115e4891ab41c009017e95f47eb6e9" : {
       "english" : "Spoiler",
       "translation" : "Споилер"
+   },
+   "f7ce381f3f84bd69c2e8a53304fb7f66" : {
+      "english" : "Show the next tab.",
+      "translation" : "Прикажите следећу картицу."
+   },
+   "f93d654082dfdcb2fcdc1d23730bdb88" : {
+      "english" : "Receive audio notification when a new client joins the game setup.",
+      "translation" : "Примите звучно обавештење када се нови клијент придружи подешавању игре."
+   },
+   "fa584fa2438b11960c5c7a8c26dcab7e" : {
+      "english" : "(Observer) Speed up when lagging.",
+      "translation" : "(Посматрач) Убрзајте при заостајању."
+   },
+   "fa8f82c949263119d5338d1ed7de86f0" : {
+      "english" : "Use this feature to let your team know where on the map something important happens.",
+      "translation" : "Користите ову функцију да обавестите свој тим где се на мапи дешава нешто важно."
+   },
+   "fb7ee7ca9969b2e17dda203507ffeb1d" : {
+      "english" : "Skirmish",
+      "translation" : "Скирмисх"
+   },
+   "fdc1bfcacc5c75323497a86d38446cff" : {
+      "english" : "Activate auto-queue",
+      "translation" : "Активирајте аутоматски ред чекања"
+   },
+   "fdc96a6245f09baca781d4eb22afb1e2" : {
+      "english" : "Click to view more information.",
+      "translation" : "Кликните да видите више информација."
+   },
+   "ff29c87da6d7d43de711b67945876c58" : {
+      "english" : "Players start with only few units and have to find a suitable place to build their city.",
+      "translation" : "Играчи почињу са само неколико јединица и морају пронаћи одговарајуће место за изградњу свог града."
+   },
+   "ff7ce304464b2f969fab61dc49086b49" : {
+      "english" : "Move cursor to right word",
+      "translation" : "Померите курсор на десну реч"
+   },
+   "ff8bd1115e02f95d48420aa0342c8fd8" : {
+      "english" : "Vegetarian ratio",
+      "translation" : "Вегетаријански однос"
+   },
+   "ff994a1d6cc2510b6210e5d2270e5000" : {
+      "english" : "Build one early to train citizen soldiers while you phase up your settlement.",
+      "translation" : "Изградите један рано за обуку војника грађана док постепено повећавате своје насеље."
+   },
+   "ffa6a1a84c18716bb737dbb0f3a0e2e0" : {
+      "english" : "Aura range visualization",
+      "translation" : "Визуелизација опсега ауре"
    }
 }

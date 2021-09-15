@@ -11,9 +11,9 @@ use FindBin qw($Bin);
 use File::Spec::Functions qw(catfile);
 use Storable qw(dclone);
 
-my ($lang, $po, $translate_exe) = ("", "", "");
+my ($lang, $po, $translate_exe, $silent) = ("", "", "", 0);
 
-GetOptions ("po=s" => \$po, "lang=s" => \$lang, "translate-shell=s" => \$translate_exe);
+GetOptions ("po=s" => \$po, "lang=s" => \$lang, "translate-shell=s" => \$translate_exe, "silent" => \$silent);
 
 my $release = catfile ($Bin, 'json', join ('', $po . '.json'));
 my $devel   = catfile ($Bin, 'json', join ('', $lang, '.', $po . '.json'));
@@ -25,7 +25,7 @@ print "Output file: $output\n";
 
 if (! -e $release || ! -e $devel || ! -f $translate_exe) {
 
-	die "Usage: translate.pl --lang=<LANG NAME> --po=<PO_NAME> --translate-shell=<PATH TO TRANSLATE SHELL>\n\texample --lang=sr --po=engine --translate-shell=/usr/local/bin/trans\n";
+	die "Usage: translate.pl --lang=<LANG NAME> --po=<PO_NAME> --translate-shell=<PATH TO TRANSLATE SHELL> [--silent]\n\texample --lang=sr --po=engine --translate-shell=/usr/local/bin/trans\n";
 }
 
 $release = from_json (read_file ($release));
@@ -72,6 +72,19 @@ sub special_symbols {
 		$string =~ s/(\[color=\\\\\\"[a-zA-Z]+\\\\\\"\])/_LALALA_/;
 		return ("[color=\\\\\\\"$color\\\\\\\"]", $string);
 	}
+	if ($string =~ /\[font=\\"([-a-z0-9]+)\\"\]/) {
+
+		my $font = $1;
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/(\[font=\\"[-a-z0-9]+\\"\])/_LALALA_/;
+		return ("[font=\\\"$font\\\"]", $string);
+	}
+	if ($string =~ /\[\/font\]/) {
+
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/(\[\/font\])/_LALALA_/;
+		return ("[\/font]", $string);
+	}
 	if ($string =~ /%\(([a-zA-Z0-9_]+)\)s/) {
 
 		my $varname = $1;
@@ -85,6 +98,13 @@ sub special_symbols {
 		$string =~ s/(\\\\\[)/_LALALA_/;
 		return ("\\\\[", $string);
 	}
+	if ($string =~ /hotkey\.([\.a-z0-9]+)/) {
+
+		my $hotkey = $1;
+		print "\tSpecial symbols in $string\n";
+		$string =~ s/hotkey\.([\.a-z0-9]+)/_LALALA_/;
+		return (" hotkey.$hotkey ", $string);
+	}
 	return ('', $string);
 }
 
@@ -94,7 +114,7 @@ foreach my $md5 (keys %{$release}) {
 
 	if ($ingame) {
 
-		print "$md5 = $ingame (translation already in game)\n";
+		print "$md5 = $ingame (translation already in game)\n" if ! $silent;
 		next;
 	}
 
@@ -102,7 +122,7 @@ foreach my $md5 (keys %{$release}) {
 
 	if ($queue) {
 
-		print "$md5 = $queue (already translated)\n";
+		print "$md5 = $queue (already translated)\n" if ! $silent;
 		next;
 	}
 

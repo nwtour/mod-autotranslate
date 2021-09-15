@@ -1,4 +1,8 @@
 {
+   "0132e1f2f21cae20bce791527cb857f8" : {
+      "english" : "knw hps",
+      "translation" : "кнв хпс"
+   },
    "01ea51451f76189e6133ecab30a7df78" : {
       "english" : "Judean Slinger",
       "translation" : "Јудејски Слингер"
@@ -7,29 +11,193 @@
       "english" : "Caros",
       "translation" : "Царос"
    },
+   "024fc70d51074c9f42ee7f917c37b4ed" : {
+      "english" : "Juggernaut",
+      "translation" : "Југгернаут"
+   },
    "02cbeb4da813c39ea1a9ac31ef061685" : {
       "english" : "Hippotoxotès Dahae",
       "translation" : "ХиппотокотА¨с Дахае"
+   },
+   "03bb0a7b2e0239c7d1234c60b85aa03e" : {
+      "english" : "Merkatari",
+      "translation" : "Меркатари"
+   },
+   "040100133793fe2f75b11a797289fe3f" : {
+      "english" : "Aštāh",
+      "translation" : "АА¡тА х"
+   },
+   "0401cd36ace34f083bfb70f3742b9b76" : {
+      "english" : "N-ı͗-s-tȝ-s-nn Kȝ-ʿnḫ-Rʿ",
+      "translation" : "Н-А ± И —- с-тЕ -с-нн КЕ -Е¿на¸ «-РЕ¿"
    },
    "044a399650dc0fe79497797a5d03192d" : {
       "english" : "Kantabriako Zaldun",
       "translation" : "Кантабриако Залдун"
    },
+   "04d68ee93cff4ee9cefb07a5c8e18e08" : {
+      "english" : "Trade between docks. Garrison a Trader aboard for additional profit (+20% for each garrisoned). Gather profitable aquatic treasures. Carthaginians have +25% sea trading bonus.",
+      "translation" : "Трговина између докова. Гаррисон а Традер на броду ради додатне добити (+20% за сваког гарнизона). Скупите профитабилно водено благо. Картажани имају +25% бонуса за трговину на мору."
+   },
+   "059b8bc267b6ccc7abc6e5ba91c3dc0a" : {
+      "english" : "Demetrius I the Besieger",
+      "translation" : "Деметрије И Бесиегер"
+   },
+   "06178d563bda53c19463d66a4f3d9f54" : {
+      "english" : "Ḥimelqart Baraq",
+      "translation" : "а¸¤имелкарт Барак"
+   },
+   "06708e155a8aab92e27b89ca3603e264" : {
+      "english" : "Hippakontistès Politès",
+      "translation" : "ХиппаконтистА¨с ПолитА¨с"
+   },
+   "06bc2118180503ec0aba43a422cf070e" : {
+      "english" : "Celtic Woman",
+      "translation" : "Келтска жена"
+   },
+   "06d66da3fd6ff5ee7a5577e99e30a5bc" : {
+      "english" : "Towered War Elephant",
+      "translation" : "Куласти ратни слон"
+   },
+   "06d8c98a9bb28cc698510dadb814284b" : {
+      "english" : "Trumpeter",
+      "translation" : "Трубач"
+   },
+   "071b9e92a394476bceb2ae3df3b9980d" : {
+      "english" : "Alexander III the Great",
+      "translation" : "Александар ИИИ Велики"
+   },
+   "0837e2d8dfc5a0702b7e78d9f80c1bfc" : {
+      "english" : "Mercenary Thureos Skirmisher",
+      "translation" : "Плаћеник Тхуреос Скирмисхер"
+   },
+   "088badbd2e066bc0a48ff9cde645311f" : {
+      "english" : "Armored Swordsman",
+      "translation" : "Оклопни мачевалац"
+   },
+   "09270d7584655dc7ee5f6e8464c162a0" : {
+      "english" : "Liburna",
+      "translation" : "Либурна"
+   },
+   "09fa65db2b1cef4dbe647a6d2c3a4b79" : {
+      "english" : "Hamaranakuba Aθuriya",
+      "translation" : "Хамаранакуба АИ¸урииа"
+   },
+   "0b08816741350086530e61146297c852" : {
+      "english" : "Champion Swordsman",
+      "translation" : "Шампион мачевалац"
+   },
    "0c398acb5c45293293d4b016522a61ca" : {
       "english" : "Ashwarohi",
       "translation" : "Асхварохи"
+   },
+   "0cef13dd3635bd786068ce98ad129be1" : {
+      "english" : "Iberian Woman",
+      "translation" : "Иберијска жена"
+   },
+   "0d0fb03bc913f1f5f1d0c0bd14fc11ef" : {
+      "english" : "Uogition",
+      "translation" : "Уогитион"
+   },
+   "0e0feddcac62fe033f94b9b62a5625f2" : {
+      "english" : "Arakamani",
+      "translation" : "Аракамани"
+   },
+   "0e8d66d829efc36a670e17b459976ffa" : {
+      "english" : "Phalangitēs",
+      "translation" : "Пхалангитес"
+   },
+   "0fcaa0dc46b061bab1d21877ff0aea6b" : {
+      "english" : "Asabāra Māda",
+      "translation" : "Асабра Мада"
+   },
+   "101915403b9e308eea278d8061d26110" : {
+      "english" : "Persian Immortal",
+      "translation" : "Персиан Иммортал"
    },
    "10b30eb5e48898c9cd2ece51903e826c" : {
       "english" : "Boudica",
       "translation" : "Боудица"
    },
+   "115c375aa40073d6b20c7c9f857ed76e" : {
+      "english" : "Trade between docks. Garrison a Trader aboard for additional profit (+20% for each garrisoned). Gather profitable aquatic treasures.",
+      "translation" : "Трговина између докова. Гаррисон а Традер на броду ради додатне добити (+20% за сваког гарнизона). Скупите профитабилно водено благо."
+   },
+   "11bf9bb56e5420f49389dbe4b2b7abd7" : {
+      "english" : "Arab Javelineer",
+      "translation" : "Арапски копљаник"
+   },
+   "11df48b02348d11ef3d432f25e0cec16" : {
+      "english" : "Philip V",
+      "translation" : "Филип В."
+   },
+   "11f01d8a4d206cad2a5731a5a1808486" : {
+      "english" : "Balearic Slinger",
+      "translation" : "Балеарски слингер"
+   },
+   "13b9bac97a7386d8bad685496206c14e" : {
+      "english" : "Argos",
+      "translation" : "Аргос"
+   },
+   "13d9f639d8486c49592ccd1ecc0d0d47" : {
+      "english" : "Infantry Crossbowman",
+      "translation" : "Пешадијски стреличар"
+   },
+   "1412c3101335bdd4a2351117d6ca257b" : {
+      "english" : "Bolt Shooter",
+      "translation" : "Болт Схоотер"
+   },
+   "1433ad2a38c9ce075003d501404478f2" : {
+      "english" : "Royal Guard Infantry",
+      "translation" : "Пешадија Краљевске гарде"
+   },
    "14a2d69ae6f90203877e723e530d8ad8" : {
       "english" : "Egyptian Pikeman",
       "translation" : "Египатски копљаник"
    },
+   "14bd6f50712b29154cfc6d33ebb41150" : {
+      "english" : "Ptolemaic Mercenary Trireme",
+      "translation" : "Птоломејска плаћеничка трирема"
+   },
+   "15e955030b28fe8e960c24a173fbead4" : {
+      "english" : "Surgeon",
+      "translation" : "Хирург"
+   },
+   "1618c81e72a1e6df95644ea33c4405a3" : {
+      "english" : "Roman Quinquereme",
+      "translation" : "Роман Куинкуереме"
+   },
+   "168c99dab35f70e5bd9cf2b297152afa" : {
+      "english" : "Greek Allied Cavalry",
+      "translation" : "Грчка савезничка коњица"
+   },
+   "1690f30fd60771c4db1aec13248b39b2" : {
+      "english" : "Camel",
+      "translation" : "Камила"
+   },
+   "16b98d0e33bf9444817b6cf56a39cf58" : {
+      "english" : "Immortal",
+      "translation" : "Бесмртан"
+   },
+   "16c042a6f8acd7ead77dc2324ec7f1ee" : {
+      "english" : "Phalangitès Agema",
+      "translation" : "ПхалангитА¨с Агема"
+   },
+   "16ebd9a88575ce7cac1e55523e71cb67" : {
+      "english" : "Matsyapalak",
+      "translation" : "Матсиапалак"
+   },
+   "17b73c8cc3d35d24ca6f39df6018bb04" : {
+      "english" : "Ptolemy IV",
+      "translation" : "Птоломеј ИВ"
+   },
    "1a51be42237d964f1689b0d26e393a6f" : {
       "english" : "War Chariot",
       "translation" : "Ратна кочија"
+   },
+   "1a73e30161c4ffa578c765a9a7ad01bf" : {
+      "english" : "Sacred Band of Astarte",
+      "translation" : "Свети бенд Астарте"
    },
    "1a77c1f532bbbd17d5d5eede596e1635" : {
       "english" : "nhw Noba",
@@ -39,13 +207,57 @@
       "english" : "Trade resources between your own markets and those of your allies. Persians have a +25% land trading bonus.",
       "translation" : "Тргујте ресурсима између сопственог тржишта и тржишта својих савезника. Персијанци имају +25% бонуса за трговање земљиштем."
    },
+   "1ad7b50014264a1f01dd1cff501dc5ce" : {
+      "english" : "Parthian Horse Archer",
+      "translation" : "Партијски коњски стрелац"
+   },
+   "1ae3fdbe36baff13fdd0e7dd0c3b9ab6" : {
+      "english" : "Champion Pikeman",
+      "translation" : "Шампион Пикеман"
+   },
+   "1c5c62b5cff296764b792468a69fa041" : {
+      "english" : "Dagger",
+      "translation" : "Бодеж"
+   },
+   "1cf6a3f04cb46567b493932eb859325c" : {
+      "english" : "Cavalry Crossbowman",
+      "translation" : "Коњички самостреличар"
+   },
+   "1cfb135e6af2db612217fec07e4caca2" : {
+      "english" : "Armored War Elephant",
+      "translation" : "Оклопни ратни слон"
+   },
    "1ededd0d5e345b06fbb41cd3fcbaabdb" : {
       "english" : "Rhomphaiaphoros Thrakikós",
       "translation" : "Рхомпхаиапхорос ТхракикА³с"
    },
+   "1f6e9698abcdda097a91eaf52e4664fe" : {
+      "english" : "Hetaîros",
+      "translation" : "ХетаА®рос"
+   },
+   "1ffdb74c4925e8fc7517929a9a34208f" : {
+      "english" : "Pezakontistès Aravikós",
+      "translation" : "ПезаконтистА¨с АравикА³с"
+   },
+   "20038d792494fc94fcd9ce484bfe843b" : {
+      "english" : "Pila Hinduya",
+      "translation" : "Пила Хиндуиа"
+   },
+   "213a5fab5d6dee0565a3042346675280" : {
+      "english" : "Raθa Bābiruviya",
+      "translation" : "РаИ¸а БАирувииа"
+   },
+   "217b77e0b69e9900439b5616ee0c5ac3" : {
+      "english" : "Ploîon Halieutikón",
+      "translation" : "ПлоА®он ХалиеутикА³н"
+   },
    "230910a48a53730b5fd1a6600ff08006" : {
       "english" : "Onager",
       "translation" : "Онагер"
+   },
+   "237ee00a52c63ea2faf4c5e769f5b115" : {
+      "english" : "Lithobólos",
+      "translation" : "ЛитхобА³лос"
    },
    "2380bd0810d052c0116c37e2d027c39c" : {
       "english" : "Polémou Eléphantos",
@@ -54,6 +266,10 @@
    "23ba6b954c02ef38fc8a1afcf77f1c03" : {
       "english" : "Octḗrēs",
       "translation" : "Оцта¸ — рА “с"
+   },
+   "23d2abd6d3042e08c8ccbea6726b0a4f" : {
+      "english" : "Champion Infantry Crossbowman",
+      "translation" : "Шампион пешадијског самострелца"
    },
    "24dcc570746b37ab20046cade1dc68d5" : {
       "english" : "Rath",
@@ -67,53 +283,257 @@
       "english" : "Libyan Spearman",
       "translation" : "Либијски копљаник"
    },
+   "277e95ad9bebbb34d1cddc249f92a52b" : {
+      "english" : "Toxótēs Syrías",
+      "translation" : "ТокА³тА´с СирАас"
+   },
    "278df0317282b02e80c888df98b20e33" : {
       "english" : "Asabāra Varkaniya",
       "translation" : "Асабара Варканииа"
+   },
+   "27cbdb39572d05ae014747fdd69a1638" : {
+      "english" : "Cappadocian Cavalry",
+      "translation" : "Кападокијска коњица"
+   },
+   "299a27bb34799a807d5250af53813d75" : {
+      "english" : "Noba Skirmisher",
+      "translation" : "Ноба Скирмисхер"
+   },
+   "29ef8dc57d1e5b3c888b7a7c70f3001f" : {
+      "english" : "Naked Fanatic",
+      "translation" : "Голи Фанатик"
+   },
+   "2ab1b0b5140311da2fe1b5f87d97875c" : {
+      "english" : "Ptolemaios A' Sōter",
+      "translation" : "Птолемаиос А 'СА тер"
    },
    "2ac49627982d6c50f5596c03ba76159f" : {
       "english" : "I͗rk-k-I͗mn H̱nm-ı͗-Rʿ",
       "translation" : "ИИ — рк-к-ИИ — мн ХИ ± нм-А ± И —- РЕ¿"
    },
+   "2ad531558c0a7e5573f48269b48d1ac4" : {
+      "english" : "Ḥr-sȝ-it.f Sȝ-mrı͗-I͗mn",
+      "translation" : "а¸¤р -сЕ -ит.ф СЕ -мрА ± И —- ИИ — мн"
+   },
+   "2b1daaf5770bbe7cb12af8a30fb82081" : {
+      "english" : "Polybolos",
+      "translation" : "Полиболос"
+   },
+   "2b269763ae8f6968b451d70ed10ae19e" : {
+      "english" : "Samnite Spearman",
+      "translation" : "Самните Спеарман"
+   },
+   "2beade31f8ac99b8158fa0fb1f218745" : {
+      "english" : "Champion Cavalry Axeman",
+      "translation" : "Шампион коњички секира"
+   },
    "2c2ec6c50363a767dc875bffe9091b2d" : {
       "english" : "Emakumezko Apaiz de Ataekina",
       "translation" : "Емакумезко Апаиз де Атаекина"
+   },
+   "2c6416cf4b0b38fbc65af7cce38e0816" : {
+      "english" : "Talmoris",
+      "translation" : "Талморис"
+   },
+   "2cdc3e6744e7e9c5c928d31088b0e2da" : {
+      "english" : "Elephant Archer",
+      "translation" : "Елепхант Арцхер"
+   },
+   "2cf2d8ffc86b3c26ac2c3ae5c9c5dd4f" : {
+      "english" : "Aramaean Merchant",
+      "translation" : "Арамејски трговац"
    },
    "2d2c98543ef411f060b9b9b2add48f39" : {
       "english" : "Qešet",
       "translation" : "КеА¡ет"
    },
+   "2ddaa7b6aa681c694eb21ea7f6f88b9e" : {
+      "english" : "Harpoon",
+      "translation" : "Харпоон"
+   },
+   "2e02018d64925ae53877df4bc3d5e215" : {
+      "english" : "Champion Cavalry Archer",
+      "translation" : "Цхампион Цавалри Арцхер"
+   },
    "2e75b0fba8bd14ccb5ac0a09d35b99a9" : {
       "english" : "Unrepairable. Gradually loses health. Can only attack Ships.",
       "translation" : "Непоправљиво. Постепено губи здравље. Може напасти само бродове."
+   },
+   "2e8d2c8b60897adb6bd4d826488f2881" : {
+      "english" : "Maiden Guard Archer",
+      "translation" : "Маиден Гуард Арцхер"
+   },
+   "2e9a6bd10fc2ff44051ca8aa6d876706" : {
+      "english" : "Infantry Javelineer",
+      "translation" : "Пешадијски копљаник"
+   },
+   "2ea8894183c8c5c46c091b638592ad2f" : {
+      "english" : "Masiyakara",
+      "translation" : "Масииакара"
+   },
+   "2efda78f3ce7ce63abb74309e43ac7b9" : {
+      "english" : "Rhomphaiaphoros",
+      "translation" : "Рхомпхаиапхорос"
+   },
+   "2efeef7cf8988375d49effdd88e401fb" : {
+      "english" : "Adretos",
+      "translation" : "Адретос"
+   },
+   "2f3fce359d3e7cecfe80291924de79c5" : {
+      "english" : "Nastasen",
+      "translation" : "Настасен"
    },
    "305058ab6b28657800b6d56bf8930af8" : {
       "english" : "Dārayavahuš",
       "translation" : "ДА раиавахуА¡"
    },
+   "30922837040aca46abef02b7cbcf8aa6" : {
+      "english" : "shry ʿȝ",
+      "translation" : "схри Е¿Е"
+   },
+   "31bc62a9a23d7cf0a07516f7da8cd015" : {
+      "english" : "Cunobeline",
+      "translation" : "Цунобелине"
+   },
+   "322c421569b70d2e27047b51a221d5d4" : {
+      "english" : "Garrison units for transport and to increase firepower.",
+      "translation" : "Гарнизонске јединице за транспорт и повећање ватрене моћи."
+   },
+   "32a843da6ea40ab3b17a3421ccdf671b" : {
+      "english" : "Linear",
+      "translation" : "Линеарно"
+   },
    "336afed585a7d04397f5e5e11e582155" : {
       "english" : "siȝwrd",
       "translation" : "сиЕ врд"
+   },
+   "33a3c2ebbfa776528bd057cc7aba229a" : {
+      "english" : "Thracian Mercenary Swordsman",
+      "translation" : "Трачки мачевалац плаћеник"
    },
    "3472b750f785a08065be5e048e96588b" : {
       "english" : "Mercātor",
       "translation" : "Мерцтор"
    },
+   "34aad22bf1df180d11faa42cca317470" : {
+      "english" : "Champion Archer",
+      "translation" : "Цхампион Арцхер"
+   },
+   "35141c712711755be38ec9d9a1c877e0" : {
+      "english" : "Babylonian Scythed Chariot",
+      "translation" : "Вавилонска кочија с косом"
+   },
+   "35a730a94d71be4b0728fe53b674c70d" : {
+      "english" : "Gladiator Spearman",
+      "translation" : "Гладијатор Копљаник"
+   },
+   "36b83d23c6c936d6639287f72f421738" : {
+      "english" : "Hoplites Kardakes",
+      "translation" : "Хоплитес Кардакес"
+   },
+   "37c920d0b276b4e7a188c76894424aeb" : {
+      "english" : "Alexandros ho Megas",
+      "translation" : "Алекандрос хо Мегас"
+   },
+   "37fb5cc99146e18c70d904d982f4c849" : {
+      "english" : "Habailari",
+      "translation" : "Хабаилари"
+   },
+   "38534e6476df81c0258caa3f97eedc9c" : {
+      "english" : "Rōmāna",
+      "translation" : "РА мАна"
+   },
+   "3a2068e510c57e4ee4d4dbdaff49eff0" : {
+      "english" : "A World War II American fighter plane.",
+      "translation" : "Амерички борбени авион из Другог светског рата."
+   },
+   "3a4fd588f3724437f314b41c8084032e" : {
+      "english" : "Mandonius",
+      "translation" : "Мандониус"
+   },
+   "3bb971694f51cee9ffd80224db71bc0e" : {
+      "english" : "Quīnquerēmis Rōmāna",
+      "translation" : "КуА ннкуерА´мис РА мАна"
+   },
+   "3bbaa6b86a4571f77ee35fd99dd41576" : {
+      "english" : "Nauson",
+      "translation" : "Наусон"
+   },
    "3bed5a9f4d5500b657ae2ca83b4fc9a4" : {
       "english" : "Ḥameš-Mašōt",
       "translation" : "а¸¤амеА¡-МаААА т"
+   },
+   "3c506b932a6186b15e7138ab0e2ccb23" : {
+      "english" : "Infantry Maceman",
+      "translation" : "Пешадијски Мацеман"
+   },
+   "3d83f1f6ad21773c0bdad3c194494ef3" : {
+      "english" : "Ptolemy I",
+      "translation" : "Птоломеј И."
+   },
+   "3ddc043dfcace5cda6e078a4b5e6c7df" : {
+      "english" : "Counters: 1.2× vs Heroes.",
+      "translation" : "Бројачи: 1.2А— против хероја."
+   },
+   "3e3d380f926f8c22895b2ed24171d848" : {
+      "english" : "Kleopatra H' Philopatōr",
+      "translation" : "Клеопатра Х 'ПхилопатАр"
+   },
+   "3f4b6735006fe2736cb74cf5fd088fec" : {
+      "english" : "Phalaggomákhimos",
+      "translation" : "ПхалаггомА¡кхимос"
+   },
+   "3f52287b6689cb5a21bea62b0ea7427a" : {
+      "english" : "Pil Malḥamit",
+      "translation" : "Пил Мала¸ ¥ амит"
+   },
+   "3fc3379534f58b71409f7256afc1b0e7" : {
+      "english" : "Cannot attack Fields or Organic Units.",
+      "translation" : "Не могу напасти поља или органске јединице."
+   },
+   "3fee0f7b13346ae4c944c8ce79acb0a5" : {
+      "english" : "Hasdrubal (Quartermaster)",
+      "translation" : "Хасдрубал (интендант)"
+   },
+   "400734b6e1bbb92966f20fc79b6df670" : {
+      "english" : "Champion Spearman",
+      "translation" : "Цхампион Спеарман"
+   },
+   "41b8d76af3d934b2f16fe989531be0ef" : {
+      "english" : "Doûlos",
+      "translation" : "ДоА »лос"
+   },
+   "41e9e3384c6dc40da5edc5dc14afbe9e" : {
+      "english" : "wʿb nsw",
+      "translation" : "вЕ¿б нсв"
    },
    "4244e7795a2d1249fbafbd59a68aa518" : {
       "english" : "Solon",
       "translation" : "Солон"
    },
+   "43552581e2438ba2b851e3aca8cb49aa" : {
+      "english" : "Champion Spearman.",
+      "translation" : "Цхампион Спеарман."
+   },
    "437744c4487e5d35a7c1b9749b7b84bc" : {
       "english" : "Noba Maceman",
       "translation" : "Ноба Мацеман"
    },
+   "439d7adfae4da4fc41e8051c3b8031c4" : {
+      "english" : "Thureophóros Misthophóros",
+      "translation" : "ТхуреопхА³рос МистхопхА³рос"
+   },
+   "43c2d55af487bdd1b47fccd49a2c0b7d" : {
+      "english" : "Seḥer",
+      "translation" : "Сеа¸ ¥ ер"
+   },
    "44c9217d254cc46a7b742598a35bbd0d" : {
       "english" : "Hebraikós Sphendonḗtēs",
       "translation" : "ХебраикА³с Спхендона¸ — тА “с"
+   },
+   "4614f424b9a20c02495eceb46c63c5bf" : {
+      "english" : "Champion Cavalry Swordsman",
+      "translation" : "Шампион Коњички мачевалац"
    },
    "46380611dd94a073260005ac896783d8" : {
       "english" : "Ezpatari",
@@ -123,37 +543,201 @@
       "english" : "Militia Thureos Spearman",
       "translation" : "Милица Тхуреос Спеарман"
    },
+   "48144673f05d02bcd6980ed2320c67fd" : {
+      "english" : "Phoenician Trireme",
+      "translation" : "Феничанска Триреме"
+   },
+   "4945725ae667b4c1829646d89a772ce2" : {
+      "english" : "Champion Infantry Javelineer",
+      "translation" : "Шампион пешадијског копљаника"
+   },
+   "497b3b2029377de5d6aa826c951b5ed0" : {
+      "english" : "Karmākara Gaja",
+      "translation" : "Кармкара Гаја"
+   },
+   "4a8fec1a82e13b86e44f25a3bdaf7e24" : {
+      "english" : "Kauntika",
+      "translation" : "Каунтика"
+   },
    "4b2a77aaf1c7ca6c8ae55240783a7145" : {
       "english" : "Leial Zalduneria",
       "translation" : "Леиал Залдунериа"
+   },
+   "4b91a849b8885a5ff8c0df610faa32f2" : {
+      "english" : "Aśoka Devānāmpriya",
+      "translation" : "АА ока ДевА нА мприиа"
    },
    "4bde336bf79a8f3f8e6821480b062cfd" : {
       "english" : "Pyrrhus I of Epirus",
       "translation" : "Пир И из Епира"
    },
+   "4bde8a9828244fefec89ee6455b09dfc" : {
+      "english" : "Thespian Black Cloak",
+      "translation" : "Тхеспиан Блацк Цлоак"
+   },
+   "4c57304df676d653133b59a20ebc180a" : {
+      "english" : "Napatan Light Cavalry",
+      "translation" : "Напатанска лака коњица"
+   },
+   "4caa42a29d5a072f8634d5c73cb2c6d9" : {
+      "english" : "Naari",
+      "translation" : "Наари"
+   },
+   "4ccdeca53bc726d39842c489bd1a5118" : {
+      "english" : "Scorpiō",
+      "translation" : "СцорпиА"
+   },
+   "4cee18592aaa1222c77e71bcf560fd38" : {
+      "english" : "Champion Cavalry Javelineer",
+      "translation" : "Шампион коњице копљаник"
+   },
+   "4cf822ad4e96554fcd4349c4820c3994" : {
+      "english" : "Mekir",
+      "translation" : "Мекир"
+   },
+   "4d42139cd4ce73950868218a6046d994" : {
+      "english" : "Hippeús Makedonikós",
+      "translation" : "ХиппеАºс МакедоникА³с"
+   },
+   "4e73c1835d6fd6ba34cea619b395cd48" : {
+      "english" : "Pūblius Cornēlius Scīpiō Āfricānus",
+      "translation" : "ПА блиус ЦорнАлиус СцА пипиА ‡ фрикен"
+   },
+   "4e95e199f92c03105e1f0651c71643c3" : {
+      "english" : "Syrías Gýnē",
+      "translation" : "СирАас ГА½нА “"
+   },
+   "4ed17ea7ee381085ceb0e533a32a9568" : {
+      "english" : "Cardaces Hoplite",
+      "translation" : "Цардацес Хоплите"
+   },
    "4fa3255d793c89b2c8a71d6349e86ddb" : {
       "english" : "Spartiâtis",
       "translation" : "СпартиА¢тис"
+   },
+   "4fadf1fdd89e372883c6014409764b39" : {
+      "english" : "Nubian Spearman",
+      "translation" : "Нубијски копљаник"
+   },
+   "508206e2db8f36b3570239ae4f903840" : {
+      "english" : "Eporedos",
+      "translation" : "Епоредос"
+   },
+   "50f69d2632b7840ad63ad151036a2174" : {
+      "english" : "Yudhpot",
+      "translation" : "Иудхпот"
+   },
+   "511ddd03b2543495a2b038cf73e08c51" : {
+      "english" : "Kushite Woman",
+      "translation" : "Кусхите Воман"
+   },
+   "51e2e7ec85dd3abbb06d6462c647b304" : {
+      "english" : "Antiochus I Soter (Savior)",
+      "translation" : "Антиох И Сотер (Спаситељ)"
+   },
+   "5293a1c275350026eab640ac81eb1534" : {
+      "english" : "Fangs",
+      "translation" : "Очњаци"
+   },
+   "5335790e0af89dd3b5683ff7a3edbd9a" : {
+      "english" : "Seḫīr Romaḥ",
+      "translation" : "Сеа¸ «А« р Ромаа¸ ¥"
    },
    "53385356da4a058d5ba0c4b335e63e7d" : {
       "english" : "North African War Elephant",
       "translation" : "Северноафрички ратни слон"
    },
+   "5345163f98c81793d0026cf9cb4f97a7" : {
+      "english" : "Hypaspistḗs",
+      "translation" : "Хипасписта¸ — с"
+   },
+   "53ccb8119797bd438ff4b040cdbf9e18" : {
+      "english" : "Athenian Slinger Militia",
+      "translation" : "Милиција атинске праћке"
+   },
+   "53f122c365962ae082458c3c7f1fcc8e" : {
+      "english" : "Hero Elephant",
+      "translation" : "Херо Елепхант"
+   },
    "5447880ecbb4567d6a46740e25256e29" : {
       "english" : "Bactrian Heavy Lancer",
       "translation" : "Бацтриан Хеави Ланцер"
+   },
+   "54a3b5e1fea61bbb4be12bea39469a7e" : {
+      "english" : "Ágēma Basiléōs",
+      "translation" : "А гАма БасилА © А с"
+   },
+   "54e76fe198ed7c1f4e1fb2b3e77163f5" : {
+      "english" : "Brennos",
+      "translation" : "Бреннос"
    },
    "552095ee788b61dc0aff3309e3afcb25" : {
       "english" : "Thureophóros Politès",
       "translation" : "ТхуреопхА³рос ПолитА¨с"
    },
+   "55d7e68e143d1f3485e74f9eee3f9437" : {
+      "english" : "Gastraphetophoros",
+      "translation" : "Гастрапхетопхорос"
+   },
    "55f86d306a85dc3c9b1d9c4b8e303e62" : {
       "english" : "Mesopotamian Woman",
       "translation" : "Мезопотамска жена"
    },
+   "565eb53612e8ec45eaaa8dd82d8665e4" : {
+      "english" : "Brāhmaṇa Pujari",
+      "translation" : "Брчмашица Пујари"
+   },
    "568499db84d564c6081bba16f5ab3759" : {
       "english" : "Celtic Cavalry",
       "translation" : "Келтска коњица"
+   },
+   "5696117ad091179261090da5d011b5cc" : {
+      "english" : "Shmt",
+      "translation" : "Схмт"
+   },
+   "57002b199d7211f12baf408a4e67bda0" : {
+      "english" : "Abore ʿhȝ",
+      "translation" : "Аборе Е¿хЕ"
+   },
+   "57214deae85ea64599f1cc27a75bcb0e" : {
+      "english" : "nhw ʿhȝw Noba",
+      "translation" : "нхв Е¿хЕ в Ноба"
+   },
+   "57533ed8ae3238478d86a0561995eb94" : {
+      "english" : "Ploîon Phortēgikón",
+      "translation" : "ПлоА®он ПхортАикА³н"
+   },
+   "57e36e288747bc7170146d3a6ea6a89f" : {
+      "english" : "Trading Ship",
+      "translation" : "Трговачки брод"
+   },
+   "5807627ce6a7e03fb120afc3a4a3ab3b" : {
+      "english" : "Iberian Heavy Cavalry",
+      "translation" : "Иберијска тешка коњица"
+   },
+   "58358714ece6757942f76edf386868a1" : {
+      "english" : "Hippeús Symmakhikós",
+      "translation" : "ХиппеАºс СиммакхикА³с"
+   },
+   "589343c0f1bb01d562251fbac0ca0aac" : {
+      "english" : "Seleucid Trireme",
+      "translation" : "Селеукид Триреме"
+   },
+   "58a3d53da1567fec910c1d6ad3bf0abd" : {
+      "english" : "Agrocuna",
+      "translation" : "Агроцуна"
+   },
+   "598736992078e929502379c0fc9cae68" : {
+      "english" : "Sǝḫīr Ḥanīt",
+      "translation" : "СЦ а¸ «А« р а¸¤анА «т"
+   },
+   "59b465616d568d9954a76d8e4a4e3487" : {
+      "english" : "Persian Apple Bearer",
+      "translation" : "Носилац персијске јабуке"
+   },
+   "5af65349819112b0a9a7bdd6523db4e9" : {
+      "english" : "Gýnē Aigýptia",
+      "translation" : "ГА½нА “АигА½птиа"
    },
    "5c17712bc6321d5c3fc06a9609687c09" : {
       "english" : "Bindusara",
@@ -163,9 +747,21 @@
       "english" : "Indibil",
       "translation" : "Индибил"
    },
+   "5c4dcb9c685d08ac314f24ec20fa437b" : {
+      "english" : "rs ʿImn",
+      "translation" : "рс Е¿Имн"
+   },
+   "5cb24f3975b4796c6799042e62cb9cf5" : {
+      "english" : "Median Magus",
+      "translation" : "Медиан Магус"
+   },
    "5d4230d99298cfd0e0d80c7239b294b9" : {
       "english" : "Bena",
       "translation" : "Бена"
+   },
+   "5d764b904fa4b126ca942b9ac339c885" : {
+      "english" : "Hero Cavalry Javelineer",
+      "translation" : "Херој коњице копљаник"
    },
    "5e2bcc8897711b9af24adfc35524702a" : {
       "english" : "Hippakontistḕs Odrysós",
@@ -183,17 +779,57 @@
       "english" : "Noble Cavalry",
       "translation" : "Племенита коњица"
    },
+   "614152d1e7824dad6357586094689a97" : {
+      "english" : "Lydian Auxiliary",
+      "translation" : "Лидиан Аукилиари"
+   },
+   "616bb6d259491a6b2866df08af785c11" : {
+      "english" : "Ahariburu",
+      "translation" : "Ахарибуру"
+   },
    "61a8ee5f54c0880ae84362a841e55b44" : {
       "english" : "Pentères",
       "translation" : "ПентА¨рес"
+   },
+   "61d0fe759af4cc2470492ca8d45b3e6e" : {
+      "english" : "Uercingetorix",
+      "translation" : "Верцингеторик"
+   },
+   "62be42e3cd1e780c6d92a7ef2e5d48f7" : {
+      "english" : "Eques Cōnsulāris",
+      "translation" : "Екуес ЦА нсулА рис"
+   },
+   "62e8da921f1ba1669e35a019740e6d2c" : {
+      "english" : "Meroitic Heavy Cavalry",
+      "translation" : "Мероитска тешка коњица"
+   },
+   "64881e3911feb100f454691cbcf87d5e" : {
+      "english" : "iry-rdwy Nhsyw",
+      "translation" : "ири-рдви Нхсив"
+   },
+   "65a515c18a06aae15ade342a0e61d1d8" : {
+      "english" : "Hyrcanian Cavalry",
+      "translation" : "Хирканска коњица"
+   },
+   "6646ae62f7a1756013f34b18e417ac92" : {
+      "english" : "Longbowman",
+      "translation" : "Лонгбовман"
    },
    "66b8d77bd5f4dd8ff5793ab3d037b955" : {
       "english" : "Mašal",
       "translation" : "МаА¡ал"
    },
+   "66b9c3d5cbddc0f248b858d0d2332cb0" : {
+      "english" : "Seleukos A' Nikatōr",
+      "translation" : "Селеукос А 'НикатА р"
+   },
    "66d9fe819c60fe11267efcb29b2060a7" : {
       "english" : "Aśvārohagaṇaḥ",
       "translation" : "АА ›вА рохагаа¹ ‡ аа¸ ¥"
+   },
+   "676afa412cdb36c880673e635ad55875" : {
+      "english" : "Artaxšaçā",
+      "translation" : "АртакА¡аА§А"
    },
    "67b6ec4d6479508cc389befab5766811" : {
       "english" : "Hoplítēs Athēnaîos",
@@ -203,41 +839,233 @@
       "english" : "Transport many soldiers across the sea.",
       "translation" : "Преведи многе војнике преко мора."
    },
+   "68365f79610cc279070b73cbfe950ff3" : {
+      "english" : "Seḫīr Ḥerev",
+      "translation" : "Сеа¸ «А« р а¸¤ерев"
+   },
+   "683f55dbdb7f9aee00c003e140dddc91" : {
+      "english" : "Nabataean Camel Archer",
+      "translation" : "Набатејски стрелац камила"
+   },
    "691fb9594a1593417a1a509f686bff22" : {
       "english" : "Odrysian Skirmish Cavalry",
       "translation" : "Одрисанска коњица окршаја"
+   },
+   "6925ce0f8212d20c5bcfacb065cefd0d" : {
+      "english" : "Maguš Māda",
+      "translation" : "МагуА МА да"
+   },
+   "695a225b22d5f4cadfa3a6a0ed4b5130" : {
+      "english" : "Hero Infantry Maceman",
+      "translation" : "Херој пешадијског мацемана"
+   },
+   "6a8eac880b3d0fe1b6a67f61ece0f537" : {
+      "english" : "Xšayāršā",
+      "translation" : "КСА¡аиА рА¡А"
+   },
+   "6b61d9e78f76aa9b002b8ff5e8ff0edc" : {
+      "english" : "Mārcus Claudius Mārcellus",
+      "translation" : "МАрцус Цлаудиус МАрцеллус"
+   },
+   "6c9c0d56887bfcf67385e1895d8a3328" : {
+      "english" : "Brythonic Champion",
+      "translation" : "Бритхониц Цхампион"
+   },
+   "6cfd2a918f9067a5d8df9cb201023d3b" : {
+      "english" : "Bamboo Spearman",
+      "translation" : "Бамбоо Спеарман"
    },
    "6dccd78d110f21b2b7341fbd7d8b5d5a" : {
       "english" : "Bireme",
       "translation" : "Биреме"
    },
+   "6e3d22acd18c03365507594724f0289c" : {
+      "english" : "Gýnē Makedonikḗ",
+      "translation" : "ГА½нА “Македоника¸—"
+   },
+   "6e97bc4ae545034710a258fd544329cf" : {
+      "english" : "Ionian Trade Ship",
+      "translation" : "Јонски трговачки брод"
+   },
+   "6e9fac5e7b53ce3cb27c8f9c72367eb9" : {
+      "english" : "Britomaros",
+      "translation" : "Бритомарос"
+   },
+   "6fca66ae6bec8bc8d8bc998b4b98d70c" : {
+      "english" : "Spartiátēs",
+      "translation" : "СпартиА¡тА´с"
+   },
+   "707cd2accb5d6edbb962e6c8b9da343e" : {
+      "english" : "Akontistḗs Heílōs",
+      "translation" : "Асабра БактриА¡"
+   },
    "709518a1474919c75d77f38aebf15773" : {
       "english" : "Asabāra Katpatuka",
       "translation" : "Асабара Катпатука"
+   },
+   "70e115d17c7e3f54da79e4fd3423a8c7" : {
+      "english" : "Legiōnārius",
+      "translation" : "ЛегиА нариус"
+   },
+   "716701037a6ed2c0fcee814f2fc25fee" : {
+      "english" : "Cyrus II The Great",
+      "translation" : "Кир ИИ Велики"
+   },
+   "71ab82c2b0f08ad5a90b80f522955be1" : {
+      "english" : "Iberian Fire Ship",
+      "translation" : "Иберијски ватрогасни брод"
+   },
+   "7250c200f3d109a4bcae45a940560a6a" : {
+      "english" : "Hypaspistḗs Argyraspídi",
+      "translation" : "Хипасписта¸ — с АргираспАди"
+   },
+   "7326ac6d57502cdf89b7fcd60db5eb58" : {
+      "english" : "Ariēs",
+      "translation" : "Аријев"
+   },
+   "73414a2fd439b143e1d947e1d8caac89" : {
+      "english" : "Leōnidēs",
+      "translation" : "ЛеА нидА´с"
    },
    "74afa1bd8facbb6ff61349473a0dbcee" : {
       "english" : "Champion Infantry",
       "translation" : "Цхампион Инфантри"
    },
+   "75bbaf600c7d5ada24444b39fec17af7" : {
+      "english" : "Macedonian Shield Bearer",
+      "translation" : "Носилац македонског штита"
+   },
+   "76521b857fb13c56fa749c2b76d7c417" : {
+      "english" : "Acharya Chanakya",
+      "translation" : "Ацхариа Цханакиа"
+   },
    "7698bf36eb7362830f947a1874b66f4a" : {
       "english" : "Foot Companion",
       "translation" : "Фоот Цомпанион"
+   },
+   "76a9dcce0111d7ce067e7f5fa83c2f35" : {
+      "english" : "Helot Skirmisher",
+      "translation" : "Хелот Скирмисхер"
+   },
+   "7795b279926be4c5d077c761166a6527" : {
+      "english" : "Marian Legionary",
+      "translation" : "Маријански легионар"
    },
    "77e79d074a2b166992f17ae15e4d9352" : {
       "english" : "Ékdromos Skirítēs",
       "translation" : "А‰кдромос СкирАтА´с"
    },
+   "78793857039e8aea3f07db9eaf651d7a" : {
+      "english" : "iry hr ssmwtt",
+      "translation" : "ири хр ссмвтт"
+   },
+   "789bcb25a4e36602cf251a63e40557bd" : {
+      "english" : "Longos",
+      "translation" : "Лонгос"
+   },
+   "79831dccc4d09ea9c80332daebe41d4c" : {
+      "english" : "Meroitic Temple Guard",
+      "translation" : "Чувар Мероитског храма"
+   },
+   "7a17e8dd7e09b18cc67e7dcf42021751" : {
+      "english" : "Dȝy sbt",
+      "translation" : "ДЕ и сбт"
+   },
+   "7b0099df7070c1b2d497a8433fc33d0f" : {
+      "english" : "Kill to gather meat for food.",
+      "translation" : "Убијте да скупите месо за храну."
+   },
+   "7becb7b3c4dc9dc8dd4a10d90e6a5b4a" : {
+      "english" : "Hamaraniyanava",
+      "translation" : "Хамараниианава"
+   },
+   "7df73130caf401fab03f9b875d3acf6c" : {
+      "english" : "Meroitic Swordsman",
+      "translation" : "Мероитски мачевалац"
+   },
+   "7e163b97bc90f479c46b25c299e1d696" : {
+      "english" : "Thureophóros Akrobolistḗs",
+      "translation" : "ТхуреопхА³рос Акроболиста¸ — с"
+   },
+   "7e2cea22727193118efbf8edcfb30933" : {
+      "english" : "Scythed Chariot",
+      "translation" : "Сцитхед Цхариот"
+   },
+   "7eca861d9678ff7bc380db4d11bee5c2" : {
+      "english" : "Pentēkóntoros",
+      "translation" : "ПентА кА³нторос"
+   },
+   "7f5b8e50ebbd67c9eae55ee3a7602619" : {
+      "english" : "Cleopatra VII",
+      "translation" : "Клеопатра ВИИ"
+   },
+   "7f8a899b0a7cc21db979dc999a025105" : {
+      "english" : "Hastātus",
+      "translation" : "ХастА тус"
+   },
+   "7fd0c6cad2060d46a14bd21376f978da" : {
+      "english" : "Helépolis",
+      "translation" : "Хелеполис"
+   },
+   "8017e754495efa02952ada99e2da35b3" : {
+      "english" : "Themistoklēs",
+      "translation" : "ТхемистоклА'с"
+   },
+   "80a54fc3d46f84f841e75d3d8c028b9e" : {
+      "english" : "Raiding Cavalry",
+      "translation" : "Раидинг Цавалри"
+   },
+   "81f7fbc79a623de7d61294a972b14996" : {
+      "english" : "Militia Cavalry",
+      "translation" : "Милица коњица"
+   },
+   "823b6b3bb8aef08326e1a43f342536c2" : {
+      "english" : "Samnite Skirmisher",
+      "translation" : "Самните Скирмисхер"
+   },
+   "84006220bc7b80438d7869227ca8e721" : {
+      "english" : "Nile Trading Barge",
+      "translation" : "Нилс Традинг Барге"
+   },
    "8566248c6c9c8ee7f51482a075b6b4c1" : {
       "english" : "Longship",
       "translation" : "Лонгсхип"
+   },
+   "85ceb99df2dbe45cac3fc67deb28ec4d" : {
+      "english" : "Visha Kanya",
+      "translation" : "Висха Каниа"
+   },
+   "862779a2c68e3de2f00e014b97b4b89f" : {
+      "english" : "Melanochitones",
+      "translation" : "Меланоцхитонес"
+   },
+   "8639912065c28b889636245b5b094746" : {
+      "english" : "Roman Skirmisher",
+      "translation" : "Роман Скирмисхер"
+   },
+   "863ab99167f7e7b29f5f6512f8055830" : {
+      "english" : "Hry pdty",
+      "translation" : "Хри пдти"
    },
    "879648c2be27a133bd7f4b0f055cd730" : {
       "english" : "Assyrian Siege Ram",
       "translation" : "Асирска опсада Рам"
    },
+   "88162e15ba797c574ff91aa5e99b5ee3" : {
+      "english" : "Indian Raiding Cavalry",
+      "translation" : "Индијска раидска коњица"
+   },
    "88a956ddad9de236903d44412ea44404" : {
       "english" : "Athenian Woman",
       "translation" : "Жена из Атине"
+   },
+   "88ba9066926c3d917bb1a7b60fb1ea85" : {
+      "english" : "Chariot",
+      "translation" : "Кочија"
+   },
+   "8906cd3d049269c5e7902dfaeaab7c7c" : {
+      "english" : "Dahae Horse Archer",
+      "translation" : "Дахае Хорсе Арцхер"
    },
    "89601843654a3614ef273c357cc11ff5" : {
       "english" : "nhw Bulahau gml",
@@ -247,21 +1075,109 @@
       "english" : "Champion Cavalry Maceman",
       "translation" : "Шампион Коњица Мацеман"
    },
+   "89df4e3c664b27b1fd572398c05bdca9" : {
+      "english" : "Peltastes Kardakes",
+      "translation" : "Пелтастес Кардакес"
+   },
+   "89f16c37b34aabaccf762db1822ed940" : {
+      "english" : "Medicus",
+      "translation" : "Медицус"
+   },
+   "8a5e4c0f12800707349024c1be059a0c" : {
+      "english" : "Gallic Mercenary Swordsman",
+      "translation" : "Галски плаћенички мачевалац"
+   },
+   "8abf52412c8cc392e723d890372e56fa" : {
+      "english" : "Macedonian Settler Cavalry",
+      "translation" : "Македонска досељеничка коњица"
+   },
+   "8aed7361d81a0688dbcc978b59b29fbe" : {
+      "english" : "BoltShooter",
+      "translation" : "БолтСхоотер"
+   },
+   "8be027b1752f3fb1e134f888c952339a" : {
+      "english" : "Bolt",
+      "translation" : "Завртањ"
+   },
    "8c0ff79d6c43fa4fd1568c70d60acc31" : {
       "english" : "Hero Infantry Crossbowman",
       "translation" : "Херој пешадијског самострелца"
+   },
+   "8d89df89a654d0e6c6f976462ed748f2" : {
+      "english" : "Nilotic Merchant",
+      "translation" : "Нилотиц Мерцхант"
    },
    "8d8b54e9cdcba7d0fcce68d6f6854a89" : {
       "english" : "Spartan Trireme",
       "translation" : "Спартан Триреме"
    },
+   "8dbf1e192c01dd653d016a2248ed32cf" : {
+      "english" : "Pentḗrēs",
+      "translation" : "Пента¸ — рА “с"
+   },
+   "8e0a0a332966de2c4d15f987e3bc862a" : {
+      "english" : "Psilòs Athēnaîos",
+      "translation" : "ПсилА²с АтхАнаА®ос"
+   },
+   "8e8b1f1ec945835681a156fb30a62abc" : {
+      "english" : "Merkataritza Itsasontzi",
+      "translation" : "Меркатаритза Итсасонтзи"
+   },
+   "901886cb29c82a2511db79612177635d" : {
+      "english" : "Caratacos",
+      "translation" : "Царатацос"
+   },
+   "911fd95a1317fb6e55ded2f5e060f178" : {
+      "english" : "Perioikoi Hoplite",
+      "translation" : "Периоикои Хоплите"
+   },
    "915153b1bef472444de05e255f13ccc2" : {
       "english" : "Amnirense qore li kdwe li",
       "translation" : "Амниренсе коре ли кдве ли"
    },
+   "918ed1dd204012a0fa12a56008930869" : {
+      "english" : "Pezétairos",
+      "translation" : "Пезетаирос"
+   },
+   "92965b1eba719a39e6019bc5bfb16da5" : {
+      "english" : "Whʿ-rmw",
+      "translation" : "ВхЕ¿-рмв"
+   },
+   "92d876eaddeb50c831328d8f4a1ff4c5" : {
+      "english" : "Sphendonḗtēs Rhódios",
+      "translation" : "Спхендона¸ — тА´с РхА³диос"
+   },
+   "935d9efb74f32531d22535bb4ca641a1" : {
+      "english" : "Plebeian Merchant",
+      "translation" : "Плебејски трговац"
+   },
+   "93c2bc3872ffa606edafc176a30bc9d0" : {
+      "english" : "Spartan Hoplite",
+      "translation" : "Спартан Хоплите"
+   },
+   "93f20ef53845e3c50e8c753c094c12c8" : {
+      "english" : "Mercenary Thureos Spearman",
+      "translation" : "Плаћеник Тхуреос Спеарман"
+   },
+   "9434d94458c6242f347596b1a99161ec" : {
+      "english" : "Vachii Gaja",
+      "translation" : "Вацхии Гаја"
+   },
    "950a214e526937fc5f1029679ce06425" : {
       "english" : "Anušiya",
       "translation" : "АнуА¡ииа"
+   },
+   "9659b49531f43bfe72615592be1c5e19" : {
+      "english" : "FishingBoat",
+      "translation" : "Рибарски брод"
+   },
+   "9679f7aff8d99f586b0d36e1dab41d93" : {
+      "english" : "Vaishya",
+      "translation" : "Ваисхиа"
+   },
+   "98432cafcdac48e4c8d70992bbdf83d3" : {
+      "english" : "Celtic Spearman",
+      "translation" : "Целтиц Спеарман"
    },
    "98ea59db99d0be29fbe1872e612c2743" : {
       "english" : "Arrantza Ontzi",
@@ -271,13 +1187,33 @@
       "english" : "Hieroû Thebaíou Lókhou Hoplítai",
       "translation" : "ХиероА »ТхебаАоу ЛА³кхоу ХоплАтаи"
    },
+   "99b67d19333baee64949d89d580b5c21" : {
+      "english" : "Sparabara",
+      "translation" : "Спарабара"
+   },
+   "99cc5920cce226f1f9cb563c2e3ac08d" : {
+      "english" : "Xerxes I",
+      "translation" : "Ксеркс И."
+   },
    "99f6f3763fa678e2f9a38a6fca317749" : {
       "english" : "Hoplítēs Períoikos",
       "translation" : "ХоплАтА´с ПерАоикос"
    },
+   "9a9d80765859b5d6592dcd1c9b47bb1c" : {
+      "english" : "Lycurgus",
+      "translation" : "Лицургус"
+   },
+   "9c9517da66b3f4727c0bddb6c2600335" : {
+      "english" : "Romanized Heavy Swordsman",
+      "translation" : "Романизовани тешки мачевалац"
+   },
    "9e13d8346f378fe79b0222281239c98e" : {
       "english" : "Companion Cavalry",
       "translation" : "Пратећа коњица"
+   },
+   "9e1a96dd80e74336bb74460c53bcddcb" : {
+      "english" : "Tessarakonterēs",
+      "translation" : "ТессараконтерА с"
    },
    "9e38d3a5081706c775ffe2ecf9c54235" : {
       "english" : "Ezkutari",
@@ -287,13 +1223,49 @@
       "english" : "Rhomphaiophoros",
       "translation" : "Рхомпхаиопхорос"
    },
+   "9fb52257d309e88522cc419704e555f5" : {
+      "english" : "Gallic Noble Cavalry",
+      "translation" : "Галска племенита коњица"
+   },
    "a00eb41d5f1b09c7c609328c2d7155b8" : {
       "english" : "Theban Sacred Band Hoplite",
       "translation" : "Тхебан Сацред Банд Хоплите"
    },
+   "a21e86e34678dd933dab6330bc44c126" : {
+      "english" : "Thyreophoros",
+      "translation" : "Тхиреопхорос"
+   },
+   "a3c9da6cb2f0a0add00343c4bd249e6b" : {
+      "english" : "Blemmye Desert Raider",
+      "translation" : "Блеммие Десерт Раидер"
+   },
+   "a3eddd7349f2dec8b683b683a0002696" : {
+      "english" : "Fire Raiser",
+      "translation" : "Фире Раисер"
+   },
+   "a40c01898aad7a89da3c8fd7926c6f01" : {
+      "english" : "Pyrrhos ho Epeiros",
+      "translation" : "Пиррхос хо Епеирос"
+   },
+   "a49e363d02baae3d67ef9eaefd77d949" : {
+      "english" : "Champion Infantry Maceman",
+      "translation" : "Цхампион Инфантри Мацеман"
+   },
+   "a4e30e1a5d9be43a10ca8475c9415a41" : {
+      "english" : "Seleukidó̱n Triērēs",
+      "translation" : "СелеукидА³И ± н Три р рА с с"
+   },
+   "a4ec5d087cad10685f0a9b5a9c7c6e88" : {
+      "english" : "Celtic Slinger",
+      "translation" : "Келтски Слингер"
+   },
    "a67888727f1b1ec3af0ab6d0e05a0428" : {
       "english" : "Iatros",
       "translation" : "Иатрос"
+   },
+   "a74f0ba6448b31dac851336aca3aa485" : {
+      "english" : "Financial Reorganization: Allied with Rome, Philip reorganized the country's internal affairs and finances, leaving as a legacy reopened mines and a new currency. Gain a slow trickle of metal.",
+      "translation" : "Финансијска реорганизација: У савезу са Римом, Пхилип је реорганизовао унутрашње послове и финансије земље, остављајући као наследство поново отворене руднике и нову валуту. Лагано капљите метал."
    },
    "a7afea4224d788b885a3d083bd85b292" : {
       "english" : "Consular Bodyguard",
@@ -303,37 +1275,125 @@
       "english" : "Hero Infantry Javelineer",
       "translation" : "Херој пешадијског копљаника"
    },
+   "a919b866589992b33cad15bc629e8bae" : {
+      "english" : "Silver Shield",
+      "translation" : "Сребрни штит"
+   },
+   "a9b6d8e5d674abf79a3f790e1f68d153" : {
+      "english" : "Perioikoi Cavalryman",
+      "translation" : "Периоикои коњаник"
+   },
+   "a9db9a2f397a40759e7902e6a053fa0c" : {
+      "english" : "Agrianian Peltast",
+      "translation" : "Агрианиан Пелтаст"
+   },
    "a9fd6dd03ce6b527f4200dd30bc18a2a" : {
       "english" : "Pdty Nhsyw",
       "translation" : "Пдти Нхсив"
+   },
+   "aa81ebb74c99704c5d5868984f89be24" : {
+      "english" : "Kill to butcher for food.",
+      "translation" : "Убијте месара ради хране."
+   },
+   "aaf2288270e5ab9f1e272b90fffd8954" : {
+      "english" : "Sǝḫīr Kidōn",
+      "translation" : "СЦ а¸ «а« р КидАн"
    },
    "ab9877b3c82ce6db3e0f4373759f4267" : {
       "english" : "Sogdian Archer",
       "translation" : "Согдиан Арцхер"
    },
+   "ac2cef193473b9806ac8ef83f717848a" : {
+      "english" : "Triārius",
+      "translation" : "Тририус"
+   },
+   "adeea436d684aabce51e448b9f36ec51" : {
+      "english" : "Heavy Skirmisher",
+      "translation" : "Хеави Скирмисхер"
+   },
+   "ae2fd93db7a96c6c8eb65aa02dc03217" : {
+      "english" : "Circular",
+      "translation" : "Цирцулар"
+   },
    "ae4ccc42bba4653ecad66de9d061d296" : {
       "english" : "Seleukidón Kataphraktos",
       "translation" : "СелеукидА³н Катапхрактос"
+   },
+   "aed59aa109c2bf1df94087fbb67f9782" : {
+      "english" : "Soliduros",
+      "translation" : "Солидурос"
+   },
+   "aee339ec7460d4d43478256d7f964e84" : {
+      "english" : "Tlat-Mašōt",
+      "translation" : "Тлат-МаА¡А т"
    },
    "b0838d301c69c368d2104e403a7bb28a" : {
       "english" : "Nauš Yauna",
       "translation" : "НауА¡ Иауна"
    },
+   "b0b359ac8e50088b22d9fd135747881a" : {
+      "english" : "Tamkarum Arami",
+      "translation" : "Тамкарум Арами"
+   },
    "b0fea232f064898c9f361eed2588be28" : {
       "english" : "Ptolemaios D' Philopatōr",
       "translation" : "Птолемаиос Д 'ПхилопатАр"
+   },
+   "b22e4599aa6f105033e88f10a9466162" : {
+      "english" : "Krios",
+      "translation" : "Криос"
+   },
+   "b250a06f253f18b13303005ff509d45a" : {
+      "english" : "Mauritanian Archer",
+      "translation" : "Мауританиан Арцхер"
+   },
+   "b2e17235156a66a0be433959acb18b45" : {
+      "english" : "Ptolemy III Euergetes (Benefactor)",
+      "translation" : "Птолемеј ИИИ Еуергетес (добротвор)"
    },
    "b36be09a712d55b59e97bd021a2ce5fc" : {
       "english" : "Royal Guard Cavalry",
       "translation" : "Коњица краљевске гарде"
    },
+   "b3e48026cc810d7036f6b436cd932a4c" : {
+      "english" : "Trirēmis Rōmāna",
+      "translation" : "ТрирА мис РА мАна"
+   },
    "b44336ebaf7c7b2866687cc28c5d9d09" : {
       "english" : "Napatan Temple Guard",
       "translation" : "Чувар храма Напатан"
    },
+   "b4d85d6eb3ab5d32279f8a3f89266b58" : {
+      "english" : "Spartan Pikeman",
+      "translation" : "Спартан Пикеман"
+   },
+   "b62d44ba615e8d64c858e11cbde02287" : {
+      "english" : "Leial Ezpatari",
+      "translation" : "Леиал Езпатари"
+   },
+   "b8541f86d6014061f0828b213c351dd6" : {
+      "english" : "Macedonian Trireme",
+      "translation" : "Македонска трирема"
+   },
+   "b92f743f384b2b06250549f08ecbbe11" : {
+      "english" : "Nubian Archer",
+      "translation" : "Нубијски стрелац"
+   },
+   "b9fd7c83fdbf4ac40c33318c852c1df1" : {
+      "english" : "iwn n ms",
+      "translation" : "ивн н мс"
+   },
    "bb917246782d9ef6537e4dc78ed4f7ea" : {
       "english" : "Italic Heavy Infantry",
       "translation" : "Курзив тешке пешадије"
+   },
+   "bba8b82c79b4db549ee12d8d1dc5969a" : {
+      "english" : "Fish the waters for food.",
+      "translation" : "Риболовите воде за храну."
+   },
+   "bbefeefc29fc5f20f979892278c200fe" : {
+      "english" : "Seleucid Cataphract",
+      "translation" : "Селеукид Катафракта"
    },
    "bc4bd86a99d00b311ede6b2c33275f5d" : {
       "english" : "Cardaces Skirmisher",
@@ -347,6 +1407,26 @@
       "english" : "Maharbaʿal",
       "translation" : "МахарбаЕ¿ал"
    },
+   "bd2b7e5f85a6ea65065c4ebc6d7c95bb" : {
+      "english" : "Fire",
+      "translation" : "Ватра"
+   },
+   "be128565a8fe5608526139fd613a38cc" : {
+      "english" : "Htr Msʿ n mh-ib",
+      "translation" : "Хтр МсЕ¿ н мх-иб"
+   },
+   "be3e91de69f590a25f718f352de83354" : {
+      "english" : "Gajendra",
+      "translation" : "Гајендра"
+   },
+   "beefa5e3538f2ba5202ebc9c78fca62e" : {
+      "english" : "Eques Socius",
+      "translation" : "Екуес Социус"
+   },
+   "c0dd7736ba35f33607306c2648add0c5" : {
+      "english" : "Mankar Cirya",
+      "translation" : "Манкар Цириа"
+   },
    "c2cf688284059bc16757321f855cacab" : {
       "english" : "Counters: 3× vs Cavalry.",
       "translation" : "Бројачи: 3А— против коњице."
@@ -354,6 +1434,30 @@
    "c2d7b1e20774e093fc2bea343bb100f7" : {
       "english" : "Émporos Períoikos",
       "translation" : "А‰мпорос ПерАоикос"
+   },
+   "c2f6a9ca9b4f8e7d6d33558997f999cc" : {
+      "english" : "Hero Cavalry Crossbowman",
+      "translation" : "Херој Коњички стреличар"
+   },
+   "c3d357ce25407c895d7cb56f86696e09" : {
+      "english" : "Quinquereme",
+      "translation" : "Куинкуереме"
+   },
+   "c3dce87479f5221106caf90cd0992d65" : {
+      "english" : "Pyrobolos",
+      "translation" : "Пироболос"
+   },
+   "c3f509797585470e0e1d85a0eb2cef02" : {
+      "english" : "Catucos",
+      "translation" : "Цаиуцос"
+   },
+   "c45460d9392223f7bf351272ffe8dda9" : {
+      "english" : "Xenophōn",
+      "translation" : "КсенопхА н"
+   },
+   "c457a31302711a99796d1076de187eeb" : {
+      "english" : "Maiden Guard",
+      "translation" : "Маиден Гуард"
    },
    "c581f8493835c6d92a81240d5169b117" : {
       "english" : "Noon-Mašōt",
@@ -363,25 +1467,113 @@
       "english" : "Athenian Hoplite",
       "translation" : "Атински хоплит"
    },
+   "c616df1efc3cd097863dd1dbb6610486" : {
+      "english" : "Du-Mašōt",
+      "translation" : "Ду-МаА¡А т"
+   },
+   "c63cc4fcfaeea590e0e83374f7180f2f" : {
+      "english" : "Hero Axeman",
+      "translation" : "Херо Акеман"
+   },
+   "c6937270146efef002ec2d18322bd7e3" : {
+      "english" : "Gýnē Athēnaía",
+      "translation" : "ГА½нА “АтхА“ наАа"
+   },
+   "c698f6539270fad68852d41e451ddbe5" : {
+      "english" : "Machine Guns",
+      "translation" : "Митраљези"
+   },
    "c751020b44ce7434f2fe6a43337e06a2" : {
       "english" : "Samnite Swordsman",
       "translation" : "Самните мачевалац"
+   },
+   "c783e23d9ce1d3a98666997b12e00429" : {
+      "english" : "Skiritai Commando",
+      "translation" : "Скиритаи Цоммандо"
    },
    "c78df29773633925d73874249c131321" : {
       "english" : "Arštibara",
       "translation" : "АрА¡тибара"
    },
+   "c84206f172b84490eb3caf8cb6540382" : {
+      "english" : "Caratacus",
+      "translation" : "Царатацус"
+   },
+   "c88d9183cfe55a09c9649d283891046d" : {
+      "english" : "Champion Axeman",
+      "translation" : "Шампион Акеман"
+   },
    "c90604136beed8080fdaa7b24b335881" : {
       "english" : "Dhanurdhar",
       "translation" : "Дханурдхар"
+   },
+   "cb69ea07f93cb5bb8a5728201bacc96d" : {
+      "english" : "Servus",
+      "translation" : "Сервус"
+   },
+   "cb827796b21e470804e37797b8a4e968" : {
+      "english" : "Eques Rōmānus",
+      "translation" : "Екуес РА мАнус"
+   },
+   "cbb67c65f2abd1005d46939a7b3aff5f" : {
+      "english" : "Doctor",
+      "translation" : "Докторе"
+   },
+   "cc68c0e2734a6e6982f6bb6bec3b08bc" : {
+      "english" : "Phalangite",
+      "translation" : "Пхалангите"
+   },
+   "ccc6d98936291ee45f61ef7bc58d9b75" : {
+      "english" : "Hippeús Tarantînos",
+      "translation" : "ХиппеАºс ТарантА®нос"
+   },
+   "cd0a337b56c9f2ba0e270299a948a6b1" : {
+      "english" : "Antiochus IV",
+      "translation" : "Антиох ИВ"
+   },
+   "cece4019086de76896b175a3b1528e6f" : {
+      "english" : "Θanuvaniya Suguda",
+      "translation" : "И˜ануванииа Сугуда"
+   },
+   "cee7453544aef92822dff2fa1db4232b" : {
+      "english" : "Celtic Chariot",
+      "translation" : "Келтска кочија"
+   },
+   "cfc18f9e0fede03379bac31994e9372f" : {
+      "english" : "Phalangites Spartiatis",
+      "translation" : "Пхалангитес Спартиатис"
+   },
+   "cfc1c860c8a8202278e74ef32722a371" : {
+      "english" : "Hoplomachus",
+      "translation" : "Хопломацхус"
    },
    "d01127cd0f73fbc17e51eedc21a84e18" : {
       "english" : "Marcacos",
       "translation" : "Марцацос"
    },
+   "d019a6dc093de21a5e3281b3f677c106" : {
+      "english" : "Banu Miyanrudani",
+      "translation" : "Бану Миианрудани"
+   },
+   "d08f0a5ad2c456509c2db0628e2dfe60" : {
+      "english" : "Hippos Hetairike",
+      "translation" : "Хиппос Хетаирике"
+   },
+   "d1fbb00f4714b5da51df62fbe9d9f86a" : {
+      "english" : "Sacred Band Infantry",
+      "translation" : "Пешадија светих бендова"
+   },
+   "d320520853497ec80a9b57cf3582d7f5" : {
+      "english" : "Sacred Band Pikeman",
+      "translation" : "Сацред Банд Пикеман"
+   },
    "d3ec7bf58a4818bccd26768fbe5532d8" : {
       "english" : "Brahmin Priest",
       "translation" : "Брахмин Приест"
+   },
+   "d3f466641abb47478c3abc2d3bc36e35" : {
+      "english" : "Thōrakitēs",
+      "translation" : "ТХА ракитАс"
    },
    "d5e8f84c1613827398cdfb05c60a2f1e" : {
       "english" : "rmt sbt",
@@ -391,21 +1583,89 @@
       "english" : "Vanijyik Nauka",
       "translation" : "Ванијиик Наука"
    },
+   "d6eeac9c4e58061ee212f7125a499371" : {
+      "english" : "Thracian Black Cloak",
+      "translation" : "Трачки црни огртач"
+   },
+   "d7a9fb34508c556c63857c54477923b2" : {
+      "english" : "Emazteki",
+      "translation" : "Емазтеки"
+   },
+   "d7bacb2b9cc52b644c71decf097cb988" : {
+      "english" : "Thorakisménos Eléphantos",
+      "translation" : "ТхоракисмА © нос Елепхантос"
+   },
+   "d862a09d117b9655599827f478035443" : {
+      "english" : "Ponti",
+      "translation" : "Понти"
+   },
+   "d89439653e6f3fb261ac544905fb06b9" : {
+      "english" : "Khadagdhari",
+      "translation" : "Кхадагдхари"
+   },
+   "dacbb04fb220d55a07891005a5c5d325" : {
+      "english" : "Mutsābiq Gamal Nabatu",
+      "translation" : "МутсА бик Гамал Набату"
+   },
+   "db76bb5fa25871c7257085eb75a16208" : {
+      "english" : "Centuriō",
+      "translation" : "ЦентуриА"
+   },
    "dc0b83092e728c4e7f53b5ab29e31905" : {
       "english" : "Shanakdakheto",
       "translation" : "Сханакдакхето"
+   },
+   "dce8bf300ef4d760e6ab6c9db917648b" : {
+      "english" : "Ḥannibaʿal Baraq",
+      "translation" : "а¸¤аннибаЕ¿ал Барак"
+   },
+   "dd9a5a4de46ce15f1f0087bfea7e4039" : {
+      "english" : "Iberian Mercenary Skirmisher",
+      "translation" : "Иберијски плаћенички окршај"
    },
    "de7f84843d5be00ca095f86af49de18c" : {
       "english" : "Essedon",
       "translation" : "Ессендон"
    },
+   "df1c721ea5d9ff82912194c26fc15a14" : {
+      "english" : "Shield Bearer",
+      "translation" : "Носач штита"
+   },
+   "e03c1dc55b4e08c975220d5cc4ee5834" : {
+      "english" : "Xystophóros Thessalikós",
+      "translation" : "КсистопхА³рос ТхессаликА³с"
+   },
+   "e17b41f4e087d7d966629fa12e8854b2" : {
+      "english" : "Oxybelḗs",
+      "translation" : "ОкибелА И с"
+   },
+   "e307a076e3513ff2f49c6fb307c046ba" : {
+      "english" : "Meroitic War Elephant",
+      "translation" : "Мероитски ратни слон"
+   },
+   "e33b67e467e06d0511320699c8c02eb1" : {
+      "english" : "Bactrian Heavy Cavalry Archer",
+      "translation" : "Бацтриан Хеави Цавалри Арцхер"
+   },
    "e3ada85bf20eee58dc408f50837682ac" : {
       "english" : "Argyraspis",
       "translation" : "Аргираспидес"
    },
+   "e41761392c339f67173320de387e9745" : {
+      "english" : "Sacred Band Cavalry",
+      "translation" : "Коњица Сацред Банд"
+   },
    "e43f0e3ac1959ab8b53ff304e7623135" : {
       "english" : "StoneThrower",
       "translation" : "СтонеТхровер"
+   },
+   "e4690746e836fa7d3163066193a7835c" : {
+      "english" : "Uerouicos",
+      "translation" : "Уероуицос"
+   },
+   "e46af3fad8324beb86b899b69a0f1fd4" : {
+      "english" : "Lantzari",
+      "translation" : "Лантзари"
    },
    "e48c5df3cd4f1778c520bdeb3b9964aa" : {
       "english" : "Crossbowman",
@@ -423,6 +1683,10 @@
       "english" : "Triḗrēs Athēnaía",
       "translation" : "ТриА И рА´с АтхАнаАа"
    },
+   "e5ea56a64dedf72d7bfffbd4251d52bc" : {
+      "english" : "Priest",
+      "translation" : "Свештеник"
+   },
    "e60bd4fde25f34075d90f958e8225c85" : {
       "english" : "Noble Archer",
       "translation" : "Нобле Арцхер"
@@ -435,37 +1699,205 @@
       "english" : "Champion Cavalry Crossbowman",
       "translation" : "Шампион Коњички стреличар"
    },
+   "e7813ca206689e5d486edc3b9a895c4d" : {
+      "english" : "Amanirenas",
+      "translation" : "Аманиренас"
+   },
+   "e7a55deb227a36146616bc7f7768dbe3" : {
+      "english" : "Hemiolos",
+      "translation" : "Хемиолос"
+   },
    "e7b1c3af3203c42e8a5450beb229c09e" : {
       "english" : "Druid",
       "translation" : "Друид"
+   },
+   "e7d62c12cd0eb05bb887f81fdd7b4356" : {
+      "english" : "Sacred Band of Ba'al",
+      "translation" : "Сацред Банд оф Ба'ал"
+   },
+   "e8fdc1b130a7d49ef663a075c790cd51" : {
+      "english" : "Gatherer with a finite life span. Bonused at mining and lumbering.",
+      "translation" : "Скупљач са ограниченим животним веком. Бонус у рударству и дрвној индустрији."
+   },
+   "e91dc79f0fd62b93b2c04bebbb80dd58" : {
+      "english" : "Gladiator Swordsman",
+      "translation" : "Мачевалац гладијатор"
+   },
+   "e92b44015b10fc9b37516ada15c6d9cc" : {
+      "english" : "Worker Elephant",
+      "translation" : "Раднички слон"
+   },
+   "e969faa6d550ac21a54943526b4b1171" : {
+      "english" : "Yōddha",
+      "translation" : "ИА ддха"
+   },
+   "e96ed0e887cdf71985a27d65dc475c7d" : {
+      "english" : "Peltastḗs Agrías",
+      "translation" : "ПелтастА И с АгрАас"
+   },
+   "e9e9a2274e19b55b171216e5ea317ec3" : {
+      "english" : "Hero Cavalry Axeman",
+      "translation" : "Херој Коњица Секира"
+   },
+   "ea0c22b9390117787367f7742ec66033" : {
+      "english" : "Drepanèphoros",
+      "translation" : "ДрепанА¨пхотос"
    },
    "ea14e48335e53d96a59da26f22cb3392" : {
       "english" : "Priestess of Ataekina",
       "translation" : "Свештеница Атаекина"
    },
+   "eab54ce20eed26378ce734ddc9738b1c" : {
+      "english" : "Asabāra Baxtriš",
+      "translation" : "Асабра БактриА¡"
+   },
+   "eacfb1ca704ebaaccd18100980fec19f" : {
+      "english" : "\\n        ",
+      "translation" : "\\n        "
+   },
    "eb3624a8e7bcd0383f2124c9f71d6d3b" : {
       "english" : "Carnucos",
       "translation" : "Царнуцос"
+   },
+   "ec174abd71024e8a0ee22e45132c8ee0" : {
+      "english" : "Lusitano Ezpatari",
+      "translation" : "Луситано Езпатари"
+   },
+   "ec1fd5d07047d7720607be8bde7c1d82" : {
+      "english" : "Asabāra Parθava",
+      "translation" : "Асабра ПарИ¸ава"
+   },
+   "ec22f68b4f7606d04f4d6054fe475005" : {
+      "english" : "Lūcius Iūnius Brūtus",
+      "translation" : "ЛА «циус ИА« ниус БрА тус"
+   },
+   "ec82e8a946c9816a7fe912746c7923a3" : {
+      "english" : "Antiokhos D' Epiphanēs",
+      "translation" : "Антиокхос Д 'ЕпипханАс"
+   },
+   "ecd03afff3ba51979312a1114f791d13" : {
+      "english" : "Crossbow",
+      "translation" : "Самострел"
+   },
+   "ed21495915ae6fdcda10fc65614b3ab7" : {
+      "english" : "Cunobelinos",
+      "translation" : "Цунобелинос"
    },
    "ee146690c0091def25da82dc8907c9b7" : {
       "english" : "Cypriot Galley",
       "translation" : "Кипарска галија"
    },
+   "ee32c2508e30c158ae48d4ce5331e097" : {
+      "english" : "Antiochus III the Great",
+      "translation" : "Антиох ИИИ Велики"
+   },
+   "ee622dbf389e24336537b933aec64ce0" : {
+      "english" : "Hero Cavalry Maceman",
+      "translation" : "Херој Коњица Мацеман"
+   },
    "ef27fe7c5c7cd2fb1ff7e0f1b7af5fbe" : {
       "english" : "Dēmētrios Poliorkētēs",
       "translation" : "ДААААА ‡ Триос ПолиоркА? ТА 'с"
+   },
+   "ef7684843ecc8bd25879dbc54b394207" : {
+      "english" : "Penteconter",
+      "translation" : "Пентецонтер"
    },
    "efc2d870cd2ff8553592c376513e26d4" : {
       "english" : "SiegeTower",
       "translation" : "СиегеТовер"
    },
+   "eff51db28588d08ec36183d9e08ed87d" : {
+      "english" : "Corbīta",
+      "translation" : "ЦорбАта"
+   },
+   "f0820d445d343ed51742db3e92e5229c" : {
+      "english" : "Cassiuellaunos",
+      "translation" : "Цассиуеллаунос"
+   },
+   "f14af85f4c82ccde3a89ddf811db3032" : {
+      "english" : "rs ʿIprmk",
+      "translation" : "рс Е¿Ипрмк"
+   },
+   "f20a3a69b450a42271cfce0023d9a1c9" : {
+      "english" : "Champion Infantry Trumpeter",
+      "translation" : "Шампионски пешадијски трубач"
+   },
+   "f28e39f74c506e2e94c50d465f239b0d" : {
+      "english" : "Meroitic Pikeman",
+      "translation" : "Мероитски Пикеман"
+   },
+   "f2d1f195b0e965bf156e7739c591f244" : {
+      "english" : "Kuruš",
+      "translation" : "КуруА¡"
+   },
+   "f371e337156808b82a8d8343c2bd544e" : {
+      "english" : "Champion Cavalry Spearman",
+      "translation" : "Шампион коњички копљаник"
+   },
+   "f4336d54e4e1baa248056bc1a0d2822d" : {
+      "english" : "Pródromos Perioïkós",
+      "translation" : "ПрА³дромос ПериоА¯кА³с"
+   },
+   "f57c9c0cb388a1fa82fed556fec9a0b6" : {
+      "english" : "Thorakitès Rhomaïkós",
+      "translation" : "ТхоракитА¨с РхомаА¯кА³с"
+   },
+   "f626086b31166c08ecd65afddd756f33" : {
+      "english" : "Bribable",
+      "translation" : "Подмићиво"
+   },
    "f6db1c2e2f6a2559cfcb88e7b0e992a2" : {
       "english" : "Qallāʿ Ibušimi",
       "translation" : "КаллА Е¿ ИбуА¡ими"
    },
+   "f7c7454f8e1123368896747da453afd8" : {
+      "english" : "Molton",
+      "translation" : "Молтон"
+   },
+   "f80fde0cf865a8d23b5fd841d7fec3d8" : {
+      "english" : "Thessalian Lancer",
+      "translation" : "Тхессалиан Ланцер"
+   },
+   "f8b7fe74c3d7637999dddf0a8100d357" : {
+      "english" : "Tarantine Settler Cavalry",
+      "translation" : "Коњица насељеника тарантина"
+   },
+   "f92b36491af502e1a73ef7aa499211b0" : {
+      "english" : "Gladiator",
+      "translation" : "Гладијатор"
+   },
+   "f94112d9ccfd22286eac2c9681246d65" : {
+      "english" : "Émporos",
+      "translation" : "А‰мпорос"
+   },
+   "f9687f1442650bb5546196dead518a6b" : {
+      "english" : "Quīntus Fabius Maximus Verrūcōsus Cūnctātor",
+      "translation" : "КуА нтус Фабиус Макимус ВеррА «цА сус ЦА« нцтА тор"
+   },
+   "f9a7189dd2a12ef7f6ad8b1df6d9778d" : {
+      "english" : "Dierēs",
+      "translation" : "ДиерАс"
+   },
    "fa4543063c32652d93dff5ff09898ab1" : {
       "english" : "Trunk",
       "translation" : "Трунк"
+   },
+   "fb4f0dee66c9c5463956ad03a68979f8" : {
+      "english" : "Antiokhos G' Megas",
+      "translation" : "Антиокхос Г 'Мегас"
+   },
+   "fb73967043464cbfe0f888a2861bec30" : {
+      "english" : "Kehinit",
+      "translation" : "Кехинит"
+   },
+   "fbb4f078f60117a7de4dc13922e51402" : {
+      "english" : "Vēles",
+      "translation" : "ВА лес"
+   },
+   "fc6778a9006260c850fbee0e31b00d86" : {
+      "english" : "Philippos B' ho Makedōn",
+      "translation" : "Пхилиппос Б 'хо МакедАн"
    },
    "fc6b42b605142916b4dc886f8d751c4a" : {
       "english" : "Syrian Woman",
@@ -474,6 +1906,18 @@
    "fce1b089187e5df8a1431a888b230a5e" : {
       "english" : "Gallikós Mistophorós",
       "translation" : "ГалликА³с МистопхорА³с"
+   },
+   "fd060737890d8d5bcc8768e6673fc482" : {
+      "english" : "Pastiš Spardiya",
+      "translation" : "ПастиА Спардииа"
+   },
+   "fd5b5d55607b646571eb54bbb82b90c6" : {
+      "english" : "Darius I the Great",
+      "translation" : "Дарије И Велики"
+   },
+   "fd6e6ac4745773e98e8ad3615e910420" : {
+      "english" : "Pontos",
+      "translation" : "Понтос"
    },
    "fe92e25513af298e805ecd08837cb9fc" : {
       "english" : "Median Light Cavalry",
@@ -490,5 +1934,17 @@
    "ff4a0904e0b655de2f8b10fd6f26e493" : {
       "english" : "Cannot attack Structures, Ships, or Siege Engines.",
       "translation" : "Не могу напасти конструкције, бродове или опсадне моторе."
+   },
+   "ff6e5c0c29b2c1ceddf17380320c73c7" : {
+      "english" : "Murmillo",
+      "translation" : "Мурмилло"
+   },
+   "ffef8578e817cb0edfaaa65e7cc6231d" : {
+      "english" : "Rhodian Slinger",
+      "translation" : "Рходиан Слингер"
+   },
+   "fffb0062abab5325ab4c7ec202c42e64" : {
+      "english" : "Kushite Siege Tower",
+      "translation" : "Опсадна кула Кушите"
    }
 }

@@ -83,15 +83,15 @@ msgstr "Откључава се у фази градова."
 
 #: simulation/data/technologies/agoge.jsontooltip
 msgid "Champion Infantry Spearmen +25% health, but +5% training time."
-msgstr ""
+msgstr "(*) Шампионски пешадијски копљаници +25% здравља, али +5% времена за обуку."
 
 #: simulation/data/technologies/archer_attack_spread.jsondescription
 msgid "Encouraging soldiers to practice archery improves their accuracy."
-msgstr ""
+msgstr "(*) Подстицање војника на вежбање стреличарства побољшава њихову тачност."
 
 #: simulation/data/technologies/archer_attack_spread.jsongenericName
 msgid "Archery Training"
-msgstr ""
+msgstr "(*) Обука стреличарства"
 
 #: simulation/data/technologies/archer_attack_spread.jsonrequirementsTooltip
 #: simulation/data/technologies/architecture_kush.jsonrequirementsTooltip
@@ -124,7 +124,7 @@ msgstr "Откључава се у фази насеља."
 
 #: simulation/data/technologies/archer_attack_spread.jsontooltip
 msgid "Archers −20% ranged attack spread."
-msgstr ""
+msgstr "(*) Стреличари су имали 20% далекосежног ширења напада."
 
 #: simulation/data/technologies/archery_tradition.jsondescription
 msgid ""
@@ -149,7 +149,7 @@ msgstr "Откључава се у фази села."
 
 #: simulation/data/technologies/archery_tradition.jsontooltip
 msgid "Archers +10 attack range."
-msgstr ""
+msgstr "(*) Стрелци +10 домета напада."
 
 #: simulation/data/technologies/architecture_kush.jsongenericName
 msgid "Monumental Architecture"
@@ -174,7 +174,7 @@ msgstr "Персијска архитектура"
 
 #: simulation/data/technologies/architecture_pers.jsontooltip
 msgid "Structures +25% health and capture points, but also +20% build time."
-msgstr ""
+msgstr "(*) Структуре +25% здравља и тачке хватања, али и +20% времена изградње."
 
 #: simulation/data/technologies/attack_soldiers_will.jsondescription
 msgid ""
@@ -184,7 +184,7 @@ msgstr ""
 
 #: simulation/data/technologies/attack_soldiers_will.jsongenericName
 msgid "Will to Fight"
-msgstr ""
+msgstr "(*) Воља за борбу"
 
 #: simulation/data/technologies/attack_soldiers_will.jsonspecificName.athen
 #: simulation/data/technologies/attack_soldiers_will.jsonspecificName.mace
@@ -196,7 +196,7 @@ msgstr "Dynamis"
 
 #: simulation/data/technologies/attack_soldiers_will.jsontooltip
 msgid "Soldiers, Siege Engines, and Ships +25% attack damage."
-msgstr ""
+msgstr "(*) Војници, опсадни мотори и бродови +25% оштећења од напада."
 
 #: simulation/data/technologies/barracks_batch_training.jsondescription
 msgid ""
@@ -211,7 +211,7 @@ msgstr "Војна Обавеза"
 
 #: simulation/data/technologies/barracks_batch_training.jsontooltip
 msgid "Barracks −10% batch training time."
-msgstr ""
+msgstr "(*) Касарна има 10% времена за обуку."
 
 #: simulation/data/technologies/cavalry_cost_time.jsondescription
 msgid ""
@@ -221,35 +221,35 @@ msgstr ""
 
 #: simulation/data/technologies/cavalry_cost_time.jsongenericName
 msgid "Levy Cavalry"
-msgstr ""
+msgstr "(*) Леви Цавалри"
 
 #: simulation/data/technologies/cavalry_cost_time.jsontooltip
 msgid "Cavalry −10% training time."
-msgstr ""
+msgstr "(*) Коњица има 10% времена за обуку."
 
 #: simulation/data/technologies/cavalry_health.jsondescription
 msgid "Selectively breed better war horses."
-msgstr ""
+msgstr "(*) Селективно узгајајте боље ратне коње."
 
 #: simulation/data/technologies/cavalry_health.jsongenericName
 msgid "Horse Breeding"
-msgstr ""
+msgstr "(*) Коњогојство"
 
 #: simulation/data/technologies/cavalry_health.jsontooltip
 msgid "Cavalry +10% health."
-msgstr ""
+msgstr "(*) Коњица +10% здравља."
 
 #: simulation/data/technologies/cavalry_movement_speed.jsondescription
 msgid "Train your horses to move faster."
-msgstr ""
+msgstr "(*) Обуците коње да се брже крећу."
 
 #: simulation/data/technologies/cavalry_movement_speed.jsongenericName
 msgid "Horse Racing"
-msgstr ""
+msgstr "(*) Коњске трке"
 
 #: simulation/data/technologies/cavalry_movement_speed.jsontooltip
 msgid "Cavalry +10% walk speed."
-msgstr ""
+msgstr "(*) Коњица +10% брзине хода."
 
 #: simulation/data/technologies/civbonuses/cart_walls.jsondescription
 msgid ""
@@ -264,11 +264,11 @@ msgstr "Троструки зидови"
 
 #: simulation/data/technologies/civbonuses/cart_walls.jsontooltip
 msgid "City Walls +100% build time, +100% stone cost, and +200% health."
-msgstr ""
+msgstr "(*) Градски зидови +100% времена изградње, +100% трошкови камена и +200% здравља."
 
 #: simulation/data/technologies/civbonuses/celt_structures.jsondescription
 msgid "Celtic structures were mostly made of wood with rubble foundations."
-msgstr ""
+msgstr "(*) Келтске конструкције углавном су биле израђене од дрвета са шљунчаним темељима."
 
 #: simulation/data/technologies/civbonuses/celt_structures.jsongenericName
 msgid "Wooden Construction"
@@ -276,7 +276,7 @@ msgstr "Дрвена контрукција"
 
 #: simulation/data/technologies/civbonuses/celt_structures.jsontooltip
 msgid "Structures −20% build time, −20% health, and −20% capture points."
-msgstr ""
+msgstr "(*) Структуре „20% времена изградње,“ 20% здравља и „20% тачака хватања."
 
 #: simulation/data/technologies/civbonuses/gaul_cavalry.jsondescription
 msgid ""
@@ -286,15 +286,15 @@ msgstr ""
 
 #: simulation/data/technologies/civbonuses/gaul_cavalry.jsongenericName
 msgid "Superior Cavalry"
-msgstr ""
+msgstr "(*) Врхунска коњица"
 
 #: simulation/data/technologies/civbonuses/gaul_cavalry.jsontooltip
 msgid "Cavalry +10% melee attack damage."
-msgstr ""
+msgstr "(*) Коњица +10% оштећења у нападу у блиском нападу."
 
 #: simulation/data/technologies/civbonuses/greek_structures.jsondescription
 msgid "The Greeks used stone construction from early Mycenaean times."
-msgstr ""
+msgstr "(*) Грци су користили камену градњу од раних микенских времена."
 
 #: simulation/data/technologies/civbonuses/greek_structures.jsongenericName
 msgid "Hellenic Architecture"
@@ -302,7 +302,7 @@ msgstr "Грчка архитектура"
 
 #: simulation/data/technologies/civbonuses/greek_structures.jsontooltip
 msgid "Structures +10% health and +10% capture points."
-msgstr ""
+msgstr "(*) Структуре +10% здравља и +10% тачака хватања."
 
 #: simulation/data/technologies/civbonuses/maur_elephants.jsondescription
 msgid ""
@@ -314,11 +314,11 @@ msgstr ""
 
 #: simulation/data/technologies/civbonuses/maur_elephants.jsongenericName
 msgid "Elephant Tradition"
-msgstr ""
+msgstr "(*) Традиција слонова"
 
 #: simulation/data/technologies/civbonuses/maur_elephants.jsontooltip
 msgid "Elephants −30% training time."
-msgstr ""
+msgstr "(*) Слонови имају 30% времена за обуку."
 
 #: simulation/data/technologies/civbonuses/maur_population.jsondescription
 msgid ""
@@ -341,7 +341,7 @@ msgstr "Chakravarti Samrāt"
 #: simulation/data/technologies/civbonuses/maur_population.jsontooltip
 #: simulation/data/technologies/civbonuses/pers_population.jsontooltip
 msgid "+10% maximum population limit."
-msgstr ""
+msgstr "(*) +10% максималне границе популације."
 
 #: simulation/data/technologies/civbonuses/maur_walls.jsondescription
 msgid ""
@@ -355,7 +355,7 @@ msgstr "Дрвена ограда"
 
 #: simulation/data/technologies/civbonuses/maur_walls.jsontooltip
 msgid "City Walls −20% build time and −20% health."
-msgstr ""
+msgstr "(*) Градски зидови а20'20% времена изградње и аˆ'20% здравља."
 
 #: simulation/data/technologies/civbonuses/pers_population.jsondescription
 msgid ""
@@ -369,7 +369,7 @@ msgstr ""
 
 #: simulation/data/technologies/civbonuses/pers_population.jsongenericName
 msgid "Great King's Levy"
-msgstr ""
+msgstr "(*) Велики краљевски намет"
 
 #: simulation/data/technologies/civbonuses/ptol_structures.jsondescription
 msgid ""
@@ -381,11 +381,11 @@ msgstr ""
 
 #: simulation/data/technologies/civbonuses/ptol_structures.jsongenericName
 msgid "Sun-dried Mud Bricks"
-msgstr ""
+msgstr "(*) Блатне цигле осушене на сунцу"
 
 #: simulation/data/technologies/civbonuses/ptol_structures.jsontooltip
 msgid "Houses and Economic Structures −40% wood cost and health."
-msgstr ""
+msgstr "(*) Куће и економске структуре аˆ’40% трошкова и здравља дрва."
 
 #: simulation/data/technologies/colonization.jsondescription
 msgid ""
@@ -399,7 +399,7 @@ msgstr "Колонизација"
 
 #: simulation/data/technologies/colonization.jsontooltip
 msgid "Civic Structures −25% build time and resources cost"
-msgstr ""
+msgstr "(*) Грађанске структуре 25% изградње и трошкови ресурса"
 
 #: simulation/data/technologies/equine_transports.jsondescription
 msgid ""
@@ -414,27 +414,27 @@ msgstr ""
 
 #: simulation/data/technologies/equine_transports.jsongenericName
 msgid "Equine Transports"
-msgstr ""
+msgstr "(*) Превоз коња"
 
 #: simulation/data/technologies/equine_transports.jsontooltip
 msgid "Phoenician Triremes gain the ability to train Cavalry."
-msgstr ""
+msgstr "(*) Фенички триреми стичу способност обучавања коњице."
 
 #: simulation/data/technologies/fishing_boat_gather_capacity.jsondescription
 msgid "Salting allows to preserve fish longer."
-msgstr ""
+msgstr "(*) Сољење омогућава дуже очување рибе."
 
 #: simulation/data/technologies/fishing_boat_gather_capacity.jsongenericName
 msgid "Salting Fish"
-msgstr ""
+msgstr "(*) Сољење рибе"
 
 #: simulation/data/technologies/fishing_boat_gather_capacity.jsontooltip
 msgid "Fishing Boats +20 food capacity."
-msgstr ""
+msgstr "(*) Рибарски бродови +20 капацитета хране."
 
 #: simulation/data/technologies/fishing_boat_gather_rate.jsondescription
 msgid "Use nets to improve the productivity of fishing boats."
-msgstr ""
+msgstr "(*) Користите мреже за побољшање продуктивности рибарских бродова."
 
 #: simulation/data/technologies/fishing_boat_gather_rate.jsongenericName
 msgid "Fishing Net"
@@ -442,11 +442,11 @@ msgstr "Мрежа за хватање риба"
 
 #: simulation/data/technologies/fishing_boat_gather_rate.jsontooltip
 msgid "Fishing Boats +30% fish gather rate."
-msgstr ""
+msgstr "(*) Риболовни чамци +30% сакупљања рибе."
 
 #: simulation/data/technologies/garrison_heal.jsondescription
 msgid "Units regain health over time while garrisoned."
-msgstr ""
+msgstr "(*) Јединице временом добијају здравље док су у гарнизону."
 
 #: simulation/data/technologies/garrison_heal.jsongenericName
 msgid "Living Conditions"
@@ -454,23 +454,23 @@ msgstr "Здравље"
 
 #: simulation/data/technologies/garrison_heal.jsontooltip
 msgid "Structures +1 garrison heal rate."
-msgstr ""
+msgstr "(*) Структуре +1 брзина зарастања гарнизона."
 
 #: simulation/data/technologies/gather_animals_stockbreeding.jsondescription
 msgid "Breed livestock to slaughter for meat."
-msgstr ""
+msgstr "(*) Узгајати стоку за клање ради меса."
 
 #: simulation/data/technologies/gather_animals_stockbreeding.jsongenericName
 msgid "Stockbreeding"
-msgstr ""
+msgstr "(*) Сточарство"
 
 #: simulation/data/technologies/gather_animals_stockbreeding.jsontooltip
 msgid "Domestic Animals −25% breeding time."
-msgstr ""
+msgstr "(*) Домаће животиње имају 25% времена за размножавање."
 
 #: simulation/data/technologies/gather_capacity_basket.jsondescription
 msgid "Workers use baskets. Increases shuttling capacity for all resources."
-msgstr ""
+msgstr "(*) Радници користе корпе. Повећава капацитет схуттле -а за све ресурсе."
 
 #: simulation/data/technologies/gather_capacity_basket.jsongenericName
 msgid "Baskets"
@@ -480,7 +480,7 @@ msgstr "Кошаре"
 #: simulation/data/technologies/gather_capacity_carts.jsontooltip
 #: simulation/data/technologies/gather_capacity_wheelbarrow.jsontooltip
 msgid "Workers +5 resource capacity."
-msgstr ""
+msgstr "(*) Радници +5 ресурса."
 
 #: simulation/data/technologies/gather_capacity_carts.jsondescription
 msgid ""
@@ -490,7 +490,7 @@ msgstr ""
 
 #: simulation/data/technologies/gather_capacity_carts.jsongenericName
 msgid "Horse-drawn Carts"
-msgstr ""
+msgstr "(*) Коњска запрега"
 
 #: simulation/data/technologies/gather_capacity_wheelbarrow.jsondescription
 msgid ""
@@ -503,17 +503,17 @@ msgstr "Колица"
 
 #: simulation/data/technologies/gather_farming_fertilizer.jsondescription
 msgid "Extra nutrients for farms."
-msgstr ""
+msgstr "(*) Додатни нутријенти за фарме."
 
 #: simulation/data/technologies/gather_farming_fertilizer.jsongenericName
 msgid "Fertilizer"
-msgstr ""
+msgstr "(*) Ђубриво"
 
 #: simulation/data/technologies/gather_farming_fertilizer.jsontooltip
 #: simulation/data/technologies/gather_farming_plows.jsontooltip
 #: simulation/data/technologies/gather_farming_training.jsontooltip
 msgid "Workers +20% grain gather rate."
-msgstr ""
+msgstr "(*) Радници +20% стопе сакупљања жита."
 
 #: simulation/data/technologies/gather_farming_harvester.jsondescription
 msgid ""
@@ -523,11 +523,11 @@ msgstr ""
 
 #: simulation/data/technologies/gather_farming_harvester.jsongenericName
 msgid "Harvesting Machine"
-msgstr ""
+msgstr "(*) Машина за жетву"
 
 #: simulation/data/technologies/gather_farming_harvester.jsontooltip
 msgid "Workers +10% grain gather rate."
-msgstr ""
+msgstr "(*) Радници +10% стопе сакупљања жита."
 
 #: simulation/data/technologies/gather_farming_plows.jsondescription
 msgid ""
@@ -541,35 +541,35 @@ msgstr "Гвоздени плуг"
 
 #: simulation/data/technologies/gather_farming_training.jsondescription
 msgid "Training for workers to increase farm gathering speed."
-msgstr ""
+msgstr "(*) Обука радника за повећање брзине прикупљања фарми."
 
 #: simulation/data/technologies/gather_farming_training.jsongenericName
 msgid "Gather Training"
-msgstr ""
+msgstr "(*) Гатхер Траининг"
 
 #: simulation/data/technologies/gather_lumbering_ironaxes.jsondescription
 #: simulation/data/technologies/gather_lumbering_sharpaxes.jsondescription
 #: simulation/data/technologies/gather_lumbering_strongeraxes.jsondescription
 msgid "Increases wood gathering rates for trees."
-msgstr ""
+msgstr "(*) Повећава стопу сакупљања дрвета за дрвеће."
 
 #: simulation/data/technologies/gather_lumbering_ironaxes.jsongenericName
 msgid "Iron Axe Heads"
-msgstr ""
+msgstr "(*) Главе гвоздених секира"
 
 #: simulation/data/technologies/gather_lumbering_ironaxes.jsontooltip
 #: simulation/data/technologies/gather_lumbering_sharpaxes.jsontooltip
 #: simulation/data/technologies/gather_lumbering_strongeraxes.jsontooltip
 msgid "Workers +25% wood gather rate."
-msgstr ""
+msgstr "(*) Радници +25% стопе сакупљања дрва."
 
 #: simulation/data/technologies/gather_lumbering_sharpaxes.jsongenericName
 msgid "Sharp Axe Heads"
-msgstr ""
+msgstr "(*) Оштре главе секира"
 
 #: simulation/data/technologies/gather_lumbering_strongeraxes.jsongenericName
 msgid "Stronger Axe"
-msgstr ""
+msgstr "(*) Јача секира"
 
 #: simulation/data/technologies/gather_mining_serfs.jsondescription
 msgid ""
@@ -583,17 +583,17 @@ msgstr "Кметови"
 
 #: simulation/data/technologies/gather_mining_serfs.jsonspecificName.spart
 msgid "Heilōtes"
-msgstr ""
+msgstr "(*) ХеилА тес"
 
 #: simulation/data/technologies/gather_mining_serfs.jsontooltip
 #: simulation/data/technologies/gather_mining_servants.jsontooltip
 #: simulation/data/technologies/gather_mining_slaves.jsontooltip
 msgid "Workers +25% stone gather rate."
-msgstr ""
+msgstr "(*) Радници +25% стопе прикупљања камена."
 
 #: simulation/data/technologies/gather_mining_servants.jsondescription
 msgid "Hire servants to help quarry stone. Increases stone gathering rates."
-msgstr ""
+msgstr "(*) Унајмите слуге да помогну у каменолому. Повећава стопу сакупљања камена."
 
 #: simulation/data/technologies/gather_mining_servants.jsongenericName
 msgid "Servants"
@@ -605,29 +605,29 @@ msgstr "Слуге"
 #: simulation/data/technologies/gather_mining_servants.jsonspecificName.sele
 #: simulation/data/technologies/gather_mining_servants.jsonspecificName.spart
 msgid "Douloi"
-msgstr ""
+msgstr "(*) Доулои"
 
 #: simulation/data/technologies/gather_mining_shaftmining.jsondescription
 msgid "Develop shaft mining. Increases metal gathering rates."
-msgstr ""
+msgstr "(*) Развити рударско рударство. Повећава стопу сакупљања метала."
 
 #: simulation/data/technologies/gather_mining_shaftmining.jsongenericName
 msgid "Shaft Mining"
-msgstr ""
+msgstr "(*) Рударство вратила"
 
 #: simulation/data/technologies/gather_mining_shaftmining.jsontooltip
 #: simulation/data/technologies/gather_mining_silvermining.jsontooltip
 #: simulation/data/technologies/gather_mining_wedgemallet.jsontooltip
 msgid "Workers +25% metal gather rate."
-msgstr ""
+msgstr "(*) Радници +25% сакупљања метала."
 
 #: simulation/data/technologies/gather_mining_silvermining.jsondescription
 msgid "Strike a vein of precious silver. Increases metal gathering rates."
-msgstr ""
+msgstr "(*) Удари вену драгоценог сребра. Повећава стопу сакупљања метала."
 
 #: simulation/data/technologies/gather_mining_silvermining.jsongenericName
 msgid "Silver Mining"
-msgstr ""
+msgstr "(*) Рударство сребра"
 
 #: simulation/data/technologies/gather_mining_silvermining.jsonspecificName.athen
 msgid "Mines of Laureion"
@@ -635,7 +635,7 @@ msgstr "Лауријски рудници"
 
 #: simulation/data/technologies/gather_mining_silvermining.jsonspecificName.mace
 msgid "Mines of Krenides"
-msgstr ""
+msgstr "(*) Рудници Кренидеса"
 
 #: simulation/data/technologies/gather_mining_slaves.jsondescription
 msgid ""
@@ -653,11 +653,11 @@ msgstr "Робови"
 #: simulation/data/technologies/gather_mining_slaves.jsonspecificName.sele
 #: simulation/data/technologies/gather_mining_slaves.jsonspecificName.spart
 msgid "Andrapoda"
-msgstr ""
+msgstr "(*) Андрапода"
 
 #: simulation/data/technologies/gather_mining_slaves.jsonspecificName.rome
 msgid "Servi"
-msgstr ""
+msgstr "(*) Серви"
 
 #: simulation/data/technologies/gather_mining_wedgemallet.jsondescription
 msgid ""
@@ -670,7 +670,7 @@ msgstr "Клин и маљ"
 
 #: simulation/data/technologies/gather_wicker_baskets.jsondescription
 msgid "Equip your foragers with wicker baskets for foraging."
-msgstr ""
+msgstr "(*) Опремите своје крмилице плетеним корпама за прикупљање хране."
 
 #: simulation/data/technologies/gather_wicker_baskets.jsongenericName
 msgid "Wicker Baskets"
@@ -678,7 +678,7 @@ msgstr "Корпе од прућа"
 
 #: simulation/data/technologies/gather_wicker_baskets.jsontooltip
 msgid "Workers +50% fruit gather rate."
-msgstr ""
+msgstr "(*) Радници +50% сакупљања воћа."
 
 #: simulation/data/technologies/heal_range.jsondescription
 #: simulation/data/technologies/heal_range_2.jsondescription
@@ -687,7 +687,7 @@ msgstr "Увећава домет лечења и вида свих исцели
 
 #: simulation/data/technologies/heal_range.jsongenericName
 msgid "Healing Range"
-msgstr ""
+msgstr "(*) Хеалинг Ранге"
 
 #: simulation/data/technologies/heal_range.jsonspecificName.athen
 #: simulation/data/technologies/heal_range.jsonspecificName.mace
@@ -700,24 +700,24 @@ msgstr "Олимпијски пантеон"
 #: simulation/data/technologies/heal_range.jsontooltip
 #: simulation/data/technologies/heal_range_2.jsontooltip
 msgid "Healers +5 healing range."
-msgstr ""
+msgstr "(*) Исцелитељи +5 домет лечења."
 
 #: simulation/data/technologies/heal_range_2.jsongenericName
 msgid "Healing Range 2"
-msgstr ""
+msgstr "(*) Опсег лечења 2"
 
 #: simulation/data/technologies/heal_range_2.jsonspecificName.athen
 msgid "Akadēmeia"
-msgstr ""
+msgstr "(*) АкадА мееиа"
 
 #: simulation/data/technologies/heal_rate.jsondescription
 #: simulation/data/technologies/heal_rate_2.jsondescription
 msgid "Increases the healing rate of all healers."
-msgstr ""
+msgstr "(*) Повећава стопу лечења свих исцелитеља."
 
 #: simulation/data/technologies/heal_rate.jsongenericName
 msgid "Healing Rate"
-msgstr ""
+msgstr "(*) Брзина лечења"
 
 #: simulation/data/technologies/heal_rate.jsonspecificName.athen
 #: simulation/data/technologies/heal_rate.jsonspecificName.mace
@@ -725,16 +725,16 @@ msgstr ""
 #: simulation/data/technologies/heal_rate.jsonspecificName.sele
 #: simulation/data/technologies/heal_rate.jsonspecificName.spart
 msgid "Sphagia"
-msgstr ""
+msgstr "(*) Спхагиа"
 
 #: simulation/data/technologies/heal_rate.jsontooltip
 #: simulation/data/technologies/heal_rate_2.jsontooltip
 msgid "Healers −20% healing time."
-msgstr ""
+msgstr "(*) Исцелитељи имају 20% времена оздрављења."
 
 #: simulation/data/technologies/heal_rate_2.jsongenericName
 msgid "Healing Rate 2"
-msgstr ""
+msgstr "(*) Брзина лечења 2"
 
 #: simulation/data/technologies/heal_rate_2.jsonspecificName.athen
 #: simulation/data/technologies/heal_rate_2.jsonspecificName.mace
@@ -757,19 +757,19 @@ msgstr "Разбојник"
 
 #: simulation/data/technologies/health_females_01.jsontooltip
 msgid "Female Citizens +100% health."
-msgstr ""
+msgstr "(*) Грађанке +100% здравља."
 
 #: simulation/data/technologies/health_regen_units.jsondescription
 msgid "Organic units will slowly regenerate health over time when idle."
-msgstr ""
+msgstr "(*) Органске јединице ће полако регенерирати здравље током времена у мировању."
 
 #: simulation/data/technologies/health_regen_units.jsongenericName
 msgid "Battlefield Medicine"
-msgstr ""
+msgstr "(*) Баттлефиелд Медицине"
 
 #: simulation/data/technologies/health_regen_units.jsontooltip
 msgid "Idle Organic units +0.5 health regeneration rate."
-msgstr ""
+msgstr "(*) Неактивне органске јединице +0,5 брзина регенерације здравља."
 
 #: simulation/data/technologies/hellenistic_metropolis.jsondescription
 msgid ""
@@ -784,19 +784,19 @@ msgstr "Хеленистичка метропола"
 
 #: simulation/data/technologies/hellenistic_metropolis.jsontooltip
 msgid "Civic Centers +100% health and capture points, double default arrows."
-msgstr ""
+msgstr "(*) Грађански центри +100% здравља и тачке хватања, двоструке подразумеване стрелице."
 
 #: simulation/data/technologies/hoplite_tradition.jsondescription
 msgid "Hoplite soldiers constituted most of the armies of Greece."
-msgstr ""
+msgstr "(*) Војници Хоплите чинили су већину грчких војски."
 
 #: simulation/data/technologies/hoplite_tradition.jsongenericName
 msgid "Hoplite Tradition"
-msgstr ""
+msgstr "(*) Хоплитска традиција"
 
 #: simulation/data/technologies/hoplite_tradition.jsontooltip
 msgid "Hoplites −25% training time and −50% promotion experience."
-msgstr ""
+msgstr "(*) Хоплитес аˆ'25% времена за обуку и аˆ'50% искуство у промоцији."
 
 #: simulation/data/technologies/immortals.jsondescription
 msgid ""
@@ -810,7 +810,7 @@ msgstr "Бесмртници"
 
 #: simulation/data/technologies/immortals.jsontooltip
 msgid "Immortals −50% training time, but −10% health."
-msgstr ""
+msgstr "(*) Бесмртници имају 50% времена за тренинг, али су здравље 10%."
 
 #: simulation/data/technologies/infantry_cost_time.jsondescription
 msgid ""
@@ -820,11 +820,11 @@ msgstr ""
 
 #: simulation/data/technologies/infantry_cost_time.jsongenericName
 msgid "Levy Infantry"
-msgstr ""
+msgstr "(*) Леви Инфантри"
 
 #: simulation/data/technologies/infantry_cost_time.jsontooltip
 msgid "Infantry −10% training time."
-msgstr ""
+msgstr "(*) Пешадија има 10% времена за обуку."
 
 #: simulation/data/technologies/iphicratean_reforms.jsondescription
 msgid ""
@@ -838,7 +838,7 @@ msgstr "Ификратове реформе"
 
 #: simulation/data/technologies/iphicratean_reforms.jsontooltip
 msgid "Athenian Triremes can train Marines and Cretan Mercenary Archers."
-msgstr ""
+msgstr "(*) Атинске триреме могу обучавати маринце и критске најамничке стрелце."
 
 #: simulation/data/technologies/long_walls.jsondescription
 msgid ""
@@ -854,7 +854,7 @@ msgstr "Атински Дуги зидови"
 
 #: simulation/data/technologies/long_walls.jsontooltip
 msgid "Build Walls in own or neutral territory."
-msgstr ""
+msgstr "(*) Изградите зидове на сопственој или неутралној територији."
 
 #: simulation/data/technologies/nisean_horses.jsondescription
 msgid ""
@@ -865,19 +865,19 @@ msgstr ""
 
 #: simulation/data/technologies/nisean_horses.jsongenericName
 msgid "Nisean War Horses"
-msgstr ""
+msgstr "(*) Ратни коњи Нисеан"
 
 #: simulation/data/technologies/nisean_horses.jsonspecificName.sele
 msgid "Nisioi"
-msgstr ""
+msgstr "(*) Нисиои"
 
 #: simulation/data/technologies/nisean_horses.jsontooltip
 msgid "Champion Cavalry Spearmen +20% health, but +10% training time."
-msgstr ""
+msgstr "(*) Шампионски коњички копљаници +20% здравља, али +10% времена за тренинг."
 
 #: simulation/data/technologies/outpost_vision.jsondescription
 msgid "Increases outpost vision."
-msgstr ""
+msgstr "(*) Повећава вид предстраже."
 
 #: simulation/data/technologies/outpost_vision.jsongenericName
 msgid "Carrier Pigeons"
@@ -885,11 +885,11 @@ msgstr "Голубови писмоноше"
 
 #: simulation/data/technologies/outpost_vision.jsontooltip
 msgid "Outposts +33% vision range."
-msgstr ""
+msgstr "(*) Предстраже +33% видног домета."
 
 #: simulation/data/technologies/pair_unlock_champions_sele.jsongenericName
 msgid "Traditional Army vs Reform Army"
-msgstr ""
+msgstr "(*) Традиционална армија против армије реформи"
 
 #: simulation/data/technologies/parade_of_daphne.jsondescription
 msgid ""
@@ -899,11 +899,11 @@ msgstr ""
 
 #: simulation/data/technologies/parade_of_daphne.jsongenericName
 msgid "Parade of Daphne"
-msgstr ""
+msgstr "(*) Парада Дафне"
 
 #: simulation/data/technologies/parade_of_daphne.jsontooltip
 msgid "Champions −20% training time."
-msgstr ""
+msgstr "(*) Шампиони имају 20% времена за тренинг."
 
 #: simulation/data/technologies/phase_city.jsondescription
 msgid ""
@@ -979,7 +979,7 @@ msgstr ""
 #: simulation/data/technologies/phase_town_athen.jsonrequirementsTooltip
 #: simulation/data/technologies/phase_town_generic.jsonrequirementsTooltip
 msgid "Requires five Village Structures."
-msgstr ""
+msgstr "(*) Захтева пет структура села."
 
 #: simulation/data/technologies/phase_town_athen.jsonspecificName.athen
 #: simulation/data/technologies/phase_town_generic.jsonspecificName.mace
@@ -987,7 +987,7 @@ msgstr ""
 #: simulation/data/technologies/phase_town_generic.jsonspecificName.sele
 #: simulation/data/technologies/phase_town_generic.jsonspecificName.spart
 msgid "Kōmopolis"
-msgstr ""
+msgstr "(*) КА мополис"
 
 #: simulation/data/technologies/phase_town_athen.jsontooltip
 msgid ""
@@ -1028,20 +1028,20 @@ msgstr "Кућна башта"
 #: simulation/data/technologies/pop_house_01.jsonspecificName.sele
 #: simulation/data/technologies/pop_house_01.jsonspecificName.spart
 msgid "Peristylon"
-msgstr ""
+msgstr "(*) Перистилон"
 
 #: simulation/data/technologies/pop_house_01.jsonspecificName.pers
 msgid "Paradaidām"
-msgstr ""
+msgstr "(*) ПарадаидА м"
 
 #: simulation/data/technologies/pop_house_01.jsonspecificName.rome
 msgid "Peristylium"
-msgstr ""
+msgstr "(*) Перистилијум"
 
 #: simulation/data/technologies/pop_house_01.jsontooltip
 #: simulation/data/technologies/pop_house_02.jsontooltip
 msgid "Houses +20% population bonus."
-msgstr ""
+msgstr "(*) Куће +20% бонуса становништва."
 
 #: simulation/data/technologies/pop_house_02.jsondescription
 msgid ""
@@ -1050,15 +1050,15 @@ msgstr ""
 
 #: simulation/data/technologies/pop_house_02.jsongenericName
 msgid "Manors"
-msgstr ""
+msgstr "(*) Манорс"
 
 #: simulation/data/technologies/pop_house_02.jsonspecificName.rome
 msgid "Insulae"
-msgstr ""
+msgstr "(*) Инсулае"
 
 #: simulation/data/technologies/reformed_army_sele.jsondescription
 msgid "The Roman-style core of the Seleucid army."
-msgstr ""
+msgstr "(*) Језгро селеукидске војске у римском стилу."
 
 #: simulation/data/technologies/reformed_army_sele.jsongenericName
 msgid "Reform Army"
@@ -1066,7 +1066,7 @@ msgstr "Реформисана војска"
 
 #: simulation/data/technologies/reformed_army_sele.jsontooltip
 msgid "Unlock the Champion Infantry Swordsman."
-msgstr ""
+msgstr "(*) Откључајте пешачког мачеваоца шампиона."
 
 #: simulation/data/technologies/ship_cost_time.jsondescription
 msgid ""
@@ -1076,11 +1076,11 @@ msgstr ""
 
 #: simulation/data/technologies/ship_cost_time.jsongenericName
 msgid "Naval Architects"
-msgstr ""
+msgstr "(*) Навал Арцхитецтс"
 
 #: simulation/data/technologies/ship_cost_time.jsontooltip
 msgid "Ships −20% construction time."
-msgstr ""
+msgstr "(*) Бродови имају 20% времена изградње."
 
 #: simulation/data/technologies/ship_health.jsondescription
 msgid "Wooden reinforcement beams for ship hulls."
@@ -1092,7 +1092,7 @@ msgstr "Ојачани труп"
 
 #: simulation/data/technologies/ship_health.jsontooltip
 msgid "Ships +25% health."
-msgstr ""
+msgstr "(*) Бродови +25% здравља."
 
 #: simulation/data/technologies/ship_movement_speed.jsondescription
 msgid ""
@@ -1102,15 +1102,15 @@ msgstr ""
 
 #: simulation/data/technologies/ship_movement_speed.jsongenericName
 msgid "Experienced Crews"
-msgstr ""
+msgstr "(*) Искусне екипе"
 
 #: simulation/data/technologies/ship_movement_speed.jsontooltip
 msgid "Ships +10% movement speed."
-msgstr ""
+msgstr "(*) Бродови +10% брзине кретања."
 
 #: simulation/data/technologies/siege_attack.jsondescription
 msgid "Advanced technologies improve siege efficiency."
-msgstr ""
+msgstr "(*) Напредне технологије побољшавају ефикасност опсаде."
 
 #: simulation/data/technologies/siege_attack.jsongenericName
 msgid "Advanced Siege"
@@ -1118,31 +1118,31 @@ msgstr "Напредна окупација"
 
 #: simulation/data/technologies/siege_attack.jsontooltip
 msgid "Siege Engines +25% attack crush damage."
-msgstr ""
+msgstr "(*) Опсадни мотори +25% оштећења при нападу."
 
 #: simulation/data/technologies/siege_bolt_accuracy.jsondescription
 msgid "Improvement to projectile accuracy."
-msgstr ""
+msgstr "(*) Побољшање прецизности пројектила."
 
 #: simulation/data/technologies/siege_bolt_accuracy.jsongenericName
 msgid "Bolt Accuracy"
-msgstr ""
+msgstr "(*) Болт Аццураци"
 
 #: simulation/data/technologies/siege_bolt_accuracy.jsontooltip
 msgid "Bolt Shooters −20% ranged attack spread."
-msgstr ""
+msgstr "(*) Болт Схоотерс аˆ’20% распон напада."
 
 #: simulation/data/technologies/siege_cost_time.jsondescription
 msgid "The science or craft of laying or carrying out sieges."
-msgstr ""
+msgstr "(*) Наука или занат постављања или извођења опсада."
 
 #: simulation/data/technologies/siege_cost_time.jsongenericName
 msgid "Siegecraft"
-msgstr ""
+msgstr "(*) Сиегецрафт"
 
 #: simulation/data/technologies/siege_cost_time.jsontooltip
 msgid "Siege Engines −20% construction time."
-msgstr ""
+msgstr "(*) Опсадни мотори - 20% времена изградње."
 
 #: simulation/data/technologies/siege_health.jsondescription
 msgid ""
@@ -1151,15 +1151,15 @@ msgstr ""
 
 #: simulation/data/technologies/siege_health.jsongenericName
 msgid "Armor Plating"
-msgstr ""
+msgstr "(*) Армор Платинг"
 
 #: simulation/data/technologies/siege_health.jsontooltip
 msgid "Battering Rams and Siege Towers +25% health."
-msgstr ""
+msgstr "(*) Рамови и опсадни торњеви +25% здравља."
 
 #: simulation/data/technologies/siege_pack_unpack.jsondescription
 msgid "Military engineers are responsible for improvements in siege engines."
-msgstr ""
+msgstr "(*) Војни инжењери одговорни су за побољшања опсадних машина."
 
 #: simulation/data/technologies/siege_pack_unpack.jsongenericName
 msgid "Military Engineers"
@@ -1167,7 +1167,7 @@ msgstr "Војни инжињери"
 
 #: simulation/data/technologies/siege_pack_unpack.jsontooltip
 msgid "Siege Engines –40% pack and unpack time."
-msgstr ""
+msgstr "(*) Сиеге Енгинес - 40% времена за паковање и распакивање."
 
 #: simulation/data/technologies/silvershields.jsondescription
 msgid ""
@@ -1177,7 +1177,7 @@ msgstr ""
 
 #: simulation/data/technologies/silvershields.jsongenericName
 msgid "Silver Shields Regiment"
-msgstr ""
+msgstr "(*) Сребрни штит пук"
 
 #: simulation/data/technologies/silvershields.jsontooltip
 msgid ""
@@ -1194,7 +1194,7 @@ msgstr ""
 
 #: simulation/data/technologies/soldier_attack_melee_01.jsongenericName
 msgid "Side Arms"
-msgstr ""
+msgstr "(*) Сиде Армс"
 
 #: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.athen
 #: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.mace
@@ -1202,7 +1202,7 @@ msgstr ""
 #: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.sele
 #: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.spart
 msgid "Xiphos"
-msgstr ""
+msgstr "(*) Ксипхос"
 
 #: simulation/data/technologies/soldier_attack_melee_01.jsonspecificName.rome
 msgid "Pugio"
@@ -1211,7 +1211,7 @@ msgstr "Pugio"
 #: simulation/data/technologies/soldier_attack_melee_01.jsontooltip
 #: simulation/data/technologies/soldier_attack_melee_02.jsontooltip
 msgid "Soldiers +15% melee attack damage."
-msgstr ""
+msgstr "(*) Војници +15% оштећења у нападу у близини."
 
 #: simulation/data/technologies/soldier_attack_melee_02.jsondescription
 msgid "Using iron instead of bronze gave weapons additional power."
@@ -1229,11 +1229,11 @@ msgstr ""
 
 #: simulation/data/technologies/soldier_attack_melee_03.jsongenericName
 msgid "Carburization"
-msgstr ""
+msgstr "(*) Карбуризација"
 
 #: simulation/data/technologies/soldier_attack_melee_03.jsontooltip
 msgid "Soldiers +20% melee attack damage."
-msgstr ""
+msgstr "(*) Војници +20% оштећења у нападу у близини."
 
 #: simulation/data/technologies/soldier_attack_melee_03_variant.jsondescription
 msgid ""
@@ -1266,40 +1266,40 @@ msgstr ""
 
 #: simulation/data/technologies/soldier_attack_ranged_01.jsongenericName
 msgid "Improved Fletching"
-msgstr ""
+msgstr "(*) Побољшано флетцхинг"
 
 #: simulation/data/technologies/soldier_attack_ranged_01.jsontooltip
 #: simulation/data/technologies/soldier_attack_ranged_02.jsontooltip
 msgid "Soldiers +15% ranged attack damage."
-msgstr ""
+msgstr "(*) Војници +15% оштећења у нападу."
 
 #: simulation/data/technologies/soldier_attack_ranged_02.jsondescription
 msgid "Projectile points made of iron enable missiles to penetrate deeper."
-msgstr ""
+msgstr "(*) Гвоздене тачке пројектила омогућавају ракетама дубљи продор."
 
 #: simulation/data/technologies/soldier_attack_ranged_02.jsongenericName
 msgid "Iron Arrowheads"
-msgstr ""
+msgstr "(*) Гвоздене стреле"
 
 #: simulation/data/technologies/soldier_attack_ranged_03.jsondescription
 msgid "Arrowheads with three lobes instead of two inflict larger wounds."
-msgstr ""
+msgstr "(*) Врхови стрела са три режња уместо два наносе веће ране."
 
 #: simulation/data/technologies/soldier_attack_ranged_03.jsongenericName
 msgid "Trilobate Arrowheads"
-msgstr ""
+msgstr "(*) Трилобатне стреле"
 
 #: simulation/data/technologies/soldier_attack_ranged_03.jsontooltip
 msgid "Soldiers +20% ranged attack damage."
-msgstr ""
+msgstr "(*) Војници +20% оштећења у нападу."
 
 #: simulation/data/technologies/soldier_ranged_experience.jsontooltip
 msgid "Ranged Soldiers +25% promotion experience."
-msgstr ""
+msgstr "(*) Војници на даљини +25% искуства у промоцији."
 
 #: simulation/data/technologies/soldier_resistance_hack_01.jsondescription
 msgid "Body armor made from quilted wool, linen, cotton, or leather."
-msgstr ""
+msgstr "(*) Оклоп за тело направљен од прошивене вуне, лана, памука или коже."
 
 #: simulation/data/technologies/soldier_resistance_hack_01.jsongenericName
 msgid "Quilted Body Armor"
@@ -1316,11 +1316,11 @@ msgstr "Spolas"
 #: simulation/data/technologies/soldier_resistance_hack_01.jsontooltip
 #: simulation/data/technologies/soldier_resistance_hack_02.jsontooltip
 msgid "Soldiers +1 hack resistance."
-msgstr ""
+msgstr "(*) Војници +1 хаковање отпора."
 
 #: simulation/data/technologies/soldier_resistance_hack_02.jsondescription
 msgid "Body armor made from laminated linen."
-msgstr ""
+msgstr "(*) Оклоп за тело направљен од ламинираног платна."
 
 #: simulation/data/technologies/soldier_resistance_hack_02.jsongenericName
 msgid "Laminated Linen Body Armor"
@@ -1332,19 +1332,19 @@ msgstr "Ламинирани ланени оклоп за тело"
 #: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.sele
 #: simulation/data/technologies/soldier_resistance_hack_02.jsonspecificName.spart
 msgid "Linothōrax"
-msgstr ""
+msgstr "(*) ЛинотхА рак"
 
 #: simulation/data/technologies/soldier_resistance_hack_03.jsondescription
 msgid "Body armor made of small metal rings linked together."
-msgstr ""
+msgstr "(*) Оклоп за тело направљен од малих металних прстенова повезаних заједно."
 
 #: simulation/data/technologies/soldier_resistance_hack_03.jsongenericName
 msgid "Mail Body Armor"
-msgstr ""
+msgstr "(*) Маил Боди Армор"
 
 #: simulation/data/technologies/soldier_resistance_hack_03.jsontooltip
 msgid "Soldiers +2 hack resistance."
-msgstr ""
+msgstr "(*) Војници +2 хаковања."
 
 #: simulation/data/technologies/soldier_resistance_pierce_01.jsondescription
 msgid ""
@@ -1354,44 +1354,44 @@ msgstr ""
 
 #: simulation/data/technologies/soldier_resistance_pierce_01.jsongenericName
 msgid "Wooden Shield"
-msgstr ""
+msgstr "(*) Дрвени штит"
 
 #: simulation/data/technologies/soldier_resistance_pierce_01.jsontooltip
 #: simulation/data/technologies/soldier_resistance_pierce_02.jsontooltip
 msgid "Soldiers +1 pierce resistance."
-msgstr ""
+msgstr "(*) Војници +1 пробију отпор."
 
 #: simulation/data/technologies/soldier_resistance_pierce_02.jsondescription
 msgid "Strengthen shields with a metal rim or spine."
-msgstr ""
+msgstr "(*) Ојачајте штитове са металним ободом или кичмом."
 
 #: simulation/data/technologies/soldier_resistance_pierce_02.jsongenericName
 msgid "Metal Rim"
-msgstr ""
+msgstr "(*) Метал Рим"
 
 #: simulation/data/technologies/soldier_resistance_pierce_03.jsondescription
 msgid "Strengthen shields further with stronger metal alloys."
-msgstr ""
+msgstr "(*) Додатно ојачајте штитове јачим металним легурама."
 
 #: simulation/data/technologies/soldier_resistance_pierce_03.jsongenericName
 msgid "Improved Shield Alloys"
-msgstr ""
+msgstr "(*) Побољшане легуре штита"
 
 #: simulation/data/technologies/soldier_resistance_pierce_03.jsontooltip
 msgid "Soldiers +2 pierce resistance."
-msgstr ""
+msgstr "(*) Војници +2 пробијају отпор."
 
 #: simulation/data/technologies/spy_counter.jsondescription
 msgid "Recruit a network of informants to watch over your people."
-msgstr ""
+msgstr "(*) Запослите мрежу доушника који ће пазити на ваше људе."
 
 #: simulation/data/technologies/spy_counter.jsongenericName
 msgid "Counterintelligence"
-msgstr ""
+msgstr "(*) Контраобавештајна служба"
 
 #: simulation/data/technologies/spy_counter.jsontooltip
 msgid "Make your units 50% more expensive to bribe."
-msgstr ""
+msgstr "(*) Нека ваше јединице буду 50% скупље за мито."
 
 #: simulation/data/technologies/stable_batch_training.jsondescription
 msgid ""
@@ -1401,7 +1401,7 @@ msgstr ""
 
 #: simulation/data/technologies/stable_batch_training.jsontooltip
 msgid "Stables −10% batch training time."
-msgstr ""
+msgstr "(*) Стаје у трајању од 10% серије."
 
 #: simulation/data/technologies/tower_crenellations.jsondescription
 msgid ""
@@ -1411,55 +1411,55 @@ msgstr ""
 
 #: simulation/data/technologies/tower_crenellations.jsongenericName
 msgid "Crenellations"
-msgstr ""
+msgstr "(*) Цренеллатионс"
 
 #: simulation/data/technologies/tower_crenellations.jsontooltip
 msgid "Sentry and Stone Towers +40% more arrows per garrisoned Soldier."
-msgstr ""
+msgstr "(*) Стражарске и камене куле +40% више стрела по војнику у гарнизону."
 
 #: simulation/data/technologies/tower_health.jsondescription
 msgid "Reinforce the foundations in preparation of an attack."
-msgstr ""
+msgstr "(*) Ојачати темеље у припреми напада."
 
 #: simulation/data/technologies/tower_health.jsongenericName
 msgid "Sturdy Foundations"
-msgstr ""
+msgstr "(*) Чврсти темељи"
 
 #: simulation/data/technologies/tower_health.jsontooltip
 msgid "Towers +25% health."
-msgstr ""
+msgstr "(*) Куле +25% здравља."
 
 #: simulation/data/technologies/tower_murderholes.jsondescription
 msgid "Murder holes allow hitting enemies at the foot of the tower."
-msgstr ""
+msgstr "(*) Рупе за убиство дозвољавају ударање непријатеља у подножју куле."
 
 #: simulation/data/technologies/tower_murderholes.jsongenericName
 msgid "Murder Holes"
-msgstr ""
+msgstr "(*) Мурдер Холес"
 
 #: simulation/data/technologies/tower_murderholes.jsontooltip
 msgid "Sentry and Stone Towers have 0 minimum attack range."
-msgstr ""
+msgstr "(*) Стражарске и камене куле имају 0 минималних домета напада."
 
 #: simulation/data/technologies/tower_range.jsondescription
 msgid "Arrow shooters increase the maximum range of the fire arrows."
-msgstr ""
+msgstr "(*) Стрелци повећавају максимални домет ватрених стрела."
 
 #: simulation/data/technologies/tower_range.jsongenericName
 msgid "Arrow Shooters"
-msgstr ""
+msgstr "(*) Стрелице"
 
 #: simulation/data/technologies/tower_range.jsontooltip
 msgid "Sentry and Stone Towers +8 attack range."
-msgstr ""
+msgstr "(*) Стражарске и камене куле +8 домета напада."
 
 #: simulation/data/technologies/tower_watch.jsondescription
 msgid "A night's watch increases vigilance."
-msgstr ""
+msgstr "(*) Ноћна стража појачава будност."
 
 #: simulation/data/technologies/tower_watch.jsongenericName
 msgid "Sentries"
-msgstr ""
+msgstr "(*) Сентриес"
 
 #: simulation/data/technologies/tower_watch.jsonspecificName.athen
 #: simulation/data/technologies/tower_watch.jsonspecificName.mace
@@ -1467,32 +1467,32 @@ msgstr ""
 #: simulation/data/technologies/tower_watch.jsonspecificName.sele
 #: simulation/data/technologies/tower_watch.jsonspecificName.spart
 msgid "Nyktophylakes"
-msgstr ""
+msgstr "(*) Никтопхилакес"
 
 #: simulation/data/technologies/tower_watch.jsonspecificName.rome
 msgid "Vigiles"
-msgstr ""
+msgstr "(*) Вигилес"
 
 #: simulation/data/technologies/tower_watch.jsontooltip
 msgid "Sentry and Stone Towers +1 default arrow count."
-msgstr ""
+msgstr "(*) Сентри анд Стоне Товерс +1 задани број стрелица."
 
 #: simulation/data/technologies/trade_commercial_treaty.jsondescription
 msgid "Improve the international trading profit."
-msgstr ""
+msgstr "(*) Побољшајте профит од међународног трговања."
 
 #: simulation/data/technologies/trade_commercial_treaty.jsongenericName
 msgid "Commercial Treaty"
-msgstr ""
+msgstr "(*) Трговачки уговор"
 
 #: simulation/data/technologies/trade_commercial_treaty.jsontooltip
 msgid "+10% international trade bonus."
-msgstr ""
+msgstr "(*) +10% бонуса за међународну трговину."
 
 #: simulation/data/technologies/trade_gain_01.jsondescription
 #: simulation/data/technologies/trade_gain_02.jsondescription
 msgid "The progress in handicraft improves the trading profit."
-msgstr ""
+msgstr "(*) Напредак у занатству побољшава профит од трговања."
 
 #: simulation/data/technologies/trade_gain_01.jsongenericName
 msgid "Handicraft"
@@ -1501,27 +1501,27 @@ msgstr "Ручни рад"
 #: simulation/data/technologies/trade_gain_01.jsontooltip
 #: simulation/data/technologies/trade_gain_02.jsontooltip
 msgid "Traders +15% trade gain."
-msgstr ""
+msgstr "(*) Трговци +15% трговинске добити."
 
 #: simulation/data/technologies/trade_gain_02.jsongenericName
 msgid "Advanced Handicraft"
-msgstr ""
+msgstr "(*) Напредна рукотворина"
 
 #: simulation/data/technologies/trader_health.jsondescription
 msgid "Traders traveling together in caravans are less vulnerable."
-msgstr ""
+msgstr "(*) Трговци који путују заједно у камп приколицама мање су рањиви."
 
 #: simulation/data/technologies/trader_health.jsongenericName
 msgid "Trade Caravan"
-msgstr ""
+msgstr "(*) Трговачки караван"
 
 #: simulation/data/technologies/trader_health.jsontooltip
 msgid "Land Traders +50% health."
-msgstr ""
+msgstr "(*) Трговци земљиштем +50% здравља."
 
 #: simulation/data/technologies/traditional_army_sele.jsondescription
 msgid "The Macedonian-style core of the Seleucid army."
-msgstr ""
+msgstr "(*) Језгро селеукидске војске у македонском стилу."
 
 #: simulation/data/technologies/traditional_army_sele.jsongenericName
 msgid "Traditional Army"
@@ -1529,7 +1529,7 @@ msgstr "Традиционална војска"
 
 #: simulation/data/technologies/traditional_army_sele.jsontooltip
 msgid "Unlock the Champion Infantry Pikeman."
-msgstr ""
+msgstr "(*) Откључајте Цхампион Инфантри Пикеман."
 
 #: simulation/data/technologies/unit_advanced.jsontooltip
 msgid ""
@@ -1569,44 +1569,44 @@ msgstr ""
 
 #: simulation/data/technologies/unlock_champion_cavalry.jsongenericName
 msgid "Unlock Champion Cavalry"
-msgstr ""
+msgstr "(*) Откључајте шампионску коњицу"
 
 #: simulation/data/technologies/unlock_champion_cavalry.jsontooltip
 msgid "Unlock Champion Cavalry at the Stable."
-msgstr ""
+msgstr "(*) Откључајте шампионску коњицу у штали."
 
 #: simulation/data/technologies/unlock_champion_chariots.jsongenericName
 msgid "Unlock Champion Chariots"
-msgstr ""
+msgstr "(*) Откључајте Цхампион Цхариотс"
 
 #: simulation/data/technologies/unlock_champion_chariots.jsontooltip
 msgid "Unlock Champion Chariots at the Stable."
-msgstr ""
+msgstr "(*) Откључајте шампионске кочије у штали."
 
 #: simulation/data/technologies/unlock_champion_infantry.jsongenericName
 msgid "Unlock Champion Infantry"
-msgstr ""
+msgstr "(*) Откључајте шампионску пешадију"
 
 #: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.mace
 #: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.ptol
 msgid "Agēma"
-msgstr ""
+msgstr "(*) АгАма"
 
 #: simulation/data/technologies/unlock_champion_infantry.jsonspecificName.rome
 msgid "Regio Cohors"
-msgstr ""
+msgstr "(*) Регио Цохорс"
 
 #: simulation/data/technologies/unlock_champion_infantry.jsontooltip
 msgid "Unlock Champions Infantry at the Barracks."
-msgstr ""
+msgstr "(*) Откључајте пешадију првака у касарни."
 
 #: simulation/data/technologies/unlock_females_house.jsondescription
 msgid "A festival attended by women-only, to celebrate female fertility."
-msgstr ""
+msgstr "(*) Фестивал коме присуствују само жене, како би се прославила женска плодност."
 
 #: simulation/data/technologies/unlock_females_house.jsongenericName
 msgid "Fertility Festival"
-msgstr ""
+msgstr "(*) Фестивал плодности"
 
 #: simulation/data/technologies/unlock_females_house.jsonspecificName.athen
 #: simulation/data/technologies/unlock_females_house.jsonspecificName.mace
@@ -1614,15 +1614,15 @@ msgstr ""
 #: simulation/data/technologies/unlock_females_house.jsonspecificName.sele
 #: simulation/data/technologies/unlock_females_house.jsonspecificName.spart
 msgid "Thesmophoria"
-msgstr ""
+msgstr "(*) Тхесмопхориа"
 
 #: simulation/data/technologies/unlock_females_house.jsonspecificName.rome
 msgid "Bona Dea"
-msgstr ""
+msgstr "(*) Бона Деа"
 
 #: simulation/data/technologies/unlock_females_house.jsontooltip
 msgid "Unlock the ability to train women from houses."
-msgstr ""
+msgstr "(*) Откључајте могућност обучавања жена из кућа."
 
 #: simulation/data/technologies/unlock_shared_dropsites.jsondescription
 msgid ""
@@ -1633,15 +1633,15 @@ msgstr ""
 
 #: simulation/data/technologies/unlock_shared_dropsites.jsongenericName
 msgid "Diaspora"
-msgstr ""
+msgstr "(*) Дијаспора"
 
 #: simulation/data/technologies/unlock_shared_dropsites.jsonrequirementsTooltip
 msgid "Requires three Traders"
-msgstr ""
+msgstr "(*) Потребна су три трговца"
 
 #: simulation/data/technologies/unlock_shared_dropsites.jsontooltip
 msgid "Allows using allied dropsites."
-msgstr ""
+msgstr "(*) Асабра БактриА¡"
 
 #: simulation/data/technologies/unlock_shared_los.jsondescription
 msgid ""
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsondescription
 msgid "Hire professional mercenaries to fight in your army."
-msgstr ""
+msgstr "(*) Унајмите професионалне плаћенике да се боре у вашој војсци."
 
 #: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsongenericName
 msgid "Expertise In War"
@@ -1685,11 +1685,11 @@ msgstr "Ратни Стручњаци"
 
 #: simulation/data/technologies/upgrade_rank_advanced_mercenary.jsontooltip
 msgid "Mercenaries start at Advanced rank."
-msgstr ""
+msgstr "(*) Плаћеници почињу са напредним чином."
 
 #: simulation/data/technologies/wonder_population_cap.jsondescription
 msgid "The wonder attracts many more people to your civilization."
-msgstr ""
+msgstr "(*) Чудо привлачи много више људи у вашу цивилизацију."
 
 #: simulation/data/technologies/wonder_population_cap.jsongenericName
 msgid "Glorious Expansion"
@@ -1701,7 +1701,7 @@ msgstr "Славно Проширење"
 #: simulation/data/technologies/wonder_population_cap.jsonspecificName.sele
 #: simulation/data/technologies/wonder_population_cap.jsonspecificName.spart
 msgid "Peristasis"
-msgstr ""
+msgstr "(*) Перистасис"
 
 #: simulation/data/technologies/wonder_population_cap.jsontooltip
 msgid ""

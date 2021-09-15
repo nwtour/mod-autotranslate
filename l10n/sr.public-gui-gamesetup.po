@@ -88,7 +88,7 @@ msgstr "Понашање АI"
 
 #: gui/gamesetup/Pages/AIConfigPage/Controls/AIDifficulty.js:32
 msgid "AI Difficulty"
-msgstr ""
+msgstr "(*) АИ Тешкоће"
 
 #: gui/gamesetup/Pages/AIConfigPage/Controls/AISelection.js:39
 msgctxt "ai"
@@ -271,7 +271,7 @@ msgstr "Гарнизон за хероје"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/RegicideGarrison.js:30
 msgid "Toggle whether heroes can be garrisoned."
-msgstr ""
+msgstr "(*) Укључите се да ли хероји могу бити у гарнизону."
 
 #. Translation: Make sure to differentiate between the revealed map and
 #. explored map
@@ -364,7 +364,7 @@ msgstr "Насумично"
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/Landscape.js:26
 msgctxt "landscape selection"
 msgid "Select a random landscape."
-msgstr ""
+msgstr "(*) Изаберите насумични пејзаж."
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/Landscape.js:78
 msgid "Landscape"
@@ -617,7 +617,7 @@ msgstr "%(hotkey_civinfo)s/ %(hotkey_structree)s: Приказ прегледа 
 
 #: gui/gamesetup/Pages/GameSetupPage/Panels/Buttons/LobbyButton.js:19
 msgid "Show the multiplayer lobby in a dialog window."
-msgstr ""
+msgstr "(*) Прикажите предворје за више играча у прозору за дијалог."
 
 #: gui/gamesetup/Pages/GameSetupPage/Panels/Buttons/ReadyButton.js:79
 msgid "I'm ready"
@@ -753,7 +753,7 @@ msgstr "Игра за поене."
 #: gui/gamesetup/Pages/GameSetupPage/Panels/GameSettingsTabs.js:77
 #, javascript-format
 msgid "Click to toggle the %(name)s settings tab."
-msgstr ""
+msgstr "(*) Кликните да бисте укључили или искључили %(name)s картицу подешавања."
 
 #: gui/gamesetup/Pages/GameSetupPage/Panels/GameSettingsTabs.js:80
 #, javascript-format
@@ -767,7 +767,7 @@ msgstr "Стисни %(hotkey)sза прелазак на претходну к�
 
 #: gui/gamesetup/Pages/GameSetupPage/Panels/MapPreview.js:27
 msgid "No selected map"
-msgstr ""
+msgstr "(*) Нема изабране карте"
 
 #: gui/gamesetup/Pages/GameSetupPage/Panels/MapPreview.js:47
 msgid "Click to view the list of available maps."
@@ -995,7 +995,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:6
 msgid "“A prosperous fool is a grievous burden.” \\n— Aeschylus (fragment 383)"
-msgstr ""
+msgstr "(*) „Успешна будала је тежак терет.“\\n- Есхил (фрагмент 383)"
 
 #: gui/text/quotes.txt:7
 msgid ""
@@ -1011,7 +1011,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:9
 msgid "“Union gives strength.” \\n— Aesop (“The Bundle of Sticks”)"
-msgstr ""
+msgstr "(*) „Синдикат даје снагу.“\\n„Езоп („ Пакет штапова “)"
 
 #: gui/text/quotes.txt:10
 msgid ""
@@ -1050,7 +1050,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:16
 msgid "“Any excuse will serve a tyrant.” \\n— Aesop (“The Wolf and the Lamb”)"
-msgstr ""
+msgstr "(*) „Сваки изговор ће послужити тиранину.“\\n„Езоп („ Вук и јагње “)"
 
 #: gui/text/quotes.txt:17
 msgid ""
@@ -1303,7 +1303,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:51
 msgid "“Set a thief to catch a thief.” \\n— Callimachus (“Epigrams”, 44)"
-msgstr ""
+msgstr "(*) „Поставите лопова да ухвати лопова.“\\n„Цаллимацхус („ Епиграми “, 44)"
 
 #: gui/text/quotes.txt:52
 msgid ""
@@ -1700,7 +1700,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:108
 msgid "“I am Cyrus, king of the world…” \\n— Inscription (Cyrus Cylinder)"
-msgstr ""
+msgstr "(*) „Ја сам Кир, краљ света ...“\\n- натпис (Цирус цилиндар)"
 
 #: gui/text/quotes.txt:109
 msgid ""
@@ -1771,7 +1771,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:118
 msgid "“O, the times, O, the customs!” \\n— Cicero (“Against Catiline”, I.)"
-msgstr ""
+msgstr "(*) „О, времена, О, обичаји!“\\n“Цицерон („ Против Катилине “, И.)"
 
 #: gui/text/quotes.txt:119
 msgid ""
@@ -1833,7 +1833,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:128
 msgid "“The man who runs may fight again.” \\n— Menander (“Monosticha”)"
-msgstr ""
+msgstr "(*) „Човек који трчи могао би се поново борити.“\\n“Менандер („ Моностицха “)"
 
 #: gui/text/quotes.txt:129
 msgid ""
@@ -1843,7 +1843,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:130
 msgid "“I call a fig a fig, a spade a spade.” \\n— Menander (fragment 545 K)"
-msgstr ""
+msgstr "(*) „Ја смокву називам смоквом, а лопату правим именом.“\\n- Менандер (фрагмент 545 К)"
 
 #: gui/text/quotes.txt:131
 msgid ""
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:169
 msgid "“Moderation in all things.” \\n— Terence (“The Girl from Andros”, 61)"
-msgstr ""
+msgstr "(*) „Умереност у свим стварима.“\\n“Теренце („ Девојка из Андроса “, 61)"
 
 #: gui/text/quotes.txt:170
 msgid ""
@@ -2264,7 +2264,7 @@ msgstr ""
 
 #: gui/text/quotes.txt:184
 msgid "“Prepared for either alternative.” \\n— Virgil (“Aeneid”, II. 61)"
-msgstr ""
+msgstr "(*) „Припремљен за било коју алтернативу.“\\n„Вергилије („ Енеида “, ИИ. 61)"
 
 #: gui/text/quotes.txt:185
 msgid ""

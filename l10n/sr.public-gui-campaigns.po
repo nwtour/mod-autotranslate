@@ -197,4 +197,4 @@ msgstr "Име"
 #: gui/common/campaigns/CampaignRun.js:116
 #, javascript-format
 msgid "%(userDesc)s - %(templateName)s"
-msgstr ""
+msgstr "(*) %(усерДесц) с - %(име шаблона) с"

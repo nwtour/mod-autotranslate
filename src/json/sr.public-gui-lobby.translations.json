@@ -1,19 +1,339 @@
 {
+   "0499a5deb9cc3435028a321b25595954" : {
+      "english" : "(%(private)s) %(message)s",
+      "translation" : "( %(private)s )  %(message)s "
+   },
+   "04df9fb3fe804104aebb20868936e8b8" : {
+      "english" : "The command '%(cmd)s' is restricted to moderators.",
+      "translation" : "Команда ' %(cmd)s 'је ограничено на модераторе."
+   },
    "05a15e42cd89ac553625a3419bdfb2e9" : {
       "english" : "6. Right to restriction of personal data processing where the accuracy of the data is contested by the user, if the data was processed unlawfully or if the user requires the data for a legal claim (GDPR 18).",
       "translation" : "6. Право на ограничење обраде личних података ако корисник оспорава тачност података, ако су подаци обрађени незаконито или ако корисник захтева податке за правни захтев (ГДПР 18)."
+   },
+   "0621345bb81e4e210d1d70b75dad01f0" : {
+      "english" : "Ban a specified user from the lobby. Usage: /ban nick reason",
+      "translation" : "Забрани одређеном кориснику приступ у предворју. Употреба: /разлог забране надимка"
+   },
+   "08a5de60f8b2f114a2030b7dbec857d8" : {
+      "english" : "Player Profile Lookup",
+      "translation" : "Преглед профила играча"
+   },
+   "0aafbbd56eeefaca19143d3f6a768f49" : {
+      "english" : "Wildfire Games will not use the IP address logs for any other purpose, in particular not for marketing, not otherwise disclose IP addresses to the public or third parties and erase IP addresses if they are not relevant for the stated purposes anymore.",
+      "translation" : "Вилдфире Гамес неће користити записнике ИП адреса у било које друге сврхе, посебно не за маркетинг, нити на други начин откривати ИП адресе јавности или трећим странама и брисати ИП адресе ако више нису релевантне за наведене сврхе."
+   },
+   "0af3744b4d0f5205887e4c619218edfe" : {
+      "english" : "Wildfire Games only receives an encrypted version of the password, so that the password chosen by the user is not revealed to Wildfire Games or others in case of a breach.",
+      "translation" : "Вилдфире Гамес прима само шифровану верзију лозинке, тако да се лозинка коју је одабрао корисник не открива Вилдфире Гамес или другима у случају кршења."
+   },
+   "0afda7f37ff5fdec2206ddc048666230" : {
+      "english" : "Set your state to 'Away'.",
+      "translation" : "Подесите своје стање на „Одсутан“."
+   },
+   "0c2f6fdbbe775122d9d11cb1f0f91ab6" : {
+      "english" : "Enter playername:",
+      "translation" : "Унесите име играча:"
+   },
+   "0ce2d13b640c7d6dfc94a299c6046b8c" : {
+      "english" : "[font=\\\"sans-bold-18\\\"]0 A.D. Empires Ascendant Multiplayer Lobby Terms of Service[/font]",
+      "translation" : "[font=\\\"sans-bold-18\\\"]0 Увјети пружања услуге лобија за више играча А.Д. Емпирес Асцендант[/font]"
+   },
+   "0e0a16e8f7ec3452c9f2333999a8c26c" : {
+      "english" : "[font=\\\"sans-bold-18\\\"]0 A.D. Empires Ascendant Multiplayer Lobby Terms of Use[/font]",
+      "translation" : "[font=\\\"sans-bold-18\\\"]0 А.П. Емпирес Асцендант Мултиплаиер Лобби Услови коришћења[/font]"
+   },
+   "0e8382c12112638938df82aeb5ab7537" : {
+      "english" : "If parts of the terms are held to be illegal or otherwise unenforceable, the remainder of the terms shall still apply ('severability').",
+      "translation" : "Ако се сматра да су делови услова незаконити или на други начин неизводљиви, остатак услова ће се и даље примењивати („раздвајање“)."
+   },
+   "10e5ee7fb78ddb9c43d2a46556526eef" : {
+      "english" : "10. Not use the service to promote specific goods, services, or products unless authorized by Wildfire Games.",
+      "translation" : "10. Не користите услугу за промоцију одређене робе, услуга или производа осим ако то није одобрило Вилдфире Гамес."
+   },
+   "1149e5625ea4fc1caca51159055fcfc9" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]Legal basis for the processing:[/font]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Правни основ за обраду:[/font]"
+   },
+   "11d0b2252d9a08d407a697728c70ba5c" : {
+      "english" : " 6. Wildfire Games does not process personal data that is not needed for the specified purposes (GDPR 5.1.c, 'data minimization').",
+      "translation" : "6. Вилдфире Гамес не обрађује личне податке који нису потребни за наведене сврхе (ГДПР 5.1.ц, 'минимизирање података')."
+   },
+   "123bcaedfd5238798037822c2cf7bdf1" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]6. Match statistics[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]6. Статистика утакмица[/font]"
+   },
+   "137acb497367247e34eefd2e301149b7" : {
+      "english" : "Mods (incompatible):",
+      "translation" : "Модови (некомпатибилни):"
+   },
+   "17ba8c1aa84650f6cafc2bd8321f8314" : {
+      "english" : "Set your state to 'Online'.",
+      "translation" : "Подесите своје стање на „На мрежи“."
+   },
+   "182e7eda4e721ad00737460b88701dee" : {
+      "english" : "Connecting…",
+      "translation" : "Повезивање ... ¦"
+   },
+   "186ef7739b07e6a18ee6bc26179a1fd7" : {
+      "english" : "The player name serves as a pseudonym. The identity (natural person) of players is not known to Wildfire Games, except where personally identifiable information (such as the real name) was disclosed on the Lobby Chat, other services of Wildfire Games or elsewhere in the public, or when the IP address is used to bring criminal proceedings.",
+      "translation" : "Име играча служи као псеудоним. Идентитет (физичко лице) играча није познат Вилдфире Гамес -у, осим тамо где су подаци о личној идентификацији (попут правог имена) откривени на Цхат -у у предворју, другим услугама Вилдфире Гамес или другде у јавности, или када је ИП адреса се користи за покретање кривичног поступка."
    },
    "1895a304ba7e711b9b0901789ed19fdb" : {
       "english" : "The player is identified by a name that the player chooses at the time of registration.",
       "translation" : "Играч је идентификован именом које играч бира приликом регистрације."
    },
+   "18a7db5fc0ccfb908a160e013daa3c8d" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]User rights:[/font]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Корисничка права:[/font]"
+   },
+   "1c18cdfa13d53f9e7a4b5cd1d8765134" : {
+      "english" : "%(command)s - %(description)s",
+      "translation" : " %(command)s  -  %(description)s "
+   },
+   "22938901b6d3c91a2d30600f5e463771" : {
+      "english" : "Wildfire Games stores players IP addresses and may infer publicly available geolocation and internet service provider data (for example \\\"geolite2\\\") from the IP address in order to:",
+      "translation" : "Вилдфире Гамес складишти ИП адресе играча и може закључити јавно доступне податке о геолокацији и добављачима интернет услуга (на пример \\ \"геолите2 \\\") са ИП адресе како би:"
+   },
+   "2475753421dd595215300fa7a5af76c9" : {
+      "english" : "Incompatible mods",
+      "translation" : "Некомпатибилни модови"
+   },
+   "24e39c8a5dd96eee30161acaab683d1e" : {
+      "english" : "< %(rating)s",
+      "translation" : "<  %(rating)s "
+   },
+   "25a25984ba2bb13934b64b0b8ba85373" : {
+      "english" : " 8. Not undermine the intended gameplay or purposefully gain unfair advantages in multiplayer matches (for example cheating, using exploits or bugs).",
+      "translation" : "8. Немојте поткопавати планирани начин игре или намерно стећи неправедне предности у утакмицама за више играча (на пример варање, коришћење подвига или грешака)."
+   },
+   "2793b38d181d36db9b4354aeb35d3369" : {
+      "english" : " 2. Wildfire Games may address or resolve bug reports, balancing issues or feature proposals indicated by players in the chat room.",
+      "translation" : "2. Игре Вилдфире могу адресирати или решавати извештаје о грешкама, проблеме са балансирањем или предлоге функција које указују играчи у соби за ћаскање."
+   },
+   "28f1f744717b76c02098355eda7d17a9" : {
+      "english" : "Chat commands:",
+      "translation" : "Команде за ћаскање:"
+   },
+   "2b4a0b32e0f739de0a93bf77f9c550af" : {
+      "english" : "[font=\\\"sans-bold-18\\\"]0 A.D. Empires Ascendant Multiplayer Lobby Privacy Policy[/font]",
+      "translation" : "[font=\\\"sans-bold-18\\\"]0 Правила приватности Емпирес Асцендант за више играча у лобију А.Д[/font]"
+   },
+   "2b8a14db3f6f0402bd7a156b62ef3edd" : {
+      "english" : "Due to the subject matter of historic warfare, description and depiction of violence and the language on the Multiplayer Lobby, 0 A.D. and the Multiplayer Lobby are not directed to young children (COPPA §312.2).",
+      "translation" : "Због теме историјског ратовања, описа и приказа насиља и језика у Лобију за више играча, 0 А.Д. и Лоби за више играча нису усмјерени на малу дјецу (ЦОППА А312.2)."
+   },
+   "35bde76c09aa5d9196111328fc7513b1" : {
+      "english" : "Remember Password",
+      "translation" : "Запамти лозинку"
+   },
+   "39d967696a7f51b5153d9c23d49b4d9c" : {
+      "english" : "13. Where Wildfire Games processes sensitive personal data based on legitimate interests, Wildfire Games considers performing, recording and periodically reviewing Legitimate Interests Assessments and Data Protection Impact Assessments (GDPR 35) to become confident that the individual's interests do not override Wildfire Games legitimate interests, and that Wildfire Games is not using personal data in intrusive ways unless there is a very good reason to.",
+      "translation" : "13. Тамо где Вилдфире Гамес обрађује осетљиве личне податке засноване на легитимним интересима, Вилдфире Гамес разматра извођење, евидентирање и периодично преиспитивање процена легитимних интереса и процену утицаја на заштиту података (ГДПР 35) како би се уверило да интереси појединца не надјачавају легитимне интересе Вилдфире Гамес, и да игре Вилдфире Гамес не користе личне податке на наметљив начин, осим ако за то постоји веома добар разлог."
+   },
+   "3a39258b343be891570c7a8ec63e4f12" : {
+      "english" : "Wildfire Games stores a log of the public chat messages and online presence to meet the following purposes:",
+      "translation" : "Вилдфире Гамес складишти дневник јавних порука ћаскања и присуства на мрежи ради испуњења следећих сврха:"
+   },
+   "3e09a156a87e0a8191e902f8fb262c54" : {
+      "english" : "Victory Conditions:",
+      "translation" : "Услови победе:"
+   },
+   "4037f4a4cefeb23a4a28f4392ef2094d" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Wildfire Games reserves the right to:[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Вилдфире Гамес задржава право да:[/font]"
+   },
+   "417e5a007c25847a5e45ecc8086e4899" : {
+      "english" : "* %(sender)s %(message)s",
+      "translation" : "*  %(sender)s   %(message)s "
+   },
+   "431a41324c5f0c475f57b09a4f056ee7" : {
+      "english" : " 1. Only create one account per person on the service unless authorized by Wildfire Games.",
+      "translation" : "1. Направите само један налог по особи на услузи осим ако то није одобрило Вилдфире Гамес."
+   },
+   "4391e6ff022a83da49ee6162f6326abe" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Security of processing:[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Сигурност обраде:[/font]"
+   },
+   "43d7c74e2b993d8b466147f80afc6bb3" : {
+      "english" : "All personal data that Wildfire Games processes is obtained from the user (GDPR 14).",
+      "translation" : "Сви лични подаци које Вилдфире Гамес обрађује добијају се од корисника (ГДПР 14)."
+   },
+   "44d05c25e337fae4e67d8251dc2a7bc1" : {
+      "english" : " 1. Moderate the service, i.e. to enforce the Terms of Use by restricting, suspending or terminating user accounts.",
+      "translation" : "1. Модерирајте услугу, односно примењујте Услове коришћења ограничавањем, суспендовањем или укидањем корисничких налога."
+   },
+   "4508f7933979a16837fd6d1808c0caae" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]1. Player name[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]1. Име играча[/font]"
+   },
+   "458b8c5085fc50107f408f3580e906b7" : {
+      "english" : " 1. Wildfire Games demonstrates compliance with GDPR (GDPR 5.2 'accountability').",
+      "translation" : "1. Вилдфире Гамес показује усклађеност са ГДПР -ом (ГДПР 5.2 „одговорност“)."
+   },
+   "479bcb74f08ed9eaa31b066be514beef" : {
+      "english" : "Send a chat message about yourself. Example: /me goes swimming.",
+      "translation" : "Пошаљите поруку за ћаскање о себи. Пример: /ја иде на пливање."
+   },
+   "49de19dfdf6dbbc769b892233a4fde59" : {
+      "english" : "The Multiplayer Lobby features a public chat room that enables players to discuss the game and organize multiplayer matches.",
+      "translation" : "Лоби за више играча садржи јавну собу за ћаскање која омогућава играчима да разговарају о игри и организују утакмице за више играча."
+   },
+   "52ca2c450281cf5692613c04dea76a20" : {
+      "english" : " 3. Not post profanity, pejorative terms or pornographic content.",
+      "translation" : "3. Не објављивати вулгарности, погрдне изразе или порнографски садржај."
+   },
+   "56e96bcd4ef5a5b0771c9d155da94b71" : {
+      "english" : " 9. Wildfire Games informs users of their right to access, to rectify, to erase personal data and the right to restrict, to withdraw consent to, to object to personal data processing and to complain at a supervisory authority (GDPR 13.2.b, GDPR 13.2.c, GDPR 13.2.d).",
+      "translation" : "9. Вилдфире Гамес обавештава кориснике о њиховом праву на приступ, исправци, брисању личних података и праву на ограничавање, повлачење пристанка, приговор на обраду личних података и жалбу надзорном органу (ГДПР 13.2.б, ГДПР 13.2.ц, ГДПР 13.2.д)."
+   },
+   "5731c976a28e796623f19cb46f7b8a21" : {
+      "english" : "System:",
+      "translation" : "Систем:"
+   },
+   "58a3ebd3731aab9f6ee8d0dd5ed885c8" : {
+      "english" : " 2. Wildfire Games documents their processing activities appropriately, in particular the categories of processed personal data and security measures to protect it (GDPR 30).",
+      "translation" : "2. Вилдфире Гамес на одговарајући начин документује њихове активности обраде, посебно категорије обрађених личних података и безбедносне мере за њихову заштиту (ГДПР 30)."
+   },
+   "5b4569b4f620d808697c36b1e34fdbcd" : {
+      "english" : " 2. Make it possible to bring criminal proceedings in case of a cyberattack (EU Court of Justice Press Release No 112/16).",
+      "translation" : "2. Омогућити покретање кривичног поступка у случају сајбер напада (Саопштење за јавност Суда правде ЕУ бр. 112/16)."
+   },
+   "5babbcdb08fed7ac3a20eed5db6adf0e" : {
+      "english" : "%(current)s/%(max)s +%(observercount)s",
+      "translation" : " %(current)s / %(max)s  + %(observercount)s "
+   },
+   "5e8f04a09d79da46765bb0cfa051e6ac" : {
+      "english" : "The command '%(cmd)s' requires at least one argument.",
+      "translation" : "Команда ' %(cmd)s 'захтева бар један аргумент."
+   },
+   "62b1b3ba686f0ef1b7949c01c594a5ef" : {
+      "english" : "When a player hosts a match in the Multiplayer Lobby, the IP address of that player is sent to every player who is online, so that other players can join that game.",
+      "translation" : "Када играч угости утакмицу у предворју за више играча, ИП адреса тог играча се шаље сваком играчу који је на мрежи, тако да се и други играчи могу придружити тој игри."
+   },
+   "698ade7f6b62df74cdd5209dfcd850aa" : {
+      "english" : "If a moderator deems your behavior to be inconsistent with these terms, your account may be restricted, suspended or terminated.",
+      "translation" : "Ако модератор сматра да ваше понашање није у складу са овим условима, ваш налог може бити ограничен, суспендован или укинут."
+   },
+   "6c6086d5affb1fbd9afbb4a1b2aed183" : {
+      "english" : "    IP addresses will not be saved for longer than three years for this purpose.",
+      "translation" : "У ту сврху ИП адресе неће бити сачуване дуже од три године."
+   },
+   "6ce8b89679854cc7b7015458b1c51e0f" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]5. Chat messages[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]5. Поруке за ћаскање[/font]"
+   },
+   "6d25c9ad2ed5015c08275333a03d7698" : {
+      "english" : " 3. Wildfire Games may assess trends amongst discussed topics, the growth of the active community and use these indicators as feedback to assess, improve and direct development of the game and the service.",
+      "translation" : "3. Игре Вилдфире могу процијенити трендове међу темама о којима се расправљало, раст активне заједнице и користити ове показатеље као повратну информацију за процјену, побољшање и усмјеравање развоја игре и услуге."
+   },
+   "70048c9b3fbe90bb2c0cee75d3cc3902" : {
+      "english" : "Please read and accept the Privacy Policy.",
+      "translation" : "Прочитајте и прихватите Политику приватности."
+   },
+   "70e675c915b4767fbdccbf105bf89337" : {
+      "english" : "5. Right to erasure of personal data where it is not relevant to the stated purposes, if the data was processed unlawfully or if the user objects to the processing and has overriding legitimate grounds (GDPR 17).",
+      "translation" : "5. Право на брисање личних података ако нису релевантни за наведене сврхе, ако су подаци обрађени незаконито или ако се корисник противи обради и има надмоћне легитимне основе (ГДПР 17)."
+   },
+   "713b7332f3f942295fe429264a904cbf" : {
+      "english" : "%(nick)s deleted the lobby subject.",
+      "translation" : " %(nick)s избрисао тему лобија."
+   },
+   "72d575eb90d10c8c69a67c22023f4a34" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]By using the 0 A.D. Multiplayer Lobby, you agree to:[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Коришћењем 0 А.Д. Мултиплаиер Лобби -а пристајете на:[/font]"
+   },
+   "75c35a656e773eced69a5ef8ae948a58" : {
+      "english" : "%(nick)s has been unmuted.",
+      "translation" : " %(nick)s је укључен."
+   },
+   "75e4e1bc3e39a72ffd94ca19fe8dcef3" : {
+      "english" : " 4. Change the service or the terms. The document date of the terms indicate its version, and the user is informed of the new terms before being able to use the service again.",
+      "translation" : "4. Промените услугу или услове. Датум документа термина означава његову верзију, а корисник је обавештен о новим условима пре него што поново може да користи услугу."
+   },
+   "773e4a0e65772dcab6b3893afc53f562" : {
+      "english" : " 2. Not use the service with third-party software or mods that prevents the user from being informed of updated Terms and Conditions, unless authorized by a Wildfire Games team member.",
+      "translation" : "2. Не користите услугу са софтвером или модовима трећих страна који спречавају корисника да буде обавештен о ажурираним Условима и одредбама, осим ако то одобри члан тима Вилдфире Гамес."
+   },
+   "790d444202ce30877dff3864572bb6a5" : {
+      "english" : "%(nick)s changed the lobby subject to:",
+      "translation" : " %(nick)s променио је предворје у:"
+   },
+   "7af6dadd8816d7df87b5c19bdf2ed336" : {
+      "english" : "2. Wildfire Games has legitimate interests in providing the Multiplayer Lobby, in the development and improvement of 0 A.D. and the Multiplayer Lobby, in enforcing the Terms of Use and in the protection against cyberattacks (GDPR 6.1.f).",
+      "translation" : "2. Вилдфире Гамес има легитимне интересе у пружању лоббија за више играча, развоју и побољшању 0 А.Д. -а и лоббија за више играча, у провођењу Услова кориштења и заштити од кибернетичких напада (ГДПР 6.1.ф)."
+   },
+   "7ce8dd30889ac3431c38010a21ada1f0" : {
+      "english" : "%(nick)s is not a moderator anymore.",
+      "translation" : " %(nick)s више није модератор."
+   },
+   "7e26c7463b1e75e9707d621cbf6da651" : {
+      "english" : "/me",
+      "translation" : "„Катон Старији, који је овом изјавом завршио све говоре у свом каснијем животу (Плутарх,„ Паралелни животи “,„ Катон Старији “, одељак 27)"
+   },
    "7f4c0a5fb5dec57f425964f262c7f732" : {
       "english" : "3. Wildfire Games does not process any further data for the Multiplayer Lobby and does not ask for consent to process data (GDPR 6.1.a, GDPR 7, GDPR 8, GDPR 13.2.c).",
       "translation" : "3. Вилдфире Гамес не обрађује додатне податке за Лобби за више играча и не тражи сагласност за обраду података (ГДПР 6.1.а, ГДПР 7, ГДПР 8, ГДПР 13.2.ц)."
    },
+   "8103115bd3e810f1adb210eabe359c00" : {
+      "english" : "Wildfire Games reserves the right to delete any service data (including personal data) at any time, except where a user has objected to the erasure of his or her personal data for performance of a legal claim.",
+      "translation" : "Вилдфире Гамес задржава право да у било ком тренутку избрише било које сервисне податке (укључујући личне податке), осим ако се корисник успротивио брисању његових личних података ради подношења правног захтева."
+   },
+   "8268ccbd10453391a1ae9b5aa8e2277d" : {
+      "english" : "The rating of all players is published by Wildfire Games and allows players to focus on competitive or balanced matchmaking if they wish to.",
+      "translation" : "Рејтинг свих играча објављује Вилдфире Гамес и омогућава играчима да се усредсреде на такмичарско или уравнотежено повезивање утакмица ако то желе."
+   },
+   "831b9b79c7d39403e9e09cfd80d27c66" : {
+      "english" : "Mods:",
+      "translation" : "Модови:"
+   },
+   "83ee08bf0c082e2b8c74ab02c32a2b74" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]2. Password[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]2. Лозинка[/font]"
+   },
+   "847a7df51633ab1ea158b7199d24147c" : {
+      "english" : "11. Wildfire Games informs the users that to exercise their rights, users might need to provide additional information to identify the natural person or the data (GDPR 12.6, GDPR 13.2.e).",
+      "translation" : "11. Вилдфире Гамес обавештава кориснике да ће корисници за остваривање својих права можда морати да пруже додатне информације за идентификацију физичког лица или податке (ГДПР 12.6, ГДПР 13.2.е)."
+   },
+   "85407acfd61baec93b14f784daf8d407" : {
+      "english" : "Players can gain a rating on the Multiplayer Lobby that reflects their skill at the game.",
+      "translation" : "Играчи могу добити рејтинг у предворју за више играча који одражава њихову вјештину у игри."
+   },
+   "880e0f4c84d9ea236588281d1861bda3" : {
+      "english" : " 6. Not incite violence or promote illegal acts.",
+      "translation" : "6. Немојте подстицати насиље нити промовисати незаконита дела."
+   },
+   "89207bfd60626d949ef65eefb81b62f7" : {
+      "english" : "10. Wildfire Games facilitates the exercise of user rights where possible (GDPR 12.2), without undue delay (GDPR 12.3).",
+      "translation" : "10. Вилдфире Гамес олакшава остваривање корисничких права где је то могуће (ГДПР 12.2), без непотребног одлагања (ГДПР 12.3)."
+   },
+   "8a0c03209a594b91d3d9f34fa876ea91" : {
+      "english" : "%(current)s/%(max)s",
+      "translation" : " %(current)s / %(max)s "
+   },
+   "8a5f5ab0b02b0ce16b4048ad8011787b" : {
+      "english" : "%(nick)s is now a moderator.",
+      "translation" : " %(nick)s сада је модератор."
+   },
+   "8bef594c9086772156f4061947796d6f" : {
+      "english" : " 1. Verify the accuracy of the rating score and identify and enforce Terms of Use violations relating to that.",
+      "translation" : "1. Проверите тачност оцене и идентификујте и примените кршења Услова коришћења која се односе на то."
+   },
    "8d71df7f883ae37dcf071788f3a1bba4" : {
       "english" : "Requests that are manifestly unfounded or excessive are not responded to or may be charged (GDPR 12.4, GDPR 12.5).",
       "translation" : "На захтеве који су очигледно неосновани или прекомерни не одговара се или се може наплатити (ГДПР 12.4, ГДПР 12.5)."
+   },
+   "8d749a9abd342c12fa9b31b25480c1f2" : {
+      "english" : " 9. Not spam the service and not post large amounts of repetitive or unwanted messages.",
+      "translation" : "9. Не спамујте услугу и не објављујте велике количине понављајућих или нежељених порука."
+   },
+   "8d8246b86753f5653a870fdead150c75" : {
+      "english" : " 5. Not violate the privacy of others by disclosing personally identifiable information (for example real name, location, ID) or private details (for example social media or messenger account names) of others without their consent.",
+      "translation" : "5. Не кршите приватност других откривањем личних података (на пример право име, локација, лична карта) или приватних података (на пример имена друштвених медија или налога налога) без њиховог пристанка."
+   },
+   "8eb98875f959768e4469c05e93d21a92" : {
+      "english" : "7. Right to object to the processing of personal data concerning him or her on grounds relating to their particular situation (GDPR 21).",
+      "translation" : "7. Право на приговор на обраду личних података који се тичу њега или ње на основу њихове посебне ситуације (ГДПР 21)."
    },
    "8ed5853049b375cb897a258260dae7f3" : {
       "english" : "For further information on Wildfire Games Privacy Policies, visit https://trac.wildfiregames.com/wiki/UserDataProtection",
@@ -27,29 +347,209 @@
       "english" : "4. Right to rectification of inaccurate personal data (GDPR 16).",
       "translation" : "4. Право на исправљање нетачних личних података (ГДПР 16)."
    },
+   "9106c695e3079e80aac5b67a1670cbd8" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Document Date:[/font] 2018-10-16",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Датум документа:[/font] 2018-10-16"
+   },
+   "96b768b03b869dd5a4ce9721b4430d2b" : {
+      "english" : " 5. Wildfire Games does not processes personal data for purposes other than the specified ones (GDPR 5.1.b, 'purpose limitation', GDPR 13.3).",
+      "translation" : "5. Вилдфире Гамес не обрађује личне податке у друге сврхе осим наведених (ГДПР 5.1.б, „ограничење сврхе“, ГДПР 13,3)."
+   },
    "97c1b1093434d44c7aa632368f702092" : {
       "english" : "Connected.",
       "translation" : "Повезан."
+   },
+   "992b9f17fc4ef2f176a88a705cab784a" : {
+      "english" : "%(nick)s has been banned from the lobby.",
+      "translation" : " %(nick)s је забрањен приступ лобију."
+   },
+   "9a6f6a98b3ce707654e7ab1d01065c85" : {
+      "english" : "> %(rating)s",
+      "translation" : ">  %(rating)s "
+   },
+   "9d20cf6a32653c9b432bb4f1eb93de93" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]3. IP address[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]3. ИП адреса[/font]"
+   },
+   "9fe072c543654f7fff5d88be4c004fea" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Document Date:[/font] 2018-10-13",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Датум документа:[/font] 2018-10-13"
+   },
+   "a09a30ea5314bbb820704580027eb228" : {
+      "english" : "/say",
+      "translation" : "- Натпис Кира Великог (Плутарх, „Паралелни животи“, „Александар“, сек. 69)"
+   },
+   "a31ee229c5907e80609385418068f805" : {
+      "english" : " 2. Compute and publish community statistics to improve the game and the service, for example to improve the balancing of the game or to make certain aspects of the game more appealing.",
+      "translation" : "2. Израчунајте и објавите статистику заједнице да бисте побољшали игру и услугу, на пример да бисте побољшали балансирање игре или учинили одређене аспекте игре привлачнијим."
+   },
+   "a59f93a4958c336a5cd5b8a28fc2b767" : {
+      "english" : "You have been disconnected from the lobby. Do you want to reconnect?",
+      "translation" : "Искључени сте из предворја. Да ли желите да се поново повежете?"
+   },
+   "a9470149a9c71a2d6333afa9a6db14f9" : {
+      "english" : "%(nick)s has been kicked from the lobby.",
+      "translation" : " %(nick)s избачен је из предворја."
+   },
+   "aac6d5dbd83d774e19fc60fffbdcd0a7" : {
+      "english" : " 5. Process personal data in accordance with the Lobby Privacy Policy, the General Data Protection Regulation (GDPR) and the Children's Online Privacy Protection Act (COPPA) where applicable.",
+      "translation" : "5. Обрађујте личне податке у складу са Политиком приватности Лобија, Општом уредбом о заштити података (ГДПР) и Законом о заштити приватности деце на мрежи (ЦОППА) где је применљиво."
+   },
+   "ac404df746eab05d9566a61cb14be0c9" : {
+      "english" : "The minimum age to use the Multiplayer Lobby is 13.",
+      "translation" : "Минимална старост за коришћење предворја за више играча је 13 година."
+   },
+   "adc0ace69dc9f0d288674cb249fbfd56" : {
+      "english" : "12. Wildfire Games will not knowingly collect personal data from children under the age of 13 (Children's Online Privacy Protection Act). If you believe Wildfire Games received any personal data from or about a child under 13, please contact Wildfire Games.",
+      "translation" : "12. Вилдфире Гамес неће свесно прикупљати личне податке деце млађе од 13 година (Закон о заштити приватности деце на мрежи). Ако мислите да је Вилдфире Гамес примио личне податке о детету млађем од 13 година или о њему, контактирајте Вилдфире Гамес."
+   },
+   "afd886352537ffbd3448c6cb5ab36882" : {
+      "english" : "Having a unique player name is a requirement to gain a rating, to allow players, moderators and developers to identify players they met before, communicate about the game, coordinate matches and enables moderators to enforce the Terms of Use.",
+      "translation" : "Јединствено име играча је услов за добијање рејтинга, како би се омогућило играчима, модераторима и програмерима да идентификују играче које су већ срели, комуницирају о игри, координирају утакмице и омогуће модераторима да примене Услове коришћења."
+   },
+   "b02f3cafde817f9032f32bdf38f0c9b4" : {
+      "english" : "Wildfire Games stores match statistics to:",
+      "translation" : "Вилдфире Гамес складишти статистику утакмица на:"
+   },
+   "b2b6977860e62175ece702e6afe4fc07" : {
+      "english" : "You have been unmuted.",
+      "translation" : "Укључен је звук за вас."
+   },
+   "b5ad57d0838dac5cd4ea06dba4f849be" : {
+      "english" : "You have been banned from the lobby!",
+      "translation" : "Забрањен вам је улаз у предворје!"
    },
    "b5cfd390284d98156a7d72e03ebe87d3" : {
       "english" : "Your active mods do not match the mods of this game.",
       "translation" : "Ваши активни модови се не подударају са модовима ове игре."
    },
+   "b7395b88293b02d0aca15b0177e74a3f" : {
+      "english" : "The transmission of personal data is secured using TLS encryption (GDPR 32).",
+      "translation" : "Пренос личних података је обезбеђен коришћењем ТЛС енкрипције (ГДПР 32)."
+   },
+   "b75546da714a81e3106dad0650d80f33" : {
+      "english" : "You have been muted.",
+      "translation" : "Ви сте искључени."
+   },
+   "b7870c4739f136b582626438094fd278" : {
+      "english" : "Host: %(playername)s",
+      "translation" : "Домаћин: %(playername)s "
+   },
+   "b85a20cd7dd560e50c2e6a3719a796b6" : {
+      "english" : "Kick a specified user from the lobby. Usage: /kick nick reason",
+      "translation" : "Избаците одређеног корисника из предворја. Употреба: /кицк ницк разлог"
+   },
+   "b8c2d429cc1bb2eea308fb2f553c6c61" : {
+      "english" : "Registering…",
+      "translation" : "Регистрација…"
+   },
+   "bb3831480d5feb105043d85c60c97f2f" : {
+      "english" : "=== %(system)s %(message)s",
+      "translation" : "===  %(system)s   %(message)s "
+   },
+   "bc3b39774fb3f4066b15a79e9134b200" : {
+      "english" : "Invalid username",
+      "translation" : "Погрешно корисничко име"
+   },
+   "be60d33ecbd70d582743d18e9a531964" : {
+      "english" : "A player is authenticated using a password that the player chooses at the time of registration.",
+      "translation" : "Аутентификација играча је потврђена лозинком коју играч одабере приликом регистрације."
+   },
+   "bf0cba7ac0b990f10b76d1e56a5bb10c" : {
+      "english" : "Please read and accept the Terms of Service.",
+      "translation" : "Прочитајте и прихватите Услове услуге."
+   },
+   "c13ebf5654b98b29405c33caaa0d549e" : {
+      "english" : "You have been kicked from the lobby!",
+      "translation" : "Избачени сте из предворја!"
+   },
+   "c2b2caded0473393e656667b89198997" : {
+      "english" : "1. The processing is necessary for the performance of the service defined in the terms (GDPR 6.1.b).",
+      "translation" : "1. Обрада је неопходна за обављање услуге дефинисане условима (ГДПР 6.1.б)."
+   },
+   "c2ffebce930e31d03829ea3889d49e2a" : {
+      "english" : "Mark as Buddy",
+      "translation" : "Означи као пријатеља"
+   },
+   "c3b7523126dc7142cb52b15ab5bafc32" : {
+      "english" : "Clear all chat scrollback.",
+      "translation" : "Обриши повратак на цхат."
+   },
+   "c608315a4d31d719992d2c7ba4e6a592" : {
+      "english" : "   To exercise any user right, please refer to this contact.",
+      "translation" : "Да бисте остварили било које корисничко право, обратите се овом контакту."
+   },
    "c68ab337690ea08b94b56228cb18d0ee" : {
       "english" : " 4. Wildfire Games informs users of the purposes, legal grounds, legitimate interests and retention periods of personal data processing at the time it is processed, recipients of personal data and where applicable, transfer of personal data to third countries and automated decision-making (GDPR 13.1.c-f, GDPR 13.2.a, GDPR 13.2.e-f, GDPR 15.1, GDPR 15.4).",
       "translation" : "4. Вилдфире Гамес информише кориснике о сврхама, правним основама, легитимним интересима и периодима чувања обраде личних података у време њихове обраде, примаоцима личних података и где је применљиво, преносу личних података у треће земље и аутоматском доношењу одлука ( ГДПР 13.1.цф, ГДПР 13.2.а, ГДПР 13.2.еф, ГДПР 15.1, ГДПР 15.4)."
+   },
+   "d0ed5a16f27e78f9358d2d777975ac3d" : {
+      "english" : "Which players are currently connected to the Multiplayer Lobby and which match they joined is shown to all online players.",
+      "translation" : "Који су играчи тренутно повезани са предворјем за више играча и којој утакмици су се придружили, приказује се свим играчима на мрежи."
+   },
+   "d1870af6d9f37cb04a3183f6c2751b4f" : {
+      "english" : " 4. Not harass, harm, intimidate, discriminate, threaten, defame, cause damage to others or purposefully demean the worth of others using this service.",
+      "translation" : "4. Немојте узнемиравати, наносити штету, застрашивати, дискриминисати, претити, клеветати, наносити штету другима или намерно умањивати вредност других који користе ову услугу."
    },
    "d8898cd81f49f9a8a99c9236129255b7" : {
       "english" : "Please read and accept the Terms of Use.",
       "translation" : "Прочитајте и прихватите Услове коришћења."
    },
+   "d9222f3e6636708a33d58aa41d0ea950" : {
+      "english" : "You have some incompatible mods:\\n%(details)s",
+      "translation" : "Имате неке некомпатибилне модове:\\n"
+   },
+   "d97dbf68b22209e1f8a99c47e4ef3563" : {
+      "english" : " 1. Enforce the Terms of Use where persons create multiple accounts without Wildfire Games permission, in particular after having been banned from the service for violating the Terms of Use.",
+      "translation" : "1. Примените Услове коришћења ако особе отварају више налога без дозволе Вилдфире Гамес, посебно након што им је забрањен приступ услузи због кршења Услова коришћења."
+   },
+   "d9857c52267532897592f35f99f0cd9f" : {
+      "english" : "Send text as a chat message (even if it starts with slash). Example: /say /help is a great command.",
+      "translation" : "Пошаљите текст као поруку за ћаскање (чак и ако почиње са косом цртом). Пример: /саи /хелп је одлична команда."
+   },
+   "dbada10b015fb23e2e1ce2f7b6c384a7" : {
+      "english" : "Map Description:",
+      "translation" : "Опис карте:"
+   },
+   "ddcb1e4c8618554b3810e530e8b707a8" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]4. Online presence[/font]",
+      "translation" : "[font=\\\"sans-bold-14\\\"]4. Присуство на мрежи[/font]"
+   },
    "e00623f6f610e25cc5ee3ac2d71ba889" : {
       "english" : " 3. Wildfire Games processes personal data lawfully, fairly and transparently (GDPR 5.1.a, GDPR 12.1).",
       "translation" : "3. Вилдфире Гамес законито, поштено и транспарентно обрађује личне податке (ГДПР 5.1.а, ГДПР 12.1)."
    },
+   "e3f7db47003b46949bc412384f4dca6b" : {
+      "english" : " 1. Moderators may screen chat messages to enforce the Terms of Use.",
+      "translation" : "1. Модератори могу прегледати поруке ћаскања како би применили Услове коришћења."
+   },
+   "e549b6213e123e03437f43d133c6c952" : {
+      "english" : " 8. Wildfire Games secures personal data processing to prevent unauthorised or unlawful processing and accidental loss (GDPR 5.1.f. 'integrity and confidentiality').",
+      "translation" : "8. Вилдфире Гамес штити обраду личних података ради спречавања неовлашћене или незаконите обраде и случајног губитка (ГДПР 5.1.ф. „интегритет и поверљивост“)."
+   },
+   "e5c2aedb3c529b6f2340dedb547660d8" : {
+      "english" : "1. Contact Wildfire Games, by sending an email to webmaster at wildfiregames dot com (GDPR 13.1.a, GDPR 13.1.b).",
+      "translation" : "1. Контактирајте Вилдфире Гамес слањем е -поште вебмастеру на вилдфирегамес дот цом (ГДПР 13.1.а, ГДПР 13.1.б)."
+   },
+   "e633dfec382ce2486e7bcd7b7dea984e" : {
+      "english" : "[font=\\\"sans-bold-14\\\"]Document Date:[/font] 2020-12-24",
+      "translation" : "[font=\\\"sans-bold-14\\\"]Датум документа:[/font] 2020-12-24"
+   },
    "e63c62e703f93976ddc3d47ccb3982b5" : {
       "english" : "3. Right to obtain personal data in a machine-readable format (GDPR 20).",
       "translation" : "3. Право на добијање личних података у машински читљивом формату (ГДПР 20)."
+   },
+   "e7d9ee652253c1c67c046d8ee19a9fdf" : {
+      "english" : "During a rated match, players send data relating to the game (such as the number of units trained, resources gathered and the winner of the match) to Wildfire Games, so that Wildfire Games can adapt the players ratings based on these statistics.",
+      "translation" : "Током оцењене утакмице, играчи шаљу податке који се односе на игру (као што су број обучених јединица, прикупљени ресурси и победник меча) у игре Вилдфире, тако да игре Вилдфире могу прилагодити оцене играча на основу ових статистика."
+   },
+   "e83ae6ebd77cfefbc1dac5617028c33d" : {
+      "english" : "Unmark as Buddy",
+      "translation" : "Уклони ознаку са Бади"
+   },
+   "e84063b5581278f67a5a61ebead2af11" : {
+      "english" : "%(nick)s has been muted.",
+      "translation" : " %(nick)s је искључен."
    },
    "eafc4d8cf92ce8dfcbb1c9361210f18a" : {
       "english" : "Do you want to switch to the mod selection page?",
@@ -67,8 +567,44 @@
       "english" : "This mod does not affect MP compatibility",
       "translation" : "Овај мод не утиче на компатибилност МП"
    },
+   "f2b2b1b3c44166b132f8676343dda2bf" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]Wildfire Games obligations:[/font]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Обавезе за игре Вилдфире Гамес:[/font]"
+   },
+   "f48d80a1bd07840b18fa6b611b50f39a" : {
+      "english" : "Are you sure you want to delete the password after connecting?",
+      "translation" : "Јесте ли сигурни да желите да избришете лозинку након повезивања?"
+   },
+   "f5461f108c49a1236ea8c019c05f6df5" : {
+      "english" : " 2. Not impersonate other users of the service and only use your registered username in multiplayer matches.",
+      "translation" : "2. Не лажно представљајте друге кориснике услуге и само користите своје регистровано корисничко име у утакмицама за више играча."
+   },
+   "fa2ead697d9998cbc65c81384e6533d5" : {
+      "english" : "Privacy Policy",
+      "translation" : "Правила о приватности"
+   },
+   "fb3c3e7a3670f2d698e4168970104b3e" : {
+      "english" : " 3. Use the service at your own risk. Wildfire Games does not take responsibility for the content posted by users or damages resulting from this service.",
+      "translation" : "3. Користите услугу на сопствену одговорност. Вилдфире Гамес не преузима одговорност за садржај који објављују корисници или штету насталу овом услугом."
+   },
+   "fbb6c570df26c8d8032973e5710c3f62" : {
+      "english" : "[font=\\\"sans-bold-16\\\"]Personal data processed by Wildfire Games and purposes of processing:[/font]",
+      "translation" : "[font=\\\"sans-bold-16\\\"]Лични подаци које обрађује Вилдфире Гамес и сврха обраде:[/font]"
+   },
    "fc478910048b235e80ca12328216b2e2" : {
       "english" : "8. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, GDPR 77).",
       "translation" : "8. Право на подношење жалбе надзорном органу (ГДПР 13.2.д, ГДПР 77)."
+   },
+   "fcc10136394d00933171d1a2a379dfef" : {
+      "english" : " 7. Wildfire Games uses a storage form that does not allow identification of natural persons for longer than necessary (GDPR 5.1.e 'storage limitation').",
+      "translation" : "7. Вилдфире Гамес користи складишни образац који не дозвољава идентификацију физичких лица дуже него што је потребно (ГДПР 5.1.е „ограничење складиштења“)."
+   },
+   "fe5789002e458e905b02ee4ed6bbc482" : {
+      "english" : "Personal data is protected against unintentional loss in encrypted backups for additional time (GDPR 30.1.g, GDPR 32).",
+      "translation" : "Лични подаци су заштићени од ненамерног губитка у шифрованим резервним копијама на додатно време (ГДПР 30.1.г, ГДПР 32)."
+   },
+   "fe92261cdc178949ca7d505d171669ae" : {
+      "english" : "Please choose a longer password",
+      "translation" : "Молимо вас да изаберете дужу лозинку"
    }
 }

@@ -22,17 +22,17 @@ msgstr ""
 #: simulation/data/attack_effects/applystatus.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Various (timed) effects."
-msgstr ""
+msgstr "(*) Разни (временски) ефекти."
 
 #: simulation/data/attack_effects/applystatus.jsonname
 msgctxt "effect caused by an attack"
 msgid "Apply Status"
-msgstr ""
+msgstr "(*) Примени статус"
 
 #: simulation/data/attack_effects/capture.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Reduces capture points of a target."
-msgstr ""
+msgstr "(*) Смањује тачке хватања мете."
 
 #: simulation/data/attack_effects/capture.jsonname
 msgctxt "effect caused by an attack"
@@ -42,17 +42,17 @@ msgstr "Заузти"
 #: simulation/data/attack_effects/damage.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Reduces the health of a target."
-msgstr ""
+msgstr "(*) Смањује здравље мете."
 
 #: simulation/data/attack_effects/damage.jsonname
 msgctxt "effect caused by an attack"
 msgid "Damage"
-msgstr ""
+msgstr "(*) Оштећење"
 
 #: simulation/data/damage_types/crush.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by sheer force, like with a club or by trampling."
-msgstr ""
+msgstr "(*) Оштећење изазвано чистом силом, на пример палицом или гажењем."
 
 #: simulation/data/damage_types/crush.jsonname
 msgctxt "damage type"
@@ -62,12 +62,12 @@ msgstr "Скрши"
 #: simulation/data/damage_types/fire.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by burning objects, like a torch or a flaming arrow."
-msgstr ""
+msgstr "(*) Оштећења изазвана запаљеним предметима, попут бакље или пламене стреле."
 
 #: simulation/data/damage_types/fire.jsonname
 msgctxt "damage type"
 msgid "Fire"
-msgstr ""
+msgstr "(*) Ватра"
 
 #: simulation/data/damage_types/hack.jsondescription
 msgctxt "damage type"
@@ -84,7 +84,7 @@ msgstr "Сасечи"
 #: simulation/data/damage_types/pierce.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by sharp pointy objects, like arrows or spears."
-msgstr ""
+msgstr "(*) Оштећења изазвана оштрим шиљатим предметима, попут стрела или копља."
 
 #: simulation/data/damage_types/pierce.jsonname
 msgctxt "damage type"
@@ -101,37 +101,37 @@ msgstr ""
 #: simulation/data/damage_types/poison.jsonname
 msgctxt "damage type"
 msgid "Poison"
-msgstr ""
+msgstr "(*) Отров"
 
 #: simulation/data/status_effects/burning.jsonapplierTooltip
 msgctxt "status effect"
 msgid "This unit causes fire damage."
-msgstr ""
+msgstr "(*) Ова јединица узрокује оштећења од пожара."
 
 #: simulation/data/status_effects/burning.jsonreceiverTooltip
 msgctxt "status effect"
 msgid "This unit is burning."
-msgstr ""
+msgstr "(*) Ова јединица гори."
 
 #: simulation/data/status_effects/burning.jsonstatusName
 msgctxt "status effect"
 msgid "Burning"
-msgstr ""
+msgstr "(*) Бурнинг"
 
 #: simulation/data/status_effects/poisoned.jsonapplierTooltip
 msgctxt "status effect"
 msgid "This unit causes poison damage."
-msgstr ""
+msgstr "(*) Ова јединица узрокује отровно оштећење."
 
 #: simulation/data/status_effects/poisoned.jsonreceiverTooltip
 msgctxt "status effect"
 msgid "This unit is poisoned."
-msgstr ""
+msgstr "(*) Ова јединица је отрована."
 
 #: simulation/data/status_effects/poisoned.jsonstatusName
 msgctxt "status effect"
 msgid "Poisoned"
-msgstr ""
+msgstr "(*) Отрован"
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:24
 msgid "Army of Alexander the Great."
@@ -204,38 +204,38 @@ msgstr "грчко религијско светилиште"
 #: simulation/templates/gaia/fauna_tiger.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Paws"
-msgstr ""
+msgstr "(*) Шапе"
 
 #: simulation/templates/gaia/fauna_bear_black.xml:24
 msgid "Black Bear"
-msgstr ""
+msgstr "(*) Црни медвед"
 
 #: simulation/templates/gaia/fauna_bear_black.xml:25
 msgid "Ursus americanus"
-msgstr ""
+msgstr "(*) Урсус америцанус"
 
 #: simulation/templates/gaia/fauna_bear_brown.xml:24
 msgid "Brown Bear"
-msgstr ""
+msgstr "(*) Мрки медвед"
 
 #: simulation/templates/gaia/fauna_bear_brown.xml:25
 msgid "Ursus arctos"
-msgstr ""
+msgstr "(*) Урсус арцтос"
 
 #: simulation/templates/gaia/fauna_bear_polar.xml:24
 msgid "Polar Bear"
-msgstr ""
+msgstr "(*) Поларни медвед"
 
 #: simulation/templates/gaia/fauna_bear_polar.xml:25
 msgid "Ursus maritimus"
-msgstr ""
+msgstr "(*) Урсус маритимус"
 
 #: simulation/templates/gaia/fauna_boar.xml:5
 #: simulation/templates/gaia/fauna_hippopotamus.xml:5
 #: simulation/templates/gaia/fauna_walrus.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tusks"
-msgstr ""
+msgstr "(*) Кљове"
 
 #: simulation/templates/gaia/fauna_boar.xml:23
 msgid "Wild Boar"
@@ -243,49 +243,49 @@ msgstr "Дивљи вепар"
 
 #: simulation/templates/gaia/fauna_boar.xml:24
 msgid "Sus scrofa"
-msgstr ""
+msgstr "(*) Сус сцрофа"
 
 #: simulation/templates/gaia/fauna_camel.xml:11
 msgid "Dromedary"
-msgstr ""
+msgstr "(*) Дромедари"
 
 #: simulation/templates/gaia/fauna_camel.xml:12
 msgid "Camelus dromedarius"
-msgstr ""
+msgstr "(*) Цамелус дромедариус"
 
 #: simulation/templates/gaia/fauna_cattle_bull.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Horns"
-msgstr ""
+msgstr "(*) Рогови"
 
 #: simulation/templates/gaia/fauna_cattle_bull.xml:25
 msgid "Bull"
-msgstr ""
+msgstr "(*) Бик"
 
 #: simulation/templates/gaia/fauna_cattle_bull.xml:26
 #: simulation/templates/gaia/fauna_cattle_cow.xml:18
 msgid "Bos taurus taurus"
-msgstr ""
+msgstr "(*) Бос таурус бик"
 
 #: simulation/templates/gaia/fauna_cattle_cow.xml:17
 msgid "Cow"
-msgstr ""
+msgstr "(*) Крава"
 
 #: simulation/templates/gaia/fauna_cattle_sanga.xml:17
 msgid "Sanga Cattle"
-msgstr ""
+msgstr "(*) Санга стока"
 
 #: simulation/templates/gaia/fauna_cattle_sanga.xml:18
 msgid "Bos taurus africanus"
-msgstr ""
+msgstr "(*) Бос таурус африцанус"
 
 #: simulation/templates/gaia/fauna_cattle_zebu.xml:17
 msgid "Zebu"
-msgstr ""
+msgstr "(*) Зебу"
 
 #: simulation/templates/gaia/fauna_cattle_zebu.xml:18
 msgid "Bos taurus indicus"
-msgstr ""
+msgstr "(*) Бос таурус индицус"
 
 #: simulation/templates/gaia/fauna_chicken.xml:11
 msgid "Chicken"
@@ -293,12 +293,12 @@ msgstr "кокошка"
 
 #: simulation/templates/gaia/fauna_chicken.xml:12
 msgid "Gallus gallus domesticus"
-msgstr ""
+msgstr "(*) Галлус галлус доместицус"
 
 #: simulation/templates/gaia/fauna_crocodile_nile.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth"
-msgstr ""
+msgstr "(*) Зуби"
 
 #: simulation/templates/gaia/fauna_crocodile_nile.xml:23
 msgid "Nile Crocodile"
@@ -310,11 +310,11 @@ msgstr "Crocodylus niloticus"
 
 #: simulation/templates/gaia/fauna_deer.xml:11
 msgid "Red Deer"
-msgstr ""
+msgstr "(*) Јелен"
 
 #: simulation/templates/gaia/fauna_deer.xml:12
 msgid "Cervus elaphus"
-msgstr ""
+msgstr "(*) Цервус елапхус"
 
 #: simulation/templates/gaia/fauna_dog_mastiff.xml:5
 #: simulation/templates/gaia/fauna_dog_wolfhound.xml:5
@@ -323,35 +323,35 @@ msgstr ""
 #: simulation/templates/gaia/fauna_wolf.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fangs"
-msgstr ""
+msgstr "(*) Очњаци"
 
 #: simulation/templates/gaia/fauna_dog_mastiff.xml:24
 msgid "Mastiff"
-msgstr ""
+msgstr "(*) Мастиф"
 
 #: simulation/templates/gaia/fauna_dog_mastiff.xml:25
 #: simulation/templates/gaia/fauna_dog_wolfhound.xml:25
 msgid "Canis lupus familiaris"
-msgstr ""
+msgstr "(*) Цанис лупус фамилиарис"
 
 #: simulation/templates/gaia/fauna_dog_wolfhound.xml:24
 msgid "Wolfhound"
-msgstr ""
+msgstr "(*) Волфхоунд"
 
 #: simulation/templates/gaia/fauna_donkey.xml:11
 msgid "Donkey"
-msgstr ""
+msgstr "(*) Магарац"
 
 #: simulation/templates/gaia/fauna_donkey.xml:12
 msgid "Equus africanus asinus"
-msgstr ""
+msgstr "(*) Екуус африцанус асинус"
 
 #: simulation/templates/gaia/fauna_elephant_african_bush.xml:5
 #: simulation/templates/gaia/fauna_elephant_asian.xml:5
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Trunk"
-msgstr ""
+msgstr "(*) Трунк"
 
 #: simulation/templates/gaia/fauna_elephant_african_bush.xml:25
 msgid "African Bush Elephant"
@@ -360,11 +360,11 @@ msgstr "Афрички слон"
 #: simulation/templates/gaia/fauna_elephant_african_bush.xml:26
 #: simulation/templates/gaia/fauna_elephant_african_infant.xml:12
 msgid "Loxodonta africana"
-msgstr ""
+msgstr "(*) Локодонта африцана"
 
 #: simulation/templates/gaia/fauna_elephant_african_infant.xml:11
 msgid "African Bush Elephant Calf"
-msgstr ""
+msgstr "(*) Афричко грмово слоново теле"
 
 #: simulation/templates/gaia/fauna_elephant_asian.xml:25
 msgid "Asian Elephant"
@@ -373,19 +373,19 @@ msgstr "Азијски слон"
 #: simulation/templates/gaia/fauna_elephant_asian.xml:26
 #: simulation/templates/gaia/fauna_elephant_asian_infant.xml:12
 msgid "Elephas maximus"
-msgstr ""
+msgstr "(*) Елепхас макимус"
 
 #: simulation/templates/gaia/fauna_elephant_asian_infant.xml:11
 msgid "Asian Elephant Calf"
-msgstr ""
+msgstr "(*) Азијско теле слона"
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:25
 msgid "African Forest Elephant"
-msgstr ""
+msgstr "(*) Афрички шумски слон"
 
 #: simulation/templates/gaia/fauna_elephant_north_african.xml:26
 msgid "Loxodonta cyclotis"
-msgstr ""
+msgstr "(*) Локодонта цицлотис"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:24
 msgid "Arctic Fox"
@@ -393,7 +393,7 @@ msgstr "Арктичка Лисица"
 
 #: simulation/templates/gaia/fauna_fox_arctic.xml:25
 msgid "Vulpes lagopus"
-msgstr ""
+msgstr "(*) Вулпес лагопус"
 
 #: simulation/templates/gaia/fauna_fox_red.xml:24
 msgid "Red Fox"
@@ -401,28 +401,28 @@ msgstr "Црвена Лисица"
 
 #: simulation/templates/gaia/fauna_fox_red.xml:25
 msgid "Vulpes vulpes"
-msgstr ""
+msgstr "(*) Вулпес вулпес"
 
 #: simulation/templates/gaia/fauna_gazelle.xml:11
 msgid "Thomson's Gazelle"
-msgstr ""
+msgstr "(*) Тхомсонова газела"
 
 #: simulation/templates/gaia/fauna_gazelle.xml:12
 msgid "Eudorcas thomsonii"
-msgstr ""
+msgstr "(*) Еудорцас тхомсонии"
 
 #: simulation/templates/gaia/fauna_giraffe.xml:11
 msgid "Giraffe"
-msgstr ""
+msgstr "(*) Жирафа"
 
 #: simulation/templates/gaia/fauna_giraffe.xml:12
 #: simulation/templates/gaia/fauna_giraffe_infant.xml:12
 msgid "Giraffa camelopardalis"
-msgstr ""
+msgstr "(*) Гираффа цамелопардалис"
 
 #: simulation/templates/gaia/fauna_giraffe_infant.xml:11
 msgid "Juvenile Giraffe"
-msgstr ""
+msgstr "(*) Млада жирафа"
 
 #: simulation/templates/gaia/fauna_goat.xml:17
 msgid "Goat"
@@ -430,15 +430,15 @@ msgstr "коза"
 
 #: simulation/templates/gaia/fauna_goat.xml:18
 msgid "Capra aegagrus hircus"
-msgstr ""
+msgstr "(*) Цапра аегагрус хирцус"
 
 #: simulation/templates/gaia/fauna_hippopotamus.xml:24
 msgid "Hippopotamus"
-msgstr ""
+msgstr "(*) Нилски коњ"
 
 #: simulation/templates/gaia/fauna_hippopotamus.xml:25
 msgid "Hippopotamus amphibius"
-msgstr ""
+msgstr "(*) Хиппопотамус ампхибиус"
 
 #: simulation/templates/gaia/fauna_horse.xml:11
 msgid "Horse"
@@ -446,7 +446,7 @@ msgstr "коњ"
 
 #: simulation/templates/gaia/fauna_horse.xml:12
 msgid "Equus ferus caballus"
-msgstr ""
+msgstr "(*) Екуус ферус цабаллус"
 
 #: simulation/templates/gaia/fauna_horse_pony.xml:8
 msgid "Pony"
@@ -458,7 +458,7 @@ msgstr "лав"
 
 #: simulation/templates/gaia/fauna_lion.xml:24
 msgid "Panthera leo"
-msgstr ""
+msgstr "(*) Пантхера лев"
 
 #: simulation/templates/gaia/fauna_lioness.xml:4
 msgid "Lioness"
@@ -470,7 +470,7 @@ msgstr "Мошусно говече"
 
 #: simulation/templates/gaia/fauna_muskox.xml:12
 msgid "Ovibos moschatus"
-msgstr ""
+msgstr "(*) Овибос мосцхатус"
 
 #: simulation/templates/gaia/fauna_peacock.xml:11
 msgid "Peacock"
@@ -478,7 +478,7 @@ msgstr "паун"
 
 #: simulation/templates/gaia/fauna_peacock.xml:12
 msgid "Pavo cristatus"
-msgstr ""
+msgstr "(*) Паво цристатус"
 
 #: simulation/templates/gaia/fauna_pig.xml:17
 msgid "Pig"
@@ -486,15 +486,15 @@ msgstr "свиња"
 
 #: simulation/templates/gaia/fauna_pig.xml:18
 msgid "Sus scrofa domesticus"
-msgstr ""
+msgstr "(*) Сус сцрофа доместицус"
 
 #: simulation/templates/gaia/fauna_pig_flaming.xml:18
 msgid "Flaming Pig"
-msgstr ""
+msgstr "(*) Фламинг Пиг"
 
 #: simulation/templates/gaia/fauna_piglet.xml:11
 msgid "Piglet"
-msgstr ""
+msgstr "(*) Прасе"
 
 #: simulation/templates/gaia/fauna_rabbit.xml:11
 msgid "Rabbit"
@@ -502,28 +502,28 @@ msgstr "зец"
 
 #: simulation/templates/gaia/fauna_rabbit.xml:12
 msgid "Oryctolagus cuniculus"
-msgstr ""
+msgstr "(*) Орицтолагус цуницулус"
 
 #: simulation/templates/gaia/fauna_rhinoceros_white.xml:5
 msgctxt "Name of an attack, usually the weapon."
 msgid "Horn"
-msgstr ""
+msgstr "(*) Хорн"
 
 #: simulation/templates/gaia/fauna_rhinoceros_white.xml:24
 msgid "White Rhinoceros"
-msgstr ""
+msgstr "(*) Бели носорог"
 
 #: simulation/templates/gaia/fauna_rhinoceros_white.xml:25
 msgid "Ceratotherium simum"
-msgstr ""
+msgstr "(*) Цератотхериум симум"
 
 #: simulation/templates/gaia/fauna_shark.xml:12
 msgid "Great White Shark"
-msgstr ""
+msgstr "(*) Велика бела ајкула"
 
 #: simulation/templates/gaia/fauna_shark.xml:13
 msgid "Carcharodon carcharias"
-msgstr ""
+msgstr "(*) Царцхародон царцхариас"
 
 #: simulation/templates/gaia/fauna_sheep.xml:17
 msgid "Sheep"
@@ -531,7 +531,7 @@ msgstr "овца"
 
 #: simulation/templates/gaia/fauna_sheep.xml:18
 msgid "Ovis aries"
-msgstr ""
+msgstr "(*) Овис ован"
 
 #: simulation/templates/gaia/fauna_tiger.xml:23
 msgid "Tiger"
@@ -539,7 +539,7 @@ msgstr "тигар"
 
 #: simulation/templates/gaia/fauna_tiger.xml:24
 msgid "Panthera tigris"
-msgstr ""
+msgstr "(*) Пантхера тигрис"
 
 #: simulation/templates/gaia/fauna_walrus.xml:24
 msgid "Walrus"
@@ -547,7 +547,7 @@ msgstr "морж"
 
 #: simulation/templates/gaia/fauna_walrus.xml:25
 msgid "Odobenus rosmarus"
-msgstr ""
+msgstr "(*) Одобенус росмарус"
 
 #: simulation/templates/gaia/fauna_whale_fin.xml:11
 msgid "Fin Whale"
@@ -555,7 +555,7 @@ msgstr "кит перајар"
 
 #: simulation/templates/gaia/fauna_whale_fin.xml:12
 msgid "Balaenoptera physalus"
-msgstr ""
+msgstr "(*) Балаеноптера пхисалус"
 
 #: simulation/templates/gaia/fauna_whale_humpback.xml:11
 msgid "Humpback Whale"
@@ -563,15 +563,15 @@ msgstr "грбави кит"
 
 #: simulation/templates/gaia/fauna_whale_humpback.xml:12
 msgid "Megaptera novaeangliae"
-msgstr ""
+msgstr "(*) Мегаптера новаеанглиае"
 
 #: simulation/templates/gaia/fauna_wildebeest.xml:11
 msgid "Blue Wildebeest"
-msgstr ""
+msgstr "(*) Блуе Вилдебеест"
 
 #: simulation/templates/gaia/fauna_wildebeest.xml:12
 msgid "Connochaetes taurinus"
-msgstr ""
+msgstr "(*) Цонноцхаетес тауринус"
 
 #: simulation/templates/gaia/fauna_wolf.xml:24
 msgid "Wolf"
@@ -579,7 +579,7 @@ msgstr "вук"
 
 #: simulation/templates/gaia/fauna_wolf.xml:25
 msgid "Canis lupus"
-msgstr ""
+msgstr "(*) Цанис лупус"
 
 #: simulation/templates/gaia/fauna_wolf_arctic.xml:4
 msgid "Arctic Wolf"
@@ -587,27 +587,27 @@ msgstr "Арктички Вук"
 
 #: simulation/templates/gaia/fauna_zebra.xml:11
 msgid "Common Zebra"
-msgstr ""
+msgstr "(*) Обична зебра"
 
 #: simulation/templates/gaia/fauna_zebra.xml:12
 msgid "Equus quagga"
-msgstr ""
+msgstr "(*) Екуус куагга"
 
 #: simulation/templates/gaia/fish/tilapia.xml:4
 msgid "Tilapia"
-msgstr ""
+msgstr "(*) Тилапија"
 
 #: simulation/templates/gaia/fish/tuna.xml:4
 msgid "Tuna"
-msgstr ""
+msgstr "(*) Туна"
 
 #: simulation/templates/gaia/fruit/apple.xml:7
 msgid "Apple"
-msgstr ""
+msgstr "(*) Аппле"
 
 #: simulation/templates/gaia/fruit/banana.xml:7
 msgid "Banana"
-msgstr ""
+msgstr "(*) Банана"
 
 #: simulation/templates/gaia/fruit/berry_01.xml:4
 #: simulation/templates/gaia/fruit/berry_02.xml:4
@@ -633,7 +633,7 @@ msgstr "грожђе"
 
 #: simulation/templates/gaia/fruit/olive.xml:7
 msgid "Olive"
-msgstr ""
+msgstr "(*) Маслина"
 
 #: simulation/templates/gaia/ruins/column_doric.xml:8
 msgid "Ancient Ruins"
@@ -641,7 +641,7 @@ msgstr "древне рушевине"
 
 #: simulation/templates/gaia/ruins/metal_statue_isis.xml:9
 msgid "Isis Cult Image"
-msgstr ""
+msgstr "(*) Исисова култна слика"
 
 #: simulation/templates/gaia/ruins/pyramid_great.xml:8
 msgid "Great Pyramid"
@@ -662,25 +662,25 @@ msgstr "Египатске птолемејске статуе"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite.xml:8
 msgid "Kushite Statue"
-msgstr ""
+msgstr "(*) Кусхите Статуе"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite_bird.xml:9
 #: simulation/templates/gaia/ruins/stone_statues_kushite_lion.xml:9
 #: simulation/templates/gaia/ruins/stone_statues_kushite_ram.xml:9
 msgid "Stone Resource"
-msgstr ""
+msgstr "(*) Стоне Ресоурце"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite_bird.xml:10
 msgid "Kushite Bird Statue"
-msgstr ""
+msgstr "(*) Кип Кусхите Птица"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite_lion.xml:10
 msgid "Apademak Lion Statue"
-msgstr ""
+msgstr "(*) Статуа лава Ападемак"
 
 #: simulation/templates/gaia/ruins/stone_statues_kushite_ram.xml:10
 msgid "Ammon-Ra Ram Statue"
-msgstr ""
+msgstr "(*) Статуа Аммон-Ра Рам"
 
 #: simulation/templates/gaia/ruins/stone_statues_roman.xml:8
 msgid "Roman Statues"
@@ -750,16 +750,16 @@ msgstr "Ризница са каменом"
 
 #: simulation/templates/gaia/treasure/stone_pile_granite.xml:4
 msgid "Cut Granite"
-msgstr ""
+msgstr "(*) Исеците гранит"
 
 #: simulation/templates/gaia/treasure/stone_pile_granite_large.xml:8
 msgid "Cut Stone"
-msgstr ""
+msgstr "(*) Цут Стоне"
 
 #: simulation/templates/gaia/treasure/stone_pile_red.xml:8
 #: simulation/templates/gaia/treasure/stone_pile_sandstone.xml:4
 msgid "Cut Sandstone"
-msgstr ""
+msgstr "(*) Исеците пешчар"
 
 #: simulation/templates/gaia/treasure/wood.xml:8
 msgid "Wood Treasure"
@@ -767,28 +767,28 @@ msgstr "Ризница са дрветом"
 
 #: simulation/templates/gaia/treasure/wood_lumber.xml:4
 msgid "Milled Lumber"
-msgstr ""
+msgstr "(*) Млевена грађа"
 
 #: simulation/templates/gaia/tree/acacia.xml:4
 msgid "Acacia"
-msgstr ""
+msgstr "(*) Багрем"
 
 #: simulation/templates/gaia/tree/aleppo_pine.xml:4
 msgid "Aleppo Pine"
-msgstr ""
+msgstr "(*) Алеппо Пине"
 
 #: simulation/templates/gaia/tree/bamboo.xml:4
 #: simulation/templates/gaia/tree/bamboo_single.xml:4
 msgid "Bamboo"
-msgstr ""
+msgstr "(*) Бамбус"
 
 #: simulation/templates/gaia/tree/bamboo_dragon.xml:8
 msgid "Dragon Bamboo"
-msgstr ""
+msgstr "(*) Драгон Бамбоо"
 
 #: simulation/templates/gaia/tree/banyan.xml:8
 msgid "Banyan"
-msgstr ""
+msgstr "(*) Баниан"
 
 #: simulation/templates/gaia/tree/baobab.xml:8
 #: simulation/templates/gaia/tree/baobab_3_mature.xml:8
@@ -798,11 +798,11 @@ msgstr "баобаб"
 
 #: simulation/templates/gaia/tree/baobab_1_sapling.xml:4
 msgid "Baobab Sapling"
-msgstr ""
+msgstr "(*) Баобаб садница"
 
 #: simulation/templates/gaia/tree/baobab_2_young.xml:4
 msgid "Young Baobab"
-msgstr ""
+msgstr "(*) Млади Баобаб"
 
 #: simulation/templates/gaia/tree/bush_badlands.xml:4
 msgid "Hardy Bush"
@@ -819,17 +819,17 @@ msgstr "жбун"
 
 #: simulation/templates/gaia/tree/carob.xml:4
 msgid "Carob"
-msgstr ""
+msgstr "(*) Рогач"
 
 #: simulation/templates/gaia/tree/cedar_atlas_1_sapling.xml:4
 msgid "Atlas Cedar Sapling"
-msgstr ""
+msgstr "(*) Садница кедра Атлас"
 
 #: simulation/templates/gaia/tree/cedar_atlas_2_young.xml:4
 #: simulation/templates/gaia/tree/cedar_atlas_3_mature.xml:4
 #: simulation/templates/gaia/tree/cedar_atlas_4_dead.xml:4
 msgid "Atlas Cedar"
-msgstr ""
+msgstr "(*) Атлас Цедар"
 
 #: simulation/templates/gaia/tree/cretan_date_palm_patch.xml:8
 #: simulation/templates/gaia/tree/cretan_date_palm_short.xml:4
@@ -841,49 +841,49 @@ msgstr "критска урма"
 #: simulation/templates/gaia/tree/cypress_wild.xml:4
 #: simulation/templates/gaia/tree/cypress_windswept.xml:4
 msgid "Cypress"
-msgstr ""
+msgstr "(*) Ципресс"
 
 #: simulation/templates/gaia/tree/dead.xml:4
 #: simulation/templates/gaia/tree/temperate.xml:4
 #: simulation/templates/gaia/tree/temperate_autumn.xml:4
 #: simulation/templates/gaia/tree/temperate_winter.xml:4
 msgid "Deciduous Tree"
-msgstr ""
+msgstr "(*) Листопадно дрво"
 
 #: simulation/templates/gaia/tree/elm.xml:4
 #: simulation/templates/gaia/tree/elm_dead.xml:4
 msgid "Elm"
-msgstr ""
+msgstr "(*) Елм"
 
 #: simulation/templates/gaia/tree/euro_beech.xml:4
 #: simulation/templates/gaia/tree/euro_beech_aut.xml:4
 msgid "European Beech"
-msgstr ""
+msgstr "(*) Европска буква"
 
 #: simulation/templates/gaia/tree/euro_birch.xml:4
 msgid "Silver Birch"
-msgstr ""
+msgstr "(*) Сребрна бреза"
 
 #: simulation/templates/gaia/tree/fir.xml:4
 #: simulation/templates/gaia/tree/fir_winter.xml:4
 msgid "Fir"
-msgstr ""
+msgstr "(*) Фир"
 
 #: simulation/templates/gaia/tree/fir_sapling.xml:4
 msgid "Fir Sapling"
-msgstr ""
+msgstr "(*) Младенац јеле"
 
 #: simulation/templates/gaia/tree/juniper_prickly.xml:4
 msgid "Prickly Juniper"
-msgstr ""
+msgstr "(*) Бодљикава клека"
 
 #: simulation/templates/gaia/tree/mangrove.xml:4
 msgid "Mangrove"
-msgstr ""
+msgstr "(*) Мангрове"
 
 #: simulation/templates/gaia/tree/maple.xml:4
 msgid "Maple"
-msgstr ""
+msgstr "(*) Мапле"
 
 #: simulation/templates/gaia/tree/medit_fan_palm.xml:4
 msgid "Mediterranean Fan Palm"
@@ -895,32 +895,32 @@ msgstr "Медитеранска палма"
 #: simulation/templates/gaia/tree/oak_dead.xml:4
 #: simulation/templates/gaia/tree/oak_new.xml:4
 msgid "Oak"
-msgstr ""
+msgstr "(*) храст"
 
 #: simulation/templates/gaia/tree/oak_holly.xml:4
 msgid "Holly Oak"
-msgstr ""
+msgstr "(*) Холли Оак"
 
 #: simulation/templates/gaia/tree/oak_hungarian.xml:4
 #: simulation/templates/gaia/tree/oak_hungarian_autumn.xml:4
 msgid "Hungarian Oak"
-msgstr ""
+msgstr "(*) Мађарски храст"
 
 #: simulation/templates/gaia/tree/oak_large.xml:4
 msgid "Large Oak"
-msgstr ""
+msgstr "(*) Велики храст"
 
 #: simulation/templates/gaia/tree/palm_areca.xml:4
 msgid "Areca Palm"
-msgstr ""
+msgstr "(*) Ареца Палм"
 
 #: simulation/templates/gaia/tree/palm_doum.xml:4
 msgid "Doum Palm"
-msgstr ""
+msgstr "(*) Доум Палм"
 
 #: simulation/templates/gaia/tree/palm_palmyra.xml:4
 msgid "Palmyra Palm"
-msgstr ""
+msgstr "(*) Палмира Палм"
 
 #: simulation/templates/gaia/tree/palm_tropic.xml:4
 msgid "Palm"
@@ -933,28 +933,28 @@ msgstr "тропска палма"
 #: simulation/templates/gaia/tree/pine.xml:4
 #: simulation/templates/gaia/tree/pine_w.xml:4
 msgid "Pine"
-msgstr ""
+msgstr "(*) Бор"
 
 #: simulation/templates/gaia/tree/pine_black.xml:4
 #: simulation/templates/gaia/tree/pine_black_dead.xml:4
 msgid "Black Pine"
-msgstr ""
+msgstr "(*) Црни бор"
 
 #: simulation/templates/gaia/tree/pine_maritime.xml:4
 #: simulation/templates/gaia/tree/pine_maritime_short.xml:4
 msgid "Maritime Pine"
-msgstr ""
+msgstr "(*) Поморски бор"
 
 #: simulation/templates/gaia/tree/poplar.xml:4
 #: simulation/templates/gaia/tree/poplar_dead.xml:4
 #: simulation/templates/gaia/tree/poplar_lombardy_autumn.xml:4
 msgid "Poplar"
-msgstr ""
+msgstr "(*) Топол"
 
 #: simulation/templates/gaia/tree/poplar_lombardy.xml:4
 #: simulation/templates/gaia/tree/poplar_lombardy_dead.xml:4
 msgid "Black Poplar"
-msgstr ""
+msgstr "(*) Црна топола"
 
 #: simulation/templates/gaia/tree/senegal_date_palm.xml:4
 msgid "Senegal Date Palm"
@@ -962,27 +962,27 @@ msgstr "сенегалска урма"
 
 #: simulation/templates/gaia/tree/strangler.xml:8
 msgid "Strangler Fig"
-msgstr ""
+msgstr "(*) Давитељ Сл"
 
 #: simulation/templates/gaia/tree/tamarix.xml:4
 msgid "Tamarix"
-msgstr ""
+msgstr "(*) Тамарик"
 
 #: simulation/templates/gaia/tree/teak.xml:8
 msgid "Teak"
-msgstr ""
+msgstr "(*) Теак"
 
 #: simulation/templates/gaia/tree/toona.xml:4
 msgid "Toona"
-msgstr ""
+msgstr "(*) Тоона"
 
 #: simulation/templates/gaia/tree/tropic_rainforest.xml:4
 msgid "Rainforest Tree"
-msgstr ""
+msgstr "(*) Раинфорест Трее"
 
 #: simulation/templates/mixins/builder.xml:35
 msgid "Builder"
-msgstr ""
+msgstr "(*) Буилдер"
 
 #: simulation/templates/mixins/mercenary.xml:13
 msgid "Mercenary"
@@ -990,11 +990,11 @@ msgstr "Најамник"
 
 #: simulation/templates/mixins/shrine.xml:12
 msgid "Shrine"
-msgstr ""
+msgstr "(*) Светилиште"
 
 #: simulation/templates/mixins/trading_post.xml:8
 msgid "Trading Post"
-msgstr ""
+msgstr "(*) Погранична трговачка кућа"
 
 #: simulation/templates/skirmish/structures/default_house_10.xml:5
 msgid ""
@@ -1011,11 +1011,11 @@ msgstr "Промене у кући за 5 становника за цивили
 #: simulation/templates/special/formations/anti_cavalry.xml:6
 #: simulation/templates/special/formations/testudo.xml:6
 msgid "Melee Infantry only, requires at least 16."
-msgstr ""
+msgstr "(*) Само за пјешаштво у сукобу, потребно је најмање 16."
 
 #: simulation/templates/special/formations/anti_cavalry.xml:7
 msgid "Anti Cavalry"
-msgstr ""
+msgstr "(*) Анти Коњица"
 
 #: simulation/templates/special/formations/battle_line.xml:5
 msgid "Battle Line"
@@ -1023,7 +1023,7 @@ msgstr "бојни поредак"
 
 #: simulation/templates/special/formations/box.xml:6
 msgid "Requires at least 4 Soldiers or Siege engines."
-msgstr ""
+msgstr "(*) Потребна су најмање 4 војничка или опсадна мотора."
 
 #: simulation/templates/special/formations/box.xml:7
 msgid "Box"
@@ -1039,7 +1039,7 @@ msgstr "отворена колона"
 
 #: simulation/templates/special/formations/flank.xml:6
 msgid "Requires at least 8 Soldiers or Siege engines."
-msgstr ""
+msgstr "(*) Захтева најмање 8 војника или опсадних мотора."
 
 #: simulation/templates/special/formations/flank.xml:7
 msgid "Flank"
@@ -1059,7 +1059,7 @@ msgstr "Ништа"
 
 #: simulation/templates/special/formations/phalanx.xml:6
 msgid "Infantry Hoplites only, requires at least 10."
-msgstr ""
+msgstr "(*) Само за пешадијске хоплите, потребно је најмање 10."
 
 #: simulation/templates/special/formations/phalanx.xml:7
 msgid "Phalanx"
@@ -1071,7 +1071,7 @@ msgstr "расути поредак"
 
 #: simulation/templates/special/formations/skirmish.xml:5
 msgid "Ranged Soldiers only, requires at least 2."
-msgstr ""
+msgstr "(*) Само војници на даљину, потребна су најмање 2."
 
 #: simulation/templates/special/formations/skirmish.xml:6
 msgid "Skirmish"
@@ -1079,7 +1079,7 @@ msgstr "чаркање"
 
 #: simulation/templates/special/formations/syntagma.xml:6
 msgid "Infantry Pikemen only, requires at least 16."
-msgstr ""
+msgstr "(*) Само пешадијским пикеменима потребно је најмање 16."
 
 #: simulation/templates/special/formations/syntagma.xml:8
 msgid "Syntagma"
@@ -1091,7 +1091,7 @@ msgstr "корњача"
 
 #: simulation/templates/special/formations/wedge.xml:6
 msgid "Cavalry only, requires at least 6."
-msgstr ""
+msgstr "(*) Само коњица, потребно је најмање 6."
 
 #: simulation/templates/special/formations/wedge.xml:7
 msgid "Wedge"
@@ -1107,7 +1107,7 @@ msgstr "Шпијун"
 
 #: simulation/templates/template_formation.xml:26
 msgid "Requires at least 2 Soldiers or Siege Engines."
-msgstr ""
+msgstr "(*) Потребна су најмање 2 војника или опсадни мотори."
 
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
@@ -1120,7 +1120,7 @@ msgstr "Риба"
 
 #: simulation/templates/template_gaia_fish.xml:10
 msgid "Catch fish for food."
-msgstr ""
+msgstr "(*) Уловите рибу за храну."
 
 #: simulation/templates/template_gaia_fruit.xml:8
 msgid "Fruit"
@@ -1128,7 +1128,7 @@ msgstr "Воће "
 
 #: simulation/templates/template_gaia_fruit.xml:9
 msgid "Pick fruit for food."
-msgstr ""
+msgstr "(*) Берите воће за храну."
 
 #: simulation/templates/template_gaia_ore.xml:8
 msgid "Metal Mine"
@@ -1136,7 +1136,7 @@ msgstr "рудник метала"
 
 #: simulation/templates/template_gaia_ore.xml:9
 msgid "Mine ore for metal."
-msgstr ""
+msgstr "(*) Рудна руда за метал."
 
 #: simulation/templates/gaia/rock/aegean_cut.xml:8
 #: simulation/templates/gaia/rock/india_cut.xml:8
@@ -1145,11 +1145,11 @@ msgstr ""
 #: simulation/templates/gaia/rock/temperate_cut.xml:8
 #: simulation/templates/template_gaia_rock.xml:8
 msgid "Stone Quarry"
-msgstr ""
+msgstr "(*) Каменолом"
 
 #: simulation/templates/template_gaia_rock.xml:9
 msgid "Quarry rock for stone."
-msgstr ""
+msgstr "(*) Каменолом камена за камен."
 
 #: simulation/templates/template_gaia_ruins.xml:8
 msgid "Ruins"
@@ -1157,7 +1157,7 @@ msgstr "рушевине"
 
 #: simulation/templates/template_gaia_ruins.xml:9
 msgid "Demolish ruins for stone."
-msgstr ""
+msgstr "(*) Рушити рушевине за камен."
 
 #: simulation/templates/template_gaia_treasure.xml:8
 msgid "Treasure"
@@ -1165,7 +1165,7 @@ msgstr "благо"
 
 #: simulation/templates/template_gaia_treasure.xml:9
 msgid "Collect treasures for resources."
-msgstr ""
+msgstr "(*) Прикупите благо за ресурсе."
 
 #: simulation/templates/template_gaia_tree.xml:8
 msgid "Tree"
@@ -1173,7 +1173,7 @@ msgstr "дрво"
 
 #: simulation/templates/template_gaia_tree.xml:9
 msgid "Chop trees for wood."
-msgstr ""
+msgstr "(*) Исецкајте дрвеће за дрво."
 
 #: simulation/templates/template_structure.xml:46
 msgid "Structure"
@@ -1186,8 +1186,8 @@ msgstr "јединица"
 #: simulation/templates/template_wallset.xml:9
 #: simulation/templates/template_wallset.xml:11
 msgid "Wall"
-msgstr ""
+msgstr "(*) Зид"
 
 #: simulation/templates/template_wallset.xml:10
 msgid "Wall off an area."
-msgstr ""
+msgstr "(*) Зидите подручје."

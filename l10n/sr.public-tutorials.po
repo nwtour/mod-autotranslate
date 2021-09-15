@@ -57,7 +57,7 @@ msgstr ""
 #: maps/tutorials/introductory_tutorial.js:38
 #: maps/tutorials/introductory_tutorial.js:162
 msgid "Click on the Hoplite icon."
-msgstr ""
+msgstr "(*) Кликните на икону Хоплите."
 
 #: maps/tutorials/introductory_tutorial.js:46
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 
 #: maps/tutorials/introductory_tutorial.js:80
 msgid "Click on the Skirmisher icon."
-msgstr ""
+msgstr "(*) Кликните на икону Скирмисхер."
 
 #: maps/tutorials/introductory_tutorial.js:88
 msgid ""
@@ -91,7 +91,7 @@ msgstr ""
 
 #: maps/tutorials/introductory_tutorial.js:100
 msgid "Let's wait for the Farmstead to be built."
-msgstr ""
+msgstr "(*) Сачекајмо да се сагради Фарма."
 
 #: maps/tutorials/introductory_tutorial.js:112
 msgid ""
@@ -156,7 +156,7 @@ msgstr ""
 #: maps/tutorials/introductory_tutorial.js:246
 #: maps/tutorials/starting_economy_walkthrough.js:345
 msgid "Click on the Female Citizen icon."
-msgstr ""
+msgstr "(*) Кликните на икону Грађанка."
 
 #: maps/tutorials/introductory_tutorial.js:266
 msgid ""
@@ -172,11 +172,11 @@ msgstr ""
 
 #: maps/tutorials/introductory_tutorial.js:282
 msgid "The enemy is coming. Train more soldiers to fight off the enemies."
-msgstr ""
+msgstr "(*) Непријатељ долази. Обучите више војника у борби против непријатеља."
 
 #: maps/tutorials/introductory_tutorial.js:290
 msgid "Try to repel the attack."
-msgstr ""
+msgstr "(*) Покушајте да одбијете напад."
 
 #: maps/tutorials/introductory_tutorial.js:300
 msgid ""
@@ -211,19 +211,19 @@ msgstr ""
 
 #: maps/tutorials/introductory_tutorial.js:360
 msgid "Female Citizens should continue to gather resources."
-msgstr ""
+msgstr "(*) Грађанке би требале наставити прикупљати ресурсе."
 
 #: maps/tutorials/introductory_tutorial.js:371
 msgid "The enemy has been defeated. These tutorial tasks are now completed."
-msgstr ""
+msgstr "(*) Непријатељ је поражен. Ови задаци водича су сада завршени."
 
 #: maps/tutorials/introductory_tutorial.xml:Description:38
 msgid "This is a basic tutorial to get you started playing 0 A.D."
-msgstr ""
+msgstr "(*) Ово је основни водич за почетак играња 0 А.Д."
 
 #: maps/tutorials/introductory_tutorial.xml:Name:38
 msgid "Introductory Tutorial"
-msgstr ""
+msgstr "(*) Уводни водич"
 
 #: maps/tutorials/introductory_tutorial.xml:PlayerData[0].Name:38
 #: maps/tutorials/starting_economy_walkthrough.xml:PlayerData[0].Name:39
@@ -257,7 +257,7 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:10
 msgid "Adjust the game window to your preferences.\n"
-msgstr ""
+msgstr "(*) Прилагодите прозор игре својим жељама.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:12
 #, javascript-format
@@ -325,7 +325,7 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:41
 msgid "There are primarily three ways to select units:\n"
-msgstr ""
+msgstr "(*) Постоје првенствено три начина за одабир јединица:\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:42
 msgid ""
@@ -411,16 +411,16 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:108
 msgid "Do not forget to hold Shift while clicking to train several units."
-msgstr ""
+msgstr "(*) Не заборавите да држите тастер Схифт док кликнете за обуку неколико јединица."
 
 #: maps/tutorials/starting_economy_walkthrough.js:109
 msgid "Hold Shift and click on the Hoplite icon."
-msgstr ""
+msgstr "(*) Држите Схифт и кликните на икону Хоплите."
 
 #: maps/tutorials/starting_economy_walkthrough.js:118
 #: maps/tutorials/starting_economy_walkthrough.js:177
 msgid "Let's wait for the units to be trained.\n"
-msgstr ""
+msgstr "(*) Сачекајмо обуку јединица.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:119
 msgid ""
@@ -483,11 +483,11 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:167
 msgid "Do not forget to hold Shift and click to train several units."
-msgstr ""
+msgstr "(*) Не заборавите да држите Схифт и кликнете да бисте обучили неколико јединица."
 
 #: maps/tutorials/starting_economy_walkthrough.js:168
 msgid "Hold shift and click on the Female Citizen icon."
-msgstr ""
+msgstr "(*) Држите Схифт и кликните на икону Грађанка."
 
 #: maps/tutorials/starting_economy_walkthrough.js:178
 msgid ""
@@ -499,7 +499,7 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:192
 msgid "The units should be ready soon.\n"
-msgstr ""
+msgstr "(*) Јединице би ускоро требале бити спремне.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:193
 msgid ""
@@ -623,7 +623,7 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:322
 msgid "Select the Civic Center and right-click on the Field."
-msgstr ""
+msgstr "(*) Одаберите грађански центар и кликните десним тастером миша на поље."
 
 #: maps/tutorials/starting_economy_walkthrough.js:330
 msgid ""
@@ -633,7 +633,7 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.js:344
 msgid "Click without holding Shift to train a single unit."
-msgstr ""
+msgstr "(*) Кликните без држања Схифт да бисте обучили једну јединицу."
 
 #: maps/tutorials/starting_economy_walkthrough.js:355
 msgid ""
@@ -740,4 +740,4 @@ msgstr ""
 
 #: maps/tutorials/starting_economy_walkthrough.xml:Name:39
 msgid "Starting Economy Walkthrough"
-msgstr ""
+msgstr "(*) Покретање Економског корака"
