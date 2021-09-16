@@ -157,7 +157,7 @@ foreach my $md5 (keys %{$release}) {
 
 				print "\tAlphabet string '$substring'\n";
 				$translated_substring = run_translate ($substring);
-				sleep (30);
+				sleep (10);
 			}
 
 			push @translated_substrings, $translated_substring;

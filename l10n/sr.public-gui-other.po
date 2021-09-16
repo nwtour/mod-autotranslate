@@ -39,7 +39,7 @@ msgstr "(*) Неодређени интервентни тастер: %(hotkeyNa
 #: gui/common/color.js:196
 #, javascript-format
 msgid "Press %(hotkey)s to autocomplete player names."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s за аутоматско довршавање имена играча."
 
 #: gui/common/color.js:198
 msgctxt "hotkey"
@@ -71,21 +71,21 @@ msgstr "(*)  %(playerName)s  ( %(civ)s ,  %(AIdescription)s )"
 #: gui/common/gamedescription.js:71
 #, javascript-format
 msgid "%(playerName)s (%(civ)s, %(AIdescription)s, %(state)s)"
-msgstr ""
+msgstr "(*)  %(playerName)s  ( %(civ)s ,  %(AIdescription)s ,  %(state)s )"
 
 #. Translation: Describe a player in a selected game, f.e. in the replay- or
 #. savegame menu
 #: gui/common/gamedescription.js:77
 #, javascript-format
 msgid "%(playerName)s (%(AIdescription)s)"
-msgstr ""
+msgstr "(*)  %(playerName)s  ( %(AIdescription)s )"
 
 #. Translation: Describe a player in a selected game, f.e. in the replay- or
 #. savegame menu
 #: gui/common/gamedescription.js:80
 #, javascript-format
 msgid "%(playerName)s (%(AIdescription)s, %(state)s)"
-msgstr ""
+msgstr "(*)  %(playerName)s  ( %(AIdescription)s ,  %(state)s )"
 
 #. Translation: Describe a player in a selected game, f.e. in the replay- or
 #. savegame menu
@@ -176,7 +176,7 @@ msgstr "Неограничена игра"
 
 #: gui/common/gamedescription.js:189
 msgid "No winner will be determined, even if everyone is defeated."
-msgstr ""
+msgstr "(*) Победник неће бити одређен, чак и ако су сви поражени."
 
 #: gui/common/gamedescription.js:202
 #, javascript-format
@@ -206,15 +206,15 @@ msgstr "Гарнизон за хероје"
 
 #: gui/common/gamedescription.js:240
 msgid "Heroes can be garrisoned."
-msgstr ""
+msgstr "(*) Хероји могу бити гарнизовани."
 
 #: gui/common/gamedescription.js:244
 msgid "Exposed Heroes"
-msgstr ""
+msgstr "(*) Откривени хероји"
 
 #: gui/common/gamedescription.js:245
 msgid "Heroes cannot be garrisoned and they are vulnerable to raids."
-msgstr ""
+msgstr "(*) Хероји не могу бити заробљени и рањиви су на рације."
 
 #: gui/common/gamedescription.js:251
 msgid "Locked Teams"
@@ -270,7 +270,7 @@ msgstr[2] ""
 #: gui/common/gamedescription.js:286
 msgctxt "Map Selection"
 msgid "Random Map"
-msgstr ""
+msgstr "(*) Случајна мапа"
 
 #: gui/common/gamedescription.js:287
 msgid "Randomly select a map from the list."
@@ -295,11 +295,11 @@ msgstr "Величина Мапе"
 #: gui/common/gamedescription.js:322
 msgctxt "biome"
 msgid "Random Biome"
-msgstr ""
+msgstr "(*) Рандом Биоме"
 
 #: gui/common/gamedescription.js:323
 msgid "Randomly select a biome from the list."
-msgstr ""
+msgstr "(*) Насумичним одабиром биома са листе."
 
 #: gui/common/gamedescription.js:338
 msgid "Nomad Mode"
@@ -307,7 +307,7 @@ msgstr "(*) Номад Моде"
 
 #: gui/common/gamedescription.js:338
 msgid "Civic Centers"
-msgstr ""
+msgstr "(*) Грађански центри"
 
 #: gui/common/gamedescription.js:341
 msgid ""
@@ -415,7 +415,7 @@ msgstr "Поражен"
 #: gui/common/gamedescription.js:447
 #, javascript-format
 msgid "%(AIdifficulty)s %(AIbehavior)s %(AIname)s"
-msgstr ""
+msgstr "(*)  %(AIdifficulty)s   %(AIbehavior)s   %(AIname)s "
 
 #: gui/common/network.js:17
 #, javascript-format
@@ -445,7 +445,7 @@ msgstr ""
 
 #: gui/common/network.js:67
 msgid "The host has ended the game."
-msgstr ""
+msgstr "(*) Домаћин је завршио утакмицу."
 
 #: gui/common/network.js:68
 msgid "Incorrect network protocol version."
@@ -457,7 +457,7 @@ msgstr "(*) Игра се учитава, покушајте поново кас
 
 #: gui/common/network.js:70
 msgid "Game has already started, no observers allowed."
-msgstr ""
+msgstr "(*) Игра је већ почела, посматрачи нису дозвољени."
 
 #: gui/common/network.js:71
 msgid "You have been kicked."
@@ -469,7 +469,7 @@ msgstr "Забрањен Вам је приступ."
 
 #: gui/common/network.js:73
 msgid "Player name in use. If you were disconnected, retry in few seconds."
-msgstr ""
+msgstr "(*) Име играча у употреби. Ако сте прекинули везу, покушајте поново за неколико секунди."
 
 #: gui/common/network.js:74
 msgid "Server full."
@@ -477,15 +477,15 @@ msgstr "(*) Сервер пун."
 
 #: gui/common/network.js:75
 msgid "Secure lobby authentication failed. Join via lobby."
-msgstr ""
+msgstr "(*) Аутентификација сигурног лобија није успела. Придружите се преко лобија."
 
 #: gui/common/network.js:76
 msgid "Error: Server failed to allocate a unique client identifier."
-msgstr ""
+msgstr "(*) Грешка: Сервер није успео да додели јединствени идентификатор клијента."
 
 #: gui/common/network.js:77
 msgid "Error: Client commands were ready for an unexpected game turn."
-msgstr ""
+msgstr "(*) Грешка: Клијентске команде су биле спремне за неочекивани преокрет игре."
 
 #: gui/common/network.js:78
 msgid "Error: Client simulated an unexpected game turn."
@@ -501,7 +501,7 @@ msgstr "(*) Није могуће пронаћи некоришћени порт
 
 #: gui/common/network.js:81
 msgid "Could not find the STUN endpoint."
-msgstr ""
+msgstr "(*) Није могуће пронаћи крајњу тачку СТУН."
 
 #: gui/common/network.js:84
 #, javascript-format
@@ -581,7 +581,7 @@ msgstr "Насумично"
 #: gui/common/settings.js:152
 msgctxt "aiBehavior"
 msgid "Balanced"
-msgstr ""
+msgstr "(*) Уравнотежено"
 
 #: gui/common/settings.js:156
 msgctxt "aiBehavior"
@@ -622,7 +622,7 @@ msgstr "Сценарио"
 
 #: gui/common/settings.js:193
 msgid "A map with a predefined landscape and matchsettings."
-msgstr ""
+msgstr "(*) Мапа са унапред дефинисаним пејзажом и подешавањима подударања."
 
 #: gui/common/settings.js:271 gui/common/settings.js:294
 msgid "Unlimited"
@@ -656,7 +656,7 @@ msgstr "Подразумевано"
 #: gui/common/settings.js:403
 msgctxt "population capacity addendum"
 msgid "(world)"
-msgstr ""
+msgstr "(*) (свет)"
 
 #: gui/common/settings.js:404 gui/common/settings.js:408
 msgctxt "population capacity"
@@ -729,7 +729,7 @@ msgstr "(*) Отпор:"
 
 #: gui/common/tooltips.js:222
 msgid "Damage:"
-msgstr ""
+msgstr "(*) Штета:"
 
 #: gui/common/tooltips.js:225 gui/common/tooltips.js:245
 #, javascript-format
@@ -763,7 +763,7 @@ msgstr "(*) Блокови %(name)s "
 #: gui/common/tooltips.js:287
 #, javascript-format
 msgid "%(name)s %(details)s"
-msgstr ""
+msgstr "(*)  %(name)s   %(details)s "
 
 #: gui/common/tooltips.js:274
 #, javascript-format
@@ -791,7 +791,7 @@ msgstr "(*) Интервал:"
 
 #: gui/common/tooltips.js:312
 msgid "Rate:"
-msgstr ""
+msgstr "(*) Оцените:"
 
 #: gui/common/tooltips.js:313
 #, javascript-format
@@ -831,7 +831,7 @@ msgstr "(*)  %(rangeLabel)s   %(maxRange)s  ( %(relativeRange)s )  %(rangeUnit)s
 #: gui/common/tooltips.js:344
 #, javascript-format
 msgid "%(rangeLabel)s %(minRange)s to %(maxRange)s %(rangeUnit)s"
-msgstr ""
+msgstr "(*)  %(rangeLabel)s   %(minRange)s до %(maxRange)s   %(rangeUnit)s "
 
 #. Translation: For example: Range: 10 meters
 #: gui/common/tooltips.js:346
@@ -870,7 +870,7 @@ msgstr "%(damage)s %(damageType)s"
 #: gui/common/tooltips.js:385
 #, javascript-format
 msgid "%(amount)s %(name)s"
-msgstr ""
+msgstr "(*)  %(amount)s   %(name)s "
 
 #: gui/common/tooltips.js:393
 #, javascript-format
@@ -880,7 +880,7 @@ msgstr "(*) %(спласхСхапе) с Спласх"
 #: gui/common/tooltips.js:396
 #, javascript-format
 msgid "%(label)s: %(effects)s"
-msgstr ""
+msgstr "(*)  %(label)s :  %(effects)s "
 
 #: gui/common/tooltips.js:402
 #, javascript-format
@@ -908,12 +908,12 @@ msgstr "Не"
 #: gui/common/tooltips.js:414
 #, javascript-format
 msgid "gives %(name)s"
-msgstr ""
+msgstr "(*) даје %(name)s "
 
 #: gui/common/tooltips.js:447
 #, javascript-format
 msgid "%(attackType)s"
-msgstr ""
+msgstr "(*) _ЛАЛАЛА_"
 
 #: gui/common/tooltips.js:466
 #, javascript-format
@@ -923,12 +923,12 @@ msgstr ""
 
 #: gui/common/tooltips.js:477
 msgid "Attack:"
-msgstr ""
+msgstr "(*) Напад:"
 
 #: gui/common/tooltips.js:504
 #, javascript-format
 msgid "%(statusName)s: %(statusInfo)s %(stackability)s"
-msgstr ""
+msgstr "(*)  %(statusName)s :  %(statusInfo)s   %(stackability)s "
 
 #: gui/common/tooltips.js:509
 #, javascript-format
@@ -938,7 +938,7 @@ msgstr "(*)  %(statusName)s :  %(statusInfo)s "
 #: gui/common/tooltips.js:520
 #, javascript-format
 msgid "%(durName)s: %(duration)s"
-msgstr ""
+msgstr "(*)  %(durName)s :  %(duration)s "
 
 #: gui/common/tooltips.js:521
 msgid "Duration"
@@ -952,7 +952,7 @@ msgstr "(*) (продужава)"
 #: gui/common/tooltips.js:537
 msgctxt "status effect stackability"
 msgid "(replaces)"
-msgstr ""
+msgstr "(*) (замењује)"
 
 #: gui/common/tooltips.js:539
 msgctxt "status effect stackability"
@@ -999,7 +999,7 @@ msgstr "(*) Гаррисон Сизе"
 #: gui/common/tooltips.js:581
 msgctxt "nested garrison"
 msgid "+ "
-msgstr ""
+msgstr "(*) +"
 
 #: gui/common/tooltips.js:593
 #, javascript-format
@@ -1018,7 +1018,7 @@ msgstr "%(label)s: %(value)s"
 
 #: gui/common/tooltips.js:616
 msgid "Projectile Limit"
-msgstr ""
+msgstr "(*) Граница пројектила"
 
 #: gui/common/tooltips.js:621
 msgctxt "projectiles"
@@ -1032,11 +1032,11 @@ msgstr "По јединици"
 
 #: gui/common/tooltips.js:636
 msgid "Number of repairers:"
-msgstr ""
+msgstr "(*) Број сервисера:"
 
 #: gui/common/tooltips.js:642
 msgid "Remaining repair time:"
-msgstr ""
+msgstr "(*) Преостало време поправке:"
 
 #: gui/common/tooltips.js:646
 #, javascript-format
@@ -1057,11 +1057,11 @@ msgstr[2] ""
 
 #: gui/common/tooltips.js:670
 msgid "Number of builders:"
-msgstr ""
+msgstr "(*) Број градитеља:"
 
 #: gui/common/tooltips.js:676
 msgid "Remaining build time:"
-msgstr ""
+msgstr "(*) Преостало време изградње:"
 
 #: gui/common/tooltips.js:680
 #, javascript-format
@@ -1101,7 +1101,7 @@ msgstr "%(resourceIcon)s %(rate)s"
 #: gui/common/tooltips.js:784
 #, javascript-format
 msgid "%(label)s %(component)s %(amount)s"
-msgstr ""
+msgstr "(*)  %(label)s   %(component)s   %(amount)s "
 
 #: gui/common/tooltips.js:785
 msgid "Resource Supply:"
@@ -1121,11 +1121,11 @@ msgstr "(*) Награда:"
 #: gui/common/tooltips.js:817
 #, javascript-format
 msgid "%(resourceIcon)s %(reward)s"
-msgstr ""
+msgstr "(*)  %(resourceIcon)s   %(reward)s "
 
 #: gui/common/tooltips.js:835
 msgid "Resource Trickle:"
-msgstr ""
+msgstr "(*) Ресоурце Трицкле:"
 
 #: gui/common/tooltips.js:836 gui/common/tooltips.js:860
 #, javascript-format
@@ -1172,7 +1172,7 @@ msgstr "Захтева %(technology)s"
 #: gui/common/tooltips.js:977
 #, javascript-format
 msgid "%(label)s %(bonus)s"
-msgstr ""
+msgstr "(*)  %(label)s   %(bonus)s "
 
 #: gui/common/tooltips.js:978
 msgid "Population Bonus:"
@@ -1264,7 +1264,7 @@ msgstr "Плен:"
 #: gui/common/tooltips.js:1196
 #, javascript-format
 msgid "%(label)s %(icons)s"
-msgstr ""
+msgstr "(*)  %(label)s   %(icons)s "
 
 #: gui/common/tooltips.js:1197
 msgid "Dropsite for:"
@@ -1321,19 +1321,19 @@ msgstr "Уметност"
 
 #: gui/credits/texts/audio.jsonContent[0].Content[0].Subtitle
 msgid "Sound Manager"
-msgstr ""
+msgstr "(*) Соунд Манагер"
 
 #: gui/credits/texts/audio.jsonContent[0].Content[1].Subtitle
 msgid "Lead Composer"
-msgstr ""
+msgstr "(*) Главни композитор"
 
 #: gui/credits/texts/audio.jsonContent[0].Title
 msgid "Audio managers"
-msgstr ""
+msgstr "(*) Аудио менаџери"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[10].Subtitle
 msgid "Viola, violin"
-msgstr ""
+msgstr "(*) Виола, виолина"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[1].Subtitle
 msgid "Additional music, percussion, djembe, sampling"
@@ -1345,19 +1345,19 @@ msgstr "Додатна музика"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[3].Subtitle
 msgid "Flute"
-msgstr ""
+msgstr "(*) Флаута"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[4].Subtitle
 msgid "Djembe"
-msgstr ""
+msgstr "(*) Дјембе"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[5].Subtitle
 msgid "Frame drum, darbuka, riq, toms"
-msgstr ""
+msgstr "(*) Фраме бубањ, дарбука, рик, томс"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[6].Subtitle
 msgid "Didgeridoo"
-msgstr ""
+msgstr "(*) Дидгеридоо"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[7].Subtitle
 msgid "Trumpet"
@@ -1365,11 +1365,11 @@ msgstr "(*) Труба"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[8].Subtitle
 msgid "Celtic harp"
-msgstr ""
+msgstr "(*) Келтска харфа"
 
 #: gui/credits/texts/audio.jsonContent[1].Content[9].Subtitle
 msgid "Tin whistles"
-msgstr ""
+msgstr "(*) Лимени звиждуци"
 
 #: gui/credits/texts/audio.jsonContent[1].Title
 msgid "Music"
@@ -1386,7 +1386,7 @@ msgstr "(*) Грчки"
 
 #: gui/credits/texts/audio.jsonContent[3].Content[1].Subtitle
 msgid "Latin"
-msgstr ""
+msgstr "(*) Латин"
 
 #: gui/credits/texts/audio.jsonContent[3].Content[2].Subtitle
 msgid "Napatan"
@@ -1402,7 +1402,7 @@ msgstr "Гласови"
 
 #: gui/credits/texts/audio.jsonTitle
 msgid "Audio"
-msgstr ""
+msgstr "(*) Аудио"
 
 #: gui/credits/texts/balancing.jsonContent[0].Subtitle
 #: gui/credits/texts/history.jsonContent[0].Subtitle
@@ -1419,7 +1419,7 @@ msgstr "(*) Заједница и менаџмент"
 
 #: gui/credits/texts/donators.jsonContent[0].Title
 msgid "Pledgie Drive 1"
-msgstr ""
+msgstr "(*) Пледгие Дриве 1"
 
 #: gui/credits/texts/donators.jsonContent[1].Title
 msgid "Pledgie Drive 2"
@@ -1433,11 +1433,11 @@ msgstr ""
 
 #: gui/credits/texts/donators.jsonTitle
 msgid "Donors"
-msgstr ""
+msgstr "(*) Донатори"
 
 #: gui/credits/texts/history.jsonTitle
 msgid "History References"
-msgstr ""
+msgstr "(*) Хистори Референце"
 
 #: gui/credits/texts/maps.jsonContent[0].Title
 msgid "Map Making"
@@ -1449,15 +1449,15 @@ msgstr "(*) Скрипте случајних мапа"
 
 #: gui/credits/texts/maps.jsonTitle
 msgid "Maps"
-msgstr ""
+msgstr "(*) Мапе"
 
 #: gui/credits/texts/programming.jsonContent[0].Title
 msgid "Programming managers"
-msgstr ""
+msgstr "(*) Менаџери програмирања"
 
 #: gui/credits/texts/programming.jsonContent[1].Subtitle
 msgid "Special thanks to"
-msgstr ""
+msgstr "(*) Посебна захвалност за"
 
 #: gui/credits/texts/programming.jsonTitle
 msgid "Programming"
@@ -1469,7 +1469,7 @@ msgstr "(*) У сећању"
 
 #: gui/credits/texts/special.jsonContent[1].Content[0].Subtitle
 msgid "0 A.D. Founder"
-msgstr ""
+msgstr "(*) 0 А.Д. Оснивач"
 
 #: gui/credits/texts/special.jsonContent[1].Content[1].Subtitle
 msgid "Project Leaders"
@@ -1477,7 +1477,7 @@ msgstr "(*) Руководиоци пројекта"
 
 #: gui/credits/texts/special.jsonContent[1].Content[2].Subtitle
 msgid "Co-Lead Designers"
-msgstr ""
+msgstr "(*) Ко-водећи дизајнери"
 
 #: gui/credits/texts/special.jsonContent[1].Title
 msgid "Special thanks to:"
@@ -1493,7 +1493,7 @@ msgstr "(*) Ниједан историчар није оштећен током
 
 #: gui/credits/texts/special.jsonTitle
 msgid "Special Credits"
-msgstr ""
+msgstr "(*) Специал Цредитс"
 
 #: gui/credits/texts/translators.jsonTitle
 msgid "Translators"
@@ -1515,7 +1515,7 @@ msgstr "(*) Отхер Хоткеис"
 #: gui/hotkeys/HotkeyPicker.js:57
 #, javascript-format
 msgid "#%i"
-msgstr ""
+msgstr "(*) #%и"
 
 #: gui/hotkeys/HotkeyPicker.js:73
 msgid " (hold to register)"
@@ -1523,7 +1523,7 @@ msgstr "(*) (задржите за регистрацију)"
 
 #: gui/hotkeys/HotkeyPicker.js:74 gui/hotkeys/HotkeyPicker.js:105
 msgid "Enter new Hotkey, hold to register."
-msgstr ""
+msgstr "(*) Унесите нови интервентни тастер, држите за регистрацију."
 
 #: gui/hotkeys/HotkeyPicker.js:107
 msgctxt "Unassigned hotkey"
@@ -1532,7 +1532,7 @@ msgstr "(*) (некоришћено)"
 
 #: gui/hotkeys/HotkeyPicker.js:116
 msgid "May conflict with: "
-msgstr ""
+msgstr "(*) Може доћи у сукоб са:"
 
 #: gui/hotkeys/HotkeysPage.js:75
 msgid "All Hotkeys"
@@ -1540,7 +1540,7 @@ msgstr "(*) Сви интервентни тастери"
 
 #: gui/hotkeys/HotkeysPage.js:109
 msgid "All available hotkeys."
-msgstr ""
+msgstr "(*) Сви доступни интервентни тастери."
 
 #: gui/hotkeys/HotkeysPage.js:156
 msgid ""
@@ -1555,7 +1555,7 @@ msgstr "Потврда"
 
 #: gui/hotkeys/HotkeysPage.js:198
 msgid "No tooltip available."
-msgstr ""
+msgstr "(*) Објашњења нису доступна."
 
 #: gui/hotkeys/hotkeys.xml:(caption):18
 msgid "Category:"
@@ -1568,7 +1568,7 @@ msgstr "(*) Филтер:"
 #: gui/hotkeys/hotkeys.xml:(caption):48 gui/hotkeys/hotkeys.xml:(caption):101
 #: gui/options/options.xml:(caption):42
 msgid "Reset"
-msgstr ""
+msgstr "(*) Ресетовање"
 
 #: gui/hotkeys/hotkeys.xml:(caption):72
 msgid "Hotkey"
@@ -1604,7 +1604,7 @@ msgstr "Име"
 #: gui/hotkeys/hotkeys.xml:(heading):43
 msgctxt "hotkey list"
 msgid "Mapping"
-msgstr ""
+msgstr "(*) Мапирање"
 
 #: gui/hotkeys/hotkeys.xml:(tooltip):49 gui/hotkeys/hotkeys.xml:(tooltip):102
 #: gui/options/options.xml:(tooltip):43
@@ -1621,7 +1621,7 @@ msgstr "(*) Несачуване промене ће бити изгубљене
 
 #: gui/hotkeys/hotkeys.xml:(tooltip):90
 msgid "Click to set the hotkey"
-msgstr ""
+msgstr "(*) Кликните да бисте подесили интервентни тастер"
 
 #: gui/hotkeys/hotkeys.xml:(tooltip):94
 msgid "Click to delete the hotkey"
@@ -1633,7 +1633,7 @@ msgstr "(*) Промените интервентне тастере и затв
 
 #: gui/hotkeys/hotkeys.xml:(tooltip):112
 msgid "The hotkeys will not be modified"
-msgstr ""
+msgstr "(*) Интервентни тастери се неће мењати"
 
 #: gui/hotkeys/spec/camera.jsoncategories.camera.desc
 msgctxt "hotkey metadata"
@@ -1643,22 +1643,22 @@ msgstr "(*) Интервентни тастери повезани са каме
 #: gui/hotkeys/spec/camera.jsoncategories.camera.name
 msgctxt "hotkey metadata"
 msgid "Camera"
-msgstr ""
+msgstr "(*) Камера"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.down.desc
 msgctxt "hotkey metadata"
 msgid "Scroll backwards or rotate down."
-msgstr ""
+msgstr "(*) Померите се уназад или ротирајте надоле."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.down.name
 msgctxt "hotkey metadata"
 msgid "Scroll/Rotate down"
-msgstr ""
+msgstr "(*) Померајте/Ротирајте надоле"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.follow.desc
 msgctxt "hotkey metadata"
 msgid "Follow the first unit in the selection."
-msgstr ""
+msgstr "(*) Пратите прву јединицу у избору."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.follow.name
 msgctxt "hotkey metadata"
@@ -1668,27 +1668,27 @@ msgstr "(*) Пратите јединицу"
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.1.desc
 msgctxt "hotkey metadata"
 msgid "Jump to camera position 1 (see “Set camera jump 1”)."
-msgstr ""
+msgstr "(*) Скочите на положај камере 1 (погледајте „Подесите скок камере 1“)."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.1.name
 msgctxt "hotkey metadata"
 msgid "Jump to camera 1"
-msgstr ""
+msgstr "(*) Скочи на камеру 1"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.2.desc
 msgctxt "hotkey metadata"
 msgid "Jump to camera position 2 (see “Set camera jump 2”)."
-msgstr ""
+msgstr "(*) Скочите на положај камере 2 (погледајте „Подесите скок камере 2“)."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.2.name
 msgctxt "hotkey metadata"
 msgid "Jump to camera 2"
-msgstr ""
+msgstr "(*) Скочи на камеру 2"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.3.desc
 msgctxt "hotkey metadata"
 msgid "Jump to camera position 3 (see “Set camera jump 3”)."
-msgstr ""
+msgstr "(*) Скочите на положај камере 3 (погледајте „Подесите скок камере 3“)."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.3.name
 msgctxt "hotkey metadata"
@@ -1703,17 +1703,17 @@ msgstr "(*) Скочите на положај камере 4 (погледај�
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.4.name
 msgctxt "hotkey metadata"
 msgid "Jump to camera 4"
-msgstr ""
+msgstr "(*) Скочи на камеру 4"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.1.desc
 msgctxt "hotkey metadata"
 msgid "Set camera jump position 1."
-msgstr ""
+msgstr "(*) Подесите позицију скока камере 1."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.1.name
 msgctxt "hotkey metadata"
 msgid "Set camera jump 1"
-msgstr ""
+msgstr "(*) Подесите скок камере 1"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.2.desc
 msgctxt "hotkey metadata"
@@ -1723,7 +1723,7 @@ msgstr "(*) Подесите положај скока камере 2."
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.2.name
 msgctxt "hotkey metadata"
 msgid "Set camera jump 2"
-msgstr ""
+msgstr "(*) Подесите скок камере 2"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.3.desc
 msgctxt "hotkey metadata"
@@ -1733,17 +1733,17 @@ msgstr "(*) Подесите положај скока камере 3."
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.3.name
 msgctxt "hotkey metadata"
 msgid "Set camera jump 3"
-msgstr ""
+msgstr "(*) Подесите скок камере 3"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.4.desc
 msgctxt "hotkey metadata"
 msgid "Set camera jump position 4."
-msgstr ""
+msgstr "(*) Подесите положај скока камере 4."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.jump.set.4.name
 msgctxt "hotkey metadata"
 msgid "Set camera jump 4"
-msgstr ""
+msgstr "(*) Подесите скок камере 4"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.lastattackfocus.desc
 msgctxt "hotkey metadata"
@@ -1758,17 +1758,17 @@ msgstr "(*) Фокусирајте се на обавештење о после�
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.left.desc
 msgctxt "hotkey metadata"
 msgid "Scroll or rotate left."
-msgstr ""
+msgstr "(*) Померајте или ротирајте улево."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.left.name
 msgctxt "hotkey metadata"
 msgid "Scroll/Rotate left"
-msgstr ""
+msgstr "(*) Померајте/Ротирајте улево"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.pan.desc
 msgctxt "hotkey metadata"
 msgid "Enable scrolling by moving the mouse."
-msgstr ""
+msgstr "(*) Омогућите померање померањем миша."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.pan.name
 msgctxt "hotkey metadata"
@@ -1783,32 +1783,32 @@ msgstr "(*) Фокусирајте камеру на окупљалиште из
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rallypointfocus.name
 msgctxt "hotkey metadata"
 msgid "Focus on rallypoint"
-msgstr ""
+msgstr "(*) Фокус на месту окупљања"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.reset.desc
 msgctxt "hotkey metadata"
 msgid "Reset camera rotation to default."
-msgstr ""
+msgstr "(*) Вратите камеру на подразумевано подешавање."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.reset.name
 msgctxt "hotkey metadata"
 msgid "Reset Camera"
-msgstr ""
+msgstr "(*) Ресетујте камеру"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.right.desc
 msgctxt "hotkey metadata"
 msgid "Scroll or rotate right."
-msgstr ""
+msgstr "(*) Померите или ротирајте удесно."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.right.name
 msgctxt "hotkey metadata"
 msgid "Scroll/Rotate right"
-msgstr ""
+msgstr "(*) Померајте/Ротирајте удесно"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.ccw.desc
 msgctxt "hotkey metadata"
 msgid "Rotate camera counterclockwise around terrain."
-msgstr ""
+msgstr "(*) Ротирајте камеру у смеру супротном од казаљке на сату око терена."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.ccw.name
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.wheel.ccw.name
@@ -1819,13 +1819,13 @@ msgstr "(*) Ротирајте супротно од казаљке на сат�
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.cw.desc
 msgctxt "hotkey metadata"
 msgid "Rotate camera clockwise around terrain."
-msgstr ""
+msgstr "(*) Ротирајте камеру у смеру казаљке на сату око терена."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.cw.name
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.wheel.cw.name
 msgctxt "hotkey metadata"
 msgid "Rotate clockwise"
-msgstr ""
+msgstr "(*) Ротирају у смеру казаљке на сату"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.down.desc
 msgctxt "hotkey metadata"
@@ -1860,12 +1860,12 @@ msgstr "(*) Повећајте брзину ротације"
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.up.desc
 msgctxt "hotkey metadata"
 msgid "Rotate camera to look upwards."
-msgstr ""
+msgstr "(*) Окрените камеру да гледате нагоре."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.up.name
 msgctxt "hotkey metadata"
 msgid "Rotate up"
-msgstr ""
+msgstr "(*) Ротирајте нагоре"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.wheel.ccw.desc
 msgctxt "hotkey metadata"
@@ -1906,7 +1906,7 @@ msgstr "(*) Померајте се унапред или ротирајте н�
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.up.name
 msgctxt "hotkey metadata"
 msgid "Scroll/Rotate up"
-msgstr ""
+msgstr "(*) Померајте/Ротирајте нагоре"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.in.desc
 msgctxt "hotkey metadata"
@@ -1916,7 +1916,7 @@ msgstr "(*) Увећајте камеру."
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.in.name
 msgctxt "hotkey metadata"
 msgid "Zoom in"
-msgstr ""
+msgstr "(*) Увеличати"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.out.desc
 msgctxt "hotkey metadata"
@@ -1941,17 +1941,17 @@ msgstr "(*) Смањите брзину зумирања"
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.speed.increase.desc
 msgctxt "hotkey metadata"
 msgid "Increase camera zoom speed."
-msgstr ""
+msgstr "(*) Повећајте брзину зумирања камере."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.speed.increase.name
 msgctxt "hotkey metadata"
 msgid "Increase zoom speed"
-msgstr ""
+msgstr "(*) Повећајте брзину зумирања"
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.wheel.in.desc
 msgctxt "hotkey metadata"
 msgid "Zoom camera in - the effect depends on FPS."
-msgstr ""
+msgstr "(*) Увећајте камеру - ефекат зависи од ФПС -а."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.wheel.in.name
 msgctxt "hotkey metadata"
@@ -1961,12 +1961,12 @@ msgstr "(*) Увећај (корак по корак)"
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.wheel.out.desc
 msgctxt "hotkey metadata"
 msgid "Zoom camera out - the effect depends on FPS."
-msgstr ""
+msgstr "(*) Умањи камеру - ефекат зависи од ФПС -а."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.zoom.wheel.out.name
 msgctxt "hotkey metadata"
 msgid "Zoom out (step-by-step)"
-msgstr ""
+msgstr "(*) Умањивање (корак по корак)"
 
 #: gui/hotkeys/spec/engine.jsoncategories.general.desc
 msgctxt "hotkey metadata"
@@ -1986,7 +1986,7 @@ msgstr "(*) Направите велики снимак екрана БМП -а
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.bigscreenshot.name
 msgctxt "hotkey metadata"
 msgid "Big screenshot"
-msgstr ""
+msgstr "(*) Велики снимак екрана"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.cancel.desc
 msgctxt "hotkey metadata"
@@ -2011,12 +2011,12 @@ msgstr "Потврди"
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.console.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Open/close console."
-msgstr ""
+msgstr "(*) Отварање/затварање конзоле."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.console.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle Console"
-msgstr ""
+msgstr "(*) Укључите / искључите конзолу"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.copy.desc
 msgctxt "hotkey metadata"
@@ -2031,12 +2031,12 @@ msgstr "(*) Копирај у привремену меморију"
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.cut.desc
 msgctxt "hotkey metadata"
 msgid "Cut selected text and copy to the clipboard."
-msgstr ""
+msgstr "(*) Изрежите изабрани текст и копирајте га у међуспремник."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.cut.name
 msgctxt "hotkey metadata"
 msgid "Cut to clipboard"
-msgstr ""
+msgstr "(*) Исеци у међуспремник"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.exit.desc
 msgctxt "hotkey metadata"
@@ -2048,17 +2048,17 @@ msgstr ""
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.exit.name
 msgctxt "hotkey metadata"
 msgid "Custom exit to desktop"
-msgstr ""
+msgstr "(*) Прилагођени излаз на радну површину"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.paste.desc
 msgctxt "hotkey metadata"
 msgid "Paste from clipboard."
-msgstr ""
+msgstr "(*) Налепи из међуспремника."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.paste.name
 msgctxt "hotkey metadata"
 msgid "Paste from clipboard"
-msgstr ""
+msgstr "(*) Налепи из међуспремника"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.pause.desc
 msgctxt "hotkey metadata"
@@ -2068,7 +2068,7 @@ msgstr "(*) Паузирај/поништи игру."
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.pause.name
 msgctxt "hotkey metadata"
 msgid "Pause/Unpause"
-msgstr ""
+msgstr "(*) Паузирај/Поништи паузу"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.profile.save.desc
 msgctxt "hotkey metadata"
@@ -2083,17 +2083,17 @@ msgstr "(*) Сачувај профил"
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.profile.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Enable/disable real-time profiler."
-msgstr ""
+msgstr "(*) Омогућите/онемогућите профил у реалном времену."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.profile.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle profiler"
-msgstr ""
+msgstr "(*) Укључите / искључите профил"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.profile2.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Enable/disable HTTP/GPU modes for new profiler."
-msgstr ""
+msgstr "(*) Омогућите/онемогућите ХТТП/ГПУ режиме за нови профил."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.profile2.toggle.name
 msgctxt "hotkey metadata"
@@ -2118,7 +2118,7 @@ msgstr "(*) Укључите/искључите водени жиг произв
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.screenshot.watermark.name
 msgctxt "hotkey metadata"
 msgid "Toggle watermark"
-msgstr ""
+msgstr "(*) Укључите / искључите водени жиг"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.tab.next.desc
 msgctxt "hotkey metadata"
@@ -2143,7 +2143,7 @@ msgstr "(*) Претходна картица"
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.delete.left.desc
 msgctxt "hotkey metadata"
 msgid "Delete word to the left of cursor."
-msgstr ""
+msgstr "(*) Избришите реч лево од курсора."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.delete.left.name
 msgctxt "hotkey metadata"
@@ -2158,17 +2158,17 @@ msgstr "(*) Избришите реч десно од курсора."
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.delete.right.name
 msgctxt "hotkey metadata"
 msgid "Delete after cursor"
-msgstr ""
+msgstr "(*) Избриши после курсора"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.move.left.desc
 msgctxt "hotkey metadata"
 msgid "Move cursor to start of word to the left of cursor."
-msgstr ""
+msgstr "(*) Померите курсор на почетак речи лево од курсора."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.move.left.name
 msgctxt "hotkey metadata"
 msgid "Move cursor to left word"
-msgstr ""
+msgstr "(*) Померите курсор на леву реч"
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.text.move.right.desc
 msgctxt "hotkey metadata"
@@ -2183,7 +2183,7 @@ msgstr "(*) Померите курсор на десну реч"
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.togglefullscreen.desc
 msgctxt "hotkey metadata"
 msgid "Toggle fullscreen/windowed mode."
-msgstr ""
+msgstr "(*) Укључивање/искључивање приказа преко целог екрана/прозора."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.togglefullscreen.name
 msgctxt "hotkey metadata"
@@ -2233,7 +2233,7 @@ msgstr "(*) У игри"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.attack.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to attack instead of another action (e.g. capture)."
-msgstr ""
+msgstr "(*) Модификатор за напад уместо друге радње (нпр. Хватање)."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.attack.name
 msgctxt "hotkey metadata"
@@ -2258,22 +2258,22 @@ msgstr "(*) Модификатор напада за померање циља �
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.attackmoveUnit.name
 msgctxt "hotkey metadata"
 msgid "Attack Move (unit only)"
-msgstr ""
+msgstr "(*) Покрет за напад (само јединица)"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.autorallypoint.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to set the rally point on the building itself."
-msgstr ""
+msgstr "(*) Модификатор за постављање окупљалишта на самој згради."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.autorallypoint.name
 msgctxt "hotkey metadata"
 msgid "Auto-rally point"
-msgstr ""
+msgstr "(*) Ауто-окупљалиште"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.backtowork.desc
 msgctxt "hotkey metadata"
 msgid "The unit will go back to work."
-msgstr ""
+msgstr "(*) Јединица ће се вратити на посао."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.backtowork.name
 msgctxt "hotkey metadata"
@@ -2288,7 +2288,7 @@ msgstr "(*) Модификатор за обучавање јединица у �
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.batchtrain.name
 msgctxt "hotkey metadata"
 msgid "Batch production"
-msgstr ""
+msgstr "(*) Серија производња"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.deselectgroup.desc
 msgctxt "hotkey metadata"
@@ -2304,7 +2304,7 @@ msgstr "(*) Поништите избор типа јединице"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.flare.desc
 msgctxt "hotkey metadata"
 msgid "Set the cursor to Flare while this hotkey is pressed."
-msgstr ""
+msgstr "(*) Поставите курсор на Фларе док је притиснут овај интервентни тастер."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.flare.name
 msgctxt "hotkey metadata"
@@ -2314,7 +2314,7 @@ msgstr "(*) Ракета (задржи)"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.flareactivate.desc
 msgctxt "hotkey metadata"
 msgid "Set the cursor to Flare. The hotkey can be released."
-msgstr ""
+msgstr "(*) Поставите курсор на Фларе. Интервентни тастер се може отпустити."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.flareactivate.name
 msgctxt "hotkey metadata"
@@ -2324,12 +2324,12 @@ msgstr "(*) Ракета (пребацивање)"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.fulltradeswap.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to put the desired trade resource to 100%."
-msgstr ""
+msgstr "(*) Модификатор за постављање жељеног трговинског ресурса на 100%."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.fulltradeswap.name
 msgctxt "hotkey metadata"
 msgid "Set trade to 100%"
-msgstr ""
+msgstr "(*) Подесите трговину на 100%"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.garrison.desc
 msgctxt "hotkey metadata"
@@ -2344,7 +2344,7 @@ msgstr "(*) Гаррисон"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.guard.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to escort/guard when clicking on unit/building."
-msgstr ""
+msgstr "(*) Модификатор за пратњу/чување приликом клика на јединицу/зграду."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.guard.name
 msgctxt "hotkey metadata"
@@ -2354,12 +2354,12 @@ msgstr "Стража"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.kill.desc
 msgctxt "hotkey metadata"
 msgid "Destroy selected units."
-msgstr ""
+msgstr "(*) Уништите одабране јединице."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.kill.name
 msgctxt "hotkey metadata"
 msgid "Destroy selected units"
-msgstr ""
+msgstr "(*) Уништите одабране јединице"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.leaveturret.desc
 msgctxt "hotkey metadata"
@@ -2369,7 +2369,7 @@ msgstr "(*) Наредите ентитету да напусти торањ к�
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.leaveturret.name
 msgctxt "hotkey metadata"
 msgid "Leave Turret Point"
-msgstr ""
+msgstr "(*) Напустите Туррет Поинт"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.massbarter.desc
 msgctxt "hotkey metadata"
@@ -2384,27 +2384,27 @@ msgstr "(*) Масовна размена"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.masstribute.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to tribute bunch of resources."
-msgstr ""
+msgstr "(*) Модификатор за одавање почасти гомили ресурса."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.masstribute.name
 msgctxt "hotkey metadata"
 msgid "Mass tribute"
-msgstr ""
+msgstr "(*) Масс трибуте"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.move.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to move to a point instead of another action (e.g. gather)."
-msgstr ""
+msgstr "(*) Модификатор за прелазак на тачку уместо на другу радњу (нпр. Скупљање)."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.move.name
 msgctxt "hotkey metadata"
 msgid "Force move"
-msgstr ""
+msgstr "(*) Присилно померање"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.noconfirmation.desc
 msgctxt "hotkey metadata"
 msgid "Do not ask confirmation when deleting a building/unit."
-msgstr ""
+msgstr "(*) Не тражите потврду приликом брисања зграде/јединице."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.noconfirmation.name
 msgctxt "hotkey metadata"
@@ -2414,17 +2414,17 @@ msgstr "(*) Уништити без потврде"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.occupyturret.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to occupy a turret when clicking on a turret holder."
-msgstr ""
+msgstr "(*) Модификатор који заузима куполу када кликнете на држач куполе."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.occupyturret.name
 msgctxt "hotkey metadata"
 msgid "Occupy Turret Point"
-msgstr ""
+msgstr "(*) Заузмите куполу"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.orderone.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to order only one entity in selection."
-msgstr ""
+msgstr "(*) Модификатор за наручивање само једног ентитета у избору."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.orderone.name
 msgctxt "hotkey metadata"
@@ -2434,27 +2434,27 @@ msgstr "(*) Наручите једну јединицу"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.patrol.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to patrol a unit."
-msgstr ""
+msgstr "(*) Модификатор за патролирање јединице."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.patrol.name
 msgctxt "hotkey metadata"
 msgid "Patrol"
-msgstr ""
+msgstr "(*) Патрола"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.pushorderfront.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to execute this order, then go back to the current order."
-msgstr ""
+msgstr "(*) Модификатор за извршавање овог налога, а затим се вратите на тренутни налог."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.pushorderfront.name
 msgctxt "hotkey metadata"
 msgid "Push order in front"
-msgstr ""
+msgstr "(*) Потисните ред испред"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queue.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to queue unit orders instead of replacing."
-msgstr ""
+msgstr "(*) Модификатор за редослед јединица наруџбина уместо замене."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queue.name
 msgctxt "hotkey metadata"
@@ -2479,22 +2479,22 @@ msgstr "(*) Додајте други тип јединице у ред."
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.2.name
 msgctxt "hotkey metadata"
 msgid "Queue 2nd unit"
-msgstr ""
+msgstr "(*) Ред 2. јединица"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.3.desc
 msgctxt "hotkey metadata"
 msgid "Add third unit type to queue."
-msgstr ""
+msgstr "(*) Додајте трећи тип јединице у ред."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.3.name
 msgctxt "hotkey metadata"
 msgid "Queue 3rd unit"
-msgstr ""
+msgstr "(*) Ред 3. јединица"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.4.desc
 msgctxt "hotkey metadata"
 msgid "Add fourth unit type to queue."
-msgstr ""
+msgstr "(*) Додајте четврти тип јединице у ред."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.4.name
 msgctxt "hotkey metadata"
@@ -2504,12 +2504,12 @@ msgstr "(*) Ред 4. јединица"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.5.desc
 msgctxt "hotkey metadata"
 msgid "Add fivth unit type to queue."
-msgstr ""
+msgstr "(*) Додајте пети тип јединице у ред."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.5.name
 msgctxt "hotkey metadata"
 msgid "Queue 5th unit"
-msgstr ""
+msgstr "(*) Ред 5. јединица"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.6.desc
 msgctxt "hotkey metadata"
@@ -2524,7 +2524,7 @@ msgstr "(*) Ред 6 јединица"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.7.desc
 msgctxt "hotkey metadata"
 msgid "Add seventh unit type to queue."
-msgstr ""
+msgstr "(*) Додајте седми тип јединице у ред."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.7.name
 msgctxt "hotkey metadata"
@@ -2539,7 +2539,7 @@ msgstr "(*) Додајте осми тип јединице у ред."
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.8.name
 msgctxt "hotkey metadata"
 msgid "Queue 8th unit"
-msgstr ""
+msgstr "(*) Ред 8. јединица"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.queueunit.autoqueueoff.desc
 msgctxt "hotkey metadata"
@@ -2564,7 +2564,7 @@ msgstr "(*) Активирајте аутоматски ред чекања"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.repair.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to repair when clicking on building/mechanical unit."
-msgstr ""
+msgstr "(*) Модификатор за поправку при клику на зграду/механичку јединицу."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.repair.name
 msgctxt "hotkey metadata"
@@ -2574,7 +2574,7 @@ msgstr "Поправи"
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.rotate.ccw.desc
 msgctxt "hotkey metadata"
 msgid "Rotate building placement preview anticlockwise."
-msgstr ""
+msgstr "(*) Ротирајте преглед положаја зграде у смеру супротном од казаљке на сату."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.rotate.ccw.name
 msgctxt "hotkey metadata"
@@ -2584,7 +2584,7 @@ msgstr "(*) Ротирајте зграду супротно од казаљке
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.rotate.cw.desc
 msgctxt "hotkey metadata"
 msgid "Rotate building placement preview clockwise."
-msgstr ""
+msgstr "(*) Ротирајте преглед положаја зграде у смеру казаљке на сату."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.rotate.cw.name
 msgctxt "hotkey metadata"
@@ -2594,22 +2594,22 @@ msgstr "(*) Ротирајте зграду у смеру казаљке на с
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.snaptoedges.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to align new structures with nearby existing structure."
-msgstr ""
+msgstr "(*) Модификатор за усклађивање нових структура са оближњом постојећом структуром."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.snaptoedges.name
 msgctxt "hotkey metadata"
 msgid "Toggle snap-to-edge"
-msgstr ""
+msgstr "(*) Пребаците снап-то-едге"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.stop.desc
 msgctxt "hotkey metadata"
 msgid "Stop the current action."
-msgstr ""
+msgstr "(*) Зауставите тренутну радњу."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.stop.name
 msgctxt "hotkey metadata"
 msgid "Stop units"
-msgstr ""
+msgstr "(*) Зауставите јединице"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.toggledefaultformation.desc
 msgctxt "hotkey metadata"
@@ -2621,7 +2621,7 @@ msgstr ""
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.toggledefaultformation.name
 msgctxt "hotkey metadata"
 msgid "Toggle default formation"
-msgstr ""
+msgstr "(*) Укључите / искључите подразумевано формирање"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unload.desc
 msgctxt "hotkey metadata"
@@ -2631,32 +2631,32 @@ msgstr "(*) Истоварите гарнизоване јединице кад�
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unload.name
 msgctxt "hotkey metadata"
 msgid "Unload"
-msgstr ""
+msgstr "(*) Истоварити"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unloadturrets.desc
 msgctxt "hotkey metadata"
 msgid "Unload turreted units."
-msgstr ""
+msgstr "(*) Истоварите јединице с куполом."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unloadturrets.name
 msgctxt "hotkey metadata"
 msgid "Unload Turrets"
-msgstr ""
+msgstr "(*) Истовари куполе"
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unloadtype.desc
 msgctxt "hotkey metadata"
 msgid "Modifier to unload all units of type."
-msgstr ""
+msgstr "(*) Модификатор за истовар свих јединица типа."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.unloadtype.name
 msgctxt "hotkey metadata"
 msgid "Unload unit type"
-msgstr ""
+msgstr "(*) Тип јединице за истовар"
 
 #: gui/hotkeys/spec/ingamegui.jsoncategories.ingamegui.desc
 msgctxt "hotkey metadata"
 msgid "Hotkeys for the in-game user interface."
-msgstr ""
+msgstr "(*) Интервентни тастери за корисничко сучеље у игри."
 
 #: gui/hotkeys/spec/ingamegui.jsoncategories.ingamegui.name
 msgctxt "hotkey metadata"
@@ -2666,12 +2666,12 @@ msgstr "(*) ГУИ у игри"
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.ceasefirecounter.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Toggle ceasefire counter."
-msgstr ""
+msgstr "(*) Укључите / искључите бројач прекида ватре."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.ceasefirecounter.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle ceasefire counter"
-msgstr ""
+msgstr "(*) Укључите / искључите бројач прекида ватре"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.chat.desc
 msgctxt "hotkey metadata"
@@ -2681,27 +2681,27 @@ msgstr "(*) Укључите / искључите прозор за ћаскањ
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.chat.name
 msgctxt "hotkey metadata"
 msgid "Toggle chat"
-msgstr ""
+msgstr "(*) Укључите / искључите ћаскање"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.civinfo.desc
 msgctxt "hotkey metadata"
 msgid "Show civilization info."
-msgstr ""
+msgstr "(*) Покажите информације о цивилизацији."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.civinfo.name
 msgctxt "hotkey metadata"
 msgid "Toggle civ info"
-msgstr ""
+msgstr "(*) Укључите / искључите информације о грађанима"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.fps.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Toggle “frames per second” counter."
-msgstr ""
+msgstr "(*) Укључите / искључите бројач кадрова у секунди."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.fps.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle FPS counter"
-msgstr ""
+msgstr "(*) Укључите / искључите бројач ФПС"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.lobby.desc
 msgctxt "hotkey metadata"
@@ -2716,7 +2716,7 @@ msgstr "(*) Укључите / искључите предворје МП"
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.privatechat.desc
 msgctxt "hotkey metadata"
 msgid "Toggle chat window and select the previous private chat partner."
-msgstr ""
+msgstr "(*) Пребаците прозор за ћаскање и изаберите претходног приватног партнера за ћаскање."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.privatechat.name
 msgctxt "hotkey metadata"
@@ -2743,7 +2743,7 @@ msgstr ""
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.quicksave.name
 msgctxt "hotkey metadata"
 msgid "Quicksave"
-msgstr ""
+msgstr "(*) Куицксаве"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.realtime.toggle.desc
 msgctxt "hotkey metadata"
@@ -2753,7 +2753,7 @@ msgstr "(*) Укључите / искључите тренутни приказ 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.realtime.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle real-time overlay"
-msgstr ""
+msgstr "(*) Укључите / искључите преклапање у реалном времену"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.devcommands.toggle.desc
 msgctxt "hotkey metadata"
@@ -2768,7 +2768,7 @@ msgstr "(*) Укључи / искључи преклапање за програ
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.diplomacycolors.desc
 msgctxt "hotkey metadata"
 msgid "Toggle diplomacy colors."
-msgstr ""
+msgstr "(*) Укључите / искључите боје дипломатије."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.diplomacycolors.name
 msgctxt "hotkey metadata"
@@ -2783,7 +2783,7 @@ msgstr "(*) Укључите/искључите страницу за разме
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.barter.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle barter"
-msgstr ""
+msgstr "(*) Укључите трампу"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.diplomacy.toggle.desc
 msgctxt "hotkey metadata"
@@ -2793,7 +2793,7 @@ msgstr "(*) Укључите / искључите страницу диплом�
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.diplomacy.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle diplomacy"
-msgstr ""
+msgstr "(*) Укључите дипломатију"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.menu.toggle.desc
 msgctxt "hotkey metadata"
@@ -2803,7 +2803,7 @@ msgstr "(*) Укључите / искључите мени у игри."
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.menu.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle in-game menu"
-msgstr ""
+msgstr "(*) Укључите / искључите мени у игри"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.objectives.toggle.desc
 msgctxt "hotkey metadata"
@@ -2813,7 +2813,7 @@ msgstr "(*) Укључите / искључите страницу са циље
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.objectives.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle objectives"
-msgstr ""
+msgstr "(*) Промените циљеве"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.toggle.desc
 msgctxt "hotkey metadata"
@@ -2823,7 +2823,7 @@ msgstr "(*) Укључите / искључите видљивост корис�
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle GUI visibility"
-msgstr ""
+msgstr "(*) Укључивање / искључивање видљивости графичког интерфејса"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.tutorial.toggle.desc
 msgctxt "hotkey metadata"
@@ -2833,12 +2833,12 @@ msgstr "(*) Укључите / искључите панел са упутств
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.gui.tutorial.toggle.name
 msgctxt "hotkey metadata"
 msgid "Toggle tutorial"
-msgstr ""
+msgstr "(*) Укључите / искључите водич"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.highlightguarded.desc
 msgctxt "hotkey metadata"
 msgid "Toggle highlight of guarded units."
-msgstr ""
+msgstr "(*) Укључите / искључите означавање заштићених јединица."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.highlightguarded.name
 msgctxt "hotkey metadata"
@@ -2848,27 +2848,27 @@ msgstr "(*) Укључивање / искључивање заштићеног �
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.highlightguarding.desc
 msgctxt "hotkey metadata"
 msgid "Toggle highlight of guarding units."
-msgstr ""
+msgstr "(*) Укључивање / искључивање заштитних јединица."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.highlightguarding.name
 msgctxt "hotkey metadata"
 msgid "Toggle guarding highlight"
-msgstr ""
+msgstr "(*) Укључите / искључите заштитни истицање"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.savedgames.delete.desc
 msgctxt "hotkey metadata"
 msgid "Delete the saved game (in the save/load windows)."
-msgstr ""
+msgstr "(*) Избришите сачувану игру (у прозорима за чување/учитавање)."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.savedgames.delete.name
 msgctxt "hotkey metadata"
 msgid "Delete saved game"
-msgstr ""
+msgstr "(*) Избришите сачувану игру"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.savedgames.noconfirmation.desc
 msgctxt "hotkey metadata"
 msgid "Don't ask for confirmation when deleting a saved game."
-msgstr ""
+msgstr "(*) Не тражите потврду приликом брисања сачуване игре."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.savedgames.noconfirmation.name
 msgctxt "hotkey metadata"
@@ -2878,7 +2878,7 @@ msgstr "(*) Избриши без потврде"
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.showstatusbars.desc
 msgctxt "hotkey metadata"
 msgid "Toggle display of status bars."
-msgstr ""
+msgstr "(*) Укључите / искључите приказ статусних трака."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.showstatusbars.name
 msgctxt "hotkey metadata"
@@ -2898,12 +2898,12 @@ msgstr "(*) Премотавање унапред (временски перио
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.timewarp.rewind.desc
 msgctxt "hotkey metadata"
 msgid "Rewind time. Must have activated timewarp."
-msgstr ""
+msgstr "(*) Време премотавања уназад. Мора да је активиран тимеварп."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.timewarp.rewind.name
 msgctxt "hotkey metadata"
 msgid "Rewind (timewarp)"
-msgstr ""
+msgstr "(*) Премотавање уназад (временски период)"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.toggleattackrange.desc
 msgctxt "hotkey metadata"
@@ -2930,7 +2930,7 @@ msgstr "(*) Укључите / искључите опсеге ауре"
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.togglehealrange.desc
 msgctxt "hotkey metadata"
 msgid "Toggle display of heal range overlays of selected units."
-msgstr ""
+msgstr "(*) Укључите / искључите приказ прекривача распона лечења изабраних јединица."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.togglehealrange.name
 msgctxt "hotkey metadata"
@@ -2950,7 +2950,7 @@ msgstr "(*) Укључите / искључите силуете јединиц�
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.structree.desc
 msgctxt "hotkey metadata"
 msgid "Show structure tree."
-msgstr ""
+msgstr "(*) Прикажи дрво структуре."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.structree.name
 msgctxt "hotkey metadata"
@@ -2960,12 +2960,12 @@ msgstr "(*) Укључивање / искључивање стабла стру�
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.summary.desc
 msgctxt "hotkey metadata"
 msgid "Toggle in-game summary."
-msgstr ""
+msgstr "(*) Укључите / искључите резиме у игри."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.summary.name
 msgctxt "hotkey metadata"
 msgid "Toggle summary"
-msgstr ""
+msgstr "(*) Укључи / искључи резиме"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.teamchat.desc
 msgctxt "hotkey metadata"
@@ -2975,12 +2975,12 @@ msgstr "(*) Укључите / искључите прозор за ћаскањ
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.teamchat.name
 msgctxt "hotkey metadata"
 msgid "Toggle team chat"
-msgstr ""
+msgstr "(*) Укључите / искључите тимско ћаскање"
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.timeelapsedcounter.toggle.desc
 msgctxt "hotkey metadata"
 msgid "Shows the game time elapsed since the game started."
-msgstr ""
+msgstr "(*) Приказује време игре протекло од почетка игре."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.timeelapsedcounter.toggle.name
 msgctxt "hotkey metadata"
@@ -2995,17 +2995,17 @@ msgstr "(*) Интервентни тастери у вези са измено�
 #: gui/hotkeys/spec/selection.jsoncategories.selection.name
 msgctxt "hotkey metadata"
 msgid "Selecting Units"
-msgstr ""
+msgstr "(*) Избор јединица"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.add.desc
 msgctxt "hotkey metadata"
 msgid "Add units to selection."
-msgstr ""
+msgstr "(*) Додајте јединице избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.add.name
 msgctxt "hotkey metadata"
 msgid "Add to selection"
-msgstr ""
+msgstr "(*) Додај у избор"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.cancel.desc
 msgctxt "hotkey metadata"
@@ -3020,12 +3020,12 @@ msgstr "(*) Откажи избор"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.0.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 0 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 0 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.0.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 0"
-msgstr ""
+msgstr "(*) Додајте контролну групу 0"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.1.desc
 msgctxt "hotkey metadata"
@@ -3045,32 +3045,32 @@ msgstr "(*) Додајте контролну групу 2 тренутном и
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.2.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 2"
-msgstr ""
+msgstr "(*) Додајте контролну групу 2"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.3.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 3 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 3 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.3.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 3"
-msgstr ""
+msgstr "(*) Додајте контролну групу 3"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.4.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 4 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 4 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.4.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 4"
-msgstr ""
+msgstr "(*) Додајте контролну групу 4"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.5.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 5 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 5 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.5.name
 msgctxt "hotkey metadata"
@@ -3080,17 +3080,17 @@ msgstr "(*) Асабра БактриА¡"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.6.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 6 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 6 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.6.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 6"
-msgstr ""
+msgstr "(*) Додајте контролну групу 6"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.7.desc
 msgctxt "hotkey metadata"
 msgid "Add Control Group 7 to the current selection."
-msgstr ""
+msgstr "(*) Додајте контролну групу 7 тренутном избору."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.7.name
 msgctxt "hotkey metadata"
@@ -3105,7 +3105,7 @@ msgstr "(*) Додајте контролну групу 8 тренутном и
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.8.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 8"
-msgstr ""
+msgstr "(*) Додајте контролну групу 8"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.9.desc
 msgctxt "hotkey metadata"
@@ -3115,22 +3115,22 @@ msgstr "(*) Додајте контролну групу 9 тренутном и
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.add.9.name
 msgctxt "hotkey metadata"
 msgid "Add Control Group 9"
-msgstr ""
+msgstr "(*) Додајте контролну групу 9"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.0.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 0."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 0."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.0.name
 msgctxt "hotkey metadata"
 msgid "Set Control Group 0"
-msgstr ""
+msgstr "(*) Подесите контролну групу 0"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.1.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 1."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 1."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.1.name
 msgctxt "hotkey metadata"
@@ -3140,7 +3140,7 @@ msgstr "(*) Поставите контролну групу 1"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.2.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 2."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 2."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.2.name
 msgctxt "hotkey metadata"
@@ -3150,17 +3150,17 @@ msgstr "(*) Поставите контролну групу 2"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.3.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 3."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 3."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.3.name
 msgctxt "hotkey metadata"
 msgid "Set Control Group 3"
-msgstr ""
+msgstr "(*) Поставите контролну групу 3"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.4.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 4."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 4."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.4.name
 msgctxt "hotkey metadata"
@@ -3170,7 +3170,7 @@ msgstr "(*) Подесите контролну групу 4"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.5.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 5."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 5."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.5.name
 msgctxt "hotkey metadata"
@@ -3180,12 +3180,12 @@ msgstr "(*) Поставите контролну групу 5"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.6.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 6."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 6."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.6.name
 msgctxt "hotkey metadata"
 msgid "Set Control Group 6"
-msgstr ""
+msgstr "(*) Поставите контролну групу 6"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.7.desc
 msgctxt "hotkey metadata"
@@ -3195,17 +3195,17 @@ msgstr "(*) Сачувајте тренутни избор као контрол
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.7.name
 msgctxt "hotkey metadata"
 msgid "Set Control Group 7"
-msgstr ""
+msgstr "(*) Поставите контролну групу 7"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.8.desc
 msgctxt "hotkey metadata"
 msgid "Save current selection as Control Group 8."
-msgstr ""
+msgstr "(*) Сачувајте тренутни избор као контролну групу 8."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.8.name
 msgctxt "hotkey metadata"
 msgid "Set Control Group 8"
-msgstr ""
+msgstr "(*) Поставите контролну групу 8"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.save.9.desc
 msgctxt "hotkey metadata"
@@ -3220,12 +3220,12 @@ msgstr "(*) Поставите контролну групу 9"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.0.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 0."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 0."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.0.name
 msgctxt "hotkey metadata"
 msgid "Select Control Group 0"
-msgstr ""
+msgstr "(*) Изаберите Контролна група 0"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.1.desc
 msgctxt "hotkey metadata"
@@ -3240,7 +3240,7 @@ msgstr "(*) Изаберите контролну групу 1"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.2.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 2."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 2."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.2.name
 msgctxt "hotkey metadata"
@@ -3250,12 +3250,12 @@ msgstr "(*) Изаберите контролну групу 2"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.3.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 3."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 3."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.3.name
 msgctxt "hotkey metadata"
 msgid "Select Control Group 3"
-msgstr ""
+msgstr "(*) Изаберите контролну групу 3"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.4.desc
 msgctxt "hotkey metadata"
@@ -3280,7 +3280,7 @@ msgstr "(*) Изаберите контролну групу 5"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.6.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 6."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 6."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.6.name
 msgctxt "hotkey metadata"
@@ -3290,22 +3290,22 @@ msgstr "(*) Изаберите контролну групу 6"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.7.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 7."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 7."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.7.name
 msgctxt "hotkey metadata"
 msgid "Select Control Group 7"
-msgstr ""
+msgstr "(*) Изаберите Контролна група 7"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.8.desc
 msgctxt "hotkey metadata"
 msgid "Change the current selection to control group 8."
-msgstr ""
+msgstr "(*) Промените тренутни избор у контролну групу 8."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.8.name
 msgctxt "hotkey metadata"
 msgid "Select Control Group 8"
-msgstr ""
+msgstr "(*) Изаберите Контролна група 8"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.group.select.9.desc
 msgctxt "hotkey metadata"
@@ -3325,17 +3325,17 @@ msgstr "(*) Изаберите следећег неактивног гради�
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idlebuilder.name
 msgctxt "hotkey metadata"
 msgid "Select next idle builder"
-msgstr ""
+msgstr "(*) Изаберите следећег неактивног градитеља"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idleonly.desc
 msgctxt "hotkey metadata"
 msgid "Select only idle units."
-msgstr ""
+msgstr "(*) Изаберите само јединице у стању мировања."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idleonly.name
 msgctxt "hotkey metadata"
 msgid "Select only idle units"
-msgstr ""
+msgstr "(*) Изаберите само јединице у стању мировања"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idleunit.desc
 msgctxt "hotkey metadata"
@@ -3350,7 +3350,7 @@ msgstr "(*) Изаберите следећу јединицу у стању м�
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idlewarrior.desc
 msgctxt "hotkey metadata"
 msgid "Select next idle warrior."
-msgstr ""
+msgstr "(*) Изаберите следећег ратника у празном ходу."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.idlewarrior.name
 msgctxt "hotkey metadata"
@@ -3370,17 +3370,17 @@ msgstr "(*) Изаберите следећег радника у празном
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.militaryonly.desc
 msgctxt "hotkey metadata"
 msgid "Add only military units to the selection."
-msgstr ""
+msgstr "(*) У избор додајте само војне јединице."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.militaryonly.name
 msgctxt "hotkey metadata"
 msgid "Select military only"
-msgstr ""
+msgstr "(*) Изаберите само војску"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.nonmilitaryonly.desc
 msgctxt "hotkey metadata"
 msgid "Add only non-military units to the selection."
-msgstr ""
+msgstr "(*) У избор додајте само невојне јединице."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.nonmilitaryonly.name
 msgctxt "hotkey metadata"
@@ -3390,7 +3390,7 @@ msgstr "(*) Изаберите само невојне"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.offscreen.desc
 msgctxt "hotkey metadata"
 msgid "Include offscreen units in selection."
-msgstr ""
+msgstr "(*) Укључите јединице изван екрана у избор."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.offscreen.name
 msgctxt "hotkey metadata"
@@ -3400,17 +3400,17 @@ msgstr "(*) Укључите ван екрана"
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.remove.desc
 msgctxt "hotkey metadata"
 msgid "Remove units from selection."
-msgstr ""
+msgstr "(*) Уклоните јединице из избора."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.remove.name
 msgctxt "hotkey metadata"
 msgid "Remove units from selection"
-msgstr ""
+msgstr "(*) Уклоните јединице из избора"
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.woundedonly.desc
 msgctxt "hotkey metadata"
 msgid "Select only wounded units."
-msgstr ""
+msgstr "(*) Одаберите само рањене јединице."
 
 #: gui/hotkeys/spec/selection.jsonmapped_hotkeys.selection.selection.woundedonly.name
 msgctxt "hotkey metadata"
@@ -3425,7 +3425,7 @@ msgstr "(*) Избришите изабрану игру за чување по�
 #: gui/loadgame/SavegameDeleter.js:39 gui/replaymenu/replay_menu.js:205
 #, javascript-format
 msgid "Hold %(hotkey)s to skip the confirmation dialog while deleting."
-msgstr ""
+msgstr "(*) Држати %(hotkey)s да бисте прескочили дијалог за потврду током брисања."
 
 #: gui/loadgame/SavegameDeleter.js:52 gui/loadgame/SavegameWriter.js:45
 #, javascript-format
@@ -3472,7 +3472,7 @@ msgstr ""
 
 #: gui/loadgame/SavegameLoader.js:44
 msgid "This savegame needs an older version of 0 A.D."
-msgstr ""
+msgstr "(*) Овој игри за чување потребна је старија верзија 0 А.Д."
 
 #: gui/loadgame/SavegameLoader.js:51
 msgid "This savegame needs a different sequence of mods:"
@@ -3510,7 +3510,7 @@ msgstr "(*) ПРЕПИШИТЕ САВЕ"
 
 #: gui/loadgame/load.xml:(caption):44
 msgid "No saved games found."
-msgstr ""
+msgstr "(*) Није пронађена ниједна сачувана игра."
 
 #: gui/loadgame/load.xml:(caption):54
 #: gui/replaymenu/replay_menu.xml:(caption):233
@@ -3519,7 +3519,7 @@ msgstr "Обриши"
 
 #: gui/loadgame/load.xml:(caption):64
 msgid "Filter compatible saved games"
-msgstr ""
+msgstr "(*) Филтрирајте сачуване игре"
 
 #: gui/loadgame/load.xml:(caption):74
 msgid "Players:"
@@ -3527,7 +3527,7 @@ msgstr "Играча:"
 
 #: gui/loadgame/load.xml:(caption):78
 msgid "Played time:"
-msgstr ""
+msgstr "(*) Играно време:"
 
 #: gui/loadgame/load.xml:(caption):82
 #: gui/maps/mapbrowser/controls/MapBrowserControls.xml:(caption):32
@@ -3593,7 +3593,7 @@ msgstr "Ништа"
 
 #: gui/locale_advanced/locale_advanced.js:91
 msgid "invalid locale"
-msgstr ""
+msgstr "(*) неважећа локализација"
 
 #: gui/locale_advanced/locale_advanced.xml:(caption):25
 msgid "Country:"
@@ -3617,11 +3617,11 @@ msgstr "(*) Резултујући локалитет:"
 
 #: gui/locale_advanced/locale_advanced.xml:(caption):60
 msgid "Dictionary files used:"
-msgstr ""
+msgstr "(*) Речничке датотеке које се користе:"
 
 #: gui/locale_advanced/locale_advanced.xml:(caption):70
 msgid "Auto detect"
-msgstr ""
+msgstr "(*) Аутоматско откривање"
 
 #: gui/locale_advanced/locale_advanced.xml:(tooltip):37
 msgid ""
@@ -3632,7 +3632,7 @@ msgstr ""
 #: gui/locale_advanced/locale_advanced.xml:(tooltip):44
 #: gui/locale_advanced/locale_advanced.xml:(tooltip):51
 msgid "Not implemented yet."
-msgstr ""
+msgstr "(*) Још није примењено."
 
 #: gui/maps/MapCache.js:59 gui/maps/mapbrowser/grid/MapGridBrowser.js:59
 msgctxt "map selection"
@@ -3677,15 +3677,15 @@ msgstr "Мапе које су потпуно нове у овом издању 
 
 #: gui/maps/MapFilters.js:115
 msgid "Best for MP"
-msgstr ""
+msgstr "(*) Најбоље за посланика"
 
 #: gui/maps/MapFilters.js:116
 msgid "Maps that are recommended for Multiplayer play."
-msgstr ""
+msgstr "(*) Мапе које се препоручују за игру за више играча."
 
 #: gui/maps/MapFilters.js:121
 msgid "Trigger Maps"
-msgstr ""
+msgstr "(*) Мапе окидача"
 
 #: gui/maps/MapFilters.js:122
 msgid "Maps that come with scripted events and potentially spawn enemy units."
@@ -3701,12 +3701,12 @@ msgstr "Све мапе од изабраних типова мапа:"
 
 #: gui/maps/mapbrowser/MapBrowser.xml:(caption):14
 msgid "Map Browser"
-msgstr ""
+msgstr "(*) Претраживач карата"
 
 #: gui/maps/mapbrowser/controls/MapBrowserControls.js:31
 #, javascript-format
 msgid "%(hotkey)s: Close map browser and discard the selection."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Затворите претраживач мапа и одбаците избор."
 
 #: gui/credits/credits.xml:(caption):32 gui/hotkeys/hotkeys.xml:(caption):58
 #: gui/maps/mapbrowser/controls/MapBrowserControls.js:34
@@ -3728,7 +3728,7 @@ msgstr "+"
 #: gui/maps/mapbrowser/controls/MapBrowserControls.xml:(caption):18
 msgctxt "zoom out"
 msgid "−"
-msgstr ""
+msgstr "(*) аˆ ’"
 
 #: gui/maps/mapbrowser/controls/MapBrowserControls.xml:(caption):26
 msgid "Search Map:"
@@ -3749,7 +3749,7 @@ msgstr "(*) Изаберите"
 
 #: gui/maps/mapbrowser/controls/Pagination.js:27
 msgid "Go to the previous page."
-msgstr ""
+msgstr "(*) Идите на претходну страницу."
 
 #: gui/maps/mapbrowser/controls/Pagination.js:28
 msgid "Go to the next page."
@@ -3757,7 +3757,7 @@ msgstr "(*) Идите на следећу страницу."
 
 #: gui/maps/mapbrowser/controls/Pagination.js:32
 msgid "Increase map preview size."
-msgstr ""
+msgstr "(*) Повећајте величину прегледа карте."
 
 #: gui/maps/mapbrowser/controls/Pagination.js:33
 msgid "Decrease map preview size."
@@ -3766,16 +3766,16 @@ msgstr "(*) Смањи величину прегледа карте."
 #: gui/maps/mapbrowser/controls/Pagination.js:39
 #, javascript-format
 msgid "Maps: %(mapCount)s"
-msgstr ""
+msgstr "(*) Мапе: %(mapCount)s "
 
 #: gui/maps/mapbrowser/controls/Pagination.js:43
 #, javascript-format
 msgid "Page: %(currentPage)s/%(maxPage)s"
-msgstr ""
+msgstr "(*) Страна: %(currentPage)s / %(maxPage)s "
 
 #: gui/maps/mapbrowser/grid/MapGridBrowser.js:60
 msgid "Pick a map at random."
-msgstr ""
+msgstr "(*) Насумично изаберите мапу."
 
 #: gui/options/options.js:95
 #, javascript-format
@@ -3814,7 +3814,7 @@ msgstr ""
 
 #: gui/options/options.js:351
 msgid "Some setting values are invalid! Are you sure you want to save them?"
-msgstr ""
+msgstr "(*) Неке вредности подешавања су неважеће! Јесте ли сигурни да желите да их сачувате?"
 
 #: gui/options/options.js:377
 msgid "You have unsaved changes, do you want to close this window?"
@@ -3826,19 +3826,19 @@ msgstr "Опште"
 
 #: gui/options/options.json[0].options[0].label
 msgid "Player name (single-player)"
-msgstr ""
+msgstr "(*) Име играча (за једног играча)"
 
 #: gui/options/options.json[0].options[0].tooltip
 msgid "How you want to be addressed in single-player matches."
-msgstr ""
+msgstr "(*) Како желите да вас ословљавају у утакмицама за једног играча."
 
 #: gui/options/options.json[0].options[1].label
 msgid "Player name (multiplayer)"
-msgstr ""
+msgstr "(*) Назив играча (за више играча)"
 
 #: gui/options/options.json[0].options[1].tooltip
 msgid "How you want to be addressed in multiplayer matches (except lobby)."
-msgstr ""
+msgstr "(*) Како желите да вас ословљавају у утакмицама за више играча (осим у предворју)."
 
 #: gui/options/options.json[0].options[2].label
 msgid "Background pause"
@@ -3846,7 +3846,7 @@ msgstr "(*) Пауза у позадини"
 
 #: gui/options/options.json[0].options[2].tooltip
 msgid "Pause single-player games when window loses focus."
-msgstr ""
+msgstr "(*) Паузирајте игре за једног играча када прозор изгуби фокус."
 
 #: gui/options/options.json[0].options[3].label
 msgid "Enable welcome screen"
@@ -3860,15 +3860,15 @@ msgstr ""
 
 #: gui/options/options.json[0].options[4].label
 msgid "FPS overlay"
-msgstr ""
+msgstr "(*) ФПС преклапање"
 
 #: gui/options/options.json[0].options[4].tooltip
 msgid "Show frames per second in top right corner."
-msgstr ""
+msgstr "(*) Прикажите оквире у секунди у горњем десном углу."
 
 #: gui/options/options.json[0].options[5].label
 msgid "Real time overlay"
-msgstr ""
+msgstr "(*) Преклапање у реалном времену"
 
 #: gui/options/options.json[0].options[5].tooltip
 msgid "Show current system time in top right corner."
@@ -3884,7 +3884,7 @@ msgstr "(*) Прикажите тренутно време симулације 
 
 #: gui/options/options.json[0].options[7].label
 msgid "Ceasefire time overlay"
-msgstr ""
+msgstr "(*) Преклапање времена прекида ватре"
 
 #: gui/options/options.json[0].options[7].tooltip
 msgid "Always show the remaining ceasefire time."
@@ -3896,7 +3896,7 @@ msgstr "(*) Временска ознака ћаскања"
 
 #: gui/options/options.json[0].options[8].tooltip
 msgid "Display the time at which a chat message was posted."
-msgstr ""
+msgstr "(*) Прикажите време у које је порука за ћаскање објављена."
 
 #: gui/options/options.json[0].options[9].label
 msgid "Naming of entities."
@@ -3916,15 +3916,15 @@ msgstr "(*) Прво генеричка имена"
 
 #: gui/options/options.json[0].options[9].list[1].tooltip
 msgid "Display generic names before specific names."
-msgstr ""
+msgstr "(*) Прикажите генеричка имена испред одређених имена."
 
 #: gui/options/options.json[0].options[9].list[2].label
 msgid "Only specific names"
-msgstr ""
+msgstr "(*) Само одређена имена"
 
 #: gui/options/options.json[0].options[9].list[2].tooltip
 msgid "Display only specific names for entities."
-msgstr ""
+msgstr "(*) Прикажите само одређена имена ентитета."
 
 #: gui/options/options.json[0].options[9].list[3].label
 msgid "Only generic names"
@@ -3936,11 +3936,11 @@ msgstr "(*) Прикажите само генеричка имена за ен�
 
 #: gui/options/options.json[0].options[9].tooltip
 msgid "How to show entity names."
-msgstr ""
+msgstr "(*) Како приказати називе ентитета."
 
 #: gui/options/options.json[1].label
 msgid "Graphics (general)"
-msgstr ""
+msgstr "(*) Графика (опште)"
 
 #: gui/options/options.json[1].options[0].label
 msgid "Windowed mode"
@@ -3963,12 +3963,12 @@ msgstr "(*) Омогући маглу."
 #: gui/options/options.json[1].options[2].label
 #: gui/options/options.json[2].options[2].label
 msgid "Post-processing"
-msgstr ""
+msgstr "(*) Пост обрада"
 
 #: gui/options/options.json[1].options[2].tooltip
 #: gui/options/options.json[2].options[2].tooltip
 msgid "Use screen-space post-processing filters (HDR, Bloom, DOF, etc)."
-msgstr ""
+msgstr "(*) Користите филтере за накнадну обраду простора на екрану (ХДР, Блоом, ДОФ итд.)."
 
 #: gui/options/options.json[1].options[3].label
 #: gui/options/options.json[2].options[9].label
@@ -3978,15 +3978,15 @@ msgstr "Сенке"
 #: gui/options/options.json[1].options[3].tooltip
 #: gui/options/options.json[2].options[9].tooltip
 msgid "Enable shadows."
-msgstr ""
+msgstr "(*) Омогући сенке."
 
 #: gui/options/options.json[1].options[4].label
 msgid "Unit silhouettes"
-msgstr ""
+msgstr "(*) Силуете јединица"
 
 #: gui/options/options.json[1].options[4].tooltip
 msgid "Show outlines of units behind structures."
-msgstr ""
+msgstr "(*) Прикажите обрисе јединица иза структура."
 
 #: gui/options/options.json[1].options[5].label
 msgid "Particles"
@@ -3994,7 +3994,7 @@ msgstr "Честице"
 
 #: gui/options/options.json[1].options[5].tooltip
 msgid "Enable particles."
-msgstr ""
+msgstr "(*) Омогући честице."
 
 #: gui/options/options.json[1].options[6].label
 msgid "VSync"
@@ -4002,11 +4002,11 @@ msgstr "VSync"
 
 #: gui/options/options.json[1].options[6].tooltip
 msgid "Run vertical sync to fix screen tearing. REQUIRES GAME RESTART"
-msgstr ""
+msgstr "(*) Покрените вертикалну синхронизацију да бисте поправили кидање екрана. ЗАХТЕВА ПОНОВНО ПОКРЕТАЊЕ ИГРЕ"
 
 #: gui/options/options.json[1].options[7].label
 msgid "FPS throttling in menus"
-msgstr ""
+msgstr "(*) Ограничавање ФПС -а у менијима"
 
 #: gui/options/options.json[1].options[7].tooltip
 msgid ""
@@ -4030,7 +4030,7 @@ msgstr "(*) Поставите равнотежу између перформа�
 
 #: gui/options/options.json[2].label
 msgid "Graphics (advanced)"
-msgstr ""
+msgstr "(*) Графика (напредно)"
 
 #: gui/options/options.json[2].options[0].label
 msgid "Prefer GLSL"
@@ -4038,11 +4038,11 @@ msgstr "(*) Радије ГЛСЛ"
 
 #: gui/options/options.json[2].options[0].tooltip
 msgid "Use OpenGL 2.0 shaders (recommended)."
-msgstr ""
+msgstr "(*) Користите ОпенГЛ 2.0 схадерс (препоручено)."
 
 #: gui/options/options.json[2].options[10].label
 msgid "Quality"
-msgstr ""
+msgstr "(*) Квалитет"
 
 #: gui/options/options.json[2].options[10].list[3].label
 msgid "Very High"
@@ -4068,11 +4068,11 @@ msgstr "(*) Гранична удаљеност"
 
 #: gui/options/options.json[2].options[12].tooltip
 msgid "Hides shadows beyond a certain distance from a camera."
-msgstr ""
+msgstr "(*) Сакрива сенке изван одређене удаљености од камере."
 
 #: gui/options/options.json[2].options[13].label
 msgid "Cover whole map"
-msgstr ""
+msgstr "(*) Покријте целу мапу"
 
 #: gui/options/options.json[2].options[13].tooltip
 msgid ""
@@ -4102,15 +4102,15 @@ msgstr ""
 
 #: gui/options/options.json[2].options[16].label
 msgid "Water reflections"
-msgstr ""
+msgstr "(*) Рефлексије воде"
 
 #: gui/options/options.json[2].options[16].tooltip
 msgid "Allow water to reflect a mirror image."
-msgstr ""
+msgstr "(*) Дозволите да вода одражава зрцалну слику."
 
 #: gui/options/options.json[2].options[17].label
 msgid "Water refraction"
-msgstr ""
+msgstr "(*) Рефракција воде"
 
 #: gui/options/options.json[2].options[17].tooltip
 msgid "Use a real water refraction map and not transparency."
@@ -4118,11 +4118,11 @@ msgstr "(*) Користите праву карту лома воде, а не 
 
 #: gui/options/options.json[2].options[18].label
 msgid "Real water depth"
-msgstr ""
+msgstr "(*) Права дубина воде"
 
 #: gui/options/options.json[2].options[18].tooltip
 msgid "Use actual water depth in rendering calculations."
-msgstr ""
+msgstr "(*) За израчунавање исцртавања користите стварну дубину воде."
 
 #: gui/options/options.json[2].options[3].label
 msgid "Antialiasing"
@@ -4145,11 +4145,11 @@ msgstr "(*) ФКСАА"
 
 #: gui/options/options.json[2].options[3].list[1].tooltip
 msgid "Fast, but simple antialiasing."
-msgstr ""
+msgstr "(*) Брзо, али једноставно антиалиасинг."
 
 #: gui/options/options.json[2].options[3].list[2].label
 msgid "MSAA (2×)"
-msgstr ""
+msgstr "(*) МСАА (2А—)"
 
 #: gui/options/options.json[2].options[3].list[2].tooltip
 msgid ""
@@ -4169,7 +4169,7 @@ msgstr ""
 
 #: gui/options/options.json[2].options[3].list[4].label
 msgid "MSAA (8×)"
-msgstr ""
+msgstr "(*) МСАА (8А—)"
 
 #: gui/options/options.json[2].options[3].list[4].tooltip
 msgid ""
@@ -4179,7 +4179,7 @@ msgstr ""
 
 #: gui/options/options.json[2].options[3].list[5].label
 msgid "MSAA (16×)"
-msgstr ""
+msgstr "(*) МСАА (16А—)"
 
 #: gui/options/options.json[2].options[3].list[5].tooltip
 msgid ""
@@ -4193,11 +4193,11 @@ msgstr "(*) Смањите ефекат преклапања на ивицама
 
 #: gui/options/options.json[2].options[4].label
 msgid "Sharpening"
-msgstr ""
+msgstr "(*) Оштрење"
 
 #: gui/options/options.json[2].options[4].list[0].tooltip
 msgid "Do not use sharpening."
-msgstr ""
+msgstr "(*) Не користите оштрење."
 
 #: gui/options/options.json[2].options[4].list[1].label
 msgid "FidelityFX CAS"
@@ -4213,11 +4213,11 @@ msgstr "(*) Смањите замућене ефекте."
 
 #: gui/options/options.json[2].options[5].label
 msgid "Sharpness factor"
-msgstr ""
+msgstr "(*) Фактор оштрине"
 
 #: gui/options/options.json[2].options[5].tooltip
 msgid "The sharpness of the choosen pass."
-msgstr ""
+msgstr "(*) Оштрина изабраног паса."
 
 #: gui/options/options.json[2].options[6].label
 msgid "Model quality"
@@ -4230,7 +4230,7 @@ msgstr "Ниско"
 
 #: gui/options/options.json[2].options[6].list[0].tooltip
 msgid "Simpler models for better performance."
-msgstr ""
+msgstr "(*) Једноставнији модели за боље перформансе."
 
 #: gui/options/options.json[2].options[10].list[1].label
 #: gui/options/options.json[2].options[6].list[1].label
@@ -4240,7 +4240,7 @@ msgstr "Средње"
 
 #: gui/options/options.json[2].options[6].list[1].tooltip
 msgid "Average quality and average performance."
-msgstr ""
+msgstr "(*) Просечан квалитет и просечне перформансе."
 
 #: gui/options/options.json[2].options[10].list[2].label
 #: gui/options/options.json[2].options[6].list[2].label
@@ -4249,7 +4249,7 @@ msgstr "Високо"
 
 #: gui/options/options.json[2].options[6].list[2].tooltip
 msgid "High quality models."
-msgstr ""
+msgstr "(*) Модели високог квалитета."
 
 #: gui/options/options.json[2].options[6].tooltip
 msgid "Model quality setting."
@@ -4269,7 +4269,7 @@ msgstr "(*) Сви ентитети ће изгледати исто."
 
 #: gui/options/options.json[2].options[7].list[1].label
 msgid "Limited"
-msgstr ""
+msgstr "(*) Ограничен"
 
 #: gui/options/options.json[2].options[7].list[1].tooltip
 msgid "Entities will be less diverse."
@@ -4291,7 +4291,7 @@ msgstr ""
 
 #: gui/options/options.json[2].options[8].label
 msgid "Shader effects"
-msgstr ""
+msgstr "(*) Схадер ефекти"
 
 #: gui/options/options.json[2].options[8].tooltip
 msgid "Number of shader effects. REQUIRES GAME RESTART"
@@ -4303,19 +4303,19 @@ msgstr "(*) Специфичније поставке приказивања."
 
 #: gui/options/options.json[3].options[0].label
 msgid "Master volume"
-msgstr ""
+msgstr "(*) Мастер волуме"
 
 #: gui/options/options.json[3].options[0].tooltip
 msgid "Master audio gain."
-msgstr ""
+msgstr "(*) Мастер аудио појачање."
 
 #: gui/options/options.json[3].options[1].label
 msgid "Music volume"
-msgstr ""
+msgstr "(*) Јачина музике"
 
 #: gui/options/options.json[3].options[1].tooltip
 msgid "In game music gain."
-msgstr ""
+msgstr "(*) У игри музика добија."
 
 #: gui/options/options.json[3].options[2].label
 msgid "Ambient volume"
@@ -4327,7 +4327,7 @@ msgstr "(*) Појачање амбијенталног звука у игри."
 
 #: gui/options/options.json[3].options[3].label
 msgid "Action volume"
-msgstr ""
+msgstr "(*) Волумен радње"
 
 #: gui/options/options.json[3].options[3].tooltip
 msgid "In game unit action sound gain."
@@ -4335,7 +4335,7 @@ msgstr "(*) У јединици игре појачање звука."
 
 #: gui/options/options.json[3].options[4].label
 msgid "UI volume"
-msgstr ""
+msgstr "(*) УИ волуме"
 
 #: gui/options/options.json[3].options[4].tooltip
 msgid "UI sound gain."
@@ -4343,15 +4343,15 @@ msgstr "(*) Повећање звука у корисничком интерфе
 
 #: gui/options/options.json[3].options[5].label
 msgid "Nick notification"
-msgstr ""
+msgstr "(*) Обавештење о надимку"
 
 #: gui/options/options.json[3].options[5].tooltip
 msgid "Receive audio notification when someone types your nick."
-msgstr ""
+msgstr "(*) Примите звучно обавештење када неко откуца ваш надимак."
 
 #: gui/options/options.json[3].options[6].label
 msgid "New player notification in game setup"
-msgstr ""
+msgstr "(*) Обавештење о новом играчу у подешавању игре"
 
 #: gui/options/options.json[3].options[6].tooltip
 msgid "Receive audio notification when a new client joins the game setup."
@@ -4363,19 +4363,19 @@ msgstr "(*) Подешавање игре"
 
 #: gui/options/options.json[4].options[0].label
 msgid "Enable game setting tips"
-msgstr ""
+msgstr "(*) Омогућите савете за подешавање игре"
 
 #: gui/options/options.json[4].options[0].tooltip
 msgid "Show tips when setting up a game."
-msgstr ""
+msgstr "(*) Покажите савете при постављању игре."
 
 #: gui/options/options.json[4].options[1].label
 msgid "Enable settings panel slide"
-msgstr ""
+msgstr "(*) Омогући слајд на табли поставки"
 
 #: gui/options/options.json[4].options[1].tooltip
 msgid "Slide the settings panel when opening, closing or resizing."
-msgstr ""
+msgstr "(*) Померите плочу са поставкама при отварању, затварању или промени величине."
 
 #: gui/options/options.json[4].options[2].label
 msgid "Persist match settings"
@@ -4388,7 +4388,7 @@ msgstr ""
 
 #: gui/options/options.json[4].options[3].label
 msgid "Default AI difficulty"
-msgstr ""
+msgstr "(*) Подразумевана тешкоћа вештачке интелигенције"
 
 #: gui/options/options.json[4].options[3].list[0].label
 msgid "Sandbox"
@@ -4424,7 +4424,7 @@ msgstr "Насумично"
 
 #: gui/options/options.json[4].options[4].list[1].label
 msgid "Balanced"
-msgstr ""
+msgstr "(*) Уравнотежено"
 
 #: gui/options/options.json[4].options[4].list[2].label
 msgid "Aggressive"
@@ -4464,7 +4464,7 @@ msgstr ""
 
 #: gui/options/options.json[4].options[5].list[2].tooltip
 msgid "Players only receive a slot when the host assigns them explicitly."
-msgstr ""
+msgstr "(*) Играчи добијају место само ако им домаћин то изричито додели."
 
 #: gui/options/options.json[4].options[5].tooltip
 msgid ""
@@ -4478,7 +4478,7 @@ msgstr "(*) Умрежавање / Лоби"
 
 #: gui/options/options.json[5].options[0].label
 msgid "TLS encryption"
-msgstr ""
+msgstr "(*) ТЛС шифровање"
 
 #: gui/options/options.json[5].options[0].tooltip
 msgid ""
@@ -4491,7 +4491,7 @@ msgstr "(*) Заостаци у ћаскању"
 
 #: gui/options/options.json[5].options[1].tooltip
 msgid "Number of backlogged messages to load when joining the lobby."
-msgstr ""
+msgstr "(*) Број заосталих порука које треба учитати приликом приступања предворју."
 
 #: gui/options/options.json[5].options[2].label
 msgid "Game rating column"
@@ -4509,7 +4509,7 @@ msgstr "(*) Упозорења на мрежи"
 
 #: gui/options/options.json[5].options[3].tooltip
 msgid "Show which player has a bad connection in multiplayer games."
-msgstr ""
+msgstr "(*) Покажите који играч има лошу везу у играма за више играча."
 
 #: gui/options/options.json[5].options[4].label
 msgid "Late observer joins"
@@ -4523,11 +4523,11 @@ msgstr ""
 
 #: gui/options/options.json[5].options[5].label
 msgid "Observer limit"
-msgstr ""
+msgstr "(*) Граница посматрача"
 
 #: gui/options/options.json[5].options[5].tooltip
 msgid "Prevent further observers from joining if the limit is reached."
-msgstr ""
+msgstr "(*) Спречити придруживање других посматрача ако се достигне граница."
 
 #: gui/options/options.json[5].options[6].label
 msgid "Max lag for observers"
@@ -4569,7 +4569,7 @@ msgstr ""
 
 #: gui/options/options.json[6].options[10].label
 msgid "Heal range visualization"
-msgstr ""
+msgstr "(*) Визуализација опсега лечења"
 
 #: gui/options/options.json[6].options[10].tooltip
 msgid ""
@@ -4587,11 +4587,11 @@ msgstr "(*) Иконе ранга приказујте изнад статусн
 
 #: gui/options/options.json[6].options[12].label
 msgid "Experience status bar"
-msgstr ""
+msgstr "(*) Доживите статусну траку"
 
 #: gui/options/options.json[6].options[12].tooltip
 msgid "Show an experience status bar above each selected unit."
-msgstr ""
+msgstr "(*) Прикажите статусну траку искуства изнад сваке изабране јединице."
 
 #: gui/options/options.json[6].options[13].label
 msgid "Detailed tooltips"
@@ -4608,7 +4608,7 @@ msgstr "(*) Објашњење ресурса и популације"
 
 #: gui/options/options.json[6].options[14].list[0].label
 msgid "Unordered"
-msgstr ""
+msgstr "(*) Неуређено"
 
 #: gui/options/options.json[6].options[14].list[1].label
 msgid "Ascending"
@@ -4616,7 +4616,7 @@ msgstr "(*) Узлазни"
 
 #: gui/options/options.json[6].options[14].list[2].label
 msgid "Descending"
-msgstr ""
+msgstr "(*) Силазни"
 
 #: gui/options/options.json[6].options[14].tooltip
 msgid ""
@@ -4625,11 +4625,11 @@ msgstr ""
 
 #: gui/options/options.json[6].options[15].label
 msgid "Diplomacy colors: self"
-msgstr ""
+msgstr "(*) Боје дипломатије: себе"
 
 #: gui/options/options.json[6].options[15].tooltip
 msgid "Color of your units when diplomacy colors are enabled."
-msgstr ""
+msgstr "(*) Боја ваших јединица када су омогућене боје дипломатије."
 
 #: gui/options/options.json[6].options[16].label
 msgid "Diplomacy colors: ally"
@@ -4637,7 +4637,7 @@ msgstr "(*) Боје дипломатије: савезник"
 
 #: gui/options/options.json[6].options[16].tooltip
 msgid "Color of allies when diplomacy colors are enabled."
-msgstr ""
+msgstr "(*) Боја савезника када су омогућене боје дипломатије."
 
 #: gui/options/options.json[6].options[17].label
 msgid "Diplomacy colors: neutral"
@@ -4645,7 +4645,7 @@ msgstr "(*) Боје дипломатије: неутралне"
 
 #: gui/options/options.json[6].options[17].tooltip
 msgid "Color of neutral players when diplomacy colors are enabled."
-msgstr ""
+msgstr "(*) Боја неутралних играча када су омогућене боје дипломатије."
 
 #: gui/options/options.json[6].options[18].label
 msgid "Diplomacy colors: enemy"
@@ -4653,15 +4653,15 @@ msgstr "(*) Боје дипломатије: непријатељ"
 
 #: gui/options/options.json[6].options[18].tooltip
 msgid "Color of enemies when diplomacy colors are enabled."
-msgstr ""
+msgstr "(*) Боја непријатеља када су омогућене боје дипломатије."
 
 #: gui/options/options.json[6].options[19].label
 msgid "Snap to edges"
-msgstr ""
+msgstr "(*) Причврстите за ивице"
 
 #: gui/options/options.json[6].options[19].list[0].label
 msgid "Hotkey to enable snapping"
-msgstr ""
+msgstr "(*) Интервентни тастер за омогућавање снимања"
 
 #: gui/options/options.json[6].options[19].list[0].tooltip
 msgid ""
@@ -4680,7 +4680,7 @@ msgstr ""
 
 #: gui/options/options.json[6].options[19].tooltip
 msgid "This option allows to align new structures with nearby structures."
-msgstr ""
+msgstr "(*) Ова опција омогућава поравнавање нових структура са структурама у близини."
 
 #: gui/options/options.json[6].options[1].label
 msgid "Batch training size"
@@ -4692,7 +4692,7 @@ msgstr "(*) Број јединица обучених по серији под�
 
 #: gui/options/options.json[6].options[20].label
 msgid "Control group membership"
-msgstr ""
+msgstr "(*) Чланство у контролној групи"
 
 #: gui/options/options.json[6].options[20].list[0].label
 msgid "Single"
@@ -4722,7 +4722,7 @@ msgstr "(*) Одлучите да ли јединице могу бити део
 
 #: gui/options/options.json[6].options[21].label
 msgid "Formation control"
-msgstr ""
+msgstr "(*) Контрола формације"
 
 #: gui/options/options.json[6].options[21].list[0].label
 msgid "Walk/Patrol Only"
@@ -4734,11 +4734,11 @@ msgstr "(*) Остале наредбе ће распустити постоје
 
 #: gui/options/options.json[6].options[21].list[1].label
 msgid "No override"
-msgstr ""
+msgstr "(*) Нема поништавања"
 
 #: gui/options/options.json[6].options[21].list[1].tooltip
 msgid "Units in formations stay in formations."
-msgstr ""
+msgstr "(*) Јединице у формацијама остају у саставима."
 
 #: gui/options/options.json[6].options[21].tooltip
 msgid ""
@@ -4761,19 +4761,19 @@ msgstr "(*) Трајање приказа фларе"
 
 #: gui/options/options.json[6].options[3].tooltip
 msgid "How long the flare markers on the minimap are displayed in seconds."
-msgstr ""
+msgstr "(*) Колико дуго се маркери на минимапи приказују у секундама."
 
 #: gui/options/options.json[6].options[4].label
 msgid "Chat notification attack"
-msgstr ""
+msgstr "(*) Напад обавештења о ћаскању"
 
 #: gui/options/options.json[6].options[4].tooltip
 msgid "Show a chat notification if you are attacked by another player."
-msgstr ""
+msgstr "(*) Покажите обавештење о ћаскању ако вас нападне други играч."
 
 #: gui/options/options.json[6].options[5].label
 msgid "Chat notification tribute"
-msgstr ""
+msgstr "(*) Обавештење о ћаскању"
 
 #: gui/options/options.json[6].options[5].tooltip
 msgid ""
@@ -4792,7 +4792,7 @@ msgstr ""
 
 #: gui/options/options.json[6].options[7].label
 msgid "Chat notification phase"
-msgstr ""
+msgstr "(*) Фаза обавештења о ћаскању"
 
 #: gui/options/options.json[6].options[7].list[0].label
 msgid "Disable"
@@ -4842,7 +4842,7 @@ msgstr "Подешавања игре"
 
 #: gui/options/options.xml:(caption):48
 msgid "Revert"
-msgstr ""
+msgstr "(*) Вратити се"
 
 #: gui/options/options.xml:(tooltip):49
 msgid "Reverts to previous saved settings"
@@ -4868,11 +4868,11 @@ msgstr "Упутство"
 
 #: gui/pregame/MainMenuItems.js:8
 msgid "Open the 0 A.D. Game Manual."
-msgstr ""
+msgstr "(*) Отворите приручник за игру 0 А.Д."
 
 #: gui/pregame/MainMenuItems.js:14
 msgid "Tutorial"
-msgstr ""
+msgstr "(*) Приручник"
 
 #: gui/pregame/MainMenuItems.js:15
 msgid "Start the economic tutorial."
@@ -4899,7 +4899,7 @@ msgstr "(*) Преглед цивилизације"
 #: gui/pregame/MainMenuItems.js:40
 #, javascript-format
 msgid "%(hotkey)s: Learn about the civilizations featured in 0 A.D."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Сазнајте о цивилизацијама описаним у 0 А.Д."
 
 #: gui/pregame/MainMenuItems.js:51
 msgid "Catafalque Overview"
@@ -4915,7 +4915,7 @@ msgstr "(*) Преглед мапе"
 
 #: gui/pregame/MainMenuItems.js:59
 msgid "View the different maps featured in 0 A.D."
-msgstr ""
+msgstr "(*) Погледајте различите карте представљене у 0 А.Д."
 
 #: gui/pregame/MainMenuItems.js:67 gui/pregame/MainMenuItems.js:101
 msgid "Continue Campaign"
@@ -4924,19 +4924,19 @@ msgstr "(*) Настави кампању"
 #: gui/pregame/MainMenuItems.js:68 gui/pregame/MainMenuItems.js:102
 #: gui/pregame/MainMenuItems.js:118 gui/pregame/MainMenuItems.js:125
 msgid "Relive history through historical military campaigns."
-msgstr ""
+msgstr "(*) Оживите историју кроз историјске војне кампање."
 
 #: gui/pregame/MainMenuItems.js:76 gui/pregame/MainMenuItems.js:110
 msgid "Error opening campaign run:"
-msgstr ""
+msgstr "(*) Грешка при отварању покретања кампање:"
 
 #: gui/pregame/MainMenuItems.js:83
 msgid "Single-player"
-msgstr ""
+msgstr "(*) За једног играча"
 
 #: gui/pregame/MainMenuItems.js:84
 msgid "Start, load, or replay a single-player game."
-msgstr ""
+msgstr "(*) Покрените, учитајте или поновите игру за једног играча."
 
 #: gui/pregame/MainMenuItems.js:87
 msgid "Matches"
@@ -4948,7 +4948,7 @@ msgstr "(*) Покрените нову игру за једног играча.
 
 #: gui/pregame/MainMenuItems.js:95
 msgid "Load a saved game."
-msgstr ""
+msgstr "(*) Учитајте сачувану игру."
 
 #: gui/pregame/MainMenuItems.js:117
 msgid "New Campaign"
@@ -4956,7 +4956,7 @@ msgstr "(*) Нова кампања"
 
 #: gui/pregame/MainMenuItems.js:124
 msgid "Load Campaign"
-msgstr ""
+msgstr "(*) Учитај кампању"
 
 #: gui/pregame/MainMenuItems.js:134 gui/pregame/MainMenuItems.js:184
 msgid "Replays"
@@ -4989,7 +4989,7 @@ msgstr "Покрени игру за више играча"
 
 #: gui/pregame/MainMenuItems.js:164
 msgid "Host a multiplayer game."
-msgstr ""
+msgstr "(*) Организујте игру за више играча."
 
 #: gui/pregame/MainMenuItems.js:172
 msgid "Game Lobby"
@@ -5004,7 +5004,7 @@ msgstr ""
 
 #: gui/pregame/MainMenuItems.js:175
 msgid "Launch the multiplayer lobby. \\[DISABLED BY BUILD]"
-msgstr ""
+msgstr "(*) Покрените предворје за више играча.\\[ОНЕМОГУЋЕНО ИЗГРАДЊОМ]"
 
 #: gui/pregame/MainMenuItems.js:199
 msgid "Settings"
@@ -5024,7 +5024,7 @@ msgstr "Промени подешавања игре."
 
 #: gui/hotkeys/hotkeys.xml:(caption):14 gui/pregame/MainMenuItems.js:213
 msgid "Hotkeys"
-msgstr ""
+msgstr "(*) Хоткеис"
 
 #: gui/pregame/MainMenuItems.js:214
 msgid "Adjust hotkeys."
@@ -5046,7 +5046,7 @@ msgstr "Одабир мода"
 
 #: gui/pregame/MainMenuItems.js:228
 msgid "Select and download mods for the game."
-msgstr ""
+msgstr "(*) Одаберите и преузмите модове за игру."
 
 #: gui/pregame/MainMenuItems.js:234
 msgid "Welcome Screen"
@@ -5082,11 +5082,11 @@ msgstr "Грешка"
 
 #: gui/pregame/MainMenuItems.js:261
 msgid "Credits"
-msgstr ""
+msgstr "(*) Кредити"
 
 #: gui/pregame/MainMenuItems.js:262
 msgid "Show the 0 A.D. credits."
-msgstr ""
+msgstr "(*) Покажите 0 кредита за А.Д."
 
 #: gui/pregame/MainMenuItems.js:268
 msgid "Exit"
@@ -5094,7 +5094,7 @@ msgstr "Излаз"
 
 #: gui/pregame/MainMenuItems.js:269
 msgid "Exit the game."
-msgstr ""
+msgstr "(*) Изађите из игре."
 
 #: gui/pregame/MainMenuItems.js:273
 msgid "Are you sure you want to quit 0 A.D.?"
@@ -5145,11 +5145,11 @@ msgstr "(*) Кликните да посетите 0 А.Д. Трац да при
 #: gui/pregame/ProjectInformation.js:49
 msgctxt "Frequently Asked Questions"
 msgid "FAQ"
-msgstr ""
+msgstr "(*) ФАК"
 
 #: gui/pregame/ProjectInformation.js:50
 msgid "Click to visit the Frequently Asked Questions page in your browser."
-msgstr ""
+msgstr "(*) Кликните да бисте посетили страницу Често постављана питања у свом прегледачу."
 
 #: gui/pregame/ProjectInformation.js:57
 msgid "Translate the Game"
@@ -5157,15 +5157,15 @@ msgstr "Преведи игру"
 
 #: gui/pregame/ProjectInformation.js:58
 msgid "Click to open the 0 A.D. translate page in your browser."
-msgstr ""
+msgstr "(*) Кликните да бисте отворили страницу за превођење 0 А.Д. у свом прегледачу."
 
 #: gui/pregame/ProjectInformation.js:65
 msgid "Donate"
-msgstr ""
+msgstr "(*) Донате"
 
 #: gui/pregame/ProjectInformation.js:66
 msgid "Help with the project expenses by donating."
-msgstr ""
+msgstr "(*) Помозите око трошкова пројекта донацијом."
 
 #: gui/pregame/userreport/userreport.js:3
 msgctxt "UserReporter Terms and Conditions"
@@ -5174,7 +5174,7 @@ msgstr "(*) Услови"
 
 #: gui/pregame/userreport/userreport.js:4
 msgid "Please read and accept the UserReporter Terms and Conditions."
-msgstr ""
+msgstr "(*) Молимо вас да прочитате и прихватите Услове и одредбе УсерРепортер -а."
 
 #: gui/pregame/userreport/userreport.js:18
 msgid "Publications"
@@ -5247,7 +5247,7 @@ msgstr "(*)  %(hotkey)s : Затвори Цатафалкуе бонусе."
 
 #: gui/reference/catafalque/catafalque.xml:(caption):18
 msgid "Catafalque Bonuses"
-msgstr ""
+msgstr "(*) Катафални бонуси"
 
 #. Translation: Description of an item in the CivInfo page, on a new line and
 #. indented.
@@ -5272,7 +5272,7 @@ msgstr "(*) •  %(name)s   %(info_icon)s "
 #: gui/reference/civinfo/CivInfoPage.js:113
 #, javascript-format
 msgid "%(hotkey)s: Close Civilization Overview."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Затвори Преглед цивилизације."
 
 #: gui/reference/civinfo/Sections/GameplaySection.js:30
 #, javascript-format
@@ -5322,7 +5322,7 @@ msgstr[2] ""
 #: gui/reference/common/Buttons/CivInfoButton.js:27
 #, javascript-format
 msgid "%(hotkey)s: Switch to Civilization Overview."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Пребаците се на Преглед цивилизације."
 
 #: gui/reference/common/Buttons/StructreeButton.js:27
 #, javascript-format
@@ -5342,7 +5342,7 @@ msgstr "(*)  %(health_min)s до %(health_max)s "
 #: gui/reference/common/tooltips.js:10
 #, javascript-format
 msgid "%(listHeader)s %(listOfValues)s"
-msgstr ""
+msgstr "(*)  %(listHeader)s   %(listOfValues)s "
 
 #. Translation: Label before a list of the names of units that build the
 #. structure selected.
@@ -5362,14 +5362,14 @@ msgstr "(*) Обучено од:"
 #. technology selected.
 #: gui/reference/common/tooltips.js:39
 msgid "Researched at:"
-msgstr ""
+msgstr "(*) Истраживано на:"
 
 #. Translation: Label before a list of the names of structures the selected
 #. unit can
 #. construct or build.
 #: gui/reference/common/tooltips.js:48
 msgid "Builds:"
-msgstr ""
+msgstr "(*) Израђује:"
 
 #. Translation: Label before a list of the names of technologies the selected
 #. unit or
@@ -5390,21 +5390,21 @@ msgstr "(*) Возови:"
 #. structure can be upgradable to.
 #: gui/reference/common/tooltips.js:75
 msgid "Upgradable to:"
-msgstr ""
+msgstr "(*) Надоградиво на:"
 
 #: gui/reference/structree/Sections/Trainer/TrainerSection.js:70
 msgid "Trainer Units"
-msgstr ""
+msgstr "(*) Тренерске јединице"
 
 #: gui/reference/structree/StructreePage.js:85
 #, javascript-format
 msgid "%(hotkey)s: Close Structure Tree."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Цлосе Струцтуре Трее."
 
 #: gui/reference/viewer/ViewerPage.js:172
 #, javascript-format
 msgid "%(hotkey)s: Close Template Viewer"
-msgstr ""
+msgstr "(*)  %(hotkey)s : Затвори Прегледник предложака"
 
 #: gui/reference/viewer/viewer.xml:(caption):16
 msgid "Information"
@@ -5412,7 +5412,7 @@ msgstr "Информације"
 
 #: gui/replaymenu/replay_actions.js:90
 msgid "This replay needs a different sequence of mods:"
-msgstr ""
+msgstr "(*) За ову репродукцију је потребан другачији низ модова:"
 
 #: gui/replaymenu/replay_actions.js:95
 msgid "This replay is not compatible with your version of the game!"
@@ -5504,7 +5504,7 @@ msgstr "Сваки"
 #: gui/replaymenu/replay_filters.js:146
 msgctxt "replay filter"
 msgid "Single-player"
-msgstr ""
+msgstr "(*) За једног играча"
 
 #: gui/replaymenu/replay_filters.js:147
 msgctxt "replay filter"
@@ -5606,11 +5606,11 @@ msgstr "Трајање:"
 
 #: gui/replaymenu/replay_menu.xml:(placeholder_text):32
 msgid "Search for Player"
-msgstr ""
+msgstr "(*) Потражите Плаиер"
 
 #: gui/replaymenu/replay_menu.xml:(tooltip):240
 msgid "Rebuild the replay cache from scratch. Potentially slow!"
-msgstr ""
+msgstr "(*) Обновите кеш за репродукцију од почетка. Потенцијално споро!"
 
 #: gui/splashscreen/splashscreen.txt:2
 msgid ""
@@ -5619,7 +5619,7 @@ msgstr ""
 
 #: gui/splashscreen/splashscreen.txt:3
 msgid "[font=\"sans-16\"]"
-msgstr ""
+msgstr "(*) _ЛАЛАЛА_"
 
 #: gui/splashscreen/splashscreen.txt:4
 msgid ""
@@ -5659,7 +5659,7 @@ msgstr "ОК"
 
 #: gui/splashscreen/splashscreen.xml:(caption):30
 msgid "Official Forum (web)"
-msgstr ""
+msgstr "(*) Званични форум (веб)"
 
 #: gui/summary/layout.js:13
 msgid "Score"
@@ -5681,7 +5681,7 @@ msgstr "(*) Економски резултат"
 
 #: gui/summary/layout.js:18
 msgid "Military score"
-msgstr ""
+msgstr "(*) Војни резултат"
 
 #: gui/summary/layout.js:19
 msgid "Exploration score"
@@ -5689,7 +5689,7 @@ msgstr "(*) Оцена истраживања"
 
 #: gui/summary/layout.js:31
 msgid "Structures"
-msgstr ""
+msgstr "(*) Структуре"
 
 #: gui/summary/layout.js:34 gui/summary/layout.js:72 gui/summary/layout.js:112
 msgid "Total"
@@ -5705,7 +5705,7 @@ msgstr "Економски"
 
 #: gui/summary/layout.js:37
 msgid "Outposts"
-msgstr ""
+msgstr "(*) Предстраже"
 
 #: gui/summary/layout.js:38
 msgid "Military"
@@ -5769,7 +5769,7 @@ msgstr "Трговаца"
 #: gui/summary/layout.js:84
 #, javascript-format
 msgid "Unit Statistics (%(trained)s / %(killed)s / %(captured)s / %(lost)s)"
-msgstr ""
+msgstr "(*) Статистика јединица ( %(trained)s  /  %(killed)s  /  %(captured)s  /  %(lost)s )"
 
 #: gui/summary/layout.js:109
 msgid "Resources"
@@ -5777,7 +5777,7 @@ msgstr "Ресурси"
 
 #: gui/summary/layout.js:121
 msgid "Tributes"
-msgstr ""
+msgstr "(*) Трибутес"
 
 #: gui/summary/layout.js:122
 #, javascript-format
@@ -5823,7 +5823,7 @@ msgstr "(*)  %(resourceFirstWord)s разменили"
 
 #: gui/summary/layout.js:192
 msgid "Miscellaneous"
-msgstr ""
+msgstr "(*) Остало"
 
 #: gui/summary/layout.js:195
 msgid "Kill / Death ratio"
@@ -5835,15 +5835,15 @@ msgstr "Становништво"
 
 #: gui/summary/layout.js:197
 msgid "Map control (peak)"
-msgstr ""
+msgstr "(*) Контрола карте (врхунац)"
 
 #: gui/summary/layout.js:198
 msgid "Map control (finish)"
-msgstr ""
+msgstr "(*) Контрола карте (завршетак)"
 
 #: gui/summary/layout.js:199
 msgid "Map exploration"
-msgstr ""
+msgstr "(*) Истраживање мапа"
 
 #: gui/summary/layout.js:200
 msgid "Vegetarian ratio"
@@ -5886,7 +5886,7 @@ msgstr "Прикупљено"
 
 #: gui/summary/summary.js:44
 msgid "Count"
-msgstr ""
+msgstr "(*) Цоунт"
 
 #: gui/summary/summary.js:49
 msgid "Sent"
@@ -5906,7 +5906,7 @@ msgstr "Освојено"
 
 #: gui/summary/summary.js:69
 msgid "Succeeded"
-msgstr ""
+msgstr "(*) Успео"
 
 #: gui/summary/summary.js:74
 msgid "Destroyed"
@@ -5949,7 +5949,7 @@ msgstr "(*)  %(colorIndicator)s   %(playerListing)s "
 #: gui/summary/summary.js:204
 msgctxt "Charts player color indicator"
 msgid "■"
-msgstr ""
+msgstr "(*) а–"
 
 #: gui/summary/summary.js:234
 msgctxt "Player listing"
@@ -5958,7 +5958,7 @@ msgstr ","
 
 #: gui/summary/summary.js:340
 msgid "Time elapsed"
-msgstr ""
+msgstr "(*) Време које је протекло"
 
 #: gui/summary/summary.js:510
 msgid "Current Scores"
@@ -6039,7 +6039,7 @@ msgstr "(*) Група по тим"
 
 #: gui/summary/summary.xml:(caption):187
 msgid "Watch Replay"
-msgstr ""
+msgstr "(*) Гледајте Реплаи"
 
 #: gui/summary/summary.xml:(caption):192
 msgid "Continue"
@@ -6072,7 +6072,7 @@ msgstr ""
 
 #: gui/text/tips/army_camp.txt:3
 msgid "Construct rams and train citizen soldiers."
-msgstr ""
+msgstr "(*) Конструишите овнове и обучите грађане војнике."
 
 #: gui/text/tips/army_camp.txt:4
 msgid ""
@@ -6090,7 +6090,7 @@ msgstr "(*) Омогућите функцију аутоматског чека�
 
 #: gui/text/tips/autoqueue.txt:3
 msgid "Works as long as you have enough resources, then it will stop."
-msgstr ""
+msgstr "(*) Ради све док имате довољно ресурса, онда ће престати."
 
 #: gui/text/tips/barracks.txt:1
 msgid "BARRACKS"
@@ -6114,7 +6114,7 @@ msgstr ""
 
 #: gui/text/tips/barracks.txt:5
 msgid "Build in a forward base to resupply your assault with fresh troops."
-msgstr ""
+msgstr "(*) Изградите напредну базу да бисте поново снабдели свој напад свежим трупама."
 
 #: gui/text/tips/biomes.txt:1
 msgid "BIOMES"
@@ -6134,15 +6134,15 @@ msgstr ""
 
 #: gui/text/tips/briton_war_dog.txt:1
 msgid "WAR DOG"
-msgstr ""
+msgstr "(*) ВАР ДОГ"
 
 #: gui/text/tips/briton_war_dog.txt:2
 msgid "A dog that the Britons can train at the cavalry stable."
-msgstr ""
+msgstr "(*) Пас којег Британци могу обучити у штали коњаника."
 
 #: gui/text/tips/briton_war_dog.txt:3
 msgid "Has low health, but is fast and will fearlessly attack enemies."
-msgstr ""
+msgstr "(*) Слабог је здравља, али је брз и неустрашиво ће нападати непријатеље."
 
 #: gui/text/tips/briton_war_dog.txt:4
 msgid "Use them as support in your army or for quick raids."
@@ -6154,7 +6154,7 @@ msgstr "КАРТАГИНСКА СВЕТА ЧЕТА"
 
 #: gui/text/tips/carth_sacred_band.txt:2
 msgid "Champion Spearmen and Champion Cavalry Spearmen for Carthage."
-msgstr ""
+msgstr "(*) Шампионски копљаници и шампионски коњички копљаници за Картагину."
 
 #: gui/text/tips/carth_sacred_band.txt:3
 msgid ""
@@ -6170,19 +6170,19 @@ msgstr ""
 
 #: gui/text/tips/carth_shipyard.txt:1
 msgid "CARTHAGINIAN NAVAL SHIPYARD"
-msgstr ""
+msgstr "(*) БРОДОГРАДИЛИШТЕ ЦАРТХАГИНИАН НАВАЛ"
 
 #: gui/text/tips/carth_shipyard.txt:2
 msgid "Special dock of the Carthaginians to construct warships."
-msgstr ""
+msgstr "(*) Посебно пристаниште Картажана за изградњу ратних бродова."
 
 #: gui/text/tips/carth_shipyard.txt:3
 msgid "Garrison ships inside to slowly repair them."
-msgstr ""
+msgstr "(*) Гарнизон се отпрема унутра како би их полако поправио."
 
 #: gui/text/tips/carth_shipyard.txt:4
 msgid "Much stronger than other docks, but also more expensive."
-msgstr ""
+msgstr "(*) Много јачи од осталих пристаништа, али и скупљи."
 
 #: gui/text/tips/catapults.txt:1
 msgid "CATAPULTS"
@@ -6194,7 +6194,7 @@ msgstr "(*) Опсадни мотори са далекометним погон
 
 #: gui/text/tips/catapults.txt:3
 msgid "Expensive and slow."
-msgstr ""
+msgstr "(*) Скупо и споро."
 
 #: gui/text/tips/catapults.txt:4
 msgid ""
@@ -6213,7 +6213,7 @@ msgstr ""
 
 #: gui/text/tips/cavalry_stable.txt:3
 msgid "Units gain experience while garrisoned inside the structure."
-msgstr ""
+msgstr "(*) Јединице стичу искуство док су у гарнизону унутар структуре."
 
 #: gui/text/tips/celtic_war_barge.txt:1
 msgid "CELTIC WAR BARGE"
@@ -6221,7 +6221,7 @@ msgstr "КЕЛТСКИ РАТНИ СПЛАВ"
 
 #: gui/text/tips/celtic_war_barge.txt:2
 msgid "A medium trireme-class warship."
-msgstr ""
+msgstr "(*) Ратни брод средње класе триреме."
 
 #: gui/text/tips/celtic_war_barge.txt:3
 msgid "Available to Britons, Gauls, and Iberians."
@@ -6255,7 +6255,7 @@ msgstr "(*) Рањиво за опсадно оружје попут катап�
 
 #: gui/text/tips/civic_centres.txt:1
 msgid "CIVIC CENTERS"
-msgstr ""
+msgstr "(*) ГРАЂАНСКИ ЦЕНТРИ"
 
 #: gui/text/tips/civic_centres.txt:2
 msgid "The foundation of your new colony."
@@ -6301,7 +6301,7 @@ msgstr "ОДБРАНДБЕНЕ КУЛЕ"
 
 #: gui/text/tips/defense_towers.txt:2
 msgid "Strong watchtowers, which help you defend your position."
-msgstr ""
+msgstr "(*) Јаке карауле, које вам помажу да одбраните своју позицију."
 
 #: gui/text/tips/defense_towers.txt:3
 msgid ""
@@ -6347,11 +6347,11 @@ msgstr "(*) Уловите мора за обилну жетву."
 
 #: gui/text/tips/fishing.txt:3
 msgid "Fishing boats carry a large amount of food per trip."
-msgstr ""
+msgstr "(*) Рибарски бродови превозе велику количину хране по путовању."
 
 #: gui/text/tips/fishing.txt:4
 msgid "Fishing is faster than gathering food on fields."
-msgstr ""
+msgstr "(*) Риболов је бржи од сакупљања хране на пољима."
 
 #: gui/text/tips/fishing.txt:5
 msgid "Careful! Fish are not an infinite resource!"
@@ -6363,15 +6363,15 @@ msgstr "(*) ФОРГЕ"
 
 #: gui/text/tips/forge.txt:2
 msgid "Research structure for all factions."
-msgstr ""
+msgstr "(*) Структура истраживања за све фракције."
 
 #: gui/text/tips/forge.txt:3
 msgid "Research weapon and armor upgrades for your units."
-msgstr ""
+msgstr "(*) Истражите надоградње оружја и оклопа за своје јединице."
 
 #: gui/text/tips/formations.txt:1
 msgid "FORMATIONS"
-msgstr ""
+msgstr "(*) ФОРМАЦИЈЕ"
 
 #: gui/text/tips/formations.txt:2
 msgid ""
@@ -6394,7 +6394,7 @@ msgstr "(*) Војници гарнизона унутра да додају в�
 
 #: gui/text/tips/freehand_position.txt:1
 msgid "FREEHAND POSITION"
-msgstr ""
+msgstr "(*) СЛОБОДНИ ПОЛОЖАЈ"
 
 #: gui/text/tips/freehand_position.txt:2
 msgid ""
@@ -6409,7 +6409,7 @@ msgstr ""
 
 #: gui/text/tips/freehand_position.txt:4
 msgid "Your units will now spread out on this line."
-msgstr ""
+msgstr "(*) Ваше јединице ће се сада распоредити на овој линији."
 
 #: gui/text/tips/gathering.txt:1
 msgid "RESOURCE GATHERING"
@@ -6417,15 +6417,15 @@ msgstr "ПРИКУПЉАЊЕ РЕСУРАСА"
 
 #: gui/text/tips/gathering.txt:2
 msgid "Use citizen-soldiers and female citizens to gather resources."
-msgstr ""
+msgstr "(*) Користите грађане-војнике и грађанке за прикупљање средстава."
 
 #: gui/text/tips/gathering.txt:3
 msgid "Female citizens gather vegetable resources faster."
-msgstr ""
+msgstr "(*) Грађанке брже прикупљају поврће."
 
 #: gui/text/tips/gathering.txt:4
 msgid "Infantry citizen-soldiers are faster gathering minerals."
-msgstr ""
+msgstr "(*) Грађани-војници пешадије брже прикупљају минерале."
 
 #: gui/text/tips/gathering.txt:5
 msgid "Cavalry citizen-soldiers are faster gathering meat."
@@ -6449,15 +6449,15 @@ msgstr ""
 
 #: gui/text/tips/heroes.txt:3
 msgid "A lot of health and very strong attacks."
-msgstr ""
+msgstr "(*) Пуно здравља и врло снажни напади."
 
 #: gui/text/tips/heroes.txt:4
 msgid "Have auras which alter the stats of other units or structures."
-msgstr ""
+msgstr "(*) Имајте ауре које мењају статистику других јединица или структура."
 
 #: gui/text/tips/heroes.txt:5
 msgid "Caution: Each hero can be recruited only once per match!"
-msgstr ""
+msgstr "(*) Опрез: Сваки херој може бити регрутован само једном по мечу!"
 
 #: gui/text/tips/iber_fireship.txt:1
 msgid "IBERIAN FIRESHIP"
@@ -6471,7 +6471,7 @@ msgstr ""
 
 #: gui/text/tips/lighthouse.txt:1
 msgid "LIGHTHOUSE"
-msgstr ""
+msgstr "(*) ЛИГХТХОУСЕ"
 
 #: gui/text/tips/lighthouse.txt:2
 msgid ""
@@ -6491,7 +6491,7 @@ msgstr ""
 
 #: gui/text/tips/map_flare.txt:3
 msgid "They will see the flare on their minimap."
-msgstr ""
+msgstr "(*) Они ће видети ракету на својој минимапи."
 
 #: gui/text/tips/meroe_pyramids.txt:1
 msgid "PYRAMIDS OF MEROË"
@@ -6499,7 +6499,7 @@ msgstr "(*) ПИРАМИДЕ МЕРОЈА"
 
 #: gui/text/tips/meroe_pyramids.txt:2
 msgid "Special structures available for the Kushites."
-msgstr ""
+msgstr "(*) За Кушите су доступне посебне структуре."
 
 #: gui/text/tips/meroe_pyramids.txt:3
 msgid ""
@@ -6522,7 +6522,7 @@ msgstr "(*) Градите на неутралној или сопственој
 
 #: gui/text/tips/outposts.txt:3
 msgid "Cheap and quickly built, but weak."
-msgstr ""
+msgstr "(*) Јефтино и брзо изграђено, али слабо."
 
 #: gui/text/tips/outposts.txt:4
 msgid ""
@@ -6540,7 +6540,7 @@ msgstr "(*) Брз, јефтин дрвени зид доступан свим �
 
 #: gui/text/tips/palisades.txt:3
 msgid "Most factions have access to them in Village Phase."
-msgstr ""
+msgstr "(*) Већина фракција им има приступ у фази села."
 
 #: gui/text/tips/persian_architecture.txt:1
 msgid "PERSIAN ARCHITECTURE"
@@ -6548,11 +6548,11 @@ msgstr "ПЕРСИЈСКА АРХИТЕКТУРА"
 
 #: gui/text/tips/persian_architecture.txt:2
 msgid "Special technology for the Persians."
-msgstr ""
+msgstr "(*) Посебна технологија за Персијанце."
 
 #: gui/text/tips/persian_architecture.txt:3
 msgid "Structures +25% health."
-msgstr ""
+msgstr "(*) Структуре +25% здравља."
 
 #: gui/text/tips/persian_architecture.txt:4
 msgid "Build time lengthened by +20% as a consequence."
@@ -6566,11 +6566,11 @@ msgstr ""
 
 #: gui/text/tips/pikemen.txt:1
 msgid "PIKEMEN"
-msgstr ""
+msgstr "(*) ПИКЕМЕН"
 
 #: gui/text/tips/pikemen.txt:2
 msgid "Heavily armored and slow. Low attack."
-msgstr ""
+msgstr "(*) Тешко оклопљен и спор. Низак напад."
 
 #: gui/text/tips/pikemen.txt:3
 msgid ""
@@ -6583,7 +6583,7 @@ msgstr "(*) Доступно: Кушитима, Македонцима, Птол
 
 #: gui/text/tips/quinquereme.txt:1
 msgid "QUINQUEREME"
-msgstr ""
+msgstr "(*) КУИНКУЕРЕМЕ"
 
 #: gui/text/tips/quinquereme.txt:2
 msgid ""
@@ -6593,7 +6593,7 @@ msgstr ""
 
 #: gui/text/tips/quinquereme.txt:3
 msgid "Transports up to 50 units."
-msgstr ""
+msgstr "(*) Превози до 50 јединица."
 
 #: gui/text/tips/quinquereme.txt:4
 msgid "Increases firepower with garrisoned catapults."
@@ -6625,11 +6625,11 @@ msgstr "(*) Уопштено равна, са неколико рупа за з�
 
 #: gui/text/tips/savanna_biome.txt:3
 msgid "Chock full of herd animals for plentiful hunting."
-msgstr ""
+msgstr "(*) Пуна крда животиња за обилан лов."
 
 #: gui/text/tips/savanna_biome.txt:4
 msgid "Rich in all types of mining."
-msgstr ""
+msgstr "(*) Богат свим врстама рударства."
 
 #: gui/text/tips/savanna_biome.txt:5
 msgid "Wood tends to be sparse, but consists of high-yield Baobab trees."
@@ -6647,7 +6647,7 @@ msgstr ""
 
 #: gui/text/tips/snapping.txt:3
 msgid "Aligning structures allows to conserve space for future construction."
-msgstr ""
+msgstr "(*) Поравнавање конструкција омогућава очување простора за будућу изградњу."
 
 #: gui/text/tips/snapping.txt:4
 msgid ""
@@ -6665,7 +6665,7 @@ msgstr "(*) Најјача пешадијска јединица у игри."
 
 #: gui/text/tips/spartan_hoplites.txt:3
 msgid "Champion Infantry available to the Spartans."
-msgstr ""
+msgstr "(*) Пешадија шампион на располагању Спартанцима."
 
 #: gui/text/tips/spartan_hoplites.txt:4
 msgid ""
@@ -6679,11 +6679,11 @@ msgstr "КОПЉОНОША"
 
 #: gui/text/tips/spearmen.txt:2
 msgid "The basic melee infantry for every faction in the game."
-msgstr ""
+msgstr "(*) Основна пјешадија у блиској борби за сваку фракцију у игри."
 
 #: gui/text/tips/spearmen.txt:3
 msgid "Used against cavalry for an attack bonus."
-msgstr ""
+msgstr "(*) Користи се против коњице као бонус за напад."
 
 #: gui/text/tips/spearmen.txt:4
 msgid "Decent hack attack make them good front line troops."
@@ -6723,7 +6723,7 @@ msgstr "Регрутуј исцелитеље да лече твоје једи�
 
 #: gui/text/tips/temples.txt:4
 msgid "Research healing technologies."
-msgstr ""
+msgstr "(*) Истражите технологије лечења."
 
 #: gui/text/tips/temples.txt:5
 msgid "Its aura heals nearby units."
@@ -6731,11 +6731,11 @@ msgstr "(*) Његова аура лечи оближње јединице."
 
 #: gui/text/tips/temples.txt:6
 msgid "Garrison wounded units inside for quicker healing."
-msgstr ""
+msgstr "(*) Гарнизон је ранио јединице унутра ради бржег лечења."
 
 #: gui/text/tips/territory_decay.txt:1
 msgid "TERRITORY DECAY"
-msgstr ""
+msgstr "(*) ТЕРИТОРИЈСКИ ПРОМЕТ"
 
 #: gui/text/tips/territory_decay.txt:2
 msgid ""
@@ -6756,7 +6756,7 @@ msgstr ""
 
 #: gui/text/tips/theater.txt:1
 msgid "THEATER"
-msgstr ""
+msgstr "(*) ПОЗОРИШТЕ"
 
 #: gui/text/tips/theater.txt:2
 msgid ""
@@ -6801,11 +6801,11 @@ msgstr "РАТНИ СЛОНОВИ"
 
 #: gui/text/tips/war_elephants.txt:2
 msgid "Huge beasts from Africa and India, trained for war."
-msgstr ""
+msgstr "(*) Огромне звери из Африке и Индије, обучене за рат."
 
 #: gui/text/tips/war_elephants.txt:3
 msgid "High Food and Metal cost, but very powerful."
-msgstr ""
+msgstr "(*) Висока цена хране и метала, али веома моћна."
 
 #: gui/text/tips/war_elephants.txt:4
 msgid ""
@@ -6819,11 +6819,11 @@ msgstr "КИТОВИ"
 
 #: gui/text/tips/whales.txt:2
 msgid "An oceanic resource."
-msgstr ""
+msgstr "(*) Океански ресурс."
 
 #: gui/text/tips/whales.txt:3
 msgid "2000 Food."
-msgstr ""
+msgstr "(*) 2000 Фоод."
 
 #: gui/text/tips/whales.txt:4
 msgid "Gatherable by Fishing Boats after the whale is killed."
@@ -6914,7 +6914,7 @@ msgstr "Месо "
 
 #: simulation/data/resources/metal.jsondescription
 msgid "Mine from metal mines or quarries."
-msgstr ""
+msgstr "(*) Рудник из рудника метала или каменолома."
 
 #. Translation: Word as used at the beginning of a sentence or as a single-
 #. word sentence.
@@ -6967,7 +6967,7 @@ msgstr "рушевине"
 
 #: simulation/data/resources/stone.jsondescription
 msgid "Mine from rocks, stone quarries or ruins."
-msgstr ""
+msgstr "(*) Мој из камења, каменолома или рушевина."
 
 #. Translation: Word as used at the beginning of a sentence or as a single-
 #. word sentence.
