@@ -74,7 +74,7 @@ msgctxt "damage type"
 msgid ""
 "Damage caused by sharp objects cutting or chopping, like with a sword or an "
 "axe."
-msgstr ""
+msgstr "(*) Оштећења узрокована резањем или сецкањем оштрих предмета, попут мача или секире."
 
 #: simulation/data/damage_types/hack.jsonname
 msgctxt "damage type"
@@ -96,7 +96,7 @@ msgctxt "damage type"
 msgid ""
 "Damage caused by venomous or poisoned objects, like a snake or a poisoned "
 "weapon."
-msgstr ""
+msgstr "(*) Оштећења узрокована отровним или отровним предметима, попут змије или отровног оружја."
 
 #: simulation/data/damage_types/poison.jsonname
 msgctxt "damage type"

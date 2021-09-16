@@ -505,7 +505,7 @@ msgstr "херојска коњица"
 msgid ""
 "\n"
 "        "
-msgstr ""
+msgstr "(*) \n        "
 
 #: simulation/templates/template_unit_hero_cavalry_archer.xml:24
 msgid "Hero Cavalry Archer"
@@ -694,7 +694,7 @@ msgstr "трговачки брод"
 msgid ""
 "Trade between docks. Garrison a Trader aboard for additional profit (+20% "
 "for each garrisoned). Gather profitable aquatic treasures."
-msgstr ""
+msgstr "(*) Трговина између докова. Гаррисон а Традер на броду ради додатне добити (+20% за сваког гарнизона). Скупите профитабилно водено благо."
 
 #: simulation/templates/template_unit_ship_merchant.xml:21
 #: simulation/templates/template_unit_support_trader.xml:15
@@ -1540,7 +1540,7 @@ msgid ""
 "Trade between docks. Garrison a Trader aboard for additional profit (+20% "
 "for each garrisoned). Gather profitable aquatic treasures. Carthaginians "
 "have +25% sea trading bonus."
-msgstr ""
+msgstr "(*) Трговина између докова. Гаррисон а Традер на броду ради додатне добити (+20% за сваког гарнизона). Скупите профитабилно водено благо. Картажани имају +25% бонуса за трговину на мору."
 
 #: simulation/templates/units/cart/ship_quinquereme.xml:10
 msgid "Ḥameš-Mašōt"
@@ -1930,7 +1930,7 @@ msgid ""
 "Financial Reorganization: Allied with Rome, Philip reorganized the country's"
 " internal affairs and finances, leaving as a legacy reopened mines and a new"
 " currency. Gain a slow trickle of metal."
-msgstr ""
+msgstr "(*) Финансијска реорганизација: У савезу са Римом, Пхилип је реорганизовао унутрашње послове и финансије земље, остављајући као наследство поново отворене руднике и нову валуту. Лагано капљите метал."
 
 #: simulation/templates/units/mace/cavalry_javelineer_b.xml:7
 msgid "Odrysian Skirmish Cavalry"
@@ -2145,7 +2145,7 @@ msgstr "(*) АА ока ДевА нА мприиа"
 msgid ""
 "Hero Special: \"Edicts of Ashoka\" - Edict Pillars of Ashoka can be built "
 "during Ashoka's lifetime."
-msgstr ""
+msgstr "(*) Посебан херој: "Ашокини едикти" - Едиктни стубови Ашоке могу се изградити током живота Ашоке."
 
 #: simulation/templates/units/maur/hero_chanakya.xml:9
 msgid "Acharya Chanakya"
@@ -2478,7 +2478,7 @@ msgstr "(*) Тамкарум Арами"
 msgid ""
 "Trade resources between your own markets and those of your allies. Persians "
 "have a +25% land trading bonus."
-msgstr ""
+msgstr "(*) Тргујте ресурсима између сопственог тржишта и тржишта својих савезника. Персијанци имају +25% бонуса за трговање земљиштем."
 
 #: simulation/templates/units/plane.xml:5
 msgctxt "Name of an attack of a World War II fighter plane."

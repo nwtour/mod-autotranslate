@@ -22,7 +22,7 @@ msgstr ""
 msgid ""
 "Opening %(url)s\n"
 " in default web browser. Please wait…"
-msgstr ""
+msgstr "(*) Отварање\n %(url)s у подразумеваном веб прегледачу. Сачекајте ... ¦"
 
 #: gui/common/functions_msgbox.js:28
 msgid "Opening page"
@@ -31,28 +31,28 @@ msgstr "Отварање странице"
 #: gui/common/l10n.js:9
 msgctxt "filesize unit"
 msgid "B"
-msgstr ""
+msgstr "(*) Б"
 
 #: gui/common/l10n.js:10
 msgctxt "filesize unit"
 msgid "KiB"
-msgstr ""
+msgstr "(*) КиБ"
 
 #: gui/common/l10n.js:11
 msgctxt "filesize unit"
 msgid "MiB"
-msgstr ""
+msgstr "(*) МиБ"
 
 #: gui/common/l10n.js:12
 msgctxt "filesize unit"
 msgid "GiB"
-msgstr ""
+msgstr "(*) ГиБ"
 
 #. Translation: For example: 123.4 KiB
 #: gui/common/l10n.js:33
 #, javascript-format
 msgid "%(filesize)s %(unit)s"
-msgstr ""
+msgstr "(*)  %(filesize)s   %(unit)s "
 
 #. Translation: Time-format string. See http://userguide.icu-
 #. project.org/formatparse/datetime
@@ -74,7 +74,7 @@ msgstr ","
 #, javascript-format
 msgctxt "Mod comparison"
 msgid "%(mod)s (%(version)s)"
-msgstr ""
+msgstr "(*)  %(mod)s  ( %(version)s )"
 
 #: gui/common/mod.js:31
 msgid ", "
@@ -96,72 +96,72 @@ msgstr "Активно: %(mods)s"
 msgid ""
 "[font=\"sans-bold-20\"]You tried to start the game with incompatible or "
 "missing mods![/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-20\"]Покушали сте да покренете игру са некомпатибилним или недостајућим модовима![/font]"
 
 #: gui/incompatible_mods/incompatible_mods.txt:2
 msgid "[font=\"sans-16\"]"
-msgstr ""
+msgstr "(*) _ЛАЛАЛА_"
 
 #: gui/incompatible_mods/incompatible_mods.txt:3
 msgid ""
 "Solve the compatibility issue by disabling invalid mods or enabling required"
 " dependencies. You can then save & start the game."
-msgstr ""
+msgstr "(*) Решите проблем компатибилности тако што ћете онемогућити неважеће модове или омогућити потребне зависности. Тада можете сачувати и покренути игру."
 
 #: gui/incompatible_mods/incompatible_mods.txt:5
 msgid ""
 "Incompatible mods will appear in red in the list of enabled mods (bottom "
 "panel). Dependencies can be added by enabling them in the upper panel."
-msgstr ""
+msgstr "(*) Некомпатибилни модови појавит ће се црвеном бојом на листи омогућених модова (доња плоча). Зависности се могу додати омогућавањем на горњој табли."
 
 #: gui/incompatible_mods/incompatible_mods.txt:6
 msgid "[/font]"
-msgstr ""
+msgstr "(*) _ЛАЛАЛА_"
 
 #: gui/incompatible_mods/incompatible_mods.xml:(caption):12
 msgid "Incompatible mods"
-msgstr ""
+msgstr "(*) Некомпатибилни модови"
 
 #: gui/incompatible_mods/incompatible_mods.xml:(caption):19
 msgid "Ok"
-msgstr ""
+msgstr "(*) У реду"
 
 #: gui/modio/Disclaimer.txt:1
 msgid "0 A.D. Empires Ascendant mod.io Disclaimer"
-msgstr ""
+msgstr "(*) 0 А.Д. Емпирес Асцендант мод.ио Одрицање од одговорности"
 
 #: gui/modio/Disclaimer.txt:3
 msgid "Document Date: 2018-10-12"
-msgstr ""
+msgstr "(*) Датум документа: 2018-10-12"
 
 #: gui/modio/Disclaimer.txt:5
 msgid "You are about to connect to the mod.io online service."
-msgstr ""
+msgstr "(*) Ускоро ћете се повезати са услугом мод.ио."
 
 #: gui/modio/Disclaimer.txt:6
 msgid ""
 "This service provides an easy way to download and install community-made "
 "mods and is provided by DBolical Pty Ltd, the company behind IndieDB and "
 "ModDB."
-msgstr ""
+msgstr "(*) Ова услуга пружа једноставан начин за преузимање и инсталирање модова направљених у заједници, а пружа је ДБолицал Пти Лтд, компанија која стоји иза ИндиеДБ и МодДБ."
 
 #: gui/modio/Disclaimer.txt:7
 msgid "The service is for users age 13 and over."
-msgstr ""
+msgstr "(*) Услуга је намењена корисницима старијим од 13 година."
 
 #: gui/modio/Disclaimer.txt:9
 msgid ""
 "Wildfire Games has taken care to make this connection secure and reviewed "
 "the mods for security flaws, but cannot guarantee that this does not pose "
 "any risks."
-msgstr ""
+msgstr "(*) Вилдфире Гамес се побринуо да ова веза буде сигурна и прегледао је модове за безбедносне недостатке, али не може гарантовати да то не представља никакав ризик."
 
 #: gui/modio/Disclaimer.txt:11
 msgid ""
 "By using the service, you understand that mod.io's Terms of Use and Privacy "
 "Policy apply and that Wildfire Games is not liable for any damages resulting"
 " from this service."
-msgstr ""
+msgstr "(*) Коришћењем услуге разумете да се примењују Услови коришћења и политика приватности мод.ио -а и да Вилдфире игре нису одговорне за било какву штету насталу овом услугом."
 
 #: gui/modio/modio.js:80
 #, javascript-format
@@ -170,12 +170,12 @@ msgid ""
 "Game ID could not be retrieved.\n"
 "\n"
 "%(technicalDetails)s"
-msgstr ""
+msgstr "(*) Преузимање игре није успело.\n"
 
 #: gui/modio/modio.js:83
 msgctxt "mod.io error message"
 msgid "Initialization Error"
-msgstr ""
+msgstr "(*) Грешка при иницијализацији"
 
 #: gui/modio/modio.js:84 gui/modio/modio.js:95 gui/modio/modio.js:106
 msgid "Retry"
@@ -193,12 +193,12 @@ msgid ""
 "Mod List could not be retrieved.\n"
 "\n"
 "%(technicalDetails)s"
-msgstr ""
+msgstr "(*) Попис модова није могуће преузети.\n"
 
 #: gui/modio/modio.js:94
 msgctxt "mod.io error message"
 msgid "Fetch Error"
-msgstr ""
+msgstr "(*) Грешка при преузимању"
 
 #: gui/modio/modio.js:102
 #, javascript-format
@@ -207,12 +207,12 @@ msgid ""
 "File download failed.\n"
 "\n"
 "%(technicalDetails)s"
-msgstr ""
+msgstr "(*) Преузимање датотеке није успело.\n"
 
 #: gui/modio/modio.js:105
 msgctxt "mod.io error message"
 msgid "Download Error"
-msgstr ""
+msgstr "(*) Грешка при преузимању"
 
 #: gui/modio/modio.js:113
 #, javascript-format
@@ -221,20 +221,20 @@ msgid ""
 "File verification error.\n"
 "\n"
 "%(technicalDetails)s"
-msgstr ""
+msgstr "(*) Грешка при верификацији датотеке.\n"
 
 #: gui/modio/modio.js:116
 msgctxt "mod.io error message"
 msgid "Verification Error"
-msgstr ""
+msgstr "(*) Грешка при верификацији"
 
 #: gui/modio/modio.js:133
 msgid "Initializing mod.io interface."
-msgstr ""
+msgstr "(*) Иницијализација интерфејса мод.ио."
 
 #: gui/modio/modio.js:134
 msgid "Initializing"
-msgstr ""
+msgstr "(*) Иницијализација"
 
 #: gui/modio/modio.js:136 gui/modmod/modmod.xml:(caption):196
 msgid "Cancel"
@@ -243,32 +243,32 @@ msgstr "Обустави"
 #: gui/modio/modio.js:223
 #, javascript-format
 msgid "Invalid mod: %(error)s"
-msgstr ""
+msgstr "(*) Неважећи мод: %(error)s "
 
 #: gui/modio/modio.js:246
 msgid "Fetching and updating list of available mods."
-msgstr ""
+msgstr "(*) Преузимање и ажурирање листе доступних модова."
 
 #: gui/modio/modio.js:247
 msgid "Updating"
-msgstr ""
+msgstr "(*) Ажурирање"
 
 #: gui/modio/modio.js:249
 msgid "Cancel Update"
-msgstr ""
+msgstr "(*) Откажи ажурирање"
 
 #: gui/modio/modio.js:265
 #, javascript-format
 msgid "Downloading “%(modname)s”"
-msgstr ""
+msgstr "(*) Преузимање „ %(modname)s ”"
 
 #: gui/modio/modio.js:268
 msgid "Downloading"
-msgstr ""
+msgstr "(*) Преузимање"
 
 #: gui/modio/modio.js:270
 msgid "Cancel Download"
-msgstr ""
+msgstr "(*) Откажи преузимање"
 
 #. Translation: Mod file download indicator. Current size over expected final
 #. size, with
@@ -276,7 +276,7 @@ msgstr ""
 #: gui/modio/modio.js:337
 #, javascript-format
 msgid "%(current)s / %(total)s (%(percent)s%%)"
-msgstr ""
+msgstr "(*)  %(current)s  /  %(total)s  ( %(percent)s %%)"
 
 #. Translation: Mod file download status message.
 #: gui/modio/modio.js:347
@@ -285,7 +285,7 @@ msgid ""
 "Time Elapsed: %(elapsed)s\n"
 "Estimated Time Remaining: %(remaining)s\n"
 "Average Speed: %(avgSpeed)s"
-msgstr ""
+msgstr "(*) Време које је протекло:\n\nПроцењено преостало време: %(elapsed)s  %(remaining)s Просечна брзина: %(avgSpeed)s "
 
 #: gui/modio/modio.js:349
 msgid "∞"
@@ -297,11 +297,11 @@ msgstr "бесконачно"
 #: gui/modio/modio.js:351
 #, javascript-format
 msgid "%(number)s %(unit)s/s"
-msgstr ""
+msgstr "(*)  %(number)s   %(unit)s Вацхии Гаја"
 
 #: gui/modio/modio.xml:(caption):18
 msgid "mod.io Mods"
-msgstr ""
+msgstr "(*) мод.ио Модс"
 
 #: gui/modio/modio.xml:(caption):25 gui/modmod/modmod.xml:(caption):70
 msgid "Available Mods"
@@ -309,7 +309,7 @@ msgstr "Доступни модови:"
 
 #: gui/modio/modio.xml:(caption):82
 msgid "Filter valid mods"
-msgstr ""
+msgstr "(*) Филтрирајте важеће модове"
 
 #: gui/modio/modio.xml:(caption):88
 msgid "Back"
@@ -317,11 +317,11 @@ msgstr "Назад"
 
 #: gui/modio/modio.xml:(caption):93
 msgid "Refresh List"
-msgstr ""
+msgstr "(*) Освежи листу"
 
 #: gui/modio/modio.xml:(caption):98
 msgid "Download"
-msgstr ""
+msgstr "(*) Преузимање"
 
 #: gui/modio/modio.xml:(heading):54 gui/modmod/modmod.xml:(heading):90
 #: gui/modmod/modmod.xml:(heading):130
@@ -340,7 +340,7 @@ msgstr "Ознака мода"
 
 #: gui/modio/modio.xml:(heading):63
 msgid "File Size"
-msgstr ""
+msgstr "(*) Величина фајла"
 
 #: gui/modio/modio.xml:(heading):66 gui/modmod/modmod.xml:(heading):102
 #: gui/modmod/modmod.xml:(heading):142
@@ -356,7 +356,7 @@ msgstr "Филтер"
 msgid ""
 "0 A.D. is designed to be easily modded. Mods are distributed in the form of "
 ".pyromod files, which can be opened like .zip files."
-msgstr ""
+msgstr "(*) 0 А.Д. је дизајнирано да се лако модификује. Модови се дистрибуирају у облику .пиромод датотека, које се могу отворити попут .зип датотека."
 
 #: gui/modmod/help/help.txt:3
 msgid ""
@@ -372,7 +372,7 @@ msgstr ""
 msgid ""
 "For more information about modding the game, see the Modding Guide online "
 "(click the Modding Guide button below)."
-msgstr ""
+msgstr "(*) За више информација о модификовању игре погледајте Водич за модерирање на мрежи (кликните дугме Моддинг Гуиде испод)."
 
 #: gui/modmod/help/help.txt:7
 msgid ""
@@ -385,7 +385,7 @@ msgstr ""
 
 #: gui/modmod/help/help.xml:(caption):13
 msgid "Pyrogenesis Mod Selector"
-msgstr ""
+msgstr "(*) Селектор модова пирогенезе"
 
 #: gui/modmod/help/help.xml:(caption):21
 msgid "Close"
@@ -393,15 +393,15 @@ msgstr "Затвори"
 
 #: gui/modmod/help/help.xml:(caption):25
 msgid "Modding Guide"
-msgstr ""
+msgstr "(*) Моддинг Гуиде"
 
 #: gui/modmod/help/help.xml:(caption):29
 msgid "Visit mod.io"
-msgstr ""
+msgstr "(*) Посетите мод.ио"
 
 #: gui/modmod/modmod.js:67
 msgid "This mod does not exist"
-msgstr ""
+msgstr "(*) Овај мод не постоји"
 
 #: gui/modmod/modmod.js:152 gui/modmod/modmod.js:449
 msgctxt "mod activation"
@@ -410,12 +410,12 @@ msgstr "Омогући"
 
 #: gui/modmod/modmod.js:168
 msgid "Dependencies not met"
-msgstr ""
+msgstr "(*) Зависности нису испуњене"
 
 #: gui/modmod/modmod.js:450
 msgctxt "mod activation"
 msgid "Disable"
-msgstr ""
+msgstr "(*) Онемогући"
 
 #: gui/modmod/modmod.js:458
 msgid "No mod has been selected."
@@ -423,7 +423,7 @@ msgstr "Ниједан мод није изабран."
 
 #: gui/modmod/modmod.js:461
 msgid "Enable at least 0ad mod"
-msgstr ""
+msgstr "(*) Омогући најмање 0ад мод"
 
 #: gui/modmod/modmod.xml:(caption):12
 msgid "Modifications"
@@ -435,7 +435,7 @@ msgstr "Поништи"
 
 #: gui/modmod/modmod.xml:(caption):51
 msgid "Filter compatible"
-msgstr ""
+msgstr "(*) Компатибилан са филтером"
 
 #: gui/modmod/modmod.xml:(caption):63
 msgid "Description"
@@ -447,7 +447,7 @@ msgstr "Омогућени модови"
 
 #: gui/modmod/modmod.xml:(caption):182
 msgid "Visit Website"
-msgstr ""
+msgstr "(*) Посетите сајт"
 
 #: gui/modmod/modmod.xml:(caption):191
 msgid "Quit"
@@ -455,11 +455,11 @@ msgstr "Изађи"
 
 #: gui/modmod/modmod.xml:(caption):201
 msgid "Help"
-msgstr ""
+msgstr "(*) Помоћ"
 
 #: gui/modmod/modmod.xml:(caption):206
 msgid "Download Mods"
-msgstr ""
+msgstr "(*) Преузмите модове"
 
 #: gui/modmod/modmod.xml:(caption):211
 msgid "Save Configuration"
@@ -467,7 +467,7 @@ msgstr "Сачувај конфигурацију"
 
 #: gui/modmod/modmod.xml:(caption):216
 msgid "Save and Restart"
-msgstr ""
+msgstr "(*) Сачувај и поново покрени"
 
 #: gui/modmod/modmod.xml:(heading):96 gui/modmod/modmod.xml:(heading):136
 msgid "(Folder)"
@@ -485,19 +485,19 @@ msgstr "Филтер"
 msgid ""
 "Change the order in which mods are launched. This should match the mods "
 "dependencies."
-msgstr ""
+msgstr "(*) Промените редослед покретања модова. Ово би требало да одговара зависностима модова."
 
 #: gui/modmod/modmodio.js:5
 msgid "Disclaimer"
-msgstr ""
+msgstr "(*) Одрицање одговорности"
 
 #: gui/modmod/modmodio.js:12
 msgid "mod.io Terms"
-msgstr ""
+msgstr "(*) мод.ио Услови"
 
 #: gui/modmod/modmodio.js:16
 msgid "mod.io Privacy Policy"
-msgstr ""
+msgstr "(*) мод.ио Политика приватности"
 
 #: gui/msgbox/msgbox.js:25
 msgid "OK"
@@ -508,12 +508,12 @@ msgstr "ОК"
 #. default webbrowser.
 #: gui/termsdialog/termsdialog.js:30
 msgid "View online"
-msgstr ""
+msgstr "(*) Погледај на мрежи"
 
 #: gui/termsdialog/termsdialog.js:38
 #, javascript-format
 msgid "Open %(url)s in the browser."
-msgstr ""
+msgstr "(*) Отвори %(url)s у прегледачу."
 
 #: gui/termsdialog/termsdialog.xml:(caption):15
 msgid "Language"
@@ -521,7 +521,7 @@ msgstr "Језик"
 
 #: gui/termsdialog/termsdialog.xml:(caption):33
 msgid "Decline"
-msgstr ""
+msgstr "(*) Одбити"
 
 #: gui/termsdialog/termsdialog.xml:(caption):38
 msgid "Accept"

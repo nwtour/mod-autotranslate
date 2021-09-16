@@ -18,6 +18,8 @@ die "Usage: merge.pl --lang=<LANG NAME> --po=<PO_FILENAME>\n\texample: --lang=sr
 my $input  = catfile ($Bin, 'A25B', join('', $lang, '.', $po, '.po'));
 my $output = catfile ($Bin, '..', 'l10n', join('', $lang, '.', $po, '.po'));
 
+print "Input file: $input\n";
+
 my @strings = read_file ($input);
 my @output_strings;
 
@@ -34,7 +36,7 @@ while (exists $strings[$i]) {
 	}
 
 	my $found = 0;
-	foreach my $minus (1, 2, 3) {
+	foreach my $minus (1, 2, 3, 4) {
 
 		if ($strings[($i - $minus)] =~ /^msgid\s"(.+)"/) {
 
@@ -49,6 +51,31 @@ while (exists $strings[$i]) {
 				print "$md5 $minus NOT FOUND\n";
 			}
 			last;
+		}
+		elsif ($strings[($i - $minus)] =~ /^msgid\s""/) {
+
+			my $reverse = $minus;
+			my $content = "";
+			while ($reverse) {
+
+				if ($strings[($i - $reverse)] =~ /^"(.+)"$/) {
+
+					my $cur_cntnt = $1;
+					$cur_cntnt =~ s/\n$//;
+					$content .= $cur_cntnt;
+				}
+				$reverse--;
+			}
+			my $md5 = md5_hex ($content);
+			if (exists $translations->{$md5} && $translations->{$md5}{translation} ) {
+
+				push @output_strings, "msgstr \"(*) " . $translations->{$md5}{translation} . "\"\n";
+				$found = 1;
+			}
+			else {
+
+				print "Multiline not found '''$content'''\n";
+			}
 		}
 		else {
 			print "NOTMSGID " . $strings[($i - $minus)] . "\n";

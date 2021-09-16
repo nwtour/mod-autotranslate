@@ -59,7 +59,7 @@ msgstr "(*) Предворје"
 msgid ""
 "Press %(hotkey)s to open the multiplayer lobby page without leaving the "
 "game."
-msgstr ""
+msgstr "(*) Притисните %(hotkey)s за отварање предворја за више играча без напуштања игре."
 
 #: gui/session/MenuButtons.js:161
 msgid "Options"
@@ -569,7 +569,7 @@ msgid ""
 "Note: time warp mode is a developer option, and not intended for use over "
 "long periods of time. Using it incorrectly may cause the game to run out of "
 "memory or crash."
-msgstr ""
+msgstr "(*) Напомена: режим искривљења времена је опција за програмере и није намењен за употребу током дужег временског периода. Неправилно коришћење може узроковати нестанак меморије или пад у игри."
 
 #: gui/session/dialogs/yes_no.xml:(caption):11
 msgid "Question"
@@ -657,7 +657,7 @@ msgstr "Непријатељ"
 msgid ""
 "Bribe a random unit from this player and share its vision during a limited "
 "period."
-msgstr ""
+msgstr "(*) Подмитите насумичну јединицу од овог играча и подијелите његову визију током ограниченог периода."
 
 #: gui/session/diplomacy/playercontrols/SpyRequestButton.js:142
 msgid "A failed bribe will cost you:"
@@ -673,7 +673,7 @@ msgstr "х"
 msgid ""
 "Tribute %(resourceAmount)s %(resourceType)s to %(playerName)s. Shift-click "
 "to tribute %(greaterAmount)s."
-msgstr ""
+msgstr "(*) Поштовање %(resourceAmount)s   %(resourceType)s до %(playerName)s . Притисните Схифт да бисте одали почаст %(greaterAmount)s ."
 
 #: gui/session/input.js:190
 #, javascript-format
@@ -947,7 +947,7 @@ msgstr "Добитак: %(gain)s"
 msgid ""
 "(%(number)s)\n"
 "%(time)s"
-msgstr ""
+msgstr "(*) (\n) %(number)s "
 
 #: gui/session/selection_details.js:282
 msgid "Current/max gatherers"
@@ -1324,7 +1324,7 @@ msgstr "Производни низ"
 msgid ""
 "Click to select grouped units, double-click to focus the grouped units and "
 "right-click to disband the group."
-msgstr ""
+msgstr "(*) Кликните да бисте изабрали груписане јединице, двапут кликните да бисте фокусирали груписане јединице и кликните десним тастером миша да бисте расформирали групу."
 
 #: gui/session/top_panel/BuildLabel.xml:(caption):6
 msgid "Alpha XXV: Yaunā"
@@ -1336,7 +1336,7 @@ msgid ""
 "%(civ)s\n"
 "%(hotkey_civinfo)s / %(hotkey_structree)s: View Civilization Overview / Structure Tree\n"
 "Last opened will be reopened on click."
-msgstr ""
+msgstr "(*) \n\n %(civ)s  /  %(hotkey_civinfo)s : Преглед прегледа цивилизације / стабло структуре %(hotkey_structree)s Последње отворено биће поново отворено након клика."
 
 #: gui/session/top_panel/CounterManager.js:101
 #, javascript-format
@@ -1463,7 +1463,7 @@ msgid ""
 "Select one type of goods you want to modify by clicking on it, and then use "
 "the arrows of the other types to modify their shares. You can also press "
 "%(hotkey)s while selecting one type of goods to bring its share to 100%%."
-msgstr ""
+msgstr "(*) Одаберите једну врсту робе коју желите измијенити кликом на њу, а затим помоћу стрелица других врста измијените њихове удјеле. Такође можете притиснути %(hotkey)s при избору једне врсте робе како би њен удео био 100 %%."
 
 #: gui/session/trade/TradeDialogBarterPanel.js:45
 #, javascript-format
@@ -1608,7 +1608,7 @@ msgstr "(*) Реади"
 msgid ""
 "This is the origin trade market.\n"
 "Right-click to cancel trade route."
-msgstr ""
+msgstr "(*) Ово је изворно трговачко тржиште.\nКликните десним тастером миша да бисте отказали трговачки пут."
 
 #: gui/session/unit_actions.js:631
 msgid "Origin trade market."
@@ -1758,7 +1758,7 @@ msgstr "(*) Ентитет мора бити убијен пре него што
 #: gui/session/unit_actions.js:1820
 msgid ""
 "You cannot destroy this entity as you own less than half the capture points"
-msgstr ""
+msgstr "(*) Не можете уништити овај ентитет јер поседујете мање од половине тачака хватања"
 
 #: gui/session/unit_actions.js:1823
 msgid "This entity is undeletable"

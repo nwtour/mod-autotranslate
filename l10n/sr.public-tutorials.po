@@ -29,21 +29,21 @@ msgid ""
 "Left-click on a Female Citizen and then right-click on a berry bush to make "
 "that Female Citizen gather food. Female Citizens gather vegetables faster "
 "than other units."
-msgstr ""
+msgstr "(*) Кликните левим тастером миша на грађанку, а затим десним тастером миша кликните на бобицу да бисте натерали грађанку да сакупи храну. Грађанке сакупљају поврће брже од осталих јединица."
 
 #: maps/tutorials/introductory_tutorial.js:15
 msgid ""
 "Select the Citizen Soldier, right-click on a tree near the Civic Center to "
 "begin gathering wood. Citizen Soldiers gather wood faster than Female "
 "Citizens."
-msgstr ""
+msgstr "(*) Одаберите Цитизен Солдиер, кликните десним тастером миша на дрво у близини Грађанског центра да бисте започели сакупљање дрва. Грађански војници скупљају дрва брже од грађанки."
 
 #: maps/tutorials/introductory_tutorial.js:26
 #, javascript-format
 msgid ""
 "Select the Civic Center building and hold %(hotkey)s while clicking on the "
 "Hoplite icon once to begin training a batch of Hoplites."
-msgstr ""
+msgstr "(*) Изаберите зграду Цивиц Центер и држите %(интервентни тастер) с док једном кликнете на икону Хоплите да бисте започели обуку серије Хоплитес."
 
 #: maps/tutorials/introductory_tutorial.js:37
 #: maps/tutorials/introductory_tutorial.js:79
@@ -52,7 +52,7 @@ msgstr ""
 msgid ""
 "Do not forget to press the batch training hotkey while clicking to produce "
 "multiple units."
-msgstr ""
+msgstr "(*) Не заборавите да притиснете интервентни тастер за групну обуку док кликнете да бисте произвели више јединица."
 
 #: maps/tutorials/introductory_tutorial.js:38
 #: maps/tutorials/introductory_tutorial.js:162
@@ -63,21 +63,21 @@ msgstr "(*) Кликните на икону Хоплите."
 msgid ""
 "Select the two idle Female Citizens and build a House nearby by selecting "
 "the House icon. Place the House by left-clicking on a piece of land."
-msgstr ""
+msgstr "(*) Одаберите две незапослене грађанке и саградите кућу у близини избором иконе Куће. Поставите кућу левим кликом на парче земље."
 
 #: maps/tutorials/introductory_tutorial.js:54
 msgid ""
 "When they are ready, select the newly trained Hoplites and assign them to "
 "build a Storehouse beside some nearby trees. They will begin to gather wood "
 "when it's constructed."
-msgstr ""
+msgstr "(*) Кад буду спремни, изаберите тек обучене Хоплите и доделите им да саграде складиште поред дрвећа у близини. Они ће почети да скупљају дрво када оно буде изграђено."
 
 #: maps/tutorials/introductory_tutorial.js:64
 #, javascript-format
 msgid ""
 "Train a batch of Skirmishers by holding %(hotkey)s and clicking on the "
 "Skirmisher icon in the Civic Center."
-msgstr ""
+msgstr "(*) Обучите групу Скирмисхерс држањем %(hotkey)s и кликом на икону Скирмисхер у Грађанском центру."
 
 #: maps/tutorials/introductory_tutorial.js:80
 msgid "Click on the Skirmisher icon."
@@ -87,7 +87,7 @@ msgstr "(*) Кликните на икону Скирмисхер."
 msgid ""
 "Build a Farmstead in an open space beside the Civic Center using any idle "
 "builders."
-msgstr ""
+msgstr "(*) Изградите сеоско имање на отвореном простору поред Грађанског центра користећи све нерадне градитеље."
 
 #: maps/tutorials/introductory_tutorial.js:100
 msgid "Let's wait for the Farmstead to be built."
@@ -98,27 +98,27 @@ msgid ""
 "Once the Farmstead is constructed, its builders will automatically begin "
 "gathering food if there is any nearby. Select the builders and instead make "
 "them construct a Field beside the Farmstead."
-msgstr ""
+msgstr "(*) Када се сеоско имање изгради, његови градитељи ће аутоматски почети сакупљати храну ако је има у близини. Одаберите градитеље и уместо тога их натерајте да направе Поље поред салаша."
 
 #: maps/tutorials/introductory_tutorial.js:136
 msgid ""
 "The Field's builders will now automatically begin gathering food from the "
 "Field. Using the newly created group of skirmishers, get them to build "
 "another House nearby."
-msgstr ""
+msgstr "(*) Градитељи поља сада ће аутоматски почети са прикупљањем хране са поља. Помоћу новостворене групе препуцавача натерајте их да саграде другу кућу у близини."
 
 #: maps/tutorials/introductory_tutorial.js:144
 msgid ""
 "Train a batch of Hoplites at the Civic Center. Select the Civic Center and "
 "with it selected right-click on a tree nearby. Units from the Civic Center "
 "will now automatically gather wood."
-msgstr ""
+msgstr "(*) Обучите групу хоплита у Грађанском центру. Одаберите Грађански центар и с њим одаберите десни клик на дрво у близини. Јединице из Грађанског центра сада ће аутоматски прикупљати дрва."
 
 #: maps/tutorials/introductory_tutorial.js:176
 msgid ""
 "Select the Civic Center, then hover the cursor over the tree and right-click"
 " when you see your cursor change into a wood icon."
-msgstr ""
+msgstr "(*) Одаберите Цивиц Центер, а затим поставите показивач изнад стабла и кликните десним тастером миша када видите да се курсор мења у дрвену икону."
 
 #: maps/tutorials/introductory_tutorial.js:185
 msgid ""
@@ -133,25 +133,25 @@ msgid ""
 "Select the Civic Center again and advance to Town Phase by clicking on the "
 "II icon (you have to wait for the barracks to be built first). This will "
 "allow Town Phase buildings to be constructed."
-msgstr ""
+msgstr "(*) Поново изаберите грађански центар и пређите на градску фазу кликом на икону ИИ (морате сачекати да се касарна прво изгради). Ово ће омогућити изградњу зграда градске фазе."
 
 #: maps/tutorials/introductory_tutorial.js:205
 msgid ""
 "While waiting for the phasing up, you may reassign your idle workers to "
 "gathering the resources you are short of."
-msgstr ""
+msgstr "(*) Док чекате постепено укидање, своје беспослене раднике можете прераспоређивати у прикупљање ресурса који вам недостају."
 
 #: maps/tutorials/introductory_tutorial.js:220
 msgid ""
 "Order the idle Skirmishers to build an outpost to the north east at the edge"
 " of your territory."
-msgstr ""
+msgstr "(*) Наредите бескорисним Скирмисхерима да изграде предстражу на североистоку на ивици ваше територије."
 
 #: maps/tutorials/introductory_tutorial.js:228
 msgid ""
 "Start training a batch of Female Citizens in the Civic Center and set its "
 "rally point to the farm (right click on it)."
-msgstr ""
+msgstr "(*) Почните да обучавате групу грађанки у Грађанском центру и поставите место окупљања на фарму (десни клик на њу)."
 
 #: maps/tutorials/introductory_tutorial.js:246
 #: maps/tutorials/starting_economy_walkthrough.js:345
@@ -162,13 +162,13 @@ msgstr "(*) Кликните на икону Грађанка."
 msgid ""
 "Prepare for an attack by an enemy player. Train more soldiers using the "
 "Barracks, and get idle soldiers to build a Tower near your Outpost."
-msgstr ""
+msgstr "(*) Припремите се за напад непријатељског играча. Обучите више војника у касарни и натерајте беспослене војнике да саграде кулу у близини ваше испоставе."
 
 #: maps/tutorials/introductory_tutorial.js:274
 msgid ""
 "Build a Forge and research the Infantry Training technology (sword icon) to "
 "improve infantry hack attack."
-msgstr ""
+msgstr "(*) Изградите ковачницу и истражите технологију пешадијске обуке (икона мача) да бисте побољшали хакерски напад пешадије."
 
 #: maps/tutorials/introductory_tutorial.js:282
 msgid "The enemy is coming. Train more soldiers to fight off the enemies."
@@ -182,32 +182,32 @@ msgstr "(*) Покушајте да одбијете напад."
 msgid ""
 "The enemy attack has been thwarted. Now build a market and a temple while "
 "you assign new units to gather required resources."
-msgstr ""
+msgstr "(*) Непријатељски напад је осујећен. Сада изградите тржиште и храм док додељујете нове јединице за прикупљање потребних ресурса."
 
 #: maps/tutorials/introductory_tutorial.js:321
 msgid ""
 "Once you meet the City Phase requirements, select your Civic Center and "
 "advance to City Phase."
-msgstr ""
+msgstr "(*) Када испуните услове градске фазе, изаберите свој грађански центар и пређите на градску фазу."
 
 #: maps/tutorials/introductory_tutorial.js:329
 msgid ""
 "While waiting for the phase change, you may train more soldiers at the "
 "Barracks."
-msgstr ""
+msgstr "(*) Док чекате промену фазе, можете обучити више војника у касарни."
 
 #: maps/tutorials/introductory_tutorial.js:337
 msgid ""
 "Now that you are in City Phase, build the Arsenal nearby and then use it to "
 "construct 2 Battering Rams."
-msgstr ""
+msgstr "(*) Сада када сте у фази града, изградите Арсенал у близини, а затим га користите за изградњу 2 осипа за ударање."
 
 #: maps/tutorials/introductory_tutorial.js:359
 msgid ""
 "Stop all your soldiers gathering resources and instead task small groups to "
 "find the enemy Civic Center on the map. Once the enemy's base has been "
 "spotted, send your Siege Engines and all remaining soldiers to destroy it.\n"
-msgstr ""
+msgstr "(*) Зауставите све своје војнике у прикупљању ресурса и уместо тога задајте малим групама да пронађу непријатељски грађански центар на мапи. Када непријатељска база буде уочена, пошаљите своје опсадне моторе и све преостале војнике да је униште.\n"
 
 #: maps/tutorials/introductory_tutorial.js:360
 msgid "Female Citizens should continue to gather resources."
@@ -247,13 +247,13 @@ msgstr ""
 msgid ""
 "\n"
 "Before starting, you can toggle between fullscreen and windowed mode using %(hotkey)s."
-msgstr ""
+msgstr "(*) \nПре него што започнете, можете да се пребацујете између приказа преко целог екрана и режима прозора помоћу %(hotkey)s ."
 
 #: maps/tutorials/starting_economy_walkthrough.js:9
 msgid ""
 "You can change the level of zoom using the mouse wheel and the camera view "
 "using any of your keyboard's arrow keys.\n"
-msgstr ""
+msgstr "(*) Ниво зума можете променити помоћу точкића миша и приказ камере помоћу било ког тастера са стрелицом на тастатури.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:10
 msgid "Adjust the game window to your preferences.\n"
@@ -264,7 +264,7 @@ msgstr "(*) Прилагодите прозор игре својим жељам
 msgid ""
 "\n"
 "You may also toggle between showing and hiding this tutorial panel at any moment using %(hotkey)s.\n"
-msgstr ""
+msgstr "(*) \ нМожете такође у било ком тренутку да се пребацујете између приказивања и сакривања овог водича помоћу %(интервентног тастера) с. \ н"
 
 #: maps/tutorials/starting_economy_walkthrough.js:19
 msgid ""
@@ -321,7 +321,7 @@ msgid ""
 "At this point, food and wood are the most important resources for developing"
 " your economy, so let's start with gathering food. Female Citizens gather "
 "vegetables faster than other units.\n"
-msgstr ""
+msgstr "(*) У овом тренутку, храна и дрво су најважнији ресурси за развој ваше економије, па почнимо са прикупљањем хране. Грађанке сакупљају поврће брже од осталих јединица.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:41
 msgid "There are primarily three ways to select units:\n"
@@ -331,21 +331,21 @@ msgstr "(*) Постоје првенствено три начина за од�
 msgid ""
 "1) Hold the left mouse button and drag a selection rectangle that encloses "
 "the units you want to select.\n"
-msgstr ""
+msgstr "(*) 1) Држите леви тастер миша и превуците правоугаоник за избор који обухвата јединице које желите да изаберете.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:43
 msgid ""
 "2) Click on one of them and then add additional units to your selection by "
 "holding Shift and clicking each additional unit (or also via the above "
 "selection rectangle).\n"
-msgstr ""
+msgstr "(*) 2) Кликните на једну од њих, а затим додајте додатне јединице свом избору држањем Схифт и кликом на сваку додатну јединицу (или такође преко горњег правоугаоника за избор).\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:44
 msgid ""
 "3) Double-click on a unit. This will select every unit of the same type as "
 "the specified unit in your visible window. Triple-click will select all "
 "units of the same type on the entire map.\n"
-msgstr ""
+msgstr "(*) 3) Двапут кликните на јединицу. Ово ће изабрати сваку јединицу истог типа као наведену јединицу у вашем видљивом прозору. Троструким кликом одабраће се све јединице истог типа на целој карти.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:45
 msgid ""
@@ -360,18 +360,18 @@ msgid ""
 "Now, let's gather some wood with your Infantry Citizen Soldiers. Select your"
 " Infantry Citizen Soldiers and order them to gather wood by right-clicking "
 "on the nearest tree."
-msgstr ""
+msgstr "(*) Хајде да скупимо мало дрва са вашим војницима грађанима пјешадије. Одаберите своје војнике грађанске пешадије и наредите им да сакупе дрва десним кликом на најближе дрво."
 
 #: maps/tutorials/starting_economy_walkthrough.js:67
 msgid ""
 "Cavalry Citizen Soldiers are good for hunting. Select your Cavalry and order"
 " him to hunt the chickens around your Civic Center in similar fashion."
-msgstr ""
+msgstr "(*) Коњички грађански војници су добри за лов. Одаберите своју коњицу и наредите му да на сличан начин лови пилиће око вашег Грађанског центра."
 
 #: maps/tutorials/starting_economy_walkthrough.js:78
 msgid ""
 "All your units are now gathering resources. We should train more units!\n"
-msgstr ""
+msgstr "(*) Све ваше јединице сада прикупљају ресурсе. Требало би да обучимо више јединица!\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:79
 msgid ""
@@ -386,19 +386,19 @@ msgstr ""
 #: maps/tutorials/starting_economy_walkthrough.js:80
 msgid ""
 "Rally points are indicated by a small flag at the end of the blue line."
-msgstr ""
+msgstr "(*) Места окупљања означена су малом заставицом на крају плаве линије."
 
 #: maps/tutorials/starting_economy_walkthrough.js:88
 msgid ""
 "Select the Civic Center, then hover the cursor over a tree and right-click "
 "when you see the cursor change into a wood icon."
-msgstr ""
+msgstr "(*) Одаберите Цивиц Центер, а затим задржите показивач изнад стабла и кликните десним тастером миша када видите да се курсор мења у икону дрвета."
 
 #: maps/tutorials/starting_economy_walkthrough.js:97
 msgid ""
 "Now that the rally point is set, we can produce additional units and they "
 "will do their assigned task automatically.\n"
-msgstr ""
+msgstr "(*) Сада када је тачка окупљања постављена, можемо произвести додатне јединице и оне ће аутоматски обавити додијељени задатак.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:98
 msgid ""
@@ -443,7 +443,7 @@ msgstr ""
 msgid ""
 "The newly trained units automatically go to the trees and start gathering "
 "wood.\n"
-msgstr ""
+msgstr "(*) Новообучене јединице аутоматски одлазе до дрвећа и почињу сакупљати дрва. \ Н"
 
 #: maps/tutorials/starting_economy_walkthrough.js:130
 msgid ""
@@ -460,26 +460,26 @@ msgstr ""
 msgid ""
 "Invalid (obstructed) positions will show the building preview overlay in "
 "red."
-msgstr ""
+msgstr "(*) Неважећи (блокирани) положаји ће приказати преклапање прегледа зграде црвеном бојом."
 
 #: maps/tutorials/starting_economy_walkthrough.js:141
 msgid ""
 "The selected Citizens will automatically start constructing the building "
 "once you place the foundation."
-msgstr ""
+msgstr "(*) Одабрани грађани ће аутоматски почети са изградњом зграде када поставите темељ."
 
 #: maps/tutorials/starting_economy_walkthrough.js:152
 msgid ""
 "When construction finishes, the builders default to gathering wood "
 "automatically.\n"
-msgstr ""
+msgstr "(*) Када се изградња заврши, градитељи подразумевано аутоматски прикупљају дрво.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:153
 msgid ""
 "Let's train some Female Citizens to gather more food. Select the Civic "
 "Center, hold Shift and click on the Female Citizen icon to train five Female"
 " Citizens."
-msgstr ""
+msgstr "(*) Хајде да обучимо неке грађанке да прикупе више хране. Одаберите Грађански центар, држите Схифт и кликните на икону Грађанка да обучите пет грађанки."
 
 #: maps/tutorials/starting_economy_walkthrough.js:167
 msgid "Do not forget to hold Shift and click to train several units."
@@ -515,13 +515,13 @@ msgid ""
 "As you have nearly reached the population limit, you must increase it by "
 "building some new structures if you want to train more units. The most cost "
 "effective structure to increase your population limit is the House.\n"
-msgstr ""
+msgstr "(*) Пошто сте скоро достигли ограничење броја становника, морате га повећати изградњом нових структура ако желите обучити више јединица. Најисплативија структура за повећање ограничења броја становника је Кућа.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:207
 msgid ""
 "Now that the units are ready, let's see how to build several Houses in a "
 "row."
-msgstr ""
+msgstr "(*) Сада када су јединице спремне, да видимо како изградити неколико кућа заредом."
 
 #: maps/tutorials/starting_economy_walkthrough.js:212
 msgid ""
@@ -541,34 +541,34 @@ msgstr ""
 msgid ""
 "Reminder: to select only two Female Citizens, click on the first one and "
 "then hold Shift and click on the second one."
-msgstr ""
+msgstr "(*) Подсетник: да бисте изабрали само две грађанке, кликните на прву, а затим држите Схифт и кликните на другу."
 
 #: maps/tutorials/starting_economy_walkthrough.js:246
 msgid ""
 "You may notice that berries are a finite supply of food. We will need a more"
 " lasting food source. Fields produce an unlimited food resource, but are "
 "slower to gather than forageable fruits.\n"
-msgstr ""
+msgstr "(*) Можда ћете приметити да су бобице ограничена залиха хране. Требат ће нам трајнији извор хране. Поља производе неограничене изворе хране, али се скупљају спорије од плодова за исхрану.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:247
 msgid ""
 "But to minimize the distance between a farm and its corresponding food "
 "dropsite, we will first build a Farmstead."
-msgstr ""
+msgstr "(*) Али да бисмо смањили удаљеност између фарме и одговарајуће локације за храну, прво ћемо изградити сеоско имање."
 
 #: maps/tutorials/starting_economy_walkthrough.js:258
 msgid ""
 "Select the three remaining (idle) Female Citizens and order them to build a "
 "Farmstead in the center of the large open area to the west of the Civic "
 "Center.\n"
-msgstr ""
+msgstr "(*) Одаберите три преостале грађанке (у стању мировања) и наредите им да саграде сеоско имање у центру великог отвореног простора западно од Грађанског центра.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:259
 msgid ""
 "We will need a decent chunk of space around the Farmstead to build Fields. "
 "In addition, we can see goats on the west side to further improve our food "
 "gathering efficiency should we ever decide to hunt them.\n"
-msgstr ""
+msgstr "(*) Биће нам потребан пристојан део простора око Фарме за изградњу Поља. Осим тога, можемо видети козе на западној страни како бисмо додатно побољшали ефикасност прикупљања хране ако се икада одлучимо за њихов лов.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:260
 msgid ""
@@ -584,26 +584,26 @@ msgstr ""
 msgid ""
 "When the Farmstead construction is finished, its builders will automatically"
 " look for food, and in this case, they will go after the nearby goats.\n"
-msgstr ""
+msgstr "(*) Када изградња Фармстеад буде завршена, њени градитељи ће аутоматски тражити храну, ау овом случају ће кренути на оближње козе.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:276
 msgid ""
 "But your House builders will only look for something else to build and, if "
 "nothing found, become idle. Let's wait for them to build the Houses."
-msgstr ""
+msgstr "(*) Али ваши градитељи кућа ће тражити само нешто друго за изградњу и, ако ништа не пронађу, постаће беспослени. Сачекајмо да саграде Куће."
 
 #: maps/tutorials/starting_economy_walkthrough.js:292
 msgid ""
 "When both Houses are built, select your two Female Citizens and order them "
 "to build a Field as close as possible to the Farmstead, which is a dropsite "
 "for all types of food."
-msgstr ""
+msgstr "(*) Када буду изграђене обје куће, одаберите своје двије грађанке и наредите им да саграде њиву што је могуће ближе Фарми, која представља мјесто за све врсте хране."
 
 #: maps/tutorials/starting_economy_walkthrough.js:302
 msgid ""
 "When the Field is ready, the builders will automatically start gathering "
 "it.\n"
-msgstr ""
+msgstr "(*) Када поље буде спремно, градитељи ће га аутоматски почети прикупљати.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:303
 msgid ""
@@ -629,7 +629,7 @@ msgstr "(*) Одаберите грађански центар и кликнит
 msgid ""
 "Now click three times on the Female Citizen icon in the bottom right panel "
 "to train three additional farmers."
-msgstr ""
+msgstr "(*) Сада кликните три пута на икону Грађанка у доњем десном панелу да бисте обучили три додатна пољопривредника."
 
 #: maps/tutorials/starting_economy_walkthrough.js:344
 msgid "Click without holding Shift to train a single unit."
@@ -639,7 +639,7 @@ msgstr "(*) Кликните без држања Схифт да бисте об
 msgid ""
 "You can increase the gather rates of your workers by researching new "
 "technologies available in some buildings.\n"
-msgstr ""
+msgstr "(*) Можете повећати стопе прикупљања својих радника истраживањем нових технологија доступних у неким зградама.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:356
 msgid ""
@@ -655,14 +655,14 @@ msgid ""
 "We should start preparing to phase up into Town Phase, which will unlock "
 "many more units and buildings. Select the Civic Center and hover the cursor "
 "over the Town Phase icon to see what is still needed.\n"
-msgstr ""
+msgstr "(*) Требало би да се почнемо припремати за постепену фазу града, која ће откључати још много јединица и зграда. Одаберите грађански центар и задржите показивач изнад иконе градске фазе да видите шта је још потребно.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:372
 msgid ""
 "We now have enough resources, but one structure is missing. Although this is"
 " an economic tutorial, it is nonetheless useful to be prepared for defense "
 "in case of attack, so let's build Barracks.\n"
-msgstr ""
+msgstr "(*) Сада имамо довољно ресурса, али једна структура недостаје. Иако је ово економски водич, ипак је корисно бити спреман за одбрану у случају напада, па хајде да изградимо касарну.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:373
 msgid ""
@@ -685,13 +685,13 @@ msgstr ""
 msgid ""
 "You should now be able to research Town Phase. Select the Civic Center and "
 "click on the technology icon.\n"
-msgstr ""
+msgstr "(*) Сада бисте требали бити у могућности да истражите градску фазу. Одаберите Цивиц Центер и кликните на икону технологије.\n"
 
 #: maps/tutorials/starting_economy_walkthrough.js:395
 msgid ""
 "If you still miss some resources (icon with red overlay), wait for them to "
 "be gathered by your workers."
-msgstr ""
+msgstr "(*) Ако вам и даље недостају неки ресурси (икона са црвеним слојем), сачекајте да их прикупе ваши радници."
 
 #: maps/tutorials/starting_economy_walkthrough.js:409
 msgid ""
@@ -723,20 +723,20 @@ msgstr ""
 msgid ""
 "Perform a similar order queue with the remaining soldiers and the metal mine"
 " in the west."
-msgstr ""
+msgstr "(*) Направите сличан ред наручивања са преосталим војницима и рудником метала на западу."
 
 #: maps/tutorials/starting_economy_walkthrough.js:450
 msgid ""
 "This is the end of the walkthrough. This should give you a good idea of the "
 "basics of setting up your economy."
-msgstr ""
+msgstr "(*) Ово је крај проласка. Ово би вам требало дати добру представу о основама успостављања ваше економије."
 
 #: maps/tutorials/starting_economy_walkthrough.xml:Description:39
 msgid ""
 "This map will give a rough guide for starting the game effectively. Early in"
 " the game the most important thing is to gather resources as fast as "
 "possible so you are able to build enough troops later."
-msgstr ""
+msgstr "(*) Ова мапа ће дати груб водич за ефикасно започињање игре. На почетку игре најважније је прикупити ресурсе што је брже могуће како бисте касније могли изградити довољно трупа."
 
 #: maps/tutorials/starting_economy_walkthrough.xml:Name:39
 msgid "Starting Economy Walkthrough"

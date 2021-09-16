@@ -71,7 +71,7 @@ msgstr "Опрости, треба ми још времена за оснажи�
 msgid ""
 "I cannot help you against %(_player_)s for the time being, I am planning to "
 "attack %(_player_2)s first."
-msgstr ""
+msgstr "(*) Не могу вам помоћи против %(_player_)s за сада планирам напад %(_player_2)s први."
 
 #: simulation/ai/petra/chatHelper.js:27
 #, javascript-format
@@ -187,14 +187,14 @@ msgstr "Твој захтев за миром ми ништа више на зн
 #, javascript-format
 msgid ""
 "My answer to your repeated peace proposal will remain war, %(_player_)s!"
-msgstr ""
+msgstr "(*) Мој одговор на ваш поновљени мировни предлог остаће рат, %(_player_)s !"
 
 #: simulation/ai/petra/chatHelper.js:73
 #, javascript-format
 msgid ""
 "I will accept your offer to become allies, %(_player_)s. We will both "
 "benefit from this partnership."
-msgstr ""
+msgstr "(*) Прихватићу вашу понуду да постанете савезници, %(_ плаиер_) с. Обоје ћемо имати користи од овог партнерства."
 
 #: simulation/ai/petra/chatHelper.js:74
 #, javascript-format
@@ -205,7 +205,7 @@ msgstr "Савез међу нама је добра идеја, %(_player_)s."
 #, javascript-format
 msgid ""
 "Let both of our people prosper from a peaceful association, %(_player_)s."
-msgstr ""
+msgstr "(*) Нека обоје наших људи напредују из мирног удружења, %(_ плаиер_) с."
 
 #: simulation/ai/petra/chatHelper.js:76
 #, javascript-format
@@ -222,28 +222,28 @@ msgstr "%(_player_)s, гледај на нас као на савезнике о
 msgid ""
 "I will ally with you, %(_player_)s, but only if you send me a tribute of "
 "%(_amount_)s %(_resource_)s."
-msgstr ""
+msgstr "(*) Ја ћу се удружити с тобом, %(_player_)s , али само ако ми пошаљете признање %(_amount_)s   %(_resource_)s ."
 
 #: simulation/ai/petra/chatHelper.js:81
 #, javascript-format
 msgid ""
 "%(_player_)s, you must send me a tribute of %(_amount_)s %(_resource_)s "
 "before I accept an alliance with you."
-msgstr ""
+msgstr "(*)  %(_player_)s , морате ми послати данак %(_amount_)s   %(_resource_)s пре него што прихватим савез са вама."
 
 #: simulation/ai/petra/chatHelper.js:82
 #, javascript-format
 msgid ""
 "Unless you send me %(_amount_)s %(_resource_)s, an alliance won’t be formed,"
 " %(_player_)s."
-msgstr ""
+msgstr "(*) Осим ако ми не пошаљете %(_amount_)s   %(_resource_)s , савез се неће формирати, %(_player_)s ."
 
 #: simulation/ai/petra/chatHelper.js:85
 #, javascript-format
 msgid ""
 "%(_player_)s, my offer still stands. I will ally with you only if you send "
 "me a tribute of %(_amount_)s %(_resource_)s."
-msgstr ""
+msgstr "(*)  %(_player_)s , моја понуда и даље важи. Ја ћу се удружити са вама само ако ми пошаљете признање %(_amount_)s   %(_resource_)s ."
 
 #: simulation/ai/petra/chatHelper.js:86
 #, javascript-format
@@ -257,7 +257,7 @@ msgstr "Још увек очекујем %(_amount_)s %(_resource_)s пре не
 msgid ""
 "%(_player_)s, if you do not send me part of the %(_amount_)s %(_resource_)s "
 "tribute soon, I will break off our negotiations."
-msgstr ""
+msgstr "(*) %(_ плаиер_) с, ако ми ускоро не пошаљете део %(_ амоунт_) с %(_ ресоурце_) с трибута, прекинућу наше преговоре."
 
 #: simulation/ai/petra/chatHelper.js:92
 #, javascript-format
@@ -281,42 +281,42 @@ msgstr "Наше предходно савезништво се завршило
 msgid ""
 "I welcome your request for peace between our civilizations, %(_player_)s. I "
 "will accept."
-msgstr ""
+msgstr "(*) Поздрављам ваш захтев за мир између наших цивилизација, %(_player_)s . Прихватићу."
 
 #: simulation/ai/petra/chatHelper.js:100
 #, javascript-format
 msgid ""
 "%(_player_)s, I will accept your neutrality request. May both our "
 "civilizations benefit."
-msgstr ""
+msgstr "(*)  %(_player_)s , Прихватићу ваш захтев за неутралност. Нека обе наше цивилизације имају користи."
 
 #: simulation/ai/petra/chatHelper.js:103
 #, javascript-format
 msgid ""
 "If you send me a tribute of %(_amount_)s %(_resource_)s, I will accept your "
 "neutrality request, %(_player_)s."
-msgstr ""
+msgstr "(*) Ако ми пошаљете признање %(_amount_)s   %(_resource_)s , Прихватићу ваш захтев за неутралност, %(_player_)s ."
 
 #: simulation/ai/petra/chatHelper.js:104
 #, javascript-format
 msgid ""
 "%(_player_)s, if you send me %(_amount_)s %(_resource_)s, I will accept a "
 "neutrality pact."
-msgstr ""
+msgstr "(*)  %(_player_)s , ако ми пошаљете %(_amount_)s   %(_resource_)s , Прихватићу пакт о неутралности."
 
 #: simulation/ai/petra/chatHelper.js:107
 #, javascript-format
 msgid ""
 "%(_player_)s, I will not accept your neutrality request unless you tribute "
 "me %(_amount_)s %(_resource_)s soon."
-msgstr ""
+msgstr "(*)  %(_player_)s , Нећу прихватити ваш захтев о неутралности ако ми не одате почаст %(_amount_)s   %(_resource_)s ускоро."
 
 #: simulation/ai/petra/chatHelper.js:116
 #, javascript-format
 msgid ""
 "%(_player_)s, it would help both of our civilizations if we formed an "
 "alliance. If you become allies with me, I will respond in kind."
-msgstr ""
+msgstr "(*)  %(_player_)s , помогло би обема нашим цивилизацијама ако бисмо основали савез. Ако постанете савезници са мном, ја ћу вам одговорити на исти начин."
 
 #: simulation/ai/petra/chatHelper.js:119
 #, javascript-format
@@ -327,21 +327,21 @@ msgstr "(*)  %(_player_)s , моја понуда за савез је исте�
 #, javascript-format
 msgid ""
 "%(_player_)s, I have rescinded my previous offer for an alliance between us."
-msgstr ""
+msgstr "(*)  %(_player_)s , Повукао сам своју претходну понуду за савез између нас."
 
 #: simulation/ai/petra/chatHelper.js:125
 #, javascript-format
 msgid ""
 "%(_player_)s, I would like to request a neutrality pact between our "
 "civilizations. If you become neutral with me, I will respond in kind."
-msgstr ""
+msgstr "(*)  %(_player_)s , Желео бих да затражим пакт о неутралности између наших цивилизација. Ако са мном постанете неутрални, ја ћу вам одговорити на исти начин."
 
 #: simulation/ai/petra/chatHelper.js:126
 #, javascript-format
 msgid ""
 "%(_player_)s, it would be both to our benefit if we negotiated a neutrality "
 "pact. I will become neutral with you if you do the same."
-msgstr ""
+msgstr "(*)  %(_player_)s , обоје би било у нашу корист ако бисмо преговарали о пакту о неутралности. Постаћу неутрална са вама ако учините исто."
 
 #: simulation/ai/petra/chatHelper.js:129
 #, javascript-format
@@ -353,14 +353,14 @@ msgstr "(*)  %(_player_)s , Одлучио сам да повучем своју
 msgid ""
 "%(_player_)s, as you have failed to respond to my request for peace between "
 "us, I have abrogated my offer."
-msgstr ""
+msgstr "(*)  %(_player_)s , пошто нисте одговорили на мој захтев за мир међу нама, ја сам поништио своју понуду."
 
 #: simulation/ai/petra/data.jsondescription
 msgid ""
 "Petra is the default 0 A.D. AI bot. Please report issues to Wildfire Games (see the link in the main menu).\n"
 "\n"
 "The AI's resource gathering rate and trade gain depend on the difficulty level (Sandbox −58%, Very Easy −44%, Easy −25%, Medium ±0%, Hard +25%, Very Hard +56%). The easiest levels also have a slower research, training, and building rate. In addition, the Sandbox level does not expand nor attack."
-msgstr ""
+msgstr "(*) Петра је подразумевани АИ бот са 0 А.Д. Пријавите проблеме Вилдфире Гамес -у (погледајте везу у главном менију).\n\nСтопа прикупљања ресурса АИ и трговински добитак зависе од нивоа тежине (Сандбок аˆ'58%, Вери Еаси аˆ'44%, Еаси аˆ'25%, Медиум А ± 0%, Хард +25%, Вери Хард + 56%). Најлакши нивои такође имају спорије истраживање, обуку и изградњу. Осим тога, ниво Сандбок -а се не шири нити напада."
 
 #: simulation/ai/petra/data.jsonname
 msgid "Petra Bot"
@@ -439,7 +439,7 @@ msgstr "непријатељ"
 msgid ""
 "%(name)s cannot be built in %(territoryType)s territory. Valid territories: "
 "%(validTerritories)s"
-msgstr ""
+msgstr "(*)  %(name)s не може бити уграђен %(territoryType)s територија. Важеће територије: %(validTerritories)s "
 
 #: simulation/components/BuildRestrictions.js:234
 #, javascript-format
@@ -546,14 +546,14 @@ msgstr "(*) Недовољно ресурса - %(ресоурцеАмоунт1)
 msgid ""
 "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, "
 "%(resourceAmount2)s %(resourceType2)s"
-msgstr ""
+msgstr "(*) Недовољно средстава - %(resourceAmount1)s   %(resourceType1)s ,  %(resourceAmount2)s   %(resourceType2)s "
 
 #: simulation/components/Player.js:351
 #, javascript-format
 msgid ""
 "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, "
 "%(resourceAmount2)s %(resourceType2)s, %(resourceAmount3)s %(resourceType3)s"
-msgstr ""
+msgstr "(*) Недовољно средстава - %(resourceAmount1)s   %(resourceType1)s ,  %(resourceAmount2)s   %(resourceType2)s ,  %(resourceAmount3)s   %(resourceType3)s "
 
 #: simulation/components/Player.js:353
 #, javascript-format
@@ -561,7 +561,7 @@ msgid ""
 "Insufficient resources - %(resourceAmount1)s %(resourceType1)s, "
 "%(resourceAmount2)s %(resourceType2)s, %(resourceAmount3)s "
 "%(resourceType3)s, %(resourceAmount4)s %(resourceType4)s"
-msgstr ""
+msgstr "(*) Недовољно средстава - %(resourceAmount1)s   %(resourceType1)s ,  %(resourceAmount2)s   %(resourceType2)s ,  %(resourceAmount3)s   %(resourceType3)s ,  %(resourceAmount4)s   %(resourceType4)s "
 
 #: simulation/components/ProductionQueue.js:364
 msgid "Entity is being upgraded. Cannot start production."
@@ -643,7 +643,7 @@ msgstr "мала"
 msgid ""
 "Small maps are suitable for 1v1 matches, as players can reach the enemy "
 "quickly while still having some room to expand."
-msgstr ""
+msgstr "(*) Мале карте су погодне за утакмице 1: 1, јер играчи могу брзо доћи до непријатеља, а да им ипак остане простора за проширење."
 
 #: simulation/data/settings/map_sizes.jsonData[2].Name
 msgid "Normal"
@@ -653,13 +653,13 @@ msgstr "нормална"
 msgid ""
 "This map size provides plenty of space for two players, but even eight "
 "players fit."
-msgstr ""
+msgstr "(*) Ова величина карте пружа довољно простора за два играча, али чак осам играча може стати."
 
 #: simulation/data/settings/map_sizes.jsonData[3].Tooltip
 msgid ""
 "This is the ideal mapsize for 4 to 8 players, because there is plenty of "
 "space to expand while the neighbors are quickly reachable."
-msgstr ""
+msgstr "(*) Ово је идеална величина карте за 4 до 8 играча, јер има довољно простора за проширење, док су комшије брзо доступне."
 
 #: simulation/data/settings/map_sizes.jsonData[4].Name
 msgid "Large"
@@ -669,7 +669,7 @@ msgstr "велика"
 msgid ""
 "The large mapsize is recommended when great portions of the map are covered "
 "with water or inaccessible mountains."
-msgstr ""
+msgstr "(*) Велика величина карте препоручује се када су велики делови карте прекривени водом или неприступачним планинама."
 
 #: simulation/data/settings/map_sizes.jsonData[5].Name
 msgid "Very Large"
@@ -680,7 +680,7 @@ msgstr "веома велика"
 msgid ""
 "Very large maps are not recommended as it takes very long to reach the enemy"
 " and the game performance can be reduced."
-msgstr ""
+msgstr "(*) Веома велике карте се не препоручују јер је потребно много времена да се дође до непријатеља и перформансе игре се могу смањити."
 
 #: simulation/data/settings/map_sizes.jsonData[6].Name
 msgid "Giant"
@@ -776,7 +776,7 @@ msgstr "средња"
 #: simulation/data/settings/trigger_difficulties.jsonData[2].Tooltip
 msgid ""
 "Choose this difficulty if you have already a good experience with 0 A.D."
-msgstr ""
+msgstr "(*) Одаберите ову потешкоћу ако већ имате добро искуство са 0 А.Д."
 
 #: simulation/data/settings/trigger_difficulties.jsonData[3].Title
 msgid "Hard"
@@ -798,7 +798,7 @@ msgstr "(*) Одаберите ову потешкоћу ако вам не см
 msgid ""
 "Capture all relics spread across the map and keep them for a certain time to"
 " win the game."
-msgstr ""
+msgstr "(*) Снимите све реликвије раширене по мапи и задржите их одређено време да бисте победили у игри."
 
 #: simulation/data/settings/victory_conditions/capture_the_relic.jsonData.Title
 msgid "Capture the Relic"
@@ -808,7 +808,7 @@ msgstr "(*) Ухватите реликвију"
 msgid ""
 "Defeat opponents by killing all their units and destroying all their "
 "structures."
-msgstr ""
+msgstr "(*) Поразите противнике убијајући све њихове јединице и уништавајући све њихове структуре."
 
 #: simulation/data/settings/victory_conditions/conquest.jsonData.Title
 msgid "Conquest"
@@ -888,7 +888,7 @@ msgstr "(*) (Вара - промовисане јединице)"
 msgid ""
 "Cannot upgrade as distance requirements are not verified or terrain is "
 "obstructed."
-msgstr ""
+msgstr "(*) Не може се надоградити јер захтеви за удаљеност нису потврђени или је терен ометен."
 
 #: simulation/helpers/Commands.js:806
 #, javascript-format

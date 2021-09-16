@@ -163,7 +163,7 @@ msgstr "(*) „Катон Старији, који је овом изјавом 
 msgid ""
 "Send text as a chat message (even if it starts with slash). Example: /say "
 "/help is a great command."
-msgstr ""
+msgstr "(*) Пошаљите текст као поруку за ћаскање (чак и ако почиње са косом цртом). Пример: /саи /хелп је одлична команда."
 
 #. Translation: Chat command
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:156
@@ -356,7 +356,7 @@ msgstr "Неограничена игра"
 msgid ""
 "You have some incompatible mods:\n"
 "%(details)s"
-msgstr ""
+msgstr "(*) Имате неке некомпатибилне модове:\n"
 
 #: gui/lobby/LobbyPage/GameDetails.js:123
 msgid "This mod does not affect MP compatibility"
@@ -659,7 +659,7 @@ msgstr "Обустави"
 msgid ""
 "[font=\"sans-bold-18\"]0 A.D. Empires Ascendant Multiplayer Lobby Privacy "
 "Policy[/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-18\"]0 Правила приватности Емпирес Асцендант за више играча у лобију А.Д[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:3
 msgid "[font=\"sans-bold-14\"]Document Date:[/font] 2020-12-24"
@@ -669,7 +669,7 @@ msgstr "(*) [font=\"sans-bold-14\"]Датум документа:[/font] 2020-12
 msgid ""
 "[font=\"sans-bold-16\"]Personal data processed by Wildfire Games and "
 "purposes of processing:[/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-16\"]Лични подаци које обрађује Вилдфире Гамес и сврха обраде:[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:6
 msgid "[font=\"sans-bold-14\"]1. Player name[/font]"
@@ -679,7 +679,7 @@ msgstr "(*) [font=\"sans-bold-14\"]1. Име играча[/font]"
 msgid ""
 "The player is identified by a name that the player chooses at the time of "
 "registration."
-msgstr ""
+msgstr "(*) Играч је идентификован именом које играч бира приликом регистрације."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:8
 msgid ""
@@ -706,14 +706,14 @@ msgstr "(*) [font=\"sans-bold-14\"]2. Лозинка[/font]"
 msgid ""
 "A player is authenticated using a password that the player chooses at the "
 "time of registration."
-msgstr ""
+msgstr "(*) Аутентификација играча је потврђена лозинком коју играч одабере приликом регистрације."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:13
 msgid ""
 "Wildfire Games only receives an encrypted version of the password, so that "
 "the password chosen by the user is not revealed to Wildfire Games or others "
 "in case of a breach."
-msgstr ""
+msgstr "(*) Вилдфире Гамес прима само шифровану верзију лозинке, тако да се лозинка коју је одабрао корисник не открива Вилдфире Гамес или другима у случају кршења."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:15
 msgid "[font=\"sans-bold-14\"]3. IP address[/font]"
@@ -724,33 +724,33 @@ msgid ""
 "When a player hosts a match in the Multiplayer Lobby, the IP address of that"
 " player is sent to every player who is online, so that other players can "
 "join that game."
-msgstr ""
+msgstr "(*) Када играч угости утакмицу у предворју за више играча, ИП адреса тог играча се шаље сваком играчу који је на мрежи, тако да се и други играчи могу придружити тој игри."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:17
 msgid ""
 "Wildfire Games stores players IP addresses and may infer publicly available "
 "geolocation and internet service provider data (for example \"geolite2\") "
 "from the IP address in order to:"
-msgstr ""
+msgstr "(*) Вилдфире Гамес складишти ИП адресе играча и може закључити јавно доступне податке о геолокацији и добављачима интернет услуга (на пример \ "геолите2 \") са ИП адресе како би:"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:18
 msgid ""
 " 1. Enforce the Terms of Use where persons create multiple accounts without "
 "Wildfire Games permission, in particular after having been banned from the "
 "service for violating the Terms of Use."
-msgstr ""
+msgstr "(*) 1. Примените Услове коришћења ако особе отварају више налога без дозволе Вилдфире Гамес, посебно након што им је забрањен приступ услузи због кршења Услова коришћења."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:19
 msgid ""
 "    IP addresses will not be saved for longer than three years for this "
 "purpose."
-msgstr ""
+msgstr "(*) У ту сврху ИП адресе неће бити сачуване дуже од три године."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:20
 msgid ""
 " 2. Make it possible to bring criminal proceedings in case of a cyberattack "
 "(EU Court of Justice Press Release No 112/16)."
-msgstr ""
+msgstr "(*) 2. Омогућити покретање кривичног поступка у случају сајбер напада (Саопштење за јавност Суда правде ЕУ бр. 112/16)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:21
 msgid ""
@@ -768,7 +768,7 @@ msgstr "(*) [font=\"sans-bold-14\"]4. Присуство на мрежи[/font]"
 msgid ""
 "Which players are currently connected to the Multiplayer Lobby and which "
 "match they joined is shown to all online players."
-msgstr ""
+msgstr "(*) Који су играчи тренутно повезани са предворјем за више играча и којој утакмици су се придружили, приказује се свим играчима на мрежи."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:26
 msgid "[font=\"sans-bold-14\"]5. Chat messages[/font]"
@@ -778,13 +778,13 @@ msgstr "(*) [font=\"sans-bold-14\"]5. Поруке за ћаскање[/font]"
 msgid ""
 "The Multiplayer Lobby features a public chat room that enables players to "
 "discuss the game and organize multiplayer matches."
-msgstr ""
+msgstr "(*) Лоби за више играча садржи јавну собу за ћаскање која омогућава играчима да разговарају о игри и организују утакмице за више играча."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:28
 msgid ""
 "Wildfire Games stores a log of the public chat messages and online presence "
 "to meet the following purposes:"
-msgstr ""
+msgstr "(*) Вилдфире Гамес складишти дневник јавних порука ћаскања и присуства на мрежи ради испуњења следећих сврха:"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:29
 msgid " 1. Moderators may screen chat messages to enforce the Terms of Use."
@@ -794,14 +794,14 @@ msgstr "(*) 1. Модератори могу прегледати поруке �
 msgid ""
 " 2. Wildfire Games may address or resolve bug reports, balancing issues or "
 "feature proposals indicated by players in the chat room."
-msgstr ""
+msgstr "(*) 2. Игре Вилдфире могу адресирати или решавати извештаје о грешкама, проблеме са балансирањем или предлоге функција које указују играчи у соби за ћаскање."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:31
 msgid ""
 " 3. Wildfire Games may assess trends amongst discussed topics, the growth of"
 " the active community and use these indicators as feedback to assess, "
 "improve and direct development of the game and the service."
-msgstr ""
+msgstr "(*) 3. Игре Вилдфире могу процијенити трендове међу темама о којима се расправљало, раст активне заједнице и користити ове показатеље као повратну информацију за процјену, побољшање и усмјеравање развоја игре и услуге."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:33
 msgid "[font=\"sans-bold-14\"]6. Match statistics[/font]"
@@ -811,13 +811,13 @@ msgstr "(*) [font=\"sans-bold-14\"]6. Статистика утакмица[/fon
 msgid ""
 "Players can gain a rating on the Multiplayer Lobby that reflects their skill"
 " at the game."
-msgstr ""
+msgstr "(*) Играчи могу добити рејтинг у предворју за више играча који одражава њихову вјештину у игри."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:35
 msgid ""
 "The rating of all players is published by Wildfire Games and allows players "
 "to focus on competitive or balanced matchmaking if they wish to."
-msgstr ""
+msgstr "(*) Рејтинг свих играча објављује Вилдфире Гамес и омогућава играчима да се усредсреде на такмичарско или уравнотежено повезивање утакмица ако то желе."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:36
 msgid ""
@@ -835,14 +835,14 @@ msgstr "(*) Вилдфире Гамес складишти статистику 
 msgid ""
 " 1. Verify the accuracy of the rating score and identify and enforce Terms "
 "of Use violations relating to that."
-msgstr ""
+msgstr "(*) 1. Проверите тачност оцене и идентификујте и примените кршења Услова коришћења која се односе на то."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:39
 msgid ""
 " 2. Compute and publish community statistics to improve the game and the "
 "service, for example to improve the balancing of the game or to make certain"
 " aspects of the game more appealing."
-msgstr ""
+msgstr "(*) 2. Израчунајте и објавите статистику заједнице да бисте побољшали игру и услугу, на пример да бисте побољшали балансирање игре или учинили одређене аспекте игре привлачнијим."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:41
 msgid "[font=\"sans-bold-14\"]Security of processing:[/font]"
@@ -851,26 +851,26 @@ msgstr "(*) [font=\"sans-bold-14\"]Сигурност обраде:[/font]"
 #: gui/prelobby/common/terms/Privacy_Policy.txt:42
 msgid ""
 "The transmission of personal data is secured using TLS encryption (GDPR 32)."
-msgstr ""
+msgstr "(*) Пренос личних података је обезбеђен коришћењем ТЛС енкрипције (ГДПР 32)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:43
 msgid ""
 "Personal data is protected against unintentional loss in encrypted backups "
 "for additional time (GDPR 30.1.g, GDPR 32)."
-msgstr ""
+msgstr "(*) Лични подаци су заштићени од ненамерног губитка у шифрованим резервним копијама на додатно време (ГДПР 30.1.г, ГДПР 32)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:45
 msgid ""
 "All personal data that Wildfire Games processes is obtained from the user "
 "(GDPR 14)."
-msgstr ""
+msgstr "(*) Сви лични подаци које Вилдфире Гамес обрађује добијају се од корисника (ГДПР 14)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:46
 msgid ""
 "Wildfire Games reserves the right to delete any service data (including "
 "personal data) at any time, except where a user has objected to the erasure "
 "of his or her personal data for performance of a legal claim."
-msgstr ""
+msgstr "(*) Вилдфире Гамес задржава право да у било ком тренутку избрише било које сервисне податке (укључујући личне податке), осим ако се корисник успротивио брисању његових личних података ради подношења правног захтева."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:48
 msgid "[font=\"sans-bold-16\"]Legal basis for the processing:[/font]"
@@ -880,7 +880,7 @@ msgstr "(*) [font=\"sans-bold-16\"]Правни основ за обраду:[/f
 msgid ""
 "1. The processing is necessary for the performance of the service defined in"
 " the terms (GDPR 6.1.b)."
-msgstr ""
+msgstr "(*) 1. Обрада је неопходна за обављање услуге дефинисане условима (ГДПР 6.1.б)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:50
 msgid ""
@@ -895,7 +895,7 @@ msgid ""
 "3. Wildfire Games does not process any further data for the Multiplayer "
 "Lobby and does not ask for consent to process data (GDPR 6.1.a, GDPR 7, GDPR"
 " 8, GDPR 13.2.c)."
-msgstr ""
+msgstr "(*) 3. Вилдфире Гамес не обрађује додатне податке за Лобби за више играча и не тражи сагласност за обраду података (ГДПР 6.1.а, ГДПР 7, ГДПР 8, ГДПР 13.2.ц)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:53
 msgid "[font=\"sans-bold-16\"]User rights:[/font]"
@@ -905,7 +905,7 @@ msgstr "(*) [font=\"sans-bold-16\"]Корисничка права:[/font]"
 msgid ""
 "1. Contact Wildfire Games, by sending an email to webmaster at wildfiregames"
 " dot com (GDPR 13.1.a, GDPR 13.1.b)."
-msgstr ""
+msgstr "(*) 1. Контактирајте Вилдфире Гамес слањем е -поште вебмастеру на вилдфирегамес дот цом (ГДПР 13.1.а, ГДПР 13.1.б)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:55
 msgid "   To exercise any user right, please refer to this contact."
@@ -918,7 +918,7 @@ msgstr "(*) 2. Право приступа личним подацима кој�
 #: gui/prelobby/common/terms/Privacy_Policy.txt:57
 msgid ""
 "3. Right to obtain personal data in a machine-readable format (GDPR 20)."
-msgstr ""
+msgstr "(*) 3. Право на добијање личних података у машински читљивом формату (ГДПР 20)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:58
 msgid "4. Right to rectification of inaccurate personal data (GDPR 16)."
@@ -929,32 +929,32 @@ msgid ""
 "5. Right to erasure of personal data where it is not relevant to the stated "
 "purposes, if the data was processed unlawfully or if the user objects to the"
 " processing and has overriding legitimate grounds (GDPR 17)."
-msgstr ""
+msgstr "(*) 5. Право на брисање личних података ако нису релевантни за наведене сврхе, ако су подаци обрађени незаконито или ако се корисник противи обради и има надмоћне легитимне основе (ГДПР 17)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:60
 msgid ""
 "6. Right to restriction of personal data processing where the accuracy of "
 "the data is contested by the user, if the data was processed unlawfully or "
 "if the user requires the data for a legal claim (GDPR 18)."
-msgstr ""
+msgstr "(*) 6. Право на ограничење обраде личних података ако корисник оспорава тачност података, ако су подаци обрађени незаконито или ако корисник захтева податке за правни захтев (ГДПР 18)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:61
 msgid ""
 "7. Right to object to the processing of personal data concerning him or her "
 "on grounds relating to their particular situation (GDPR 21)."
-msgstr ""
+msgstr "(*) 7. Право на приговор на обраду личних података који се тичу њега или ње на основу њихове посебне ситуације (ГДПР 21)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:62
 msgid ""
 "8. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, "
 "GDPR 77)."
-msgstr ""
+msgstr "(*) 8. Право на подношење жалбе надзорном органу (ГДПР 13.2.д, ГДПР 77)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:63
 msgid ""
 "Requests that are manifestly unfounded or excessive are not responded to or "
 "may be charged (GDPR 12.4, GDPR 12.5)."
-msgstr ""
+msgstr "(*) На захтеве који су очигледно неосновани или прекомерни не одговара се или се може наплатити (ГДПР 12.4, ГДПР 12.5)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:65
 msgid "[font=\"sans-bold-16\"]Wildfire Games obligations:[/font]"
@@ -964,20 +964,20 @@ msgstr "(*) [font=\"sans-bold-16\"]Обавезе за игре Вилдфире
 msgid ""
 " 1. Wildfire Games demonstrates compliance with GDPR (GDPR 5.2 "
 "'accountability')."
-msgstr ""
+msgstr "(*) 1. Вилдфире Гамес показује усклађеност са ГДПР -ом (ГДПР 5.2 „одговорност“)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:67
 msgid ""
 " 2. Wildfire Games documents their processing activities appropriately, in "
 "particular the categories of processed personal data and security measures "
 "to protect it (GDPR 30)."
-msgstr ""
+msgstr "(*) 2. Вилдфире Гамес на одговарајући начин документује њихове активности обраде, посебно категорије обрађених личних података и безбедносне мере за њихову заштиту (ГДПР 30)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:68
 msgid ""
 " 3. Wildfire Games processes personal data lawfully, fairly and "
 "transparently (GDPR 5.1.a, GDPR 12.1)."
-msgstr ""
+msgstr "(*) 3. Вилдфире Гамес законито, поштено и транспарентно обрађује личне податке (ГДПР 5.1.а, ГДПР 12.1)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:69
 msgid ""
@@ -992,27 +992,27 @@ msgstr ""
 msgid ""
 " 5. Wildfire Games does not processes personal data for purposes other than "
 "the specified ones (GDPR 5.1.b, 'purpose limitation', GDPR 13.3)."
-msgstr ""
+msgstr "(*) 5. Вилдфире Гамес не обрађује личне податке у друге сврхе осим наведених (ГДПР 5.1.б, „ограничење сврхе“, ГДПР 13,3)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:71
 msgid ""
 " 6. Wildfire Games does not process personal data that is not needed for the"
 " specified purposes (GDPR 5.1.c, 'data minimization')."
-msgstr ""
+msgstr "(*) 6. Вилдфире Гамес не обрађује личне податке који нису потребни за наведене сврхе (ГДПР 5.1.ц, 'минимизирање података')."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:72
 msgid ""
 " 7. Wildfire Games uses a storage form that does not allow identification of"
 " natural persons for longer than necessary (GDPR 5.1.e 'storage "
 "limitation')."
-msgstr ""
+msgstr "(*) 7. Вилдфире Гамес користи складишни образац који не дозвољава идентификацију физичких лица дуже него што је потребно (ГДПР 5.1.е „ограничење складиштења“)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:73
 msgid ""
 " 8. Wildfire Games secures personal data processing to prevent unauthorised "
 "or unlawful processing and accidental loss (GDPR 5.1.f. 'integrity and "
 "confidentiality')."
-msgstr ""
+msgstr "(*) 8. Вилдфире Гамес штити обраду личних података ради спречавања неовлашћене или незаконите обраде и случајног губитка (ГДПР 5.1.ф. „интегритет и поверљивост“)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:74
 msgid ""
@@ -1026,14 +1026,14 @@ msgstr ""
 msgid ""
 "10. Wildfire Games facilitates the exercise of user rights where possible "
 "(GDPR 12.2), without undue delay (GDPR 12.3)."
-msgstr ""
+msgstr "(*) 10. Вилдфире Гамес олакшава остваривање корисничких права где је то могуће (ГДПР 12.2), без непотребног одлагања (ГДПР 12.3)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:76
 msgid ""
 "11. Wildfire Games informs the users that to exercise their rights, users "
 "might need to provide additional information to identify the natural person "
 "or the data (GDPR 12.6, GDPR 13.2.e)."
-msgstr ""
+msgstr "(*) 11. Вилдфире Гамес обавештава кориснике да ће корисници за остваривање својих права можда морати да пруже додатне информације за идентификацију физичког лица или податке (ГДПР 12.6, ГДПР 13.2.е)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:77
 msgid ""
@@ -1058,13 +1058,13 @@ msgstr ""
 msgid ""
 "For further information on Wildfire Games Privacy Policies, visit "
 "https://trac.wildfiregames.com/wiki/UserDataProtection"
-msgstr ""
+msgstr "(*) За додатне информације о правилима приватности Вилдфире игара посетите хттпс://трац.вилдфирегамес.цом/вики/УсерДатаПротецтион"
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:1
 msgid ""
 "[font=\"sans-bold-18\"]0 A.D. Empires Ascendant Multiplayer Lobby Terms of "
 "Service[/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-18\"]0 Увјети пружања услуге лобија за више играча А.Д. Емпирес Асцендант[/font]"
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:3
 msgid "[font=\"sans-bold-14\"]Document Date:[/font] 2018-10-16"
@@ -1083,7 +1083,7 @@ msgid ""
 "Due to the subject matter of historic warfare, description and depiction of "
 "violence and the language on the Multiplayer Lobby, 0 A.D. and the "
 "Multiplayer Lobby are not directed to young children (COPPA §312.2)."
-msgstr ""
+msgstr "(*) Због теме историјског ратовања, описа и приказа насиља и језика у Лобију за више играча, 0 А.Д. и Лоби за више играча нису усмјерени на малу дјецу (ЦОППА А312.2)."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:8
 msgid "The minimum age to use the Multiplayer Lobby is 13."
@@ -1094,7 +1094,7 @@ msgstr "(*) Минимална старост за коришћење предв
 msgid ""
 "[font=\"sans-bold-14\"]By using the 0 A.D. Multiplayer Lobby, you agree "
 "to:[/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-14\"]Коришћењем 0 А.Д. Мултиплаиер Лобби -а пристајете на:[/font]"
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:11
 msgid " 1. Follow all usage policies."
@@ -1105,14 +1105,14 @@ msgid ""
 " 2. Not use the service with third-party software or mods that prevents the "
 "user from being informed of updated Terms and Conditions, unless authorized "
 "by a Wildfire Games team member."
-msgstr ""
+msgstr "(*) 2. Не користите услугу са софтвером или модовима трећих страна који спречавају корисника да буде обавештен о ажурираним Условима и одредбама, осим ако то одобри члан тима Вилдфире Гамес."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:13
 msgid ""
 " 3. Use the service at your own risk. Wildfire Games does not take "
 "responsibility for the content posted by users or damages resulting from "
 "this service."
-msgstr ""
+msgstr "(*) 3. Користите услугу на сопствену одговорност. Вилдфире Гамес не преузима одговорност за садржај који објављују корисници или штету насталу овом услугом."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:15
 msgid "[font=\"sans-bold-14\"]Wildfire Games reserves the right to:[/font]"
@@ -1122,7 +1122,7 @@ msgstr "(*) [font=\"sans-bold-14\"]Вилдфире Гамес задржава 
 msgid ""
 " 1. Moderate the service, i.e. to enforce the Terms of Use by restricting, "
 "suspending or terminating user accounts."
-msgstr ""
+msgstr "(*) 1. Модерирајте услугу, односно примењујте Услове коришћења ограничавањем, суспендовањем или укидањем корисничких налога."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:17
 msgid " 2. Appoint others to moderate the service."
@@ -1137,26 +1137,26 @@ msgid ""
 " 4. Change the service or the terms. The document date of the terms indicate"
 " its version, and the user is informed of the new terms before being able to"
 " use the service again."
-msgstr ""
+msgstr "(*) 4. Промените услугу или услове. Датум документа термина означава његову верзију, а корисник је обавештен о новим условима пре него што поново може да користи услугу."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:20
 msgid ""
 " 5. Process personal data in accordance with the Lobby Privacy Policy, the "
 "General Data Protection Regulation (GDPR) and the Children's Online Privacy "
 "Protection Act (COPPA) where applicable."
-msgstr ""
+msgstr "(*) 5. Обрађујте личне податке у складу са Политиком приватности Лобија, Општом уредбом о заштити података (ГДПР) и Законом о заштити приватности деце на мрежи (ЦОППА) где је применљиво."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:22
 msgid ""
 "If parts of the terms are held to be illegal or otherwise unenforceable, the"
 " remainder of the terms shall still apply ('severability')."
-msgstr ""
+msgstr "(*) Ако се сматра да су делови услова незаконити или на други начин неизводљиви, остатак услова ће се и даље примењивати („раздвајање“)."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:1
 msgid ""
 "[font=\"sans-bold-18\"]0 A.D. Empires Ascendant Multiplayer Lobby Terms of "
 "Use[/font]"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-18\"]0 А.П. Емпирес Асцендант Мултиплаиер Лобби Услови коришћења[/font]"
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:3
 msgid "[font=\"sans-bold-14\"]Document Date:[/font] 2018-10-13"
@@ -1166,13 +1166,13 @@ msgstr "(*) [font=\"sans-bold-14\"]Датум документа:[/font] 2018-10
 msgid ""
 " 1. Only create one account per person on the service unless authorized by "
 "Wildfire Games."
-msgstr ""
+msgstr "(*) 1. Направите само један налог по особи на услузи осим ако то није одобрило Вилдфире Гамес."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:7
 msgid ""
 " 2. Not impersonate other users of the service and only use your registered "
 "username in multiplayer matches."
-msgstr ""
+msgstr "(*) 2. Не лажно представљајте друге кориснике услуге и само користите своје регистровано корисничко име у утакмицама за више играча."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:8
 msgid " 3. Not post profanity, pejorative terms or pornographic content."
@@ -1183,7 +1183,7 @@ msgid ""
 " 4. Not harass, harm, intimidate, discriminate, threaten, defame, cause "
 "damage to others or purposefully demean the worth of others using this "
 "service."
-msgstr ""
+msgstr "(*) 4. Немојте узнемиравати, наносити штету, застрашивати, дискриминисати, претити, клеветати, наносити штету другима или намерно умањивати вредност других који користе ову услугу."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:10
 msgid ""
@@ -1210,25 +1210,25 @@ msgid ""
 " 8. Not undermine the intended gameplay or purposefully gain unfair "
 "advantages in multiplayer matches (for example cheating, using exploits or "
 "bugs)."
-msgstr ""
+msgstr "(*) 8. Немојте поткопавати планирани начин игре или намерно стећи неправедне предности у утакмицама за више играча (на пример варање, коришћење подвига или грешака)."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:14
 msgid ""
 " 9. Not spam the service and not post large amounts of repetitive or "
 "unwanted messages."
-msgstr ""
+msgstr "(*) 9. Не спамујте услугу и не објављујте велике количине понављајућих или нежељених порука."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:15
 msgid ""
 "10. Not use the service to promote specific goods, services, or products "
 "unless authorized by Wildfire Games."
-msgstr ""
+msgstr "(*) 10. Не користите услугу за промоцију одређене робе, услуга или производа осим ако то није одобрило Вилдфире Гамес."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:17
 msgid ""
 "If a moderator deems your behavior to be inconsistent with these terms, your"
 " account may be restricted, suspended or terminated."
-msgstr ""
+msgstr "(*) Ако модератор сматра да ваше понашање није у складу са овим условима, ваш налог може бити ограничен, суспендован или укинут."
 
 #: gui/prelobby/common/terms/termslobby.js:9
 msgid "Terms of Service"

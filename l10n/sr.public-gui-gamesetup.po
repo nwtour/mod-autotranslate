@@ -823,7 +823,7 @@ msgstr "Забрањен Вам је приступ."
 msgid ""
 "Failed to get local IP of the server (it was assumed to be on the same "
 "network)."
-msgstr ""
+msgstr "(*) Преузимање локалног ИП сервера није успело (претпостављало се да је на истој мрежи)."
 
 #: gui/gamesetup_mp/gamesetup_mp.js:171
 #, javascript-format
@@ -973,25 +973,25 @@ msgstr "“Зевс \\[…] успостави његов закон: мудро
 msgid ""
 "“She \\[Helen] brought to Ilium her dowry, destruction.” \\n— Aeschylus "
 "(“Agamemnon”, 406)"
-msgstr ""
+msgstr "(*) „Она\\nХелен] је донела у Илиум свој мираз, уништење. “\\[Есхил („Агамемнон“, 406)"
 
 #: gui/text/quotes.txt:3
 msgid ""
 "“In every tyrant's heart there springs in the end this poison, that he "
 "cannot trust a friend.” \\n— Aeschylus (“Prometheus Bound”, 224–225)"
-msgstr ""
+msgstr "(*) „У срцу сваког тиранина на крају извире овај отров, који не може веровати пријатељу.“\\nес Есхил („Прометејева веза“, 224–225)"
 
 #: gui/text/quotes.txt:4
 msgid ""
 "“Time in the long run teaches all things.” \\n— Aeschylus (“Prometheus "
 "Bound”, 981)"
-msgstr ""
+msgstr "(*) „Време дугорочно учи све.“\\nес Есхил (а € œПрометхеус Боунда €, 981)"
 
 #: gui/text/quotes.txt:5
 msgid ""
 "“His resolve is not to seem, but to be, the best.” \\n— Aeschylus (“Seven "
 "Against Thebes”, 592)"
-msgstr ""
+msgstr "(*) „Његова одлука није да изгледа, већ да буде најбоља.“\\nЕсхил (Седам против Тебе, 592)"
 
 #: gui/text/quotes.txt:6
 msgid "“A prosperous fool is a grievous burden.” \\n— Aeschylus (fragment 383)"
@@ -1001,13 +1001,13 @@ msgstr "(*) „Успешна будала је тежак терет.“\\n- Е
 msgid ""
 "“The gods help those that help themselves.” \\n— Aesop (“Hercules and the "
 "Wagoner”)"
-msgstr ""
+msgstr "(*) „Богови помажу онима који сами себи помажу.“\\n„Езоп („ Херкул и кола “)"
 
 #: gui/text/quotes.txt:8
 msgid ""
 "“It is thrifty to prepare today for the wants of tomorrow.” \\n— Aesop (“The"
 " Ant and the Grasshopper”)"
-msgstr ""
+msgstr "(*) „Штедљиво је припремити се данас за потребе сутрашњице.“\\n„Езоп („ Мрав и скакавац “)"
 
 #: gui/text/quotes.txt:9
 msgid "“Union gives strength.” \\n— Aesop (“The Bundle of Sticks”)"
@@ -1017,36 +1017,36 @@ msgstr "(*) „Синдикат даје снагу.“\\n„Езоп („ Па�
 msgid ""
 "“Never trust advice from a man in the throes of his own difficulty.” \\n— "
 "Aesop (“The Fox and the Goat”)"
-msgstr ""
+msgstr "(*) „Никада не верујте саветима човека у мукама.“\\n„Езоп („ Лисица и коза “)"
 
 #: gui/text/quotes.txt:11
 msgid ""
 "“Familiarity breeds contempt; acquaintance softens prejudices.” \\n— Aesop "
 "(“The Fox and the Lion”)"
-msgstr ""
+msgstr "(*) „Познавање рађа презир; познанство ублажава предрасуде. “\\n„Езоп („ Лисица и лав “)"
 
 #: gui/text/quotes.txt:12
 msgid ""
 "“Self-conceit may lead to self-destruction.” \\n— Aesop (“The Frog and the "
 "Ox”)"
-msgstr ""
+msgstr "(*) Асабра БактриА¡\\nАсабра БактриА¡"
 
 #: gui/text/quotes.txt:13
 msgid ""
 "“Slow and steady wins the race.” \\n— Aesop (“The Hare and the Tortoise”)"
-msgstr ""
+msgstr "(*) „Полако и упорно побеђује у трци.“\\n„Езоп („ Зец и корњача “)"
 
 #: gui/text/quotes.txt:14
 msgid ""
 "“Better be wise by the misfortunes of others than by your own.” \\n— Aesop "
 "(“The Lion, the Ass, and the Fox Hunting”)"
-msgstr ""
+msgstr "(*) „Боље буди мудар према туђој несрећи него према својој.“\\n„Езоп („ Лав, магарац и лов на лисице “)"
 
 #: gui/text/quotes.txt:15
 msgid ""
 "“Enemies' promises were made to be broken.” \\n— Aesop (“The Nurse and the "
 "Wolf”)"
-msgstr ""
+msgstr "(*) „Обећања непријатеља су направљена да би била прекршена.“\\n„Езоп („ Медицинска сестра и вук “)"
 
 #: gui/text/quotes.txt:16
 msgid "“Any excuse will serve a tyrant.” \\n— Aesop (“The Wolf and the Lamb”)"
@@ -1057,26 +1057,26 @@ msgid ""
 "“If I have done anything noble, that is a sufficient memorial; if I have "
 "not, all the statues in the world will not preserve my memory.” \\n— "
 "Agesilaus II of Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215a)"
-msgstr ""
+msgstr "(*) „Ако сам учинио нешто племенито, то је довољан спомен; ако немам, све статуе на свету неће сачувати моје сећање. “\\n„Агесилај ИИ Спартански (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 215а)"
 
 #: gui/text/quotes.txt:18
 msgid ""
 "“Spartans do not ask how many, only where the enemy are.” \\n— Agis II of "
 "Sparta (Plutarch, “Moralia”, “Sayings of Spartans”, 215d)"
-msgstr ""
+msgstr "(*) „Спартанци не питају колико, већ само где су непријатељи“\\n„Агис ИИ од Спарте (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 215д)"
 
 #: gui/text/quotes.txt:19
 msgid ""
 "“Weep not for me, as I suffer unjustly, I am in a happier situation than my "
 "murderers.” \\n— Agis IV of Sparta upon seeing one of his executioners cry "
 "(Plutarch, “Parallel Lives”, “Agis”, sec. 20)"
-msgstr ""
+msgstr "(*) „Не плачите за мене, јер патим неправедно, у сретнијој сам ситуацији од својих убица.“\\n„Агис ИВ од Спарте када је видео како један од његових џелата плаче (Плутарх,„ Паралелни животи “,„ Агис “, секција 20)"
 
 #: gui/text/quotes.txt:20
 msgid ""
 "“Sex and sleep alone make me conscious that I am mortal.” \\n— Alexander the"
 " Great (Plutarch, “Parallel Lives”, “Alexander”, sec. 22)"
-msgstr ""
+msgstr "(*) „Секс и само спавање ме чине свесним да сам смртна.“\\n„Александар Велики (Плутарх,„ Паралелни животи “,„ Александар “, одељак 22)"
 
 #: gui/text/quotes.txt:21
 msgid ""
@@ -1107,26 +1107,26 @@ msgid ""
 "“If I were not Alexander, I should wish to be Diogenes \\[of Sinope].” \\n— "
 "Alexander the Great, impressed by the simplicity of the philosopher he had "
 "met (Plutarch, “Moralia”, “On the Fortunes of Alexander the Great”, 332a–b)"
-msgstr ""
+msgstr "(*) „Да нисам Александар, волео бих да будем Диоген\\nСинопе]. €\\[„Александар Велики, импресиониран једноставношћу филозофа кога је срео (Плутарх,„ Моралија “,„ На богатству Александра Великог “, 332аа б)"
 
 #: gui/text/quotes.txt:25
 msgid ""
 "“To the strongest!” \\n— Alexander the Great, on his death bed, when asked "
 "who should succeed him as king (Arrian, “The Anabasis of Alexander”, 7.26)"
-msgstr ""
+msgstr "(*) „До најјачих!“\\n„Александар Велики, на самрти, на питање ко би требало да га наследи као краља (Аријан,„ Александрова Анабаза “, 7.26)"
 
 #: gui/text/quotes.txt:26
 msgid ""
 "“I do not steal victory.” \\n— Alexander the Great, when suggested to raid "
 "the Persians at night (Plutarch, “Parallel Lives”, “Alexander”, sec. 31)"
-msgstr ""
+msgstr "(*) „Не крадем победу.“\\n„Александар Велики, када му је предложено да ноћу изврши претрес Персијанаца (Плутарх,„ Паралелни животи “,„ Александар “, одељак 31)"
 
 #: gui/text/quotes.txt:27
 msgid ""
 "“Written laws are like spiders' webs; they will catch, it is true, the weak "
 "and poor, but will be torn in pieces by the rich and powerful.” \\n— "
 "Anacharsis (Plutarch, “Parallel Lives”, “Solon”, sec. 5)"
-msgstr ""
+msgstr "(*) „Писани закони су попут паукове мреже; ухватиће, истина, слабе и сиромашне, али ће их богати и моћни растргати на комаде. “\\n„Анахарзис (Плутарх,„ Паралелни животи “,„ Солон “, одељак 5)"
 
 #: gui/text/quotes.txt:28
 msgid ""
@@ -1141,72 +1141,72 @@ msgid ""
 "“It was not by taking care of the fields, but of ourselves, that we acquired"
 " those fields.” \\n— Anaxandridas II of Sparta (Plutarch, “Moralia”, "
 "“Sayings of Spartans”, 217a)"
-msgstr ""
+msgstr "(*) „Нисмо бринули о пољима, већ о себи, до тих поља смо дошли.“\\n„Анаксандрида ИИ Спартански (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 217а)"
 
 #: gui/text/quotes.txt:30
 msgid ""
 "“States are doomed when they are unable to distinguish good men from bad.” "
 "\\n— Antisthenes (Diogenes Laertius, “The Lives and Opinions of Eminent "
 "Philosophers”, “Antisthenes”, sec. 5)"
-msgstr ""
+msgstr "(*) „Државе су осуђене на пропаст када нису у стању да разликују добре људе од лоших“\\n„Антистена (Диоген Лаертије,„ Животи и мишљења угледних филозофа “,„ Антистен “, одељак 5)"
 
 #: gui/text/quotes.txt:31
 msgid ""
 "“The fox knows many tricks; the hedgehog one good one.” \\n— Archilochus "
 "(fragment 201)"
-msgstr ""
+msgstr "(*) „Лисица зна многе трикове; јеж један добар. “\\n- Архилох (фрагмент 201)"
 
 #: gui/text/quotes.txt:32
 msgid ""
 "“Give me a place to stand, and I shall move the world.” \\n— Archimedes, on "
 "his usage of the lever (Diodorus Siculus, “The Library of History”, "
 "fragments of book XXVI, sec. 18)"
-msgstr ""
+msgstr "(*) „Дајте ми место за стајање и ја ћу померити свет.“\\n„Архимед, о употреби полуге (Диодорус Сицулус,„ Историјска библиотека “, фрагменти књиге КСКСВИ, одељак 18)"
 
 #: gui/text/quotes.txt:33
 msgid ""
 "“It is from their foes, not their friends, that cities learn the lesson of "
 "building high walls and ships of war.” \\n— Aristophanes (“Birds”)"
-msgstr ""
+msgstr "(*) „Градови од својих непријатеља, а не од пријатеља, уче лекцију о изградњи високих зидина и ратних бродова.“\\n„Аристофан („ птице “)"
 
 #: gui/text/quotes.txt:34
 msgid ""
 "“It is obligatory, especially for a philosopher, to sacrifice even one's "
 "closest personal ties in defense of the truth.” \\n— Aristotle (“Nicomachean"
 " Ethics”, I. 1096a.11)"
-msgstr ""
+msgstr "(*) „Обавезно је, посебно за филозофа, да жртвује чак и своје најближе личне везе у одбрану истине.“\\n“Аристотел („ Никомаховска етика “, И. 1096а.11)"
 
 #: gui/text/quotes.txt:35
 msgid ""
 "“Happiness depends on leisure; for we are busy to have leisure, and make war"
 " to live in peace.” \\n— Aristotle (“Nicomachean Ethics”, X. 1177b.4)"
-msgstr ""
+msgstr "(*) „Срећа зависи од слободног времена; јер смо заузети слободом и ратујемо да бисмо живели у миру. “\\n“Аристотел („ Никомаховска етика “, Кс. 1177б.4)"
 
 #: gui/text/quotes.txt:36
 msgid ""
 "“Man is by nature a political animal.” \\n— Aristotle (“Politics”, I. "
 "1253a.2)"
-msgstr ""
+msgstr "(*) „Човек је по природи политичка животиња.“\\n“Аристотел („ Политика “, И. 1253а.2)"
 
 #: gui/text/quotes.txt:37
 msgid ""
 "“Both oligarch and tyrant mistrust the people, and therefore deprive them of"
 " their arms.” \\n— Aristotle (“Politics, V. 1311a.11)"
-msgstr ""
+msgstr "(*) „И олигарх и тиранин не верују народу и зато им одузимају оружје.“\\n“Аристотел („ Политика, В. 1311а.11)"
 
 #: gui/text/quotes.txt:38
 msgid ""
 "“I have gained this by philosophy: that I do without being commanded what "
 "others do only from fear of the law.” \\n— Aristotle (Diogenes Laertius, "
 "“The Lives and Opinions of Eminent Philosophers”, “Aristotle”, sec. 20)"
-msgstr ""
+msgstr "(*) „Ово сам стекао филозофијом: чиним без наређења шта други раде само из страха од закона.“\\n„Аристотел (Диоген Лаерције,„ Животи и мишљења угледних филозофа “,„ Аристотел “, секција 20)"
 
 #: gui/text/quotes.txt:39
 msgid ""
 "“I count him braver who overcomes his desires than him who conquers his "
 "enemies, for the hardest victory is over the self.” \\n— Aristotle "
 "(Stobaeus, “Florilegium”, 223)"
-msgstr ""
+msgstr "(*) „Рачунам га храбријег који савладава своје жеље од оног који побеђује своје непријатеље, јер је најтежа победа над самим собом.“\\n„Аристотел (Стобај,„ Флорилегијум “, 223)"
 
 #: gui/text/quotes.txt:40
 msgid ""
@@ -1235,14 +1235,14 @@ msgid ""
 "“Let every man remind their descendants that they also are soldiers who must"
 " not desert the ranks of their ancestors, or retreat out of cowardice.” \\n—"
 " Aspasia (Plato, “Menexenus”, 246b)"
-msgstr ""
+msgstr "(*) „Нека сваки човек подсети своје потомке да су и они војници који не смеју напустити редове својих предака или се повући из кукавичлука.“\\n„Аспазија (Платон,„ Менексен “, 246б)"
 
 #: gui/text/quotes.txt:43
 msgid ""
 "“Quintilius Varus, give me back my legions!” \\n— Augustus, after three "
 "legions were annihilated in the Battle of the Teutoburg Forest (Suetonius, "
 "“Divus Augustus”, sec. 23)"
-msgstr ""
+msgstr "(*) „Квинтилије Варус, врати ми моје легије!“\\n- Август, након што су три легије уништене у битци код Теутобуршке шуме (Светоније, „Див Аугуст“, секција 23)"
 
 #: gui/text/quotes.txt:44
 msgid ""
@@ -1274,14 +1274,14 @@ msgid ""
 "“How stupid it was for the king to tear out his hair in grief, as if "
 "baldness were a cure for sorrow.” \\n— Bion of Borysthenes (Cicero, "
 "“Tusculan Disputations”, III. 26)"
-msgstr ""
+msgstr "(*) „Како је било глупо да је краљ истргао косу у тузи, као да је ћелавост лек за тугу.“\\nБион Борстен (Цицерон, а € œТусцулан Диспутатионса €, ИИИ. 26)"
 
 #: gui/text/quotes.txt:48
 msgid ""
 "“He has not acquired a fortune; the fortune has acquired him.” \\n— Bion of "
 "Borysthenes, referring to a wealthy miser (Diogenes Laertius, “The Lives and"
 " Opinions of Eminent Philosophers”, “Bion”, sec. 50)"
-msgstr ""
+msgstr "(*) „Није стекао богатство; богатство га је стекло. “\\nБион Борстен, који се односи на богатог шкрца (Диоген Лаертије, „Животи и мишљења угледних филозофа“, „Бион“, одељак 50)"
 
 #: gui/text/quotes.txt:49
 msgid ""
@@ -1309,33 +1309,33 @@ msgstr "(*) „Поставите лопова да ухвати лопова.�
 msgid ""
 "“All mankind rules its women, and we rule all mankind, but our women rule "
 "us.” \\n— Cato the Elder (Plutarch, “Moralia”, “Sayings of Romans”, 198e)"
-msgstr ""
+msgstr "(*) „Све човечанство влада својим женама, а ми управљамо читавим човечанством, али наше жене владају нама.“\\n„Катон Старији (Плутарх,„ Моралија “,„ Изреке Римљана “, 198е)"
 
 #: gui/text/quotes.txt:53
 msgid ""
 "“The worst ruler is one who cannot rule himself.” \\n— Cato the Elder "
 "(Plutarch, “Moralia”, “Sayings of Romans”, 198f)"
-msgstr ""
+msgstr "(*) „Најгори владар је онај који не може сам да влада.“\\n„Катон Старији (Плутарх,„ Моралија “,„ Изреке Римљана “, 198ф)"
 
 #: gui/text/quotes.txt:54
 msgid ""
 "“Wise men learn more from fools than fools from the wise.” \\n— Cato the "
 "Elder (Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 9)"
-msgstr ""
+msgstr "(*) „Мудри људи уче више од будала него будале од мудрих.“\\n„Катон Старији (Плутарх,„ Паралелни животи “,„ Катон Старији “, секција 9)"
 
 #: gui/text/quotes.txt:55
 msgid ""
 "“Moreover, I consider that Carthage should be destroyed.” \\n— Cato the "
 "Elder, who ended all speeches in his later life with this statement "
 "(Plutarch, “Parallel Lives”, “Cato the Elder”, sec. 27)"
-msgstr ""
+msgstr "(*) „Штавише, сматрам да Картагину треба уништити.“\\n„Катон Старији, који је овом изјавом завршио све говоре у свом каснијем животу (Плутарх,„ Паралелни животи “,„ Катон Старији “, одељак 27)"
 
 #: gui/text/quotes.txt:56
 msgid ""
 "“We did not flinch but gave our lives to save Greece when her fate hung on a"
 " razor's edge.” \\n— Corinthian epitaph to their fallen of the Persian Wars "
 "(Plutarch, “Moralia”, “On the Malice of Herodotus”, 870e)"
-msgstr ""
+msgstr "(*) „Нисмо се трзнули, већ смо дали животе да спасимо Грчку када је њена судбина висила о бритвици.“\\n„Коринтски натпис за њихове падове из Персијских ратова (Плутарх,„ Моралија “,„ На Херодотовој злоби “, 870е)"
 
 #: gui/text/quotes.txt:57
 msgid ""
@@ -1351,14 +1351,14 @@ msgid ""
 "“I am Cyrus, who won for the Persians their empire. Therefore do not "
 "begrudge me this bit of earth that covers my bones.” \\n— Cyrus the Great's "
 "epitaph (Plutarch, “Parallel Lives”, “Alexander”, sec. 69)"
-msgstr ""
+msgstr "(*) „Ја сам Кир, који сам освојио за Персијанце своје царство. Зато ми немој замјерити овај комадић земље који ми прекрива кости. “\\n- Натпис Кира Великог (Плутарх, „Паралелни животи“, „Александар“, сек. 69)"
 
 #: gui/text/quotes.txt:59
 msgid ""
 "“I am Darius, the great king, king of kings, the king of Persia, the king of"
 " countries, \\[…] 23 lands in total.” \\n— Darius I (Behistun inscription, "
 "column I, 1–6)"
-msgstr ""
+msgstr "(*) „Ја сам Дарије, велики краљ, краљ краљева, краљ Перзије, краљ земаља,\\nа € ¦] укупно 23 земљишта. €\\[- Дариус И (Бехистунски натпис, колона И, 1 - 6)"
 
 #: gui/text/quotes.txt:60
 msgid ""
@@ -1374,31 +1374,31 @@ msgstr ""
 msgid ""
 "“By desiring little, a poor man makes himself rich.” \\n— Democritus "
 "(fragment)"
-msgstr ""
+msgstr "(*) „Желећи мало, сиромашан човек постаје богат.“\\n- Демокрит (фрагмент)"
 
 #: gui/text/quotes.txt:62
 msgid ""
 "“It is hard to be governed by one's inferior.” \\n— Democritus (fragment)"
-msgstr ""
+msgstr "(*) „Тешко је управљати својим инфериорним.“\\n- Демокрит (фрагмент)"
 
 #: gui/text/quotes.txt:63
 msgid ""
 "“Physical strength is only noble in cattle, it is strength of character that"
 " is noble in men.” \\n— Democritus (fragment)"
-msgstr ""
+msgstr "(*) „Физичка снага је племенита само код стоке, то је снага карактера која је племенита код мушкараца.“\\n- Демокрит (фрагмент)"
 
 #: gui/text/quotes.txt:64
 msgid ""
 "“It is not possible to found a lasting power upon injustice, perjury, and "
 "treachery.” \\n— Demosthenes, in one of his many speeches against the rising"
 " Philip II of Macedon (“Olynthiac II”, 10)"
-msgstr ""
+msgstr "(*) „Није могуће успоставити трајну моћ над неправдом, кривоклетством и издајом.“\\n„Демостен, у једном од својих многобројних говора против растућег Филипа ИИ Македонског („ Олинтијак ИИ “, 10)"
 
 #: gui/text/quotes.txt:65
 msgid ""
 "“Delivery, delivery, delivery.” \\n— Demosthenes, when asked what were the "
 "three most important elements of rhetoric (Cicero, “De Oratore”, 3.213)"
-msgstr ""
+msgstr "(*) „Достава, достава, достава“\\n„Демостен, на питање која су три најважнија елемента реторике (Цицерон,„ Де Ораторе “, 3.213)"
 
 #: gui/text/quotes.txt:66
 msgid ""
@@ -1433,82 +1433,82 @@ msgstr ""
 msgid ""
 "“I am a citizen of the world.” \\n— Diogenes of Sinope (Diogenes Laertius, "
 "“The Lives and Opinions of Eminent Philosophers”, “Diogenes”, sec. 63)"
-msgstr ""
+msgstr "(*) „Ја сам грађанин света.“\\n„Диоген Синопски (Диоген Лаерције,„ Животи и мишљења угледних филозофа “,„ Диоген “, одељак 63)"
 
 #: gui/text/quotes.txt:70
 msgid ""
 "“It is not that I am mad, it is only that my head is different from yours.” "
 "\\n— Diogenes of Sinope (Stobaeus, “Florilegium”, 51)"
-msgstr ""
+msgstr "(*) „Нисам ја луд, само што се моја глава разликује од твоје.“\\n„Диоген Синопски (Стобај,„ Флорилегијум “, 51)"
 
 #: gui/text/quotes.txt:71
 msgid ""
 "“Yes, stand a little out of my sunshine.” \\n— Diogenes of Sinope to "
 "Alexander the Great, who asked if he could help in in any way (Plutarch, "
 "“Parallel Lives”, “Alexander”, sec. 14)"
-msgstr ""
+msgstr "(*) „Да, стани мало даље од мог сунца.“\\n„Диоген Синопски Александру Великом, који га је питао да ли може на било који начин помоћи (Плутарх,„ Паралелни животи “,„ Александар “, секција 14)"
 
 #: gui/text/quotes.txt:72
 msgid ""
 "“The victor is not victorious if the vanquished does not consider himself "
 "so.” \\n— Ennius (“Annales”, fragment 31.493)"
-msgstr ""
+msgstr "(*) „Победник неће победити ако победјени себе не сматра таквим.“\\n- Енниус („Аналес“, фрагмент 31.493)"
 
 #: gui/text/quotes.txt:73
 msgid ""
 "“Stranger, go tell the Spartans that we lie here, obedient to their laws.” "
 "\\n— Epitaph at Thermopylae for Leonidas and his men (Herodotus, “The "
 "Histories”, VII. 228)"
-msgstr ""
+msgstr "(*) „Странче, иди и реци Спартанцима да ми овде лежимо, послушни њиховим законима.“\\n- Епитаф у Термопилима за Леониду и његове људе (Херодот, „Историја“, ВИИ. 228)"
 
 #: gui/text/quotes.txt:74
 msgid ""
 "“A coward turns away, but a brave man's choice is danger.” \\n— Euripides "
 "(“Iphigenia in Tauris”)"
-msgstr ""
+msgstr "(*) „Кукавица се окреће, али избор храброг човека је опасност.“\\n„Еурипид („ Ифигенија у Таурису “)"
 
 #: gui/text/quotes.txt:75
 msgid ""
 "“Brave men are made bolder by ordeals, but cowards achieve nothing.” \\n— "
 "Euripides (“Iphigenia in Tauris”)"
-msgstr ""
+msgstr "(*) „Храбри људи искушења постају храбрији, али кукавице ништа не постижу.“\\n„Еурипид („ Ифигенија у Таурису “)"
 
 #: gui/text/quotes.txt:76
 msgid ""
 "“Cowards do not count in battle; they are there, but not in it.” \\n— "
 "Euripides (“Meleager”)"
-msgstr ""
+msgstr "(*) „Кукавице се не рачунају у борби; они су ту, али не и у њему. “\\n„Еурипид („ Милеагер “)"
 
 #: gui/text/quotes.txt:77
 msgid ""
 "“Chance fights ever on the side of the prudent.” \\n— Euripides "
 "(“Pirithous”)"
-msgstr ""
+msgstr "(*) „шанса се увек бори на страни разборитих“\\n„Еурипид („ Пиритхоус “)"
 
 #: gui/text/quotes.txt:78
 msgid ""
 "“Return with your shield, or on it.” \\n— Farewell of Spartan women to their"
 " warriors, implying that cowards would throw away their shield in battle to "
 "flee (Plutarch, “Moralia”, “Sayings of Spartan Women”, 241f)"
-msgstr ""
+msgstr "(*) „Вратите се са штитом или на њему.“\\n„Опроштај спартанских жена од њихових ратника, што подразумева да ће кукавице у борби одбацити свој штит да би побегле (Плутарх,„ Моралија “,„ изреке спартанских жена “, 241 ф)"
 
 #: gui/text/quotes.txt:79
 msgid ""
 "“I came, I saw, I conquered.” \\n— Caesar, after routing Pharnaces II of "
 "Pontus in the first assault (Plutarch, “Parallel Lives”, “Caesar”, sec. 50)"
-msgstr ""
+msgstr "(*) „Дошао сам, видео сам, победио.“\\n„Цезар, након што је у првом нападу преусмерио Пхарнацеа ИИ од Понта (Плутарх,„ Паралелни животи “,„ Цезар “, секција 50)"
 
 #: gui/text/quotes.txt:80
 msgid ""
 "“Men willingly believe what they wish.” \\n— Caesar (“De Bello Gallico”, "
 "III. 18)"
-msgstr ""
+msgstr "(*) „Мушкарци вољно верују у шта желе.“\\n„Цезар („ Де Белло Галлицо “, ИИИ. 18)"
 
 #: gui/text/quotes.txt:81
 msgid ""
 "“It is not the well-fed long-haired man I fear, but the pale and the hungry "
 "looking.” \\n— Caesar (Plutarch, “Parallel Lives”, “Antony”, sec. 11)"
-msgstr ""
+msgstr "(*) „Не бојим се ухрањеног дугокосог човека, већ бледог и гладног.“\\n„Цезар (Плутарх,„ Паралелни животи “,„ Антонија “, секција 11)"
 
 #: gui/text/quotes.txt:82
 msgid ""
@@ -1544,32 +1544,32 @@ msgid ""
 "“The die is cast.” \\n— Caesar, when crossing the Rubicon river with his "
 "legion into Italy, a capital offense that led to his civil war against "
 "Pompey (Suetonius, “The Lives of the Twelve Caesars”, 32)"
-msgstr ""
+msgstr "(*) „Умро је бачено.“\\n- Цезар, када је са својом легијом прелазио реку Рубикон у Италију, што је био тежак прекршај који је довео до његовог грађанског рата против Помпеја (Светоније, „Животи дванаест цезара“, 32)"
 
 #: gui/text/quotes.txt:86
 msgid ""
 "“I'd rather be the first man here than the second man in Rome.” \\n— Caesar,"
 " when passing through a barbarian village in the Alps (Plutarch, “Parallel "
 "Lives”, “Caesar”, sec. 11)"
-msgstr ""
+msgstr "(*) „Радије бих био први човек овде него други човек у Риму.“\\n„Цезар, када је пролазио кроз варварско село у Алпима (Плутарх,„ Паралелни животи “,„ Цезар “, секција 11)"
 
 #: gui/text/quotes.txt:87
 msgid ""
 "“Stop quoting laws, we carry weapons!” \\n— Pompey (Plutarch, “Parallel "
 "Lives”, “Pompey”, sec. 10)"
-msgstr ""
+msgstr "(*) „Престаните да цитирате законе, ми носимо оружје!“\\n„Помпеј (Плутарх,„ Паралелни животи “,„ Помпеј “, секција 10)"
 
 #: gui/text/quotes.txt:88
 msgid ""
 "“If a man put out the eye of another man, his eye shall be put out.” \\n— "
 "Hammurabi (Hammurabi's Code, sec. 196)"
-msgstr ""
+msgstr "(*) „Ако човек истисне око другом човеку, његово око ће се угасити.“\\n- Хамураби (Хамурабијев законик, сек. 196)"
 
 #: gui/text/quotes.txt:89
 msgid ""
 "“I have come not to make war on the Italians, but to aid the Italians "
 "against Rome.” \\n— Hannibal (Polybius, “Histories”, III. 85)"
-msgstr ""
+msgstr "(*) „Нисам дошао да ратујем са Италијанима, већ да помогнем Италијанима против Рима.“\\n„Ханибал (Полибије,„ Историја “, ИИИ. 85)"
 
 #: gui/text/quotes.txt:90
 msgid ""
@@ -1591,51 +1591,51 @@ msgstr ""
 msgid ""
 "“You must be brave and discard all hopes of anything but victory or death.” "
 "\\n— Hannibal, addressing his troops (Livy, “History of Rome”, XXI. 44)"
-msgstr ""
+msgstr "(*) „Морате бити храбри и одбацити све наде у било шта осим у победу или смрт.“\\n“Ханибал, обраћајући се својим трупама (Ливије,„ Историја Рима “, КСКСИ. 44)"
 
 #: gui/text/quotes.txt:93
 msgid ""
 "“War is the father and king of all things: some he has made gods, and some "
 "men; some slaves and some free.” \\n— Heraclitus (Hippolytus, “The "
 "Refutation of all Heresies”, IX. 4)"
-msgstr ""
+msgstr "(*) „Рат је отац и краљ свега: неке је направио боговима, а неке људе; неки робови, а неки бесплатни. “\\n“Хераклит (Хиполит,„ Побијање свих јереси “, ИКС. 4)"
 
 #: gui/text/quotes.txt:94
 msgid ""
 "“You could not step twice into the same river.” \\n— Heraclitus (Plato, "
 "“Cratylus”, 402a)"
-msgstr ""
+msgstr "(*) „Ниси могао двапут да закорачиш у исту реку.“\\n„Хераклит (Платон,„ Кратил “, 402а)"
 
 #: gui/text/quotes.txt:95
 msgid ""
 "“It is better to be envied than to be pitied.” \\n— Herodotus (“The "
 "Histories”, III. 52)"
-msgstr ""
+msgstr "(*) „Боље је завидети него бити сажаљен.“\\n“Херодот („ Историја “, ИИИ. 52)"
 
 #: gui/text/quotes.txt:96
 msgid ""
 "“In soft regions are born soft men.” \\n— Herodotus (“The Histories”, IX. "
 "122)"
-msgstr ""
+msgstr "(*) „У меким регионима рађају се меки људи.“\\n“Херодот („ Историја “, ИКС. 122)"
 
 #: gui/text/quotes.txt:97
 msgid ""
 "“This is the bitterest pain among men, to have much knowledge but no power.”"
 " \\n— Herodotus (“The Histories”, IX. 16)"
-msgstr ""
+msgstr "(*) „Ово је најгорчи бол међу људима, имати много знања, али немати моћ.“\\n“Херодот („ Историја “, ИКС. 16)"
 
 #: gui/text/quotes.txt:98
 msgid ""
 "“Although he \\[Xerxes] had plenty of troops he had few men.” \\n— Herodotus"
 " (“The Histories”, VII. 210)"
-msgstr ""
+msgstr "(*) „Иако је он\\nКсеркс] је имао доста трупа, имао је мало људи. “\\[“Херодот („ Историја “, ВИИ. 210)"
 
 #: gui/text/quotes.txt:99
 msgid ""
 "“The Lacedaemonians \\[Spartans] fought a memorable battle; they made it "
 "quite clear that they were the experts, and that they were fighting against "
 "amateurs.” \\n— Herodotus (“The Histories”, VII. 211)"
-msgstr ""
+msgstr "(*) „Лакедемонци\\nСпартанци] су водили незаборавну битку; јасно су ставили до знања да су они стручњаци и да се боре против аматера. “\\[„Херодот („ Историја “, ВИИ. 211)"
 
 #: gui/text/quotes.txt:100
 msgid ""
@@ -1678,25 +1678,25 @@ msgstr ""
 msgid ""
 "“Conquered Greece took captive her savage conqueror and brought her arts "
 "into rustic Latium.” \\n— Horace (“Epistles”, epistle I., 156–157)"
-msgstr ""
+msgstr "(*) „Освојена Грчка је заробила свог дивљачког освајача и донела своју уметност у рустикални Лацијум.“\\n“Хорације („ Посланице “, посланица И., 156–157)"
 
 #: gui/text/quotes.txt:105
 msgid ""
 "“Anger is a momentary madness, so control your passion or it will control "
 "you.” \\n— Horace (“Epistles”, epistle II., 62)"
-msgstr ""
+msgstr "(*) „Љутња је тренутно лудило, па контролишите своју страст или ће она контролисати вас“\\n“Хорације („ Посланице “, посланица ИИ., 62)"
 
 #: gui/text/quotes.txt:106
 msgid ""
 "“It is your concern when your neighbor's wall is on fire.” \\n— Horace "
 "(“Epistles”, epistle XVIII., 84)"
-msgstr ""
+msgstr "(*) „Ваша је брига када гори зид вашег комшије.“\\n“Хорације („ Посланице “, посланица КСВИИИ., 84)"
 
 #: gui/text/quotes.txt:107
 msgid ""
 "“It is sweet and honorable to die for one's country.” \\n— Horace (“Odes”, "
 "III., ode II., 13)"
-msgstr ""
+msgstr "(*) „Слатко је и часно умрети за своју земљу“\\n- Хорације („Одеса“, ИИИ., оде ИИ., 13)"
 
 #: gui/text/quotes.txt:108
 msgid "“I am Cyrus, king of the world…” \\n— Inscription (Cyrus Cylinder)"
@@ -1706,7 +1706,7 @@ msgstr "(*) „Ја сам Кир, краљ света ...“\\n- натпис (
 msgid ""
 "“In peace the sons bury their fathers, but in war the fathers bury their "
 "sons.” \\n— Croesus, king of Lydia (Herodotus, “The Histories”, I. 87)"
-msgstr ""
+msgstr "(*) „У миру синови сахрањују своје очеве, али у рату очеви сахрањују своје синове.“\\n„Крез, краљ Лидије (Херодот,„ Историја “, И. 87)"
 
 #: gui/text/quotes.txt:110
 msgid ""
@@ -1720,21 +1720,21 @@ msgstr ""
 msgid ""
 "“If a king is energetic, his subjects will be equally energetic.”\\n— "
 "Kauṭilya (“Arthashastra” I.19.1)"
-msgstr ""
+msgstr "(*) „Ако је краљ енергичан, његови поданици ће бити подједнако енергични.“\\n„Кауа¹илиа („ Артхасхастра “И.19.1)"
 
 #: gui/text/quotes.txt:112
 msgid ""
 "“Marry a good man, and bear good children.” \\n— Leonidas, to his wife who "
 "asked what to do if he died, before he left for Thermopylae (Plutarch, "
 "“Moralia”, “Sayings of Spartans”, 225a)"
-msgstr ""
+msgstr "(*) „Удај се за доброг човека и роди добру децу“\\n„Леонида, његовој жени која је питала шта да уради ако умре, пре него што је отишао у Термопиле (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 225а)"
 
 #: gui/text/quotes.txt:113
 msgid ""
 "“Come and get them!” \\n— Leonidas, to the Persian messenger who demanded "
 "that he and his men lay down their arms (Plutarch, “Moralia”, “Sayings of "
 "Spartans”, 225c)"
-msgstr ""
+msgstr "(*) „Дођите и набавите их!“\\n„Леонида, персијском гласнику који је захтевао да он и његови људи положе оружје (Плутарх,„ Моралија “,„ Изреке Спартанаца “, 225ц)"
 
 #: gui/text/quotes.txt:114
 msgid ""
@@ -1760,14 +1760,14 @@ msgstr ""
 msgid ""
 "“A city is well-fortified which has a wall of men instead of brick.” \\n— "
 "Lycurgus of Sparta (Plutarch, “Parallel Lives”, “Lycurgus”, sec. 19)"
-msgstr ""
+msgstr "(*) „Град је добро утврђен и има зид од мушкараца уместо од опеке.“\\n„Ликург из Спарте (Плутарх,„ Паралелни животи “,„ Ликург “, сек. 19)"
 
 #: gui/text/quotes.txt:117
 msgid ""
 "“Escape, yes, but this time with my hands, not my feet.” \\n— Brutus, before"
 " committing suicide after losing a battle against Caesar's avengers "
 "(Plutarch, “Parallel Lives”, “Brutus”, sec. 52)"
-msgstr ""
+msgstr "(*) „Побећи, да, али овај пут рукама, а не ногама.“\\n„Брут, пре него што је извршио самоубиство након што је изгубио битку против Цезарових осветника (Плутарх,„ Паралелни животи “,„ Брут “, сек. 52)"
 
 #: gui/text/quotes.txt:118
 msgid "“O, the times, O, the customs!” \\n— Cicero (“Against Catiline”, I.)"
@@ -1777,36 +1777,36 @@ msgstr "(*) „О, времена, О, обичаји!“\\n“Цицерон (�
 msgid ""
 "“A war is never undertaken by the ideal State, except in defense of its "
 "honor or its safety.” \\n— Cicero (“De Re Publica”, III., 23)"
-msgstr ""
+msgstr "(*) „Идеална држава никада не предузима рат, осим у одбрану своје части или своје безбедности.“\\n“Цицерон („ Де Ре Публица “, ИИИ., 23)"
 
 #: gui/text/quotes.txt:120
 msgid ""
 "“The first duty of a man is the seeking after and the investigation of "
 "truth.” \\n— Cicero (“On Duties”, I., 13)"
-msgstr ""
+msgstr "(*) „Прва дужност човека је тражење и истраживање истине.“\\n„Цицерон („ На дужностима “, И., 13)"
 
 #: gui/text/quotes.txt:121
 msgid ""
 "“No one is so old as to think that he cannot live one more year.” \\n— "
 "Cicero (“On Old Age”, sec. 24)"
-msgstr ""
+msgstr "(*) „Нико није толико стар да помисли да не може живети још годину дана.“\\n“Цицерон („ На старост “, секција 24)"
 
 #: gui/text/quotes.txt:122
 msgid ""
 "“Let the welfare of the people be the ultimate law.” \\n— Cicero (“On the "
 "Laws”, III., sec. 3)"
-msgstr ""
+msgstr "(*) „Нека добробит људи буде крајњи закон.“\\n“Цицерон („ У законима “, ИИИ., одељак 3)"
 
 #: gui/text/quotes.txt:123
 msgid ""
 "“Endless money forms the sinews of war.” \\n— Cicero (“Philippics”, V., sec."
 " 5)"
-msgstr ""
+msgstr "(*) „Бескрајан новац чини ратне тетиве.“\\n„Цицерон („ Пхилиппицс “, В., секција 5)"
 
 #: gui/text/quotes.txt:124
 msgid ""
 "“Laws are silent in time of war.” \\n— Cicero (“Pro Milone”, IV., sec. 11)"
-msgstr ""
+msgstr "(*) „Закони ћуте у време рата“\\n„Цицерон („ Про Милоне “, ИВ., секција 11)"
 
 #: gui/text/quotes.txt:125
 msgid ""
@@ -1829,7 +1829,7 @@ msgstr ""
 msgid ""
 "“We live, not as we wish to, but as we can.” \\n— Menander (“Lady of "
 "Andros”, fragment 50)"
-msgstr ""
+msgstr "(*) „Живимо, не како желимо, већ како можемо.“\\n“Менандер („ Госпођа Андросова “, фрагмент 50)"
 
 #: gui/text/quotes.txt:128
 msgid "“The man who runs may fight again.” \\n— Menander (“Monosticha”)"
@@ -1839,7 +1839,7 @@ msgstr "(*) „Човек који трчи могао би се поново б
 msgid ""
 "“Whom the Gods love dies young.” \\n— Menander (“The Double Deceiver”, "
 "fragment 4)"
-msgstr ""
+msgstr "(*) „Кога Божија љубав умире млада“\\n“Менандер („ Двоструки преварант “, фрагмент 4)"
 
 #: gui/text/quotes.txt:130
 msgid "“I call a fig a fig, a spade a spade.” \\n— Menander (fragment 545 K)"
@@ -1876,7 +1876,7 @@ msgid ""
 "“Future ages will wonder at us, as the present age wonders at us now.” \\n— "
 "Pericles in his Funeral Oration for Athenians that died in the first year of"
 " the war (Thucydides, “History of the Peloponnesian War”, II. 41.5)"
-msgstr ""
+msgstr "(*) „Будућа доба ће нам се чудити, као што се садашње доба чуди нама сада.“\\n- Перикле у свом погребном говору за Атињане који су погинули у првој години рата (Тукидид, „Историја Пелопонеског рата“, ИИ. 41.5)"
 
 #: gui/text/quotes.txt:135
 msgid ""
@@ -1909,7 +1909,7 @@ msgstr ""
 msgid ""
 "“Wait for the wisest of all counsellors, time.” \\n— Pericles, a cautious "
 "politician who avoided war (Plutarch, “Parallel Lives”, “Pericles”, sec. 18)"
-msgstr ""
+msgstr "(*) „Сачекајте време са најмудријим од свих саветника.“\\n„Перикле, опрезан политичар који је избегао рат (Плутарх,„ Паралелни животи “,„ Перикле “, секција 18)"
 
 #: gui/text/quotes.txt:139
 msgid ""
@@ -1923,34 +1923,34 @@ msgstr ""
 msgid ""
 "“War is sweet to those who have no experience of it, but the experienced man"
 " fears its approach in his heart.” \\n— Pindar (fragment 110)"
-msgstr ""
+msgstr "(*) „Рат је сладак онима који немају искуства у томе, али искусни човек се плаши његовог приступа у свом срцу.“\\n- Пиндар (фрагмент 110)"
 
 #: gui/text/quotes.txt:141
 msgid ""
 "“Themistocles robbed his fellow citizens of spear and shield, and degraded "
 "the people of Athens to the rowing-pad and the oar.” \\n— Plato, no friend "
 "of the Athenian navy (Plutarch, “Parallel Lives”, “Themistocles”, sec. 3)"
-msgstr ""
+msgstr "(*) „Тхемистоцлес је својим суграђанима опљачкао копље и штит, а становнике Атине деградирао на веслање и весло.“\\n„Платон, није пријатељ атинске морнарице (Плутарх,„ Паралелни животи “,„ Тхемистоцлес “, одељак 3)"
 
 #: gui/text/quotes.txt:142
 msgid ""
 "“No guest is so welcome in a friend's house that he will not become a "
 "nuisance after three days.” \\n— Plautus (“The Swaggering Soldier”, Act III,"
 " scene 1, 146)"
-msgstr ""
+msgstr "(*) „Ниједан гост није толико добродошао у кућу пријатеља да неће постати сметња након три дана.“\\n“Плаутус („ Тхе Сваггеринг Солдиер “, Ацт ИИИ, сцене 1, 146)"
 
 #: gui/text/quotes.txt:143
 msgid ""
 "“You cannot eat your cake and have it too, unless you think your money is "
 "immortal.”\\n— Plautus (“Trinummus”, Act II, scene 4, 13–14)"
-msgstr ""
+msgstr "(*) „Не можете да једете колач и да га једете, осим ако мислите да је ваш новац бесмртан.“\\n- Плаутус („Тринуммус“, Чин ИИ, сцена 4, 13 - 14)"
 
 #: gui/text/quotes.txt:144
 msgid ""
 "“He \\[Alexander] thought nothing invincible for the courageous, and nothing"
 " secure for the cowardly.” \\n— Plutarch (“Parallel Lives”, “Alexander”, "
 "sec. 58)"
-msgstr ""
+msgstr "(*) „Он\\nАлександар] није сматрао ништа непобедивим за храбре, а ништа сигурно за кукавичке. “\\[„Плутарх („ Паралелни животи “,„ Александар “, сек. 58)"
 
 #: gui/text/quotes.txt:145
 msgid ""
@@ -2058,25 +2058,25 @@ msgstr ""
 msgid ""
 "“None can be free who is a slave to, and ruled by, his passions.” \\n— "
 "Pythagoras (Stobaeus, “Florilegium”, 18)"
-msgstr ""
+msgstr "(*) „Нико не може бити слободан ко робује својим страстима и којим управља.“\\n„Питагора (Стобаеус,„ Флорилегиум “, 18)"
 
 #: gui/text/quotes.txt:157
 msgid ""
 "“Do not say few things in many words, but many things in few words.” \\n— "
 "Pythagoras (Stobaeus, “Florilegium”, 24)"
-msgstr ""
+msgstr "(*) „Не говорите мало ствари са много речи, већ много ствари у неколико речи.“\\n„Питагора (Стобаеус,„ Флорилегиум “, 24)"
 
 #: gui/text/quotes.txt:158
 msgid ""
 "“Let your speech be better than silence, or be silent.” \\n— Pythagoras "
 "(Stobaeus, “Florilegium”, 24)"
-msgstr ""
+msgstr "(*) „Нека ваш говор буде бољи од ћутања или нека ћути.“\\n„Питагора (Стобаеус,„ Флорилегиум “, 24)"
 
 #: gui/text/quotes.txt:159
 msgid ""
 "“Unity strengthens even small states, while discord undermines the mightiest"
 " empires.” \\n— Sallust (“The Jugurthine War”, 10.6)"
-msgstr ""
+msgstr "(*) „Јединство јача чак и мале државе, док неслога поткопава најмоћнија царства.“\\n„Салустија („ Југуртски рат “, 10,6)"
 
 #: gui/text/quotes.txt:160
 msgid ""
@@ -2091,7 +2091,7 @@ msgid ""
 "“Prepare for war, since you have been unable to endure a peace.” \\n— Scipio"
 " Africanus, replying to Hannibal's offer of peace terms before the Battle of"
 " Zama (Livy, “History of Rome”, XXX. 31)"
-msgstr ""
+msgstr "(*) „Припремите се за рат, јер нисте могли да издржите мир.“\\n“Сципио Африцанус, одговарајући на Ханибалову понуду мировних услова пре битке код Заме (Ливије,„ Историја Рима “, КСКСКС. 31)"
 
 #: gui/text/quotes.txt:162
 msgid ""
@@ -2115,7 +2115,7 @@ msgid ""
 "“The unexamined life is not worth living.” Socrates, in his defense when "
 "trialled for corrupting the youth and not worshipping the proper gods (he "
 "later drank hemlock after the death sentence) \\n— Plato (“Apology”, 38a)"
-msgstr ""
+msgstr "(*) „Неиспитани живот није вредан живљења.“ Сократ, у своју одбрану када му је суђено да је покварио младе људе и да није обожавао праве богове (касније је попио кукуту после смртне пресуде)\\n“Платон („ Апологија “, 38а)"
 
 #: gui/text/quotes.txt:165
 msgid ""
@@ -2129,7 +2129,7 @@ msgstr ""
 msgid ""
 "“Walls and ships are nothing without men living together inside them.” \\n— "
 "Sophocles (“Oedipus Rex”)"
-msgstr ""
+msgstr "(*) „Зидови и бродови нису ништа без да људи у њима живе заједно.“\\n“Софокле („ Едипус Рек “)"
 
 #: gui/text/quotes.txt:167
 msgid ""
@@ -2145,7 +2145,7 @@ msgid ""
 "“He could boast that he found a city of brick and left it a city of "
 "marble.”\\n— Suetonius, commenting on the many building projects of Augustus"
 " in Rome (“Divus Augustus”, 28.3)"
-msgstr ""
+msgstr "(*) „Могао се похвалити да је пронашао град од цигле и оставио га градом мермера.“\\n“Светоније, коментаришући многе Аугустове грађевинске пројекте у Риму („ Дивус Август “, 28.3)"
 
 #: gui/text/quotes.txt:169
 msgid "“Moderation in all things.” \\n— Terence (“The Girl from Andros”, 61)"
@@ -2155,7 +2155,7 @@ msgstr "(*) „Умереност у свим стварима.“\\n“Тере
 msgid ""
 "“Fortune favors the bold.” \\n— Terence in a play about a great Athenian "
 "admiral (“Phormio”, 203)"
-msgstr ""
+msgstr "(*) „Фортуне фаворизује храбре.“\\n“Теренце у драми о великом атинском адмиралу („ Формио “, 203)"
 
 #: gui/text/quotes.txt:171
 msgid ""
@@ -2186,27 +2186,27 @@ msgid ""
 "“So little pains does the mob take in finding out the truth, accepting "
 "readily the first story at hand.” \\n— Thucydides (“History of the "
 "Peloponnesian War”, I. 21.3)"
-msgstr ""
+msgstr "(*) „Мафија не улаже много труда у откривању истине, прихватајући одмах прву причу при руци.“\\n„Тукидид („ Историја Пелопонеског рата “, И. 21.3)"
 
 #: gui/text/quotes.txt:175
 msgid ""
 "“The growth of the power of Athens, and the alarm which this caused in "
 "Sparta, made war inevitable.” \\n— Thucydides (“History of the Peloponnesian"
 " War”, I. 23.6)"
-msgstr ""
+msgstr "(*) „Раст моћи Атине и узбуна коју је ово изазвало у Спарти учинили су рат неизбежним.“\\n“Тукидид („ Историја Пелопонеског рата “, И. 23.6)"
 
 #: gui/text/quotes.txt:176
 msgid ""
 "“War is a matter not so much of arms as of money.” \\n— Thucydides (“History"
 " of the Peloponnesian War”, I. 83.2)"
-msgstr ""
+msgstr "(*) „Рат није ствар толико оружја колико новца“\\n“Тукидид („ Историја Пелопонеског рата “, И. 83.2)"
 
 #: gui/text/quotes.txt:177
 msgid ""
 "“It is a general rule of human nature that people despise those who treat "
 "them well, and look up to those who make no concessions.” \\n— Thucydides "
 "(“History of the Peloponnesian War”, III. 39.5)"
-msgstr ""
+msgstr "(*) „Опште је правило људске природе да људи презиру оне који се према њима добро односе и угледају се на оне који не праве уступке.“\\n“Тукидид („ Историја Пелопонеског рата “, ИИИ. 39.5)"
 
 #: gui/text/quotes.txt:178
 msgid ""
@@ -2260,7 +2260,7 @@ msgstr ""
 msgid ""
 "“Do not trust the horse, Trojans! I fear the Greeks even when they bring "
 "gifts.” \\n— Virgil (“Aeneid”, II. 48–49)"
-msgstr ""
+msgstr "(*) „Не верујте коњу, Тројанци! Плашим се Грка чак и кад доносе дарове. “\\n„Вергилије („ Енеида “, ИИ. 48–49)"
 
 #: gui/text/quotes.txt:184
 msgid "“Prepared for either alternative.” \\n— Virgil (“Aeneid”, II. 61)"
@@ -2271,7 +2271,7 @@ msgid ""
 "“Homer and Hesiod ascribed to their Gods all things that are a disgrace "
 "among mortals: stealing, adultery, deceiving one another.” \\n— Xenophanes "
 "(fragment 11)"
-msgstr ""
+msgstr "(*) „Хомер и Хесиод су својим боговима приписали све ствари које су срамота међу смртницима: крађу, прељубу, обмањивање једни других.“\\n- Ксенофан (фрагмент 11)"
 
 #: gui/text/quotes.txt:186
 msgid ""
@@ -2285,7 +2285,7 @@ msgstr ""
 msgid ""
 "“The Ethiopians make their gods black and snub-nosed, the Thracians say "
 "theirs have blue eyes and red hair.” \\n— Xenophanes (fragment 16)"
-msgstr ""
+msgstr "(*) „Етиопљани чине своје богове црним и грбавим носом, Трачани кажу да њихови имају плаве очи и црвену косу.“\\n- Ксенофан (фрагмент 16)"
 
 #: gui/text/quotes.txt:188
 msgid ""
@@ -2300,14 +2300,14 @@ msgid ""
 "“A prudent commander will never take risks unnecessarily, except when it is "
 "clear beforehand that he will have the advantage.” \\n— Xenophon (“The "
 "Cavalry General”, 4.13)"
-msgstr ""
+msgstr "(*) „Разборит командант никада неће непотребно ризиковати, осим ако је унапред јасно да ће имати предност.“\\n„Ксенофон („ Коњички генерал “, 4,13)"
 
 #: gui/text/quotes.txt:190
 msgid ""
 "“Attack the enemy where he is weakest, even if that is a long way off, since"
 " hard work is less dangerous than a struggle against superior forces.” \\n— "
 "Xenophon (“The Cavalry General”, sec. 4.14)"
-msgstr ""
+msgstr "(*) „Нападните непријатеља тамо где је најслабији, чак и ако је то далеко, пошто је напоран рад мање опасан од борбе против надмоћних снага.“\\n„Ксенофон („ Коњички генерал “, одељак 4.14)"
 
 #: gui/text/quotes.txt:191
 msgid ""
@@ -2322,7 +2322,7 @@ msgid ""
 "“People are glad to obey the man whom they believe to be wiser than "
 "themselves in pursuing their interests.” \\n— Xenophon (“The Education of "
 "Cyrus”, 1.6.22)"
-msgstr ""
+msgstr "(*) „Људима је драго да послушају човека за кога верују да су мудрији од њих самих у остваривању својих интереса.“\\n„Ксенофон („ Кирско образовање “, 1.6.22)"
 
 #: gui/text/quotes.txt:193
 msgid ""
@@ -2337,7 +2337,7 @@ msgstr ""
 msgid ""
 "“Battles are decided more by the morale of men than their physical "
 "strength.” \\n— Xenophon (“The Education of Cyrus”, 3.3.20)"
-msgstr ""
+msgstr "(*) „О биткама више одлучује морал људи него њихова физичка снага“\\n„Ксенофон („ Кирско образовање “, 3.3.20)"
 
 #: gui/text/quotes.txt:195
 msgid ""
@@ -2375,4 +2375,4 @@ msgstr ""
 msgid ""
 "“For a thinking man is where Wisdom is at home.” \\n— Zoroaster, founder of "
 "the Zoroastrian religion (“Ahunuvaiti Gatha”, yasna 30.9)"
-msgstr ""
+msgstr "(*) „За мислећег човека је тамо где је Мудрост код куће.“\\n“Зороастер, оснивач зороастријске религије („ Ахунуваити Гатха “, иасна 30.9)"

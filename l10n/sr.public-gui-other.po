@@ -313,7 +313,7 @@ msgstr "(*) Грађански центри"
 msgid ""
 "Players start with only few units and have to find a suitable place to build"
 " their city."
-msgstr ""
+msgstr "(*) Играчи почињу са само неколико јединица и морају пронаћи одговарајуће место за изградњу свог града."
 
 #: gui/common/gamedescription.js:342
 msgid "Players start with a Civic Center."
@@ -376,7 +376,7 @@ msgstr "Преваре"
 msgid ""
 "When the winner of this match is determined, the lobby score will be "
 "adapted."
-msgstr ""
+msgstr "(*) Када се победник овог меча одреди, резултат лобија ће се прилагодити."
 
 #: gui/common/gamedescription.js:408 gui/common/gamedescription.js:413
 msgid "Rated game"
@@ -441,7 +441,7 @@ msgstr "Лоша конекција ка %(player)s (%(milliseconds)sms)"
 msgid ""
 "This is often caused by UDP port 20595 not being forwarded on the host side,"
 " by a firewall, or anti-virus software."
-msgstr ""
+msgstr "(*) Ово је често узроковано тиме што УДП порт 20595 није прослеђен на страни домаћина, заштитним зидом или антивирусним софтвером."
 
 #: gui/common/network.js:67
 msgid "The host has ended the game."
@@ -602,7 +602,7 @@ msgstr "(*) Скирмисх"
 msgid ""
 "A map with a predefined landscape and number of players. Freely select the "
 "other game settings."
-msgstr ""
+msgstr "(*) Мапа са унапред дефинисаним пејзажом и бројем играча. Слободно изаберите друга подешавања игре."
 
 #: gui/common/settings.js:183
 msgctxt "map"
@@ -613,7 +613,7 @@ msgstr "Насумично"
 msgid ""
 "Create a unique map with a different resource distribution each time. Freely"
 " select the number of players and teams."
-msgstr ""
+msgstr "(*) Сваки пут направите јединствену мапу са другачијом расподелом ресурса. Слободно изаберите број играча и тимова."
 
 #: gui/common/settings.js:192
 msgctxt "map"
@@ -721,7 +721,7 @@ msgstr "%(percentage)s%%"
 msgid ""
 "%(label)s\n"
 "%(details)s"
-msgstr ""
+msgstr "(*) _ЛАЛАЛА__ЛАЛАЛА__ЛАЛАЛА_"
 
 #: gui/common/tooltips.js:211
 msgid "Resistance:"
@@ -779,7 +779,7 @@ msgstr "(*) Блокови: %(blockPercentage)s %%"
 #, javascript-format
 msgid ""
 "Blocks: %(blockPercentage)s%%, Duration reduction: %(durationReduction)s%%"
-msgstr ""
+msgstr "(*) Блокови: %(blockPercentage)s %%, смањење трајања: %(durationReduction)s %%"
 
 #: gui/common/tooltips.js:305
 msgid "Garrison to fire arrows"
@@ -819,7 +819,7 @@ msgstr "(*)  %(projectileString)s  /  %(attackRateString)s "
 msgid ""
 "%(rangeLabel)s %(minRange)s to %(maxRange)s (%(relativeRange)s) "
 "%(rangeUnit)s"
-msgstr ""
+msgstr "(*)  %(rangeLabel)s   %(minRange)s до %(maxRange)s  ( %(relativeRange)s )  %(rangeUnit)s "
 
 #. Translation: For example: Range: 10 (+2) meters
 #: gui/common/tooltips.js:340
@@ -919,7 +919,7 @@ msgstr "(*) _ЛАЛАЛА_"
 #, javascript-format
 msgid ""
 "%(attackLabel)s: %(effects)s, %(range)s, %(rate)s%(statusEffects)s%(splash)s"
-msgstr ""
+msgstr "(*)  %(attackLabel)s :  %(effects)s ,  %(range)s ,  %(rate)s "
 
 #: gui/common/tooltips.js:477
 msgid "Attack:"
@@ -1429,7 +1429,7 @@ msgstr "(*) Пледгие Дриве 2"
 msgid ""
 "Indiegogo 2013 campaign\n"
 "More than 1000 donators (!), including:"
-msgstr ""
+msgstr "(*) Кампања Индиегого 2013\nВише од 1000 донатора (!), Укључујући:"
 
 #: gui/credits/texts/donators.jsonTitle
 msgid "Donors"
@@ -1546,7 +1546,7 @@ msgstr "(*) Сви доступни интервентни тастери."
 msgid ""
 "Reset all hotkeys to default values?\n"
 "WARNING: this cannot be reversed."
-msgstr ""
+msgstr "(*) Желите ли да вратите све пречице на подразумеване вредности?\nУПОЗОРЕЊЕ: ово се не може поништити."
 
 #: gui/hotkeys/HotkeysPage.js:157 gui/pregame/MainMenuItems.js:250
 #: gui/pregame/MainMenuItems.js:274
@@ -1582,7 +1582,7 @@ msgstr "(*) Тастерска пречица Опис"
 msgid ""
 "Click on any mapping to modify it.\\n You may have up to 4 different "
 "hotkeys."
-msgstr ""
+msgstr "(*) Кликните на било које мапирање да бисте га изменили.\\nМожда имате до 4 различита интервентна тастера."
 
 #: gui/hotkeys/hotkeys.xml:(caption):106 gui/locale/locale.xml:(caption):46
 #: gui/locale_advanced/locale_advanced.xml:(caption):75
@@ -1871,7 +1871,7 @@ msgstr "(*) Ротирајте нагоре"
 msgctxt "hotkey metadata"
 msgid ""
 "Rotate camera counterclockwise around terrain - the effect depends on FPS."
-msgstr ""
+msgstr "(*) Ротирајте камеру у смеру супротном од казаљке на сату око терена - ефекат зависи од ФПС -а."
 
 #: gui/hotkeys/spec/camera.jsonmapped_hotkeys.camera.camera.rotate.wheel.cw.desc
 msgctxt "hotkey metadata"
@@ -2043,7 +2043,7 @@ msgctxt "hotkey metadata"
 msgid ""
 "Custom hotkey to trigger exit-to-desktop. The native hotkeys (Alt+F4 / Cmd+Q"
 " / etc.) are always active."
-msgstr ""
+msgstr "(*) Прилагођени интервентни тастер за покретање излаза на радну површину. Изворни интервентни тастери (Алт+Ф4 / Цмд+К / итд.) Су увек активни."
 
 #: gui/hotkeys/spec/engine.jsonmapped_hotkeys.general.exit.name
 msgctxt "hotkey metadata"
@@ -2294,7 +2294,7 @@ msgstr "(*) Серија производња"
 msgctxt "hotkey metadata"
 msgid ""
 "Modifier to deselect units when clicking group icon, instead of selecting."
-msgstr ""
+msgstr "(*) Модификатор за поништавање одабира јединица када кликнете на икону групе, уместо да изаберете."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.deselectgroup.name
 msgctxt "hotkey metadata"
@@ -2616,7 +2616,7 @@ msgctxt "hotkey metadata"
 msgid ""
 "Switch between null default formation and the last default formation used "
 "(defaults to 'box')."
-msgstr ""
+msgstr "(*) Пребацивање између нулл подразумеване формације и последње подразумеване формације која се користи (подразумевано „бок“)."
 
 #: gui/hotkeys/spec/ingame.jsonmapped_hotkeys.ingame.session.toggledefaultformation.name
 msgctxt "hotkey metadata"
@@ -2738,7 +2738,7 @@ msgctxt "hotkey metadata"
 msgid ""
 "Make a temporary save of the game that can be loaded with quickload. "
 "Quicksaving always overwrites the previous save."
-msgstr ""
+msgstr "(*) Направите привремено спремање игре која се може учитати брзим учитавањем. Брзо чување увек преписује претходно чување."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.quicksave.name
 msgctxt "hotkey metadata"
@@ -2909,7 +2909,7 @@ msgstr "(*) Премотавање уназад (временски период
 msgctxt "hotkey metadata"
 msgid ""
 "Toggle display of attack range overlays of selected defensive structures."
-msgstr ""
+msgstr "(*) Укључите / искључите приказ распона напада изабраних одбрамбених структура."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.toggleattackrange.name
 msgctxt "hotkey metadata"
@@ -2920,7 +2920,7 @@ msgstr "(*) Укључите / искључите домете напада"
 msgctxt "hotkey metadata"
 msgid ""
 "Toggle display of aura range overlays of selected units and structures."
-msgstr ""
+msgstr "(*) Укључивање / искључивање приказа преклапања опсега ауре изабраних јединица и структура."
 
 #: gui/hotkeys/spec/ingamegui.jsonmapped_hotkeys.ingamegui.session.toggleaurasrange.name
 msgctxt "hotkey metadata"
@@ -3468,7 +3468,7 @@ msgstr "Учитај"
 msgid ""
 "This savegame needs 0 A.D. version %(requiredVersion)s, while you are "
 "running version %(currentVersion)s."
-msgstr ""
+msgstr "(*) Овој игри за чување потребна је верзија 0 А.Д %(requiredVersion)s , док користите верзију %(currentVersion)s ."
 
 #: gui/loadgame/SavegameLoader.js:44
 msgid "This savegame needs an older version of 0 A.D."
@@ -3627,7 +3627,7 @@ msgstr "(*) Аутоматско откривање"
 msgid ""
 "Optional four-letter script code part following the language code (as listed"
 " in ISO 15924)"
-msgstr ""
+msgstr "(*) Опционални део шифре од четири слова који следи код језика (према ИСО 15924)"
 
 #: gui/locale_advanced/locale_advanced.xml:(tooltip):44
 #: gui/locale_advanced/locale_advanced.xml:(tooltip):51
@@ -3810,7 +3810,7 @@ msgstr "Вредност: %(val)s (минимум: %(min)s, максимум: %(
 msgid ""
 "Resetting the options will erase your saved settings. Do you want to "
 "continue?"
-msgstr ""
+msgstr "(*) Поништавањем опција избрисаћете сачуване поставке. Да ли желите да наставите?"
 
 #: gui/options/options.js:351
 msgid "Some setting values are invalid! Are you sure you want to save them?"
@@ -3856,7 +3856,7 @@ msgstr "(*) Омогући екран добродошлице"
 msgid ""
 "If you disable it, the welcome screen will still appear once, each time a "
 "new version is available. You can always launch it from the main menu."
-msgstr ""
+msgstr "(*) Ако га онемогућите, екран добродошлице ће се и даље појављивати једном, сваки пут када је доступна нова верзија. Увек га можете покренути из главног менија."
 
 #: gui/options/options.json[0].options[4].label
 msgid "FPS overlay"
@@ -4012,7 +4012,7 @@ msgstr "(*) Ограничавање ФПС -а у менијима"
 msgid ""
 "To save CPU workload, throttle render frequency in all menus. Set to maximum"
 " to disable throttling."
-msgstr ""
+msgstr "(*) Да бисте уштедели оптерећење процесора, подесите фреквенцију приказивања гаса у свим менијима. Поставите на максимум да бисте онемогућили пригушивање."
 
 #: gui/options/options.json[1].options[8].label
 msgid "FPS throttling in games"
@@ -4022,7 +4022,7 @@ msgstr "(*) Смањење ФПС -а у играма"
 msgid ""
 "To save CPU workload, throttle render frequency in running games. Set to "
 "maximum to disable throttling."
-msgstr ""
+msgstr "(*) Да бисте уштедели оптерећење процесора, при покретању игара пригушите фреквенцију приказивања. Поставите на максимум да бисте онемогућили пригушивање."
 
 #: gui/options/options.json[1].tooltip
 msgid "Set the balance between performance and visual appearance."
@@ -4052,7 +4052,7 @@ msgstr "Веома Високо"
 msgid ""
 "Shadow map resolution. High values can crash the game when using a graphics "
 "card with low memory!"
-msgstr ""
+msgstr "(*) Резолуција сенке карте. Високе вредности могу срушити игру при употреби графичке картице са мало меморије!"
 
 #: gui/options/options.json[2].options[11].label
 msgid "Filtering"
@@ -4078,7 +4078,7 @@ msgstr "(*) Покријте целу мапу"
 msgid ""
 "When ON shadows cover the whole map and shadows cutoff distance is ignored. "
 "Useful for making screenshots of a whole map."
-msgstr ""
+msgstr "(*) Када УКЉУЧЕНЕ сенке покривају целу мапу, а гранична удаљеност сенки се занемарује. Корисно за прављење снимака екрана целе карте."
 
 #: gui/options/options.json[2].options[14].label
 msgid "Water effects"
@@ -4088,7 +4088,7 @@ msgstr "(*) Ефекти воде"
 msgid ""
 "When OFF, use the lowest settings possible to render water. This makes other"
 " settings irrelevant."
-msgstr ""
+msgstr "(*) Када је искључено, користите најниже могуће поставке за исцртавање воде. Ово чини друга подешавања небитним."
 
 #: gui/options/options.json[2].options[15].label
 msgid "High-quality water effects"
@@ -4098,7 +4098,7 @@ msgstr "(*) Квалитетни ефекти воде"
 msgid ""
 "Use higher-quality effects for water, rendering coastal waves, shore foam, "
 "and ships trails."
-msgstr ""
+msgstr "(*) Користите квалитетније ефекте за воду, исцртавање приобалних таласа, обалне пене и стаза бродова."
 
 #: gui/options/options.json[2].options[16].label
 msgid "Water reflections"
@@ -4155,7 +4155,7 @@ msgstr "(*) МСАА (2А—)"
 msgid ""
 "Slow, but high-quality antialiasing, uses two samples per pixel. Supported "
 "for GL3.3+."
-msgstr ""
+msgstr "(*) Споро, али висококвалитетно антиалиасинг користи два узорка по пикселу. Подржано за ГЛ3.3+."
 
 #: gui/options/options.json[2].options[3].list[3].label
 msgid "MSAA (4×)"
@@ -4165,7 +4165,7 @@ msgstr "(*) МСАА (4А—)"
 msgid ""
 "Slow, but high-quality antialiasing, uses four samples per pixel. Supported "
 "for GL3.3+."
-msgstr ""
+msgstr "(*) Споро, али висококвалитетно антиалиасинг, користи четири узорка по пикселу. Подржано за ГЛ3.3+."
 
 #: gui/options/options.json[2].options[3].list[4].label
 msgid "MSAA (8×)"
@@ -4175,7 +4175,7 @@ msgstr "(*) МСАА (8А—)"
 msgid ""
 "Slow, but high-quality antialiasing, uses eight samples per pixel. Supported"
 " for GL3.3+."
-msgstr ""
+msgstr "(*) Споро, али висококвалитетно антиалиасинг, користи осам узорака по пикселу. Подржано за ГЛ3.3+."
 
 #: gui/options/options.json[2].options[3].list[5].label
 msgid "MSAA (16×)"
@@ -4185,7 +4185,7 @@ msgstr "(*) МСАА (16А—)"
 msgid ""
 "Slow, but high-quality antialiasing, uses sixteen samples per pixel. "
 "Supported for GL3.3+."
-msgstr ""
+msgstr "(*) Споро, али висококвалитетно антиалиасинг, користи шеснаест узорака по пикселу. Подржано за ГЛ3.3+."
 
 #: gui/options/options.json[2].options[3].tooltip
 msgid "Reduce aliasing effect on edges."
@@ -4287,7 +4287,7 @@ msgstr "(*) Изглед ентитета је обично насумичан."
 msgid ""
 "Randomize the appearance of entities. Disabling gives a small performance "
 "improvement."
-msgstr ""
+msgstr "(*) Насумични изглед ентитета. Онемогућавање даје мало побољшање перформанси."
 
 #: gui/options/options.json[2].options[8].label
 msgid "Shader effects"
@@ -4384,7 +4384,7 @@ msgstr "(*) Трајна подешавања подударања"
 #: gui/options/options.json[4].options[2].tooltip
 msgid ""
 "Save and restore match settings for quick reuse when hosting another game."
-msgstr ""
+msgstr "(*) Сачувајте и вратите поставке меча за брзу поновну употребу при хостовању друге игре."
 
 #: gui/options/options.json[4].options[3].label
 msgid "Default AI difficulty"
@@ -4460,7 +4460,7 @@ msgstr "(*) Другари"
 msgid ""
 "Players joining the match will only be assigned if they are a buddy of the "
 "host and if there is a free slot."
-msgstr ""
+msgstr "(*) Играчи који се придруже утакмици бит ће додијељени само ако су пријатељи домаћина и ако постоји слободно мјесто."
 
 #: gui/options/options.json[4].options[5].list[2].tooltip
 msgid "Players only receive a slot when the host assigns them explicitly."
@@ -4470,7 +4470,7 @@ msgstr "(*) Играчи добијају место само ако им дом
 msgid ""
 "Automatically assign joining clients to free player slots during the match "
 "setup."
-msgstr ""
+msgstr "(*) Аутоматски доделите клијенте који се придружују бесплатним слот играчима током подешавања меча."
 
 #: gui/options/options.json[5].label
 msgid "Networking / Lobby"
@@ -4483,7 +4483,7 @@ msgstr "(*) ТЛС шифровање"
 #: gui/options/options.json[5].options[0].tooltip
 msgid ""
 "Protect login and data exchanged with the lobby server using TLS encryption."
-msgstr ""
+msgstr "(*) Заштитите пријаву и податке размењене са сервером лобија користећи ТЛС шифровање."
 
 #: gui/options/options.json[5].options[1].label
 msgid "Chat backlog"
@@ -4501,7 +4501,7 @@ msgstr "(*) Колона са оценама игре"
 msgid ""
 "Show the average rating of the participating players in a column of the "
 "gamelist."
-msgstr ""
+msgstr "(*) Прикажите просечну оцену играча који учествују у колони листе игара."
 
 #: gui/options/options.json[5].options[3].label
 msgid "Network warnings"
@@ -4519,7 +4519,7 @@ msgstr "(*) Касни посматрач се придружује"
 msgid ""
 "Allow everybody or buddies only to join the game as observer after it "
 "started."
-msgstr ""
+msgstr "(*) Дозволите свима или пријатељима само да се придруже игри као посматрач након што је започела."
 
 #: gui/options/options.json[5].options[5].label
 msgid "Observer limit"
@@ -4537,7 +4537,7 @@ msgstr "(*) Максимално заостајање за посматраче"
 msgid ""
 "When hosting, pause the game if observers are lagging more than this many "
 "turns. If set to -1, observers are ignored."
-msgstr ""
+msgstr "(*) Приликом хостинга паузирајте игру ако посматрачи заостају више од оволико скретања. Ако је постављено на -1, посматрачи се занемарују."
 
 #: gui/options/options.json[5].options[7].label
 msgid "(Observer) Speed up when lagging."
@@ -4547,7 +4547,7 @@ msgstr "(*) (Посматрач) Убрзајте при заостајању."
 msgid ""
 "When observing a game, automatically speed up if you start lagging, to catch"
 " up with the live match."
-msgstr ""
+msgstr "(*) Када посматрате утакмицу, аутоматски убрзајте ако почнете да заостајете, да бисте надокнадили утакмицу уживо."
 
 #: gui/options/options.json[5].tooltip
 msgid "These settings only affect the multiplayer."
@@ -4565,7 +4565,7 @@ msgstr "(*) Здравље рањене јединице"
 msgid ""
 "The wounded unit hotkey considers the selected units as wounded if their "
 "health percentage falls below this number."
-msgstr ""
+msgstr "(*) Интервентни тастер за рањене јединице сматра да су изабране јединице рањене ако њихов постотак здравља падне испод овог броја."
 
 #: gui/options/options.json[6].options[10].label
 msgid "Heal range visualization"
@@ -4575,7 +4575,7 @@ msgstr "(*) Визуализација опсега лечења"
 msgid ""
 "Display the healing range of selected units. (It can also be toggled with "
 "the hotkey during a game)."
-msgstr ""
+msgstr "(*) Прикажите распон лечења изабраних јединица. (Такође се може пребацити помоћу интервентног тастера током игре)."
 
 #: gui/options/options.json[6].options[11].label
 msgid "Rank icon above status bar"
@@ -4600,7 +4600,7 @@ msgstr "(*) Детаљни савети"
 #: gui/options/options.json[6].options[13].tooltip
 msgid ""
 "Show detailed tooltips for trainable units in unit-producing structures."
-msgstr ""
+msgstr "(*) Прикажите детаљне савете за јединице које се могу обучавати у структурама за производњу јединица."
 
 #: gui/options/options.json[6].options[14].label
 msgid "Sort resources and population tooltip"
@@ -4621,7 +4621,7 @@ msgstr "(*) Силазни"
 #: gui/options/options.json[6].options[14].tooltip
 msgid ""
 "Dynamically sort players in the resources and population tooltip by value."
-msgstr ""
+msgstr "(*) Динамички сортирајте играче у опису ресурса и популације према вредности."
 
 #: gui/options/options.json[6].options[15].label
 msgid "Diplomacy colors: self"
@@ -4666,7 +4666,7 @@ msgstr "(*) Интервентни тастер за омогућавање сн
 #: gui/options/options.json[6].options[19].list[0].tooltip
 msgid ""
 "New structures are aligned with nearby structures while pressing the hotkey."
-msgstr ""
+msgstr "(*) Нове структуре се поравнавају са оближњим структурама притиском на интервентни тастер."
 
 #: gui/options/options.json[6].options[19].list[1].label
 msgid "Hotkey to disable snapping"
@@ -4676,7 +4676,7 @@ msgstr "(*) Интервентни тастер за онемогућавање 
 msgid ""
 "New structures are aligned with nearby structures unless the hotkey is "
 "pressed."
-msgstr ""
+msgstr "(*) Нове структуре су поравнате са оближњим структурама осим ако се не притисне интервентни тастер."
 
 #: gui/options/options.json[6].options[19].tooltip
 msgid "This option allows to align new structures with nearby structures."
@@ -4703,7 +4703,7 @@ msgid ""
 "When adding a Unit or Structure to a control group, they are removed from "
 "other control groups. Use this choice if you want control groups to refer to"
 " distinct armies."
-msgstr ""
+msgstr "(*) Приликом додавања јединице или структуре контролној групи, они се уклањају из других контролних група. Користите овај избор ако желите да се контролне групе позивају на различите војске."
 
 #: gui/options/options.json[6].options[20].list[1].label
 msgid "Multiple"
@@ -4714,7 +4714,7 @@ msgid ""
 "Units and Structures can be part of multiple control groups. This is useful "
 "to keep control groups for distinct armies and a control group for the "
 "entire army simultaneously."
-msgstr ""
+msgstr "(*) Јединице и структуре могу бити део више контролних група. Ово је корисно за одржавање контролних група за различите војске и контролне групе за целу војску истовремено."
 
 #: gui/options/options.json[6].options[20].tooltip
 msgid "Decide whether units can be part of multiple control groups."
@@ -4744,7 +4744,7 @@ msgstr "(*) Јединице у формацијама остају у саст�
 msgid ""
 "Decide whether formations are enabled for all orders or only 'Walk' and "
 "'Patrol'."
-msgstr ""
+msgstr "(*) Одлучите да ли су формације омогућене за све наредбе или само за „Шетњу“ и „Патролу“."
 
 #: gui/options/options.json[6].options[2].label
 msgid "Scroll batch increment ratio"
@@ -4753,7 +4753,7 @@ msgstr "(*) Однос повећања серије померања"
 #: gui/options/options.json[6].options[2].tooltip
 msgid ""
 "Number of times you have to scroll to increase/decrease the batchsize by 1."
-msgstr ""
+msgstr "(*) Колико пута морате да се померате да бисте повећали/смањили величину серије за 1."
 
 #: gui/options/options.json[6].options[3].label
 msgid "Flare display duration"
@@ -4779,7 +4779,7 @@ msgstr "(*) Обавештење о ћаскању"
 msgid ""
 "Show a chat notification if an ally tributes resources to another team "
 "member if teams are locked, and all tributes in observer mode."
-msgstr ""
+msgstr "(*) Прикажите обавештење о ћаскању ако савезник одаје ресурсе другом члану тима ако су тимови закључани, а све поклоне у режиму посматрача."
 
 #: gui/options/options.json[6].options[6].label
 msgid "Chat notification barter"
@@ -4788,7 +4788,7 @@ msgstr "(*) Размена обавештења о ћаскању"
 #: gui/options/options.json[6].options[6].tooltip
 msgid ""
 "Show a chat notification to observers when a player bartered resources."
-msgstr ""
+msgstr "(*) Прикажите обавештење о ћаскању посматрачима када играч замени ресурсе."
 
 #: gui/options/options.json[6].options[7].label
 msgid "Chat notification phase"
@@ -4810,7 +4810,7 @@ msgstr "(*) Све приказано"
 msgid ""
 "Show a chat notification if you or an ally have started, aborted or "
 "completed a new phase, and phases of all players in observer mode."
-msgstr ""
+msgstr "(*) Прикажите обавештење о ћаскању ако сте ви или ваш савезник започели, прекинули или завршили нову фазу и фазе свих играча у режиму посматрача."
 
 #: gui/options/options.json[6].options[8].label
 msgid "Attack range visualization"
@@ -4820,7 +4820,7 @@ msgstr "(*) Визуализација опсега напада"
 msgid ""
 "Display the attack range of selected defensive structures. (It can also be "
 "toggled with the hotkey during a game)."
-msgstr ""
+msgstr "(*) Прикажите распон напада одабраних одбрамбених структура. (Такође се може пребацити помоћу интервентног тастера током игре)."
 
 #: gui/options/options.json[6].options[9].label
 msgid "Aura range visualization"
@@ -4830,7 +4830,7 @@ msgstr "(*) Визуелизација опсега ауре"
 msgid ""
 "Display the range of auras of selected units and structures. (It can also be"
 " toggled with the hotkey during a game)."
-msgstr ""
+msgstr "(*) Прикажите распон аура одабраних јединица и структура. (Такође се може пребацити помоћу интервентног тастера током игре)."
 
 #: gui/options/options.json[6].tooltip
 msgid "Change options regarding the in-game settings."
@@ -4860,7 +4860,7 @@ msgstr "Наичи да играш"
 msgid ""
 "Learn how to play, start the tutorial, discover the technology trees, and "
 "the history behind the civilizations."
-msgstr ""
+msgstr "(*) Научите како да се играте, започните водич, откријте технолошка стабла и историју иза цивилизација."
 
 #: gui/pregame/MainMenuItems.js:7
 msgid "Manual"
@@ -4888,7 +4888,7 @@ msgstr "Структурно Стабло"
 #, javascript-format
 msgid ""
 "%(hotkey)s: View the structure tree of civilizations featured in 0 A.D."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Погледајте дрво структуре цивилизација приказано у 0 А.Д."
 
 #: gui/pregame/MainMenuItems.js:39
 #: gui/reference/civinfo/civinfo.xml:(caption):21
@@ -5000,7 +5000,7 @@ msgstr "(*) Лоби за игре"
 msgid ""
 "%(hotkey)s: Launch the multiplayer lobby to join and host publicly visible "
 "games and chat with other players."
-msgstr ""
+msgstr "(*)  %(hotkey)s : Покрените предворје за више играча да бисте се придружили и угостили јавно видљиве игре и разговарали с другим играчима."
 
 #: gui/pregame/MainMenuItems.js:175
 msgid "Launch the multiplayer lobby. \\[DISABLED BY BUILD]"
@@ -5074,7 +5074,7 @@ msgstr "(*) Јесте ли сигурни да желите напустити 
 msgid ""
 "The scenario editor is not available or failed to load. See the game logs "
 "for additional information."
-msgstr ""
+msgstr "(*) Уређивач сценарија није доступан или се није учитао. За додатне информације погледајте записе игара."
 
 #: gui/pregame/MainMenuItems.js:257 gui/replaymenu/replay_actions.js:126
 msgid "Error"
@@ -5112,7 +5112,7 @@ msgstr ""
 msgid ""
 "Notice: This game is under development and many features have not been added"
 " yet."
-msgstr ""
+msgstr "(*) Напомена: Ова игра је у развоју и многе функције још нису додате."
 
 #: gui/pregame/ProjectInformation.js:25
 msgid "Website"
@@ -5238,7 +5238,7 @@ msgstr "Помози да се 0 A.D. унапреди!"
 msgid ""
 "You can automatically send us feedback that can help us fix bugs, and "
 "improve performance and compatibility."
-msgstr ""
+msgstr "(*) Можете нам аутоматски послати повратне информације које нам могу помоћи да поправимо грешке, побољшамо перформансе и компатибилност."
 
 #: gui/reference/catafalque/CatafalquePage.js:41
 #, javascript-format
@@ -5256,7 +5256,7 @@ msgstr "(*) Катафални бонуси"
 msgid ""
 "\n"
 "     %(description)s"
-msgstr ""
+msgstr "(*) \n      %(description)s "
 
 #. Translation: An entry in the CivInfo Page. The newline and indentation of
 #. the description
@@ -5535,7 +5535,7 @@ msgstr "Неоцењене игре"
 #: gui/replaymenu/replay_menu.js:196
 msgid ""
 "Filter replays by typing one or more, partial or complete player names."
-msgstr ""
+msgstr "(*) Филтрирајте понављања тако што ћете откуцати једно или више, делимичних или потпуних имена играча."
 
 #: gui/replaymenu/replay_menu.js:200
 #, javascript-format
@@ -5615,7 +5615,7 @@ msgstr "(*) Обновите кеш за репродукцију од поче�
 #: gui/splashscreen/splashscreen.txt:2
 msgid ""
 "[font=\"sans-bold-20\"]  Thank you for installing 0 A.D. Empires Ascendant!"
-msgstr ""
+msgstr "(*) [font=\"sans-bold-20\"]Хвала вам што сте инсталирали 0 А. Емпирес Асцендант!"
 
 #: gui/splashscreen/splashscreen.txt:3
 msgid "[font=\"sans-16\"]"
@@ -5625,25 +5625,25 @@ msgstr "(*) _ЛАЛАЛА_"
 msgid ""
 "[imgleft=\"constructionIcon\"]This game is still in development. You may "
 "encounter bugs, and some features are not as fleshed out as we would like."
-msgstr ""
+msgstr "(*) [имглефт u003d \ "цонструцтионИцон \"] Ова игра је још у развоју. Можда ћете наићи на грешке, а неке функције нису исцрпне колико бисмо желели."
 
 #: gui/splashscreen/splashscreen.txt:6
 msgid ""
 "[imgleft=\"iconLag\"]The game can have performance problems, especially with"
 " large maps and a great number of units."
-msgstr ""
+msgstr "(*) [имглефт u003d \ "ицонЛаг \"] Игра може имати проблема са перформансама, посебно са великим мапама и великим бројем јединица."
 
 #: gui/splashscreen/splashscreen.txt:8
 msgid ""
 "[imgleft=\"iconMap\"]0 A.D. is Free Software: you can participate in its "
 "development."
-msgstr ""
+msgstr "(*) [имглефт u003d \ "ицонМап \"] 0 А.Д. је бесплатан софтвер: можете учествовати у његовом развоју."
 
 #: gui/splashscreen/splashscreen.txt:9
 msgid ""
 "If you want to help with art, sound, gameplay or programming, make sure to "
 "join our official forum."
-msgstr ""
+msgstr "(*) Ако желите да помогнете у уметности, звуку, игрању игара или програмирању, придружите се нашем званичном форуму."
 
 #: gui/splashscreen/splashscreen.xml:(caption):14
 msgid "Welcome!"
@@ -5728,7 +5728,7 @@ msgstr "Чуда"
 msgid ""
 "Structure Statistics (%(constructed)s / %(destroyed)s / %(captured)s / "
 "%(lost)s)"
-msgstr ""
+msgstr "(*) Статистика структуре ( %(constructed)s  /  %(destroyed)s  /  %(captured)s  /  %(lost)s )"
 
 #: gui/summary/layout.js:69
 msgid "Units"
@@ -5862,7 +5862,7 @@ msgstr "(*) Мито"
 msgid ""
 "Bribes\n"
 "(%(succeeded)s / %(failed)s)"
-msgstr ""
+msgstr "(*) Мито\n( %(succeeded)s  /  %(failed)s )"
 
 #: gui/summary/layout.js:231
 msgid "Charts"
@@ -6068,7 +6068,7 @@ msgstr "РИМСКИ ВОЈНИ ЛОГОР"
 msgid ""
 "Buildable in neutral or enemy territory. Good for building a secret base "
 "behind enemy lines or to consolidate gains within enemy territory."
-msgstr ""
+msgstr "(*) Може се градити на неутралној или непријатељској територији. Добро за изградњу тајне базе иза непријатељских линија или за учвршћивање добити унутар непријатељске територије."
 
 #: gui/text/tips/army_camp.txt:3
 msgid "Construct rams and train citizen soldiers."
@@ -6078,7 +6078,7 @@ msgstr "(*) Конструишите овнове и обучите грађан
 msgid ""
 "Garrison units to slowly heal them and protect the army camp from attacks "
 "and decay."
-msgstr ""
+msgstr "(*) Гарнизонске јединице да их полако лече и штите војни логор од напада и пропадања."
 
 #: gui/text/tips/autoqueue.txt:1
 msgid "AUTOQUEUE"
@@ -6100,7 +6100,7 @@ msgstr "КАСАРНА"
 msgid ""
 "Train all citizen soldiers. Some civilizations can unlock the training of "
 "champions as well."
-msgstr ""
+msgstr "(*) Обучите све грађане војнике. Неке цивилизације могу откључати и обуку шампиона."
 
 #: gui/text/tips/barracks.txt:3 gui/text/tips/elephant_stable.txt:3
 msgid "Units gain experience while garrisoned inside the building."
@@ -6110,7 +6110,7 @@ msgstr "(*) Јединице стичу искуство док су у згра
 msgid ""
 "Build one early to train citizen soldiers while you phase up your "
 "settlement."
-msgstr ""
+msgstr "(*) Изградите један рано за обуку војника грађана док постепено повећавате своје насеље."
 
 #: gui/text/tips/barracks.txt:5
 msgid "Build in a forward base to resupply your assault with fresh troops."
@@ -6124,13 +6124,13 @@ msgstr "(*) БИОМЕС"
 msgid ""
 "Biomes can be used on some random maps and determine which region of the "
 "world the map represents."
-msgstr ""
+msgstr "(*) Биоми се могу користити на неким насумичним картама и одредити који део света карта представља."
 
 #: gui/text/tips/biomes.txt:3
 msgid ""
 "They influence the appearence of the maps and also the amount of resources "
 "that are available."
-msgstr ""
+msgstr "(*) Они утичу на изглед мапа, као и на количину ресурса који су на располагању."
 
 #: gui/text/tips/briton_war_dog.txt:1
 msgid "WAR DOG"
@@ -6160,13 +6160,13 @@ msgstr "(*) Шампионски копљаници и шампионски ко
 msgid ""
 "Both are trainable from the Temple, instead of the Fortress like most other "
 "champions."
-msgstr ""
+msgstr "(*) Обоје се може обучавати из Храма, уместо из Тврђаве као и већина других шампиона."
 
 #: gui/text/tips/carth_sacred_band.txt:4
 msgid ""
 "Use the Spearmen as heavy infantry against cavalry. Use the Cavalry as heavy"
 " shock against siege weapons and skirmishers."
-msgstr ""
+msgstr "(*) Користите Копљанике као тешку пешадију против коњице. Употријебите Коњицу као тежак шок против опсадног оружја и окршаја."
 
 #: gui/text/tips/carth_shipyard.txt:1
 msgid "CARTHAGINIAN NAVAL SHIPYARD"
@@ -6200,7 +6200,7 @@ msgstr "(*) Скупо и споро."
 msgid ""
 "Pack up into carts for movement, and unpack into stationary engines for "
 "attack!"
-msgstr ""
+msgstr "(*) Спакујте се у колица за кретање и распакујте у стационарне моторе за напад!"
 
 #: gui/text/tips/cavalry_stable.txt:1
 msgid "CAVALRY STABLE"
@@ -6209,7 +6209,7 @@ msgstr "(*) КОЊАЧКА СТАБИЛНА"
 #: gui/text/tips/cavalry_stable.txt:2
 msgid ""
 "Trains cavalry units and lets you research cavalry specific technologies."
-msgstr ""
+msgstr "(*) Обучава коњичке јединице и омогућава вам истраживање специфичних технологија коњице."
 
 #: gui/text/tips/cavalry_stable.txt:3
 msgid "Units gain experience while garrisoned inside the structure."
@@ -6247,7 +6247,7 @@ msgstr "(*) Чврсти камени зидови који вам помажу 
 msgid ""
 "When your ranged infantry units are occupying the turrets, they have "
 "additional armor and can shoot at the enemy. "
-msgstr ""
+msgstr "(*) Када ваше пешадијске јединице са дометом заузму куполе, оне имају додатни оклоп и могу пуцати у непријатеља."
 
 #: gui/text/tips/city_walls.txt:4
 msgid "Vulnerable to siege weapons like catapults, rams and war elephants."
@@ -6273,7 +6273,7 @@ msgstr "(*) Може се градити на пријатељској и неу
 msgid ""
 "Train citizens: female citizens, infantry citizen-soldiers, and cavalry "
 "citizen-soldiers."
-msgstr ""
+msgstr "(*) Обучите грађане: грађанке, пешадијске грађане-војнике и коњске грађане-војнике."
 
 #: gui/text/tips/default_formation.txt:1
 msgid "DEFAULT FORMATION"
@@ -6283,7 +6283,7 @@ msgstr "(*) ЗАДАНО ФОРМИРАЊЕ"
 msgid ""
 "Right-click an icon to set the default formation: units that are ordered to "
 "walk or patrol will automatically use it."
-msgstr ""
+msgstr "(*) Кликните десним тастером миша на икону да бисте поставили подразумевану формацију: јединице којима је наређено да ходају или патролирају аутоматски ће је користити."
 
 #: gui/text/tips/default_formation.txt:3
 msgid "Can be de-activated by choosing “no formation” as the default."
@@ -6293,7 +6293,7 @@ msgstr "(*) Може се деактивирати одабиром "без фо
 msgid ""
 "The “Formation control” option lets you choose whether formations disband "
 "for orders other than walking or patrolling."
-msgstr ""
+msgstr "(*) Опција „Контрола формације“ омогућава вам да изаберете да ли ће се формације распустити за наредбе осим ходања или патролирања."
 
 #: gui/text/tips/defense_towers.txt:1
 msgid "DEFENSE TOWERS"
@@ -6306,13 +6306,13 @@ msgstr "(*) Јаке карауле, које вам помажу да одбр�
 #: gui/text/tips/defense_towers.txt:3
 msgid ""
 "They have a large vision range and will shoot arrows at the enemy in sight. "
-msgstr ""
+msgstr "(*) Имају велики домет видљивости и пуцаће на непријатеља на видику."
 
 #: gui/text/tips/defense_towers.txt:4
 msgid ""
 "You can garrison more infantry inside them to increase the number of arrows "
 "they shoot."
-msgstr ""
+msgstr "(*) Унутар њих можете поставити још пешадије како бисте повећали број стрела које испаљују."
 
 #: gui/text/tips/elephant_stable.txt:1
 msgid "ELEPHANT STABLE"
@@ -6321,7 +6321,7 @@ msgstr "(*) СЛОН СТАБИЛАН"
 #: gui/text/tips/elephant_stable.txt:2
 msgid ""
 "The structure is available to some civilizations to train elephant units."
-msgstr ""
+msgstr "(*) Структура је доступна неким цивилизацијама за обуку јединица слонова."
 
 #: gui/text/tips/embassies.txt:1
 msgid "EMBASSIES AND MERCENARY CAMPS"
@@ -6335,7 +6335,7 @@ msgstr "(*) Посебне структуре које вам омогућава
 msgid ""
 "Mercenaries will not gather resources and cost only metal, but they are "
 "experienced and strong."
-msgstr ""
+msgstr "(*) Плаћеници неће прикупљати ресурсе и коштати само метал, али су искусни и снажни."
 
 #: gui/text/tips/fishing.txt:1
 msgid "FISHING"
@@ -6376,7 +6376,7 @@ msgstr "(*) ФОРМАЦИЈЕ"
 #: gui/text/tips/formations.txt:2
 msgid ""
 "Arrange your soldiers in formations to keep them organized during battles."
-msgstr ""
+msgstr "(*) Распоредите своје војнике у формације како би били организовани током битака."
 
 #: gui/text/tips/fortress.txt:1
 msgid "FORTRESS"
@@ -6386,7 +6386,7 @@ msgstr "ТВРЂАВА"
 msgid ""
 "Usually the strongest structure of a civilization and the place where you "
 "can train Heroes."
-msgstr ""
+msgstr "(*) Обично најјача структура цивилизације и место где можете обучавати хероје."
 
 #: gui/text/tips/fortress.txt:3
 msgid "Garrison soldiers inside to add more firepower to its defense."
@@ -6399,13 +6399,13 @@ msgstr "(*) СЛОБОДНИ ПОЛОЖАЈ"
 #: gui/text/tips/freehand_position.txt:2
 msgid ""
 "Gain an advantage on the battleground by tactically positioning your units!"
-msgstr ""
+msgstr "(*) Стекните предност на бојном пољу тактичким постављањем својих јединица!"
 
 #: gui/text/tips/freehand_position.txt:3
 msgid ""
 "Therefore select some units, press and hold the right mouse button, draw any"
 " line, then release the button."
-msgstr ""
+msgstr "(*) Зато изаберите неке јединице, притисните и држите десни тастер миша, исцртајте било коју линију, а затим отпустите дугме."
 
 #: gui/text/tips/freehand_position.txt:4
 msgid "Your units will now spread out on this line."
@@ -6435,7 +6435,7 @@ msgstr "(*) Коњички грађани-војници брже скупљај
 msgid ""
 "The higher the level of a citizen-soldier (advanced, elite), the better he "
 "fights, but the less efficient he is at gathering resources."
-msgstr ""
+msgstr "(*) Што је виши ниво грађанина-војника (напреднији, елитни), он се боље бори, али је мање ефикасан у прикупљању ресурса."
 
 #: gui/text/tips/heroes.txt:1
 msgid "HEROES"
@@ -6445,7 +6445,7 @@ msgstr "(*) ХЕРОЈИ"
 msgid ""
 "Historical characters, such as Xerxes, Leonidas, Pericles, Hannibal, Scipio,"
 " and Boudicca."
-msgstr ""
+msgstr "(*) Историјски ликови, попут Ксеркса, Леониде, Перикла, Ханибала, Сципиона и Боудике."
 
 #: gui/text/tips/heroes.txt:3
 msgid "A lot of health and very strong attacks."
@@ -6467,7 +6467,7 @@ msgstr "(*) ИБЕРИЈСКО ВАТРОГАСИЉЕ"
 msgid ""
 "The special Iberian fireship is very effective against other ships and "
 "buildings, but steadily loses health."
-msgstr ""
+msgstr "(*) Специјална иберијска ватра је врло ефикасна против других бродова и зграда, али стално губи здравље."
 
 #: gui/text/tips/lighthouse.txt:1
 msgid "LIGHTHOUSE"
@@ -6477,7 +6477,7 @@ msgstr "(*) ЛИГХТХОУСЕ"
 msgid ""
 "Special Ptolemaic structures to increase your vision range when built on the"
 " shore."
-msgstr ""
+msgstr "(*) Посебне птолемејске структуре за повећање видног поља при изградњи на обали."
 
 #: gui/text/tips/map_flare.txt:1
 msgid "MAP FLARE"
@@ -6487,7 +6487,7 @@ msgstr "(*) МАП ФЛАРЕ"
 msgid ""
 "Use this feature to let your team know where on the map something important "
 "happens."
-msgstr ""
+msgstr "(*) Користите ову функцију да обавестите свој тим где се на мапи дешава нешто важно."
 
 #: gui/text/tips/map_flare.txt:3
 msgid "They will see the flare on their minimap."
@@ -6504,13 +6504,13 @@ msgstr "(*) За Кушите су доступне посебне структ�
 #: gui/text/tips/meroe_pyramids.txt:3
 msgid ""
 "The small pyramids improve the gathering rate of the workers around them."
-msgstr ""
+msgstr "(*) Мале пирамиде побољшавају стопу окупљања радника око њих."
 
 #: gui/text/tips/meroe_pyramids.txt:4
 msgid ""
 "The large pyramids increase the military capabilities of soldiers around "
 "them."
-msgstr ""
+msgstr "(*) Велике пирамиде повећавају војне способности војника око њих."
 
 #: gui/text/tips/outposts.txt:1
 msgid "OUTPOSTS"
@@ -6528,7 +6528,7 @@ msgstr "(*) Јефтино и брзо изграђено, али слабо."
 msgid ""
 "Garrison infantry for extensive vision, and to prevent losing control of the"
 " outpost due to territory decay."
-msgstr ""
+msgstr "(*) Гарнизонска пешадија за опсежну визију и спречавање губитка контроле над испоставом због пропадања територије."
 
 #: gui/text/tips/palisades.txt:1
 msgid "PALISADE WALLS"
@@ -6562,7 +6562,7 @@ msgstr "(*) Време градње је продужено за +20%."
 msgid ""
 "Persians also have access to a great number of structural and defensive "
 "technologies."
-msgstr ""
+msgstr "(*) Персијанци такође имају приступ великом броју структурних и одбрамбених технологија."
 
 #: gui/text/tips/pikemen.txt:1
 msgid "PIKEMEN"
@@ -6575,7 +6575,7 @@ msgstr "(*) Тешко оклопљен и спор. Низак напад."
 #: gui/text/tips/pikemen.txt:3
 msgid ""
 "Used against cavalry or against other melee infantry to pin them in place."
-msgstr ""
+msgstr "(*) Користи се против коњице или против друге пешадије у блиској борби за њихово причвршћивање."
 
 #: gui/text/tips/pikemen.txt:4
 msgid "Available to: Kushites, Macedonians, Ptolemies, and Seleucids."
@@ -6589,7 +6589,7 @@ msgstr "(*) КУИНКУЕРЕМЕ"
 msgid ""
 "The heaviest standard warship. Available to: Carthaginians, Ptolemies, "
 "Romans, and Seleucids."
-msgstr ""
+msgstr "(*) Најтежи стандардни ратни брод. Доступно: Картагињанима, Птоломејима, Римљанима и Селеукидима."
 
 #: gui/text/tips/quinquereme.txt:3
 msgid "Transports up to 50 units."
@@ -6607,13 +6607,13 @@ msgstr "(*) БРОЈИЛО РЕСУРСА"
 msgid ""
 "The resource counter panel shows you how much of each resources you have at "
 "the moment."
-msgstr ""
+msgstr "(*) Табла бројача ресурса приказује вам колико сваког ресурса тренутно имате."
 
 #: gui/text/tips/resource_counter.txt:3
 msgid ""
 "The number below it shows you how many citizens are currently gathering "
 "them."
-msgstr ""
+msgstr "(*) Број испод њега показује колико их грађана тренутно окупља."
 
 #: gui/text/tips/savanna_biome.txt:1
 msgid "SAVANNA BIOME"
@@ -6643,7 +6643,7 @@ msgstr "(*) СНАППИНГ"
 msgid ""
 "Structures can be aligned by keeping the snap hotkey pressed during "
 "placement."
-msgstr ""
+msgstr "(*) Структуре се могу поравнати држањем притиснуте пречице за снап током постављања."
 
 #: gui/text/tips/snapping.txt:3
 msgid "Aligning structures allows to conserve space for future construction."
@@ -6653,7 +6653,7 @@ msgstr "(*) Поравнавање конструкција омогућава �
 msgid ""
 "Tightly packed groups of structures can also be used for obstructing raiding"
 " enemies."
-msgstr ""
+msgstr "(*) Чврсто набијене групе структура могу се такође користити за ометање напада непријатеља."
 
 #: gui/text/tips/spartan_hoplites.txt:1
 msgid "SPARTIATES"
@@ -6671,7 +6671,7 @@ msgstr "(*) Пешадија шампион на располагању Спар
 msgid ""
 "Use them to slaughter enemy cavalry or as a shock force to support your "
 "regular infantry."
-msgstr ""
+msgstr "(*) Користите их за клање непријатељске коњице или као ударну снагу за подршку вашој редовној пешадији."
 
 #: gui/text/tips/spearmen.txt:1
 msgid "SPEARMEN"
@@ -6693,7 +6693,7 @@ msgstr "(*) Пристојни хакерски напад чини их доб�
 msgid ""
 "They are countered by ranged units and swordsmen, so support your spearmen "
 "with slingers or cavalry."
-msgstr ""
+msgstr "(*) Супротстављају им се дометнуте јединице и мачеваоци, па подржите своје копљанике праћкама или коњицом."
 
 #: gui/text/tips/storehouses.txt:1
 msgid "STOREHOUSES"
@@ -6707,7 +6707,7 @@ msgstr "(*) Јефтино место за слање непрехрамбени
 msgid ""
 "Research technologies to improve the gathering capabilities of your "
 "citizens."
-msgstr ""
+msgstr "(*) Истражите технологије за побољшање могућности окупљања ваших грађана."
 
 #: gui/text/tips/temples.txt:1
 msgid "TEMPLES"
@@ -6740,19 +6740,19 @@ msgstr "(*) ТЕРИТОРИЈСКИ ПРОМЕТ"
 #: gui/text/tips/territory_decay.txt:2
 msgid ""
 "Decay happens when structures are not connected to an allied Civil Center."
-msgstr ""
+msgstr "(*) Пропадање се дешава када структуре нису повезане са савезничким цивилним центром."
 
 #: gui/text/tips/territory_decay.txt:3
 msgid ""
 "The decay process can be slowed down or reversed by garrisoning some units "
 "in the structure."
-msgstr ""
+msgstr "(*) Процес распадања може се успорити или преокренути гарнизонирањем неких јединица у структури."
 
 #: gui/text/tips/territory_decay.txt:4
 msgid ""
 "When the decay is completed, the structure will be given to the most "
 "influential neighbor."
-msgstr ""
+msgstr "(*) Када се распад заврши, структура ће бити дата најутицајнијем суседу."
 
 #: gui/text/tips/theater.txt:1
 msgid "THEATER"
@@ -6762,7 +6762,7 @@ msgstr "(*) ПОЗОРИШТЕ"
 msgid ""
 "Special structures of the Hellenic civilizations to increase the size of "
 "your territory while you control it."
-msgstr ""
+msgstr "(*) Посебне структуре хеленских цивилизација које повећавају величину ваше територије док је контролишете."
 
 #: gui/text/tips/treasure.txt:1
 msgid "TREASURES"
@@ -6771,13 +6771,13 @@ msgstr "(*) РИЗНИЦЕ"
 #: gui/text/tips/treasure.txt:2
 msgid ""
 "Collectible chests and bare resources on land and shipwrecks on the shore."
-msgstr ""
+msgstr "(*) Колекционарски сандуци и голи ресурси на копну и олупине брода на обали."
 
 #: gui/text/tips/treasure.txt:3
 msgid ""
 "Provide you with a resource boost, so keep an eye out for them as you "
 "explore."
-msgstr ""
+msgstr "(*) Омогућите вам повећање ресурса, па их припазите док истражујете."
 
 #: gui/text/tips/triremes.txt:1
 msgid "TRIREME"
@@ -6811,7 +6811,7 @@ msgstr "(*) Висока цена хране и метала, али веома 
 msgid ""
 "Available to: Carthaginians, Kushites, Mauryas, Persians, Ptolemies, and "
 "Seleucids."
-msgstr ""
+msgstr "(*) Доступно: Картагињанима, Кушитима, Маурима, Персијанцима, Птоломејима и Селеукидима."
 
 #: gui/text/tips/whales.txt:1
 msgid "WHALES"

@@ -309,7 +309,7 @@ msgid ""
 "Build upon a shoreline in own, neutral, or allied territory. Acquire large "
 "tracts of territory. Territory root. Train Citizens, construct Ships, and "
 "research technologies. Garrison Soldiers for additional arrows."
-msgstr ""
+msgstr "(*) Градите на обали на сопственој, неутралној или савезничкој територији. Добијте велике територије. Територијални корен. Обучавати грађане, конструисати бродове и истраживати технологије. Гарнисон Солдиерс за додатне стреле."
 
 #: simulation/templates/structures/brit/defense_tower.xml:9
 #: simulation/templates/structures/brit/sentry_tower.xml:5
@@ -525,7 +525,7 @@ msgid ""
 "Build upon a shoreline in own, neutral, or allied territory. Acquire large "
 "tracts of territory. Territory root. Construct Warships and research "
 "technologies."
-msgstr ""
+msgstr "(*) Градите на обали на сопственој, неутралној или савезничкој територији. Добијте велике територије. Територијални корен. Конструисати ратне бродове и истраживачке технологије."
 
 #: simulation/templates/structures/cart/super_dock.xml:43
 msgid "Shipyard"
@@ -887,7 +887,7 @@ msgstr "(*) Пр-Е¿Ипрмк"
 #: simulation/templates/structures/kush/temple.xml:10
 msgid ""
 "Train Healers and Apedemak Champions and research healing technologies."
-msgstr ""
+msgstr "(*) Обучите исцелитеље и шампионе Апедемака и истражите технологије лечења."
 
 #: simulation/templates/structures/kush/temple.xml:11
 msgid "TempleOfApedemak"
@@ -1037,7 +1037,7 @@ msgid ""
 "Higher health tower with ramparts for up to 16 archers. Visibly garrisoned "
 "archers recieve a range and armor bonus. Only archers can garrison. Needs "
 "the murder holes tech to protect its foot."
-msgstr ""
+msgstr "(*) Виши здравствени торањ са бедемима за до 16 стрелаца. Видљиво заробљени стрелци добијају бонус за домет и оружарство. Гарнизовати могу само стреличари. Потребна је технологија рупа за убиства како би заштитио своје стопало."
 
 #: simulation/templates/structures/maur/wall_gate.xml:15
 msgid "Dwara"
@@ -1266,7 +1266,7 @@ msgstr "(*) Пхарос"
 msgid ""
 "Build upon a shoreline in own, neutral, or allied territory. Very large "
 "vision range."
-msgstr ""
+msgstr "(*) Градите на обали на сопственој, неутралној или савезничкој територији. Врло велики домет вида."
 
 #: simulation/templates/structures/ptol/mercenary_camp.xml:27
 msgid "Mercenary Camp"
@@ -1276,7 +1276,7 @@ msgstr "Камп Плаћеника"
 msgid ""
 "Cheap Barracks-like structure that is buildable in neutral territory, but "
 "casts no territory influence. Train Mercenaries."
-msgstr ""
+msgstr "(*) Јефтина касарна структура која се може градити на неутралној територији, али не оставља никакав утицај на територију. Обучите плаћенике."
 
 #: simulation/templates/structures/ptol/military_colony.xml:9
 #: simulation/templates/structures/sele/military_colony.xml:9
@@ -1319,7 +1319,7 @@ msgstr "(*) Цастра"
 msgid ""
 "Build in neutral or enemy territory. Train Advanced Melee Infantry. "
 "Construct Rams. Garrison Soldiers for additional arrows."
-msgstr ""
+msgstr "(*) Градите на неутралној или непријатељској територији. Обучите напредну пешадију у блиској борби. Конструишите овнове. Гарнисон Солдиерс за додатне стреле."
 
 #: simulation/templates/structures/rome/army_camp.xml:37
 #: simulation/templates/structures/rome/army_camp.xml:76
@@ -1642,7 +1642,7 @@ msgid ""
 "Build in own or neutral territory. Acquire large tracts of territory. "
 "Territory root. Train Citizens and research technologies. Garrison Soldiers "
 "for additional arrows."
-msgstr ""
+msgstr "(*) Градите на сопственој или неутралној територији. Добијте велике територије. Територијални корен. Обука грађана и истраживачке технологије. Гарнисон Солдиерс за додатне стреле."
 
 #: simulation/templates/template_structure_civic_civil_centre.xml:42
 #: simulation/templates/template_structure_civic_civil_centre.xml:79
@@ -1780,7 +1780,7 @@ msgstr "Кула стражара"
 msgid ""
 "Garrison Infantry for additional arrows. Needs the “Murder Holes” technology"
 " to protect its foot."
-msgstr ""
+msgstr "(*) Гарнизон пешадије за додатне стреле. Потребна је технологија "Мурдер Холес" за заштиту стопала."
 
 #: simulation/templates/template_structure_defensive_tower_sentry.xml:31
 msgid "SentryTower"
@@ -1854,7 +1854,7 @@ msgstr "Тржница"
 msgid ""
 "Barter resources. Establish trade routes. Train Traders and research trade "
 "and barter technologies."
-msgstr ""
+msgstr "(*) Бартер ресурси. Успоставите трговачке путеве. Трговци возовима и истраживање трговачке и бартер технологије."
 
 #: simulation/templates/template_structure_economic_market.xml:28
 #: simulation/templates/template_structure_military_dock.xml:27
@@ -1887,7 +1887,7 @@ msgstr "(*) Арсенал"
 msgid ""
 "Train Champion Infantry Crossbowmen, construct Siege Engines, and research "
 "Siege Engine technologies."
-msgstr ""
+msgstr "(*) Обучите шампионске пешачке самострелце, конструишите опсадне моторе и истражите технологије опсадних машина."
 
 #: simulation/templates/structures/gaul/assembly.xml:31
 #: simulation/templates/structures/kush/pyramid_large.xml:29
@@ -1919,7 +1919,7 @@ msgstr "Пристаниште"
 msgid ""
 "Build upon a shoreline in own, neutral, or allied territory. Establish trade"
 " routes. Construct Ships and research Ship technologies."
-msgstr ""
+msgstr "(*) Градите на обали на сопственој, неутралној или савезничкој територији. Успоставите трговачке путеве. Конструисати бродове и истраживати Бродске технологије."
 
 #: simulation/templates/structures/brit/crannog.xml:17
 #: simulation/templates/structures/cart/super_dock.xml:43
@@ -2010,7 +2010,7 @@ msgstr "Поље"
 #: simulation/templates/template_structure_resource_field.xml:21
 msgid ""
 "Harvest grain for food. Each subsequent gatherer works less efficiently."
-msgstr ""
+msgstr "(*) Жање жито за храну. Сваки следећи сакупљач ради мање ефикасно."
 
 #: simulation/templates/template_structure_special.xml:19
 msgid "Special Structure"

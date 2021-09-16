@@ -202,7 +202,7 @@ msgstr "Корисничко име већ постоји"
 msgid ""
 "Could not write external mod.json for zipped mod '%s'. The mod should be "
 "reinstalled."
-msgstr ""
+msgstr "(*) Није могуће написати спољни мод.јсон за зип мод '%s'. Мод треба поново инсталирати."
 
 #: ps/ModIo.cpp:263
 #, c-format

@@ -359,7 +359,7 @@ msgstr "(*) Почетни зидови"
 msgid ""
 "Stone Towers −50% wood cost, +150% stone cost, +33% build time, +60% health,"
 " +3 garrison capacity, and +1 default arrow count."
-msgstr ""
+msgstr "(*) Камене куле - 50% цене дрвета, +150% цене камена, +33% времена изградње, +60% здравља, +3 капацитета гарнизона и +1 подразумевани број стрела."
 
 #: simulation/data/civs/iber.jsonCivBonuses[1].Name
 msgid "Massive Towers"
@@ -817,7 +817,7 @@ msgid ""
 "The Romans commonly used the Testudo or 'turtle' formation for defense: "
 "Legionaries were formed into hollow squares with twelve men on each side, "
 "standing so close together that their shields overlapped like fish scales."
-msgstr ""
+msgstr "(*) Римљани су за одбрану обично користили формацију Тестудо или 'корњачу': легионари су формирани у шупље квадрате са по дванаест људи са сваке стране, који су стајали тако близу један до другог да су им се штитови преклапали попут рибљих крљушти."
 
 #: simulation/data/civs/rome.jsonCivBonuses[0].Name
 msgid "Testudo Formation"
@@ -966,7 +966,7 @@ msgstr "(*) Димитрија И Сотера"
 #: simulation/data/civs/sele.jsonHistory
 msgid ""
 "The Macedonian-Greek dynasty that ruled most of Alexander's former empire."
-msgstr ""
+msgstr "(*) Македонско-грчка династија која је владала већином Александровог бившег царства."
 
 #: simulation/data/civs/sele.jsonName
 msgid "Seleucids"

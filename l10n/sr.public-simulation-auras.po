@@ -125,7 +125,7 @@ msgstr "Хеленизација"
 #: simulation/data/auras/structures/wall_garrisoned.jsonauraDescription
 msgid ""
 "Turreted Soldiers +3 crush, hack, pierce resistance and +20 vision range."
-msgstr ""
+msgstr "(*) Војници са куполом +3 слом, хаковање, отпор пробијања и +20 домет видљивости."
 
 #: simulation/data/auras/structures/wall_garrisoned.jsonauraName
 msgid "Wall Protection"
@@ -209,7 +209,7 @@ msgstr "Стандардизована Валута"
 msgid ""
 "Temples −50% resource costs and building time; Temple technologies −50% "
 "resource costs and research time."
-msgstr ""
+msgstr "(*) Храмови - 50% трошкова ресурса и времена изградње; Технологије храмова - 50% трошкова ресурса и времена за истраживање."
 
 #: simulation/data/auras/teambonuses/maur_player_teambonus.jsonauraName
 msgid "Ashoka's Religious Support"
@@ -648,7 +648,7 @@ msgstr "Припрема за рат"
 msgid ""
 "When garrisoned, the Structure has +2 capture points garrison regeneration "
 "rate."
-msgstr ""
+msgstr "(*) Када је у гарнизону, структура има брзину регенерације гарнизона +2 тачке хватања."
 
 #: simulation/data/auras/units/heroes/hero_garrison.jsonauraName
 msgid "Inspired Defense"
